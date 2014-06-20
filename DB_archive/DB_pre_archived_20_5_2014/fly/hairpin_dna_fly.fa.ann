@@ -1,0 +1,481 @@
+22698 240 11
+0 dme-mir-1 MI0000116 Drosophila melanogaster miR-1 stem-loop
+0 91 0
+0 dme-mir-2a-1 MI0000117 Drosophila melanogaster miR-2a-1 stem-loop
+91 76 0
+0 dme-mir-2a-2 MI0000118 Drosophila melanogaster miR-2a-2 stem-loop
+167 72 0
+0 dme-mir-2b-1 MI0000119 Drosophila melanogaster miR-2b-1 stem-loop
+239 77 0
+0 dme-mir-2b-2 MI0000120 Drosophila melanogaster miR-2b-2 stem-loop
+316 83 0
+0 dme-mir-3 MI0000121 Drosophila melanogaster miR-3 stem-loop
+399 69 0
+0 dme-mir-4 MI0000122 Drosophila melanogaster miR-4 stem-loop
+468 81 0
+0 dme-mir-5 MI0000123 Drosophila melanogaster miR-5 stem-loop
+549 69 0
+0 dme-mir-6-1 MI0000124 Drosophila melanogaster miR-6-1 stem-loop
+618 82 0
+0 dme-mir-6-2 MI0000125 Drosophila melanogaster miR-6-2 stem-loop
+700 74 0
+0 dme-mir-6-3 MI0000126 Drosophila melanogaster miR-6-3 stem-loop
+774 80 0
+0 dme-mir-7 MI0000127 Drosophila melanogaster miR-7 stem-loop
+854 88 0
+0 dme-mir-8 MI0000128 Drosophila melanogaster miR-8 stem-loop
+942 87 0
+0 dme-mir-9a MI0000129 Drosophila melanogaster miR-9a stem-loop
+1029 78 0
+0 dme-mir-10 MI0000130 Drosophila melanogaster miR-10 stem-loop
+1107 77 0
+0 dme-mir-11 MI0000131 Drosophila melanogaster miR-11 stem-loop
+1184 75 0
+0 dme-mir-12 MI0000132 Drosophila melanogaster miR-12 stem-loop
+1259 74 0
+0 dme-mir-13a MI0000133 Drosophila melanogaster miR-13a stem-loop
+1333 75 0
+0 dme-mir-13b-1 MI0000134 Drosophila melanogaster miR-13b-1 stem-loop
+1408 68 0
+0 dme-mir-13b-2 MI0000135 Drosophila melanogaster miR-13b-2 stem-loop
+1476 70 0
+0 dme-mir-14 MI0000136 Drosophila melanogaster miR-14 stem-loop
+1546 63 0
+0 dme-mir-263a MI0000343 Drosophila melanogaster miR-263a stem-loop
+1609 94 0
+0 dme-mir-184 MI0000354 Drosophila melanogaster miR-184 stem-loop
+1703 100 0
+0 dme-mir-274 MI0000355 Drosophila melanogaster miR-274 stem-loop
+1803 100 0
+0 dme-mir-275 MI0000356 Drosophila melanogaster miR-275 stem-loop
+1903 98 0
+0 dme-mir-92a MI0000357 Drosophila melanogaster miR-92a stem-loop
+2001 95 0
+0 dme-mir-219 MI0000358 Drosophila melanogaster miR-219 stem-loop
+2096 100 0
+0 dme-mir-276a MI0000359 Drosophila melanogaster miR-276a stem-loop
+2196 98 0
+0 dme-mir-277 MI0000360 Drosophila melanogaster miR-277 stem-loop
+2294 100 0
+0 dme-mir-278 MI0000361 Drosophila melanogaster miR-278 stem-loop
+2394 98 0
+0 dme-mir-133 MI0000362 Drosophila melanogaster miR-133 stem-loop
+2492 98 0
+0 dme-mir-279 MI0000363 Drosophila melanogaster miR-279 stem-loop
+2590 100 0
+0 dme-mir-33 MI0000364 Drosophila melanogaster miR-33 stem-loop
+2690 99 0
+0 dme-mir-280 MI0000365 Drosophila melanogaster miR-280 stem-loop
+2789 95 0
+0 dme-mir-281-1 MI0000366 Drosophila melanogaster miR-281-1 stem-loop
+2884 90 0
+0 dme-mir-282 MI0000367 Drosophila melanogaster miR-282 stem-loop
+2974 97 0
+0 dme-mir-283 MI0000368 Drosophila melanogaster miR-283 stem-loop
+3071 100 0
+0 dme-mir-284 MI0000369 Drosophila melanogaster miR-284 stem-loop
+3171 100 0
+0 dme-mir-281-2 MI0000370 Drosophila melanogaster miR-281-2 stem-loop
+3271 92 0
+0 dme-mir-34 MI0000371 Drosophila melanogaster miR-34 stem-loop
+3363 99 0
+0 dme-mir-124 MI0000373 Drosophila melanogaster miR-124 stem-loop
+3462 100 0
+0 dme-mir-79 MI0000374 Drosophila melanogaster miR-79 stem-loop
+3562 97 0
+0 dme-mir-276b MI0000375 Drosophila melanogaster miR-276b stem-loop
+3659 99 0
+0 dme-mir-210 MI0000376 Drosophila melanogaster miR-210 stem-loop
+3758 100 0
+0 dme-mir-285 MI0000377 Drosophila melanogaster miR-285 stem-loop
+3858 99 0
+0 dme-mir-100 MI0000378 Drosophila melanogaster miR-100 stem-loop
+3957 100 0
+0 dme-mir-92b MI0000379 Drosophila melanogaster miR-92b stem-loop
+4057 100 0
+0 dme-mir-286 MI0000380 Drosophila melanogaster miR-286 stem-loop
+4157 100 0
+0 dme-mir-287 MI0000381 Drosophila melanogaster miR-287 stem-loop
+4257 93 0
+0 dme-mir-87 MI0000382 Drosophila melanogaster miR-87 stem-loop
+4350 99 0
+0 dme-mir-263b MI0000383 Drosophila melanogaster miR-263b stem-loop
+4449 90 0
+0 dme-mir-288 MI0000384 Drosophila melanogaster miR-288 stem-loop
+4539 97 0
+0 dme-mir-289 MI0000385 Drosophila melanogaster miR-289 stem-loop
+4636 99 0
+0 dme-bantam MI0000387 Drosophila melanogaster bantam stem-loop
+4735 81 0
+0 dme-mir-303 MI0000409 Drosophila melanogaster miR-303 stem-loop
+4816 70 0
+0 dme-mir-31b MI0000410 Drosophila melanogaster miR-31b stem-loop
+4886 127 0
+0 dme-mir-304 MI0000411 Drosophila melanogaster miR-304 stem-loop
+5013 88 0
+0 dme-mir-305 MI0000412 Drosophila melanogaster miR-305 stem-loop
+5101 73 0
+0 dme-mir-9c MI0000413 Drosophila melanogaster miR-9c stem-loop
+5174 92 0
+0 dme-mir-306 MI0000414 Drosophila melanogaster miR-306 stem-loop
+5266 85 0
+0 dme-mir-9b MI0000415 Drosophila melanogaster miR-9b stem-loop
+5351 91 0
+0 dme-let-7 MI0000416 Drosophila melanogaster let-7 stem-loop
+5442 78 0
+0 dme-mir-125 MI0000417 Drosophila melanogaster miR-125 stem-loop
+5520 110 0
+0 dme-mir-307a MI0000418 Drosophila melanogaster miR-307a stem-loop
+5630 88 0
+0 dme-mir-308 MI0000419 Drosophila melanogaster miR-308 stem-loop
+5718 63 0
+0 dme-mir-31a MI0000420 Drosophila melanogaster miR-31a stem-loop
+5781 92 0
+0 dme-mir-309 MI0000421 Drosophila melanogaster miR-309 stem-loop
+5873 69 0
+0 dme-mir-310 MI0000422 Drosophila melanogaster miR-310 stem-loop
+5942 89 0
+0 dme-mir-311 MI0000423 Drosophila melanogaster miR-311 stem-loop
+6031 84 0
+0 dme-mir-312 MI0000424 Drosophila melanogaster miR-312 stem-loop
+6115 66 0
+0 dme-mir-313 MI0000425 Drosophila melanogaster miR-313 stem-loop
+6181 71 0
+0 dme-mir-314 MI0000426 Drosophila melanogaster miR-314 stem-loop
+6252 90 0
+0 dme-mir-315 MI0000427 Drosophila melanogaster miR-315 stem-loop
+6342 84 0
+0 dme-mir-316 MI0000428 Drosophila melanogaster miR-316 stem-loop
+6426 89 0
+0 dme-mir-317 MI0000429 Drosophila melanogaster miR-317 stem-loop
+6515 92 0
+0 dme-mir-318 MI0000430 Drosophila melanogaster miR-318 stem-loop
+6607 68 0
+0 dme-mir-2c MI0000431 Drosophila melanogaster miR-2c stem-loop
+6675 102 0
+0 dme-mir-iab-4 MI0000432 Drosophila melanogaster miR-iab-4 stem-loop
+6777 68 0
+0 dme-mir-iab-8 MI0005805 Drosophila melanogaster miR-iab-8 stem-loop
+6845 68 0
+0 dme-mir-954 MI0005806 Drosophila melanogaster miR-954 stem-loop
+6913 87 0
+0 dme-mir-955 MI0005807 Drosophila melanogaster miR-955 stem-loop
+7000 97 0
+0 dme-mir-190 MI0005808 Drosophila melanogaster miR-190 stem-loop
+7097 100 0
+0 dme-mir-193 MI0005809 Drosophila melanogaster miR-193 stem-loop
+7197 108 0
+0 dme-mir-956 MI0005810 Drosophila melanogaster miR-956 stem-loop
+7305 148 0
+0 dme-mir-957 MI0005811 Drosophila melanogaster miR-957 stem-loop
+7453 96 0
+0 dme-mir-958 MI0005812 Drosophila melanogaster miR-958 stem-loop
+7549 92 0
+0 dme-mir-375 MI0005813 Drosophila melanogaster miR-375 stem-loop
+7641 91 0
+0 dme-mir-959 MI0005814 Drosophila melanogaster miR-959 stem-loop
+7732 98 0
+0 dme-mir-960 MI0005815 Drosophila melanogaster miR-960 stem-loop
+7830 93 0
+0 dme-mir-961 MI0005816 Drosophila melanogaster miR-961 stem-loop
+7923 89 0
+0 dme-mir-962 MI0005817 Drosophila melanogaster miR-962 stem-loop
+8012 92 0
+0 dme-mir-963 MI0005818 Drosophila melanogaster miR-963 stem-loop
+8104 89 0
+0 dme-mir-964 MI0005819 Drosophila melanogaster miR-964 stem-loop
+8193 100 0
+0 dme-mir-932 MI0005820 Drosophila melanogaster miR-932 stem-loop
+8293 91 0
+0 dme-mir-965 MI0005821 Drosophila melanogaster miR-965 stem-loop
+8384 107 0
+0 dme-mir-966 MI0005822 Drosophila melanogaster miR-966 stem-loop
+8491 87 0
+0 dme-mir-967 MI0005823 Drosophila melanogaster miR-967 stem-loop
+8578 97 0
+0 dme-mir-1002 MI0005824 Drosophila melanogaster miR-1002 stem-loop
+8675 89 0
+0 dme-mir-968 MI0005825 Drosophila melanogaster miR-968 stem-loop
+8764 92 0
+0 dme-mir-969 MI0005826 Drosophila melanogaster miR-969 stem-loop
+8856 94 0
+0 dme-mir-970 MI0005827 Drosophila melanogaster miR-970 stem-loop
+8950 95 0
+0 dme-mir-971 MI0005828 Drosophila melanogaster miR-971 stem-loop
+9045 96 0
+0 dme-mir-972 MI0005829 Drosophila melanogaster miR-972 stem-loop
+9141 91 0
+0 dme-mir-973 MI0005830 Drosophila melanogaster miR-973 stem-loop
+9232 101 0
+0 dme-mir-974 MI0005831 Drosophila melanogaster miR-974 stem-loop
+9333 101 0
+0 dme-mir-975 MI0005832 Drosophila melanogaster miR-975 stem-loop
+9434 91 0
+0 dme-mir-976 MI0005833 Drosophila melanogaster miR-976 stem-loop
+9525 97 0
+0 dme-mir-977 MI0005834 Drosophila melanogaster miR-977 stem-loop
+9622 99 0
+0 dme-mir-978 MI0005835 Drosophila melanogaster miR-978 stem-loop
+9721 92 0
+0 dme-mir-979 MI0005836 Drosophila melanogaster miR-979 stem-loop
+9813 95 0
+0 dme-mir-980 MI0005837 Drosophila melanogaster miR-980 stem-loop
+9908 98 0
+0 dme-mir-981 MI0005838 Drosophila melanogaster miR-981 stem-loop
+10006 97 0
+0 dme-mir-982 MI0005839 Drosophila melanogaster miR-982 stem-loop
+10103 93 0
+0 dme-mir-983-1 MI0005840 Drosophila melanogaster miR-983-1 stem-loop
+10196 91 0
+0 dme-mir-983-2 MI0005841 Drosophila melanogaster miR-983-2 stem-loop
+10287 99 0
+0 dme-mir-984 MI0005842 Drosophila melanogaster miR-984 stem-loop
+10386 90 0
+0 dme-mir-927 MI0005843 Drosophila melanogaster miR-927 stem-loop
+10476 92 0
+0 dme-mir-985 MI0005844 Drosophila melanogaster miR-985 stem-loop
+10568 86 0
+0 dme-mir-986 MI0005845 Drosophila melanogaster miR-986 stem-loop
+10654 100 0
+0 dme-mir-987 MI0005846 Drosophila melanogaster miR-987 stem-loop
+10754 94 0
+0 dme-mir-988 MI0005847 Drosophila melanogaster miR-988 stem-loop
+10848 99 0
+0 dme-mir-989 MI0005848 Drosophila melanogaster miR-989 stem-loop
+10947 174 0
+0 dme-mir-137 MI0005849 Drosophila melanogaster miR-137 stem-loop
+11121 91 0
+0 dme-mir-990 MI0005850 Drosophila melanogaster miR-990 stem-loop
+11212 86 0
+0 dme-mir-991 MI0005851 Drosophila melanogaster miR-991 stem-loop
+11298 96 0
+0 dme-mir-992 MI0005852 Drosophila melanogaster miR-992 stem-loop
+11394 92 0
+0 dme-mir-929 MI0005853 Drosophila melanogaster miR-929 stem-loop
+11486 88 0
+0 dme-mir-993 MI0005854 Drosophila melanogaster miR-993 stem-loop
+11574 119 0
+0 dme-mir-994 MI0005855 Drosophila melanogaster miR-994 stem-loop
+11693 91 0
+0 dme-mir-995 MI0005856 Drosophila melanogaster miR-995 stem-loop
+11784 90 0
+0 dme-mir-996 MI0005857 Drosophila melanogaster miR-996 stem-loop
+11874 97 0
+0 dme-mir-252 MI0005858 Drosophila melanogaster miR-252 stem-loop
+11971 93 0
+0 dme-mir-997 MI0005859 Drosophila melanogaster miR-997 stem-loop
+12064 215 0
+0 dme-mir-998 MI0005860 Drosophila melanogaster miR-998 stem-loop
+12279 143 0
+0 dme-mir-999 MI0005861 Drosophila melanogaster miR-999 stem-loop
+12422 105 0
+0 dme-mir-1000 MI0005862 Drosophila melanogaster miR-1000 stem-loop
+12527 100 0
+0 dme-mir-1001 MI0005863 Drosophila melanogaster miR-1001 stem-loop
+12627 90 0
+0 dme-mir-1003 MI0005864 Drosophila melanogaster miR-1003 stem-loop
+12717 56 0
+0 dme-mir-1004 MI0005865 Drosophila melanogaster miR-1004 stem-loop
+12773 68 0
+0 dme-mir-1005 MI0005866 Drosophila melanogaster miR-1005 stem-loop
+12841 61 0
+0 dme-mir-1006 MI0005867 Drosophila melanogaster miR-1006 stem-loop
+12902 64 0
+0 dme-mir-1007 MI0005868 Drosophila melanogaster miR-1007 stem-loop
+12966 65 0
+0 dme-mir-1008 MI0005869 Drosophila melanogaster miR-1008 stem-loop
+13031 57 0
+0 dme-mir-1009 MI0005870 Drosophila melanogaster miR-1009 stem-loop
+13088 61 0
+0 dme-mir-1010 MI0005871 Drosophila melanogaster miR-1010 stem-loop
+13149 71 0
+0 dme-mir-1011 MI0005872 Drosophila melanogaster miR-1011 stem-loop
+13220 54 0
+0 dme-mir-1012 MI0005873 Drosophila melanogaster miR-1012 stem-loop
+13274 59 0
+0 dme-mir-1013 MI0005874 Drosophila melanogaster miR-1013 stem-loop
+13333 61 0
+0 dme-mir-1014 MI0005875 Drosophila melanogaster miR-1014 stem-loop
+13394 68 0
+0 dme-mir-1015 MI0005876 Drosophila melanogaster miR-1015 stem-loop
+13462 64 0
+0 dme-mir-1016 MI0005877 Drosophila melanogaster miR-1016 stem-loop
+13526 58 0
+0 dme-mir-1017 MI0005878 Drosophila melanogaster miR-1017 stem-loop
+13584 71 0
+0 dme-mir-2279 MI0011289 Drosophila melanogaster miR-2279 stem-loop
+13655 113 0
+0 dme-mir-2280 MI0011290 Drosophila melanogaster miR-2280 stem-loop
+13768 115 0
+0 dme-mir-2281 MI0011291 Drosophila melanogaster miR-2281 stem-loop
+13883 103 0
+0 dme-mir-2282 MI0011292 Drosophila melanogaster miR-2282 stem-loop
+13986 107 0
+0 dme-mir-2283 MI0011293 Drosophila melanogaster miR-2283 stem-loop
+14093 76 0
+0 dme-mir-307b MI0011577 Drosophila melanogaster miR-307b stem-loop
+14169 120 0
+0 dme-mir-2489 MI0011578 Drosophila melanogaster miR-2489 stem-loop
+14289 95 0
+0 dme-mir-2490 MI0011579 Drosophila melanogaster miR-2490 stem-loop
+14384 75 0
+0 dme-mir-2491 MI0011580 Drosophila melanogaster miR-2491 stem-loop
+14459 144 0
+0 dme-mir-2492 MI0011581 Drosophila melanogaster miR-2492 stem-loop
+14603 76 0
+0 dme-mir-2493 MI0011582 Drosophila melanogaster miR-2493 stem-loop
+14679 106 0
+0 dme-mir-2494 MI0011583 Drosophila melanogaster miR-2494 stem-loop
+14785 117 0
+0 dme-mir-2495 MI0011584 Drosophila melanogaster miR-2495 stem-loop
+14902 115 0
+0 dme-mir-2496 MI0011585 Drosophila melanogaster miR-2496 stem-loop
+15017 118 0
+0 dme-mir-2497 MI0011586 Drosophila melanogaster miR-2497 stem-loop
+15135 96 0
+0 dme-mir-2498 MI0011587 Drosophila melanogaster miR-2498 stem-loop
+15231 112 0
+0 dme-mir-2499 MI0011588 Drosophila melanogaster miR-2499 stem-loop
+15343 96 0
+0 dme-mir-2500 MI0011589 Drosophila melanogaster miR-2500 stem-loop
+15439 68 0
+0 dme-mir-2501 MI0011590 Drosophila melanogaster miR-2501 stem-loop
+15507 71 0
+0 dme-mir-3641 MI0016041 Drosophila melanogaster miR-3641 stem-loop
+15578 69 0
+0 dme-mir-3642 MI0016042 Drosophila melanogaster miR-3642 stem-loop
+15647 76 0
+0 dme-mir-3643 MI0016043 Drosophila melanogaster miR-3643 stem-loop
+15723 68 0
+0 dme-mir-3644 MI0016044 Drosophila melanogaster miR-3644 stem-loop
+15791 61 0
+0 dme-mir-3645 MI0016045 Drosophila melanogaster miR-3645 stem-loop
+15852 137 0
+0 dme-mir-4910 MI0017692 Drosophila melanogaster miR-4910 stem-loop
+15989 66 0
+0 dme-mir-4911 MI0017693 Drosophila melanogaster miR-4911 stem-loop
+16055 68 0
+0 dme-mir-4912 MI0017694 Drosophila melanogaster miR-4912 stem-loop
+16123 60 0
+0 dme-mir-4913 MI0017695 Drosophila melanogaster miR-4913 stem-loop
+16183 58 0
+0 dme-mir-4914 MI0017696 Drosophila melanogaster miR-4914 stem-loop
+16241 94 0
+0 dme-mir-4915 MI0017697 Drosophila melanogaster miR-4915 stem-loop
+16335 118 0
+0 dme-mir-4916 MI0017698 Drosophila melanogaster miR-4916 stem-loop
+16453 59 0
+0 dme-mir-2535b MI0017699 Drosophila melanogaster miR-2535b stem-loop
+16512 71 0
+0 dme-mir-4917 MI0017700 Drosophila melanogaster miR-4917 stem-loop
+16583 77 0
+0 dme-mir-4918 MI0017701 Drosophila melanogaster miR-4918 stem-loop
+16660 55 0
+0 dme-mir-4919 MI0017702 Drosophila melanogaster miR-4919 stem-loop
+16715 60 0
+0 dme-mir-4908 MI0017703 Drosophila melanogaster miR-4908 stem-loop
+16775 59 0
+0 dme-mir-4909 MI0017704 Drosophila melanogaster miR-4909 stem-loop
+16834 60 0
+0 dme-mir-4939 MI0017725 Drosophila melanogaster miR-4939 stem-loop
+16894 109 0
+0 dme-mir-4940 MI0017726 Drosophila melanogaster miR-4940 stem-loop
+17003 105 0
+0 dme-mir-4941 MI0017727 Drosophila melanogaster miR-4941 stem-loop
+17108 103 0
+0 dme-mir-4942 MI0017728 Drosophila melanogaster miR-4942 stem-loop
+17211 110 0
+0 dme-mir-4943 MI0017729 Drosophila melanogaster miR-4943 stem-loop
+17321 117 0
+0 dme-mir-4944 MI0017730 Drosophila melanogaster miR-4944 stem-loop
+17438 129 0
+0 dme-mir-4945 MI0017731 Drosophila melanogaster miR-4945 stem-loop
+17567 115 0
+0 dme-mir-4946 MI0017732 Drosophila melanogaster miR-4946 stem-loop
+17682 116 0
+0 dme-mir-4947 MI0017733 Drosophila melanogaster miR-4947 stem-loop
+17798 100 0
+0 dme-mir-4948 MI0017734 Drosophila melanogaster miR-4948 stem-loop
+17898 106 0
+0 dme-mir-4949 MI0017735 Drosophila melanogaster miR-4949 stem-loop
+18004 99 0
+0 dme-mir-4950 MI0017736 Drosophila melanogaster miR-4950 stem-loop
+18103 92 0
+0 dme-mir-4951 MI0017737 Drosophila melanogaster miR-4951 stem-loop
+18195 150 0
+0 dme-mir-4952 MI0017738 Drosophila melanogaster miR-4952 stem-loop
+18345 126 0
+0 dme-mir-4953 MI0017739 Drosophila melanogaster miR-4953 stem-loop
+18471 93 0
+0 dme-mir-4954 MI0017740 Drosophila melanogaster miR-4954 stem-loop
+18564 91 0
+0 dme-mir-4955 MI0017741 Drosophila melanogaster miR-4955 stem-loop
+18655 169 0
+0 dme-mir-4956 MI0017742 Drosophila melanogaster miR-4956 stem-loop
+18824 117 0
+0 dme-mir-4957 MI0017743 Drosophila melanogaster miR-4957 stem-loop
+18941 84 0
+0 dme-mir-4958 MI0017744 Drosophila melanogaster miR-4958 stem-loop
+19025 134 0
+0 dme-mir-4959 MI0017745 Drosophila melanogaster miR-4959 stem-loop
+19159 118 0
+0 dme-mir-4960 MI0017746 Drosophila melanogaster miR-4960 stem-loop
+19277 101 0
+0 dme-mir-4961 MI0017747 Drosophila melanogaster miR-4961 stem-loop
+19378 133 0
+0 dme-mir-4962 MI0017748 Drosophila melanogaster miR-4962 stem-loop
+19511 124 0
+0 dme-mir-4963 MI0017749 Drosophila melanogaster miR-4963 stem-loop
+19635 109 0
+0 dme-mir-4964 MI0017750 Drosophila melanogaster miR-4964 stem-loop
+19744 112 0
+0 dme-mir-4965 MI0017751 Drosophila melanogaster miR-4965 stem-loop
+19856 87 0
+0 dme-mir-4966 MI0017752 Drosophila melanogaster miR-4966 stem-loop
+19943 127 0
+0 dme-mir-4967 MI0017753 Drosophila melanogaster miR-4967 stem-loop
+20070 107 0
+0 dme-mir-4968 MI0017754 Drosophila melanogaster miR-4968 stem-loop
+20177 155 0
+0 dme-mir-4969 MI0017755 Drosophila melanogaster miR-4969 stem-loop
+20332 158 0
+0 dme-mir-4970 MI0017756 Drosophila melanogaster miR-4970 stem-loop
+20490 103 0
+0 dme-mir-4971 MI0017757 Drosophila melanogaster miR-4971 stem-loop
+20593 111 0
+0 dme-mir-4972 MI0017758 Drosophila melanogaster miR-4972 stem-loop
+20704 107 0
+0 dme-mir-4973 MI0017759 Drosophila melanogaster miR-4973 stem-loop
+20811 151 0
+0 dme-mir-4974 MI0017760 Drosophila melanogaster miR-4974 stem-loop
+20962 102 0
+0 dme-mir-4975 MI0017761 Drosophila melanogaster miR-4975 stem-loop
+21064 111 0
+0 dme-mir-4976 MI0017762 Drosophila melanogaster miR-4976 stem-loop
+21175 103 0
+0 dme-mir-4977 MI0017763 Drosophila melanogaster miR-4977 stem-loop
+21278 105 0
+0 dme-mir-4978 MI0017764 Drosophila melanogaster miR-4978 stem-loop
+21383 147 0
+0 dme-mir-4979 MI0017765 Drosophila melanogaster miR-4979 stem-loop
+21530 109 0
+0 dme-mir-4980 MI0017766 Drosophila melanogaster miR-4980 stem-loop
+21639 122 0
+0 dme-mir-4981 MI0017767 Drosophila melanogaster miR-4981 stem-loop
+21761 95 0
+0 dme-mir-4982 MI0017768 Drosophila melanogaster miR-4982 stem-loop
+21856 119 0
+0 dme-mir-4983 MI0017769 Drosophila melanogaster miR-4983 stem-loop
+21975 108 0
+0 dme-mir-4984 MI0017770 Drosophila melanogaster miR-4984 stem-loop
+22083 123 0
+0 dme-mir-4985 MI0017771 Drosophila melanogaster miR-4985 stem-loop
+22206 101 0
+0 dme-mir-4986 MI0017772 Drosophila melanogaster miR-4986 stem-loop
+22307 122 0
+0 dme-mir-4987 MI0017773 Drosophila melanogaster miR-4987 stem-loop
+22429 132 0
+0 dme-mir-5613 MI0019410 Drosophila melanogaster miR-5613 stem-loop
+22561 63 0
+0 dme-mir-5614 MI0019411 Drosophila melanogaster miR-5614 stem-loop
+22624 74 0

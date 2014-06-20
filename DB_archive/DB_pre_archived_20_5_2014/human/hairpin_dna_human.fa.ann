@@ -1,0 +1,3055 @@
+127588 1527 11
+0 hsa-let-7a-1 MI0000060 Homo sapiens let-7a-1 stem-loop
+0 80 0
+0 hsa-let-7a-2 MI0000061 Homo sapiens let-7a-2 stem-loop
+80 72 0
+0 hsa-let-7a-3 MI0000062 Homo sapiens let-7a-3 stem-loop
+152 74 0
+0 hsa-let-7b MI0000063 Homo sapiens let-7b stem-loop
+226 83 0
+0 hsa-let-7c MI0000064 Homo sapiens let-7c stem-loop
+309 84 0
+0 hsa-let-7d MI0000065 Homo sapiens let-7d stem-loop
+393 87 0
+0 hsa-let-7e MI0000066 Homo sapiens let-7e stem-loop
+480 79 0
+0 hsa-let-7f-1 MI0000067 Homo sapiens let-7f-1 stem-loop
+559 87 0
+0 hsa-let-7f-2 MI0000068 Homo sapiens let-7f-2 stem-loop
+646 83 0
+0 hsa-mir-15a MI0000069 Homo sapiens miR-15a stem-loop
+729 83 0
+0 hsa-mir-16-1 MI0000070 Homo sapiens miR-16-1 stem-loop
+812 89 0
+0 hsa-mir-17 MI0000071 Homo sapiens miR-17 stem-loop
+901 84 0
+0 hsa-mir-18a MI0000072 Homo sapiens miR-18a stem-loop
+985 71 0
+0 hsa-mir-19a MI0000073 Homo sapiens miR-19a stem-loop
+1056 82 0
+0 hsa-mir-19b-1 MI0000074 Homo sapiens miR-19b-1 stem-loop
+1138 87 0
+0 hsa-mir-19b-2 MI0000075 Homo sapiens miR-19b-2 stem-loop
+1225 96 0
+0 hsa-mir-20a MI0000076 Homo sapiens miR-20a stem-loop
+1321 71 0
+0 hsa-mir-21 MI0000077 Homo sapiens miR-21 stem-loop
+1392 72 0
+0 hsa-mir-22 MI0000078 Homo sapiens miR-22 stem-loop
+1464 85 0
+0 hsa-mir-23a MI0000079 Homo sapiens miR-23a stem-loop
+1549 73 0
+0 hsa-mir-24-1 MI0000080 Homo sapiens miR-24-1 stem-loop
+1622 68 0
+0 hsa-mir-24-2 MI0000081 Homo sapiens miR-24-2 stem-loop
+1690 73 0
+0 hsa-mir-25 MI0000082 Homo sapiens miR-25 stem-loop
+1763 84 0
+0 hsa-mir-26a-1 MI0000083 Homo sapiens miR-26a-1 stem-loop
+1847 77 0
+0 hsa-mir-26b MI0000084 Homo sapiens miR-26b stem-loop
+1924 77 0
+0 hsa-mir-27a MI0000085 Homo sapiens miR-27a stem-loop
+2001 78 0
+0 hsa-mir-28 MI0000086 Homo sapiens miR-28 stem-loop
+2079 86 0
+0 hsa-mir-29a MI0000087 Homo sapiens miR-29a stem-loop
+2165 64 0
+0 hsa-mir-30a MI0000088 Homo sapiens miR-30a stem-loop
+2229 71 0
+0 hsa-mir-31 MI0000089 Homo sapiens miR-31 stem-loop
+2300 71 0
+0 hsa-mir-32 MI0000090 Homo sapiens miR-32 stem-loop
+2371 70 0
+0 hsa-mir-33a MI0000091 Homo sapiens miR-33a stem-loop
+2441 69 0
+0 hsa-mir-92a-1 MI0000093 Homo sapiens miR-92a-1 stem-loop
+2510 78 0
+0 hsa-mir-92a-2 MI0000094 Homo sapiens miR-92a-2 stem-loop
+2588 75 0
+0 hsa-mir-93 MI0000095 Homo sapiens miR-93 stem-loop
+2663 80 0
+0 hsa-mir-95 MI0000097 Homo sapiens miR-95 stem-loop
+2743 81 0
+0 hsa-mir-96 MI0000098 Homo sapiens miR-96 stem-loop
+2824 78 0
+0 hsa-mir-98 MI0000100 Homo sapiens miR-98 stem-loop
+2902 119 0
+0 hsa-mir-99a MI0000101 Homo sapiens miR-99a stem-loop
+3021 81 0
+0 hsa-mir-100 MI0000102 Homo sapiens miR-100 stem-loop
+3102 80 0
+0 hsa-mir-101-1 MI0000103 Homo sapiens miR-101-1 stem-loop
+3182 75 0
+0 hsa-mir-29b-1 MI0000105 Homo sapiens miR-29b-1 stem-loop
+3257 81 0
+0 hsa-mir-29b-2 MI0000107 Homo sapiens miR-29b-2 stem-loop
+3338 81 0
+0 hsa-mir-103a-2 MI0000108 Homo sapiens miR-103a-2 stem-loop
+3419 78 0
+0 hsa-mir-103a-1 MI0000109 Homo sapiens miR-103a-1 stem-loop
+3497 78 0
+0 hsa-mir-105-1 MI0000111 Homo sapiens miR-105-1 stem-loop
+3575 81 0
+0 hsa-mir-105-2 MI0000112 Homo sapiens miR-105-2 stem-loop
+3656 81 0
+0 hsa-mir-106a MI0000113 Homo sapiens miR-106a stem-loop
+3737 81 0
+0 hsa-mir-107 MI0000114 Homo sapiens miR-107 stem-loop
+3818 81 0
+0 hsa-mir-16-2 MI0000115 Homo sapiens miR-16-2 stem-loop
+3899 81 0
+0 hsa-mir-192 MI0000234 Homo sapiens miR-192 stem-loop
+3980 110 0
+0 hsa-mir-196a-1 MI0000238 Homo sapiens miR-196a-1 stem-loop
+4090 70 0
+0 hsa-mir-197 MI0000239 Homo sapiens miR-197 stem-loop
+4160 75 0
+0 hsa-mir-198 MI0000240 Homo sapiens miR-198 stem-loop
+4235 62 0
+0 hsa-mir-199a-1 MI0000242 Homo sapiens miR-199a-1 stem-loop
+4297 71 0
+0 hsa-mir-208a MI0000251 Homo sapiens miR-208a stem-loop
+4368 71 0
+0 hsa-mir-129-1 MI0000252 Homo sapiens miR-129-1 stem-loop
+4439 72 0
+0 hsa-mir-148a MI0000253 Homo sapiens miR-148a stem-loop
+4511 68 0
+0 hsa-mir-30c-2 MI0000254 Homo sapiens miR-30c-2 stem-loop
+4579 72 0
+0 hsa-mir-30d MI0000255 Homo sapiens miR-30d stem-loop
+4651 70 0
+0 hsa-mir-139 MI0000261 Homo sapiens miR-139 stem-loop
+4721 68 0
+0 hsa-mir-147a MI0000262 Homo sapiens miR-147a stem-loop
+4789 72 0
+0 hsa-mir-7-1 MI0000263 Homo sapiens miR-7-1 stem-loop
+4861 110 0
+0 hsa-mir-7-2 MI0000264 Homo sapiens miR-7-2 stem-loop
+4971 110 0
+0 hsa-mir-7-3 MI0000265 Homo sapiens miR-7-3 stem-loop
+5081 110 0
+0 hsa-mir-10a MI0000266 Homo sapiens miR-10a stem-loop
+5191 110 0
+0 hsa-mir-10b MI0000267 Homo sapiens miR-10b stem-loop
+5301 110 0
+0 hsa-mir-34a MI0000268 Homo sapiens miR-34a stem-loop
+5411 110 0
+0 hsa-mir-181a-2 MI0000269 Homo sapiens mir-181a-2 stem-loop
+5521 110 0
+0 hsa-mir-181b-1 MI0000270 Homo sapiens miR-181b-1 stem-loop
+5631 110 0
+0 hsa-mir-181c MI0000271 Homo sapiens miR-181c stem-loop
+5741 110 0
+0 hsa-mir-182 MI0000272 Homo sapiens miR-182 stem-loop
+5851 110 0
+0 hsa-mir-183 MI0000273 Homo sapiens miR-183 stem-loop
+5961 110 0
+0 hsa-mir-187 MI0000274 Homo sapiens miR-187 stem-loop
+6071 109 0
+0 hsa-mir-196a-2 MI0000279 Homo sapiens miR-196a-2 stem-loop
+6180 110 0
+0 hsa-mir-199a-2 MI0000281 Homo sapiens miR-199a-2 stem-loop
+6290 110 0
+0 hsa-mir-199b MI0000282 Homo sapiens miR-199b stem-loop
+6400 110 0
+0 hsa-mir-203 MI0000283 Homo sapiens miR-203 stem-loop
+6510 110 0
+0 hsa-mir-204 MI0000284 Homo sapiens miR-204 stem-loop
+6620 110 0
+0 hsa-mir-205 MI0000285 Homo sapiens miR-205 stem-loop
+6730 110 0
+0 hsa-mir-210 MI0000286 Homo sapiens miR-210 stem-loop
+6840 110 0
+0 hsa-mir-211 MI0000287 Homo sapiens miR-211 stem-loop
+6950 110 0
+0 hsa-mir-212 MI0000288 Homo sapiens miR-212 stem-loop
+7060 110 0
+0 hsa-mir-181a-1 MI0000289 Homo sapiens miR-181a-1 stem-loop
+7170 110 0
+0 hsa-mir-214 MI0000290 Homo sapiens miR-214 stem-loop
+7280 110 0
+0 hsa-mir-215 MI0000291 Homo sapiens miR-215 stem-loop
+7390 110 0
+0 hsa-mir-216a MI0000292 Homo sapiens miR-216a stem-loop
+7500 110 0
+0 hsa-mir-217 MI0000293 Homo sapiens miR-217 stem-loop
+7610 110 0
+0 hsa-mir-218-1 MI0000294 Homo sapiens miR-218-1 stem-loop
+7720 110 0
+0 hsa-mir-218-2 MI0000295 Homo sapiens miR-218-2 stem-loop
+7830 110 0
+0 hsa-mir-219-1 MI0000296 Homo sapiens miR-219-1 stem-loop
+7940 110 0
+0 hsa-mir-221 MI0000298 Homo sapiens miR-221 stem-loop
+8050 110 0
+0 hsa-mir-222 MI0000299 Homo sapiens miR-222 stem-loop
+8160 110 0
+0 hsa-mir-223 MI0000300 Homo sapiens miR-223 stem-loop
+8270 110 0
+0 hsa-mir-224 MI0000301 Homo sapiens miR-224 stem-loop
+8380 81 0
+0 hsa-mir-200b MI0000342 Homo sapiens miR-200b stem-loop
+8461 95 0
+0 hsa-let-7g MI0000433 Homo sapiens let-7g stem-loop
+8556 84 0
+0 hsa-let-7i MI0000434 Homo sapiens let-7i stem-loop
+8640 84 0
+0 hsa-mir-1-2 MI0000437 Homo sapiens miR-1-2 stem-loop
+8724 85 0
+0 hsa-mir-15b MI0000438 Homo sapiens miR-15b stem-loop
+8809 98 0
+0 hsa-mir-23b MI0000439 Homo sapiens miR-23b stem-loop
+8907 97 0
+0 hsa-mir-27b MI0000440 Homo sapiens miR-27b stem-loop
+9004 97 0
+0 hsa-mir-30b MI0000441 Homo sapiens miR-30b stem-loop
+9101 88 0
+0 hsa-mir-122 MI0000442 Homo sapiens miR-122 stem-loop
+9189 85 0
+0 hsa-mir-124-1 MI0000443 Homo sapiens miR-124-1 stem-loop
+9274 85 0
+0 hsa-mir-124-2 MI0000444 Homo sapiens miR-124-2 stem-loop
+9359 109 0
+0 hsa-mir-124-3 MI0000445 Homo sapiens miR-124-3 stem-loop
+9468 87 0
+0 hsa-mir-125b-1 MI0000446 Homo sapiens miR-125b-1 stem-loop
+9555 88 0
+0 hsa-mir-128-1 MI0000447 Homo sapiens miR-128-1 stem-loop
+9643 82 0
+0 hsa-mir-130a MI0000448 Homo sapiens miR-130a stem-loop
+9725 89 0
+0 hsa-mir-132 MI0000449 Homo sapiens miR-132 stem-loop
+9814 101 0
+0 hsa-mir-133a-1 MI0000450 Homo sapiens miR-133a-1 stem-loop
+9915 88 0
+0 hsa-mir-133a-2 MI0000451 Homo sapiens miR-133a-2 stem-loop
+10003 102 0
+0 hsa-mir-135a-1 MI0000452 Homo sapiens miR-135a-1 stem-loop
+10105 90 0
+0 hsa-mir-135a-2 MI0000453 Homo sapiens miR-135a-2 stem-loop
+10195 100 0
+0 hsa-mir-137 MI0000454 Homo sapiens miR-137 stem-loop
+10295 102 0
+0 hsa-mir-138-2 MI0000455 Homo sapiens miR-138-2 stem-loop
+10397 84 0
+0 hsa-mir-140 MI0000456 Homo sapiens miR-140 stem-loop
+10481 100 0
+0 hsa-mir-141 MI0000457 Homo sapiens miR-141 stem-loop
+10581 95 0
+0 hsa-mir-142 MI0000458 Homo sapiens miR-142 stem-loop
+10676 87 0
+0 hsa-mir-143 MI0000459 Homo sapiens miR-143 stem-loop
+10763 106 0
+0 hsa-mir-144 MI0000460 Homo sapiens miR-144 stem-loop
+10869 86 0
+0 hsa-mir-145 MI0000461 Homo sapiens miR-145 stem-loop
+10955 88 0
+0 hsa-mir-152 MI0000462 Homo sapiens miR-152 stem-loop
+11043 87 0
+0 hsa-mir-153-1 MI0000463 Homo sapiens miR-153-1 stem-loop
+11130 90 0
+0 hsa-mir-153-2 MI0000464 Homo sapiens miR-153-2 stem-loop
+11220 87 0
+0 hsa-mir-191 MI0000465 Homo sapiens miR-191 stem-loop
+11307 92 0
+0 hsa-mir-9-1 MI0000466 Homo sapiens miR-9-1 stem-loop
+11399 89 0
+0 hsa-mir-9-2 MI0000467 Homo sapiens miR-9-2 stem-loop
+11488 87 0
+0 hsa-mir-9-3 MI0000468 Homo sapiens miR-9-3 stem-loop
+11575 90 0
+0 hsa-mir-125a MI0000469 Homo sapiens miR-125a stem-loop
+11665 86 0
+0 hsa-mir-125b-2 MI0000470 Homo sapiens miR-125b-2 stem-loop
+11751 89 0
+0 hsa-mir-126 MI0000471 Homo sapiens miR-126 stem-loop
+11840 85 0
+0 hsa-mir-127 MI0000472 Homo sapiens miR-127 stem-loop
+11925 97 0
+0 hsa-mir-129-2 MI0000473 Homo sapiens miR-129-2 stem-loop
+12022 90 0
+0 hsa-mir-134 MI0000474 Homo sapiens miR-134 stem-loop
+12112 73 0
+0 hsa-mir-136 MI0000475 Homo sapiens miR-136 stem-loop
+12185 82 0
+0 hsa-mir-138-1 MI0000476 Homo sapiens miR-138-1 stem-loop
+12267 99 0
+0 hsa-mir-146a MI0000477 Homo sapiens miR-146a stem-loop
+12366 99 0
+0 hsa-mir-149 MI0000478 Homo sapiens miR-149 stem-loop
+12465 89 0
+0 hsa-mir-150 MI0000479 Homo sapiens miR-150 stem-loop
+12554 84 0
+0 hsa-mir-154 MI0000480 Homo sapiens miR-154 stem-loop
+12638 84 0
+0 hsa-mir-184 MI0000481 Homo sapiens miR-184 stem-loop
+12722 84 0
+0 hsa-mir-185 MI0000482 Homo sapiens miR-185 stem-loop
+12806 82 0
+0 hsa-mir-186 MI0000483 Homo sapiens miR-186 stem-loop
+12888 86 0
+0 hsa-mir-188 MI0000484 Homo sapiens miR-188 stem-loop
+12974 86 0
+0 hsa-mir-190a MI0000486 Homo sapiens miR-190a stem-loop
+13060 85 0
+0 hsa-mir-193a MI0000487 Homo sapiens miR-193a stem-loop
+13145 88 0
+0 hsa-mir-194-1 MI0000488 Homo sapiens miR-194-1 stem-loop
+13233 85 0
+0 hsa-mir-195 MI0000489 Homo sapiens miR-195 stem-loop
+13318 87 0
+0 hsa-mir-206 MI0000490 Homo sapiens miR-206 stem-loop
+13405 86 0
+0 hsa-mir-320a MI0000542 Homo sapiens miR-320a stem-loop
+13491 82 0
+0 hsa-mir-200c MI0000650 Homo sapiens miR-200c stem-loop
+13573 68 0
+0 hsa-mir-1-1 MI0000651 Homo sapiens miR-1-1 stem-loop
+13641 71 0
+0 hsa-mir-155 MI0000681 Homo sapiens miR-155 stem-loop
+13712 65 0
+0 hsa-mir-181b-2 MI0000683 Homo sapiens miR-181b-2 stem-loop
+13777 89 0
+0 hsa-mir-128-2 MI0000727 Homo sapiens miR-128-2 stem-loop
+13866 84 0
+0 hsa-mir-194-2 MI0000732 Homo sapiens miR-194-2 stem-loop
+13950 85 0
+0 hsa-mir-106b MI0000734 Homo sapiens miR-106b stem-loop
+14035 82 0
+0 hsa-mir-29c MI0000735 Homo sapiens miR-29c stem-loop
+14117 88 0
+0 hsa-mir-30c-1 MI0000736 Homo sapiens miR-30c-1 stem-loop
+14205 89 0
+0 hsa-mir-200a MI0000737 Homo sapiens miR-200a stem-loop
+14294 90 0
+0 hsa-mir-302a MI0000738 Homo sapiens miR-302a stem-loop
+14384 69 0
+0 hsa-mir-101-2 MI0000739 Homo sapiens miR-101-2 stem-loop
+14453 79 0
+0 hsa-mir-219-2 MI0000740 Homo sapiens miR-219-2 stem-loop
+14532 97 0
+0 hsa-mir-34b MI0000742 Homo sapiens miR-34b stem-loop
+14629 84 0
+0 hsa-mir-34c MI0000743 Homo sapiens miR-34c stem-loop
+14713 77 0
+0 hsa-mir-299 MI0000744 Homo sapiens miR-299 stem-loop
+14790 63 0
+0 hsa-mir-301a MI0000745 Homo sapiens miR-301a stem-loop
+14853 86 0
+0 hsa-mir-99b MI0000746 Homo sapiens miR-99b stem-loop
+14939 70 0
+0 hsa-mir-296 MI0000747 Homo sapiens miR-296 stem-loop
+15009 80 0
+0 hsa-mir-130b MI0000748 Homo sapiens miR-130b stem-loop
+15089 82 0
+0 hsa-mir-30e MI0000749 Homo sapiens miR-30e stem-loop
+15171 92 0
+0 hsa-mir-26a-2 MI0000750 Homo sapiens miR-26a-2 stem-loop
+15263 84 0
+0 hsa-mir-361 MI0000760 Homo sapiens miR-361 stem-loop
+15347 72 0
+0 hsa-mir-362 MI0000762 Homo sapiens miR-362 stem-loop
+15419 65 0
+0 hsa-mir-363 MI0000764 Homo sapiens miR-363 stem-loop
+15484 75 0
+0 hsa-mir-365a MI0000767 Homo sapiens miR-365a stem-loop
+15559 87 0
+0 hsa-mir-365b MI0000769 Homo sapiens miR-365b stem-loop
+15646 111 0
+0 hsa-mir-302b MI0000772 Homo sapiens miR-302b stem-loop
+15757 73 0
+0 hsa-mir-302c MI0000773 Homo sapiens miR-302c stem-loop
+15830 68 0
+0 hsa-mir-302d MI0000774 Homo sapiens miR-302d stem-loop
+15898 68 0
+0 hsa-mir-367 MI0000775 Homo sapiens miR-367 stem-loop
+15966 68 0
+0 hsa-mir-376c MI0000776 Homo sapiens miR-376c stem-loop
+16034 66 0
+0 hsa-mir-369 MI0000777 Homo sapiens miR-369 stem-loop
+16100 70 0
+0 hsa-mir-370 MI0000778 Homo sapiens miR-370 stem-loop
+16170 75 0
+0 hsa-mir-371a MI0000779 Homo sapiens miR-371a stem-loop
+16245 67 0
+0 hsa-mir-372 MI0000780 Homo sapiens miR-372 stem-loop
+16312 67 0
+0 hsa-mir-373 MI0000781 Homo sapiens miR-373 stem-loop
+16379 69 0
+0 hsa-mir-374a MI0000782 Homo sapiens miR-374a stem-loop
+16448 72 0
+0 hsa-mir-375 MI0000783 Homo sapiens miR-375 stem-loop
+16520 64 0
+0 hsa-mir-376a-1 MI0000784 Homo sapiens miR-376a-1 stem-loop
+16584 68 0
+0 hsa-mir-377 MI0000785 Homo sapiens miR-377 stem-loop
+16652 69 0
+0 hsa-mir-378a MI0000786 Homo sapiens miR-378a stem-loop
+16721 66 0
+0 hsa-mir-379 MI0000787 Homo sapiens miR-379 stem-loop
+16787 67 0
+0 hsa-mir-380 MI0000788 Homo sapiens miR-380 stem-loop
+16854 61 0
+0 hsa-mir-381 MI0000789 Homo sapiens miR-381 stem-loop
+16915 75 0
+0 hsa-mir-382 MI0000790 Homo sapiens miR-382 stem-loop
+16990 76 0
+0 hsa-mir-383 MI0000791 Homo sapiens miR-383 stem-loop
+17066 73 0
+0 hsa-mir-340 MI0000802 Homo sapiens miR-340 stem-loop
+17139 95 0
+0 hsa-mir-330 MI0000803 Homo sapiens miR-330 stem-loop
+17234 94 0
+0 hsa-mir-328 MI0000804 Homo sapiens miR-328 stem-loop
+17328 75 0
+0 hsa-mir-342 MI0000805 Homo sapiens miR-342 stem-loop
+17403 99 0
+0 hsa-mir-337 MI0000806 Homo sapiens miR-337 stem-loop
+17502 93 0
+0 hsa-mir-323a MI0000807 Homo sapiens miR-323a stem-loop
+17595 86 0
+0 hsa-mir-326 MI0000808 Homo sapiens miR-326 stem-loop
+17681 95 0
+0 hsa-mir-151a MI0000809 Homo sapiens miR-151a stem-loop
+17776 90 0
+0 hsa-mir-135b MI0000810 Homo sapiens miR-135b stem-loop
+17866 97 0
+0 hsa-mir-148b MI0000811 Homo sapiens miR-148b stem-loop
+17963 99 0
+0 hsa-mir-331 MI0000812 Homo sapiens miR-331 stem-loop
+18062 94 0
+0 hsa-mir-324 MI0000813 Homo sapiens miR-324 stem-loop
+18156 83 0
+0 hsa-mir-338 MI0000814 Homo sapiens miR-338 stem-loop
+18239 67 0
+0 hsa-mir-339 MI0000815 Homo sapiens miR-339 stem-loop
+18306 94 0
+0 hsa-mir-335 MI0000816 Homo sapiens miR-335 stem-loop
+18400 94 0
+0 hsa-mir-133b MI0000822 Homo sapiens miR-133b stem-loop
+18494 119 0
+0 hsa-mir-325 MI0000824 Homo sapiens miR-325 stem-loop
+18613 98 0
+0 hsa-mir-345 MI0000825 Homo sapiens miR-345 stem-loop
+18711 98 0
+0 hsa-mir-346 MI0000826 Homo sapiens miR-346 stem-loop
+18809 95 0
+0 hsa-mir-384 MI0001145 Homo sapiens miR-384 stem-loop
+18904 88 0
+0 hsa-mir-196b MI0001150 Homo sapiens miR-196b stem-loop
+18992 84 0
+0 hsa-mir-422a MI0001444 Homo sapiens miR-422a stem-loop
+19076 90 0
+0 hsa-mir-423 MI0001445 Homo sapiens miR-423 stem-loop
+19166 94 0
+0 hsa-mir-424 MI0001446 Homo sapiens miR-424 stem-loop
+19260 98 0
+0 hsa-mir-425 MI0001448 Homo sapiens miR-425 stem-loop
+19358 87 0
+0 hsa-mir-18b MI0001518 Homo sapiens miR-18b stem-loop
+19445 71 0
+0 hsa-mir-20b MI0001519 Homo sapiens miR-20b stem-loop
+19516 69 0
+0 hsa-mir-448 MI0001637 Homo sapiens miR-448 stem-loop
+19585 111 0
+0 hsa-mir-429 MI0001641 Homo sapiens miR-429 stem-loop
+19696 83 0
+0 hsa-mir-449a MI0001648 Homo sapiens miR-449a stem-loop
+19779 91 0
+0 hsa-mir-450a-1 MI0001652 Homo sapiens miR-450a-1 stem-loop
+19870 91 0
+0 hsa-mir-431 MI0001721 Homo sapiens miR-431 stem-loop
+19961 114 0
+0 hsa-mir-433 MI0001723 Homo sapiens miR-433 stem-loop
+20075 93 0
+0 hsa-mir-329-1 MI0001725 Homo sapiens miR-329-1 stem-loop
+20168 80 0
+0 hsa-mir-329-2 MI0001726 Homo sapiens miR-329-2 stem-loop
+20248 84 0
+0 hsa-mir-451a MI0001729 Homo sapiens miR-451a stem-loop
+20332 72 0
+0 hsa-mir-452 MI0001733 Homo sapiens miR-452 stem-loop
+20404 85 0
+0 hsa-mir-409 MI0001735 Homo sapiens miR-409 stem-loop
+20489 79 0
+0 hsa-mir-412 MI0002464 Homo sapiens miR-412 stem-loop
+20568 91 0
+0 hsa-mir-410 MI0002465 Homo sapiens miR-410 stem-loop
+20659 80 0
+0 hsa-mir-376b MI0002466 Homo sapiens miR-376b stem-loop
+20739 100 0
+0 hsa-mir-483 MI0002467 Homo sapiens miR-483 stem-loop
+20839 76 0
+0 hsa-mir-484 MI0002468 Homo sapiens miR-484 stem-loop
+20915 79 0
+0 hsa-mir-485 MI0002469 Homo sapiens miR-485 stem-loop
+20994 73 0
+0 hsa-mir-486 MI0002470 Homo sapiens miR-486 stem-loop
+21067 68 0
+0 hsa-mir-487a MI0002471 Homo sapiens miR-487a stem-loop
+21135 80 0
+0 hsa-mir-488 MI0003123 Homo sapiens miR-488 stem-loop
+21215 83 0
+0 hsa-mir-489 MI0003124 Homo sapiens miR-489 stem-loop
+21298 84 0
+0 hsa-mir-490 MI0003125 Homo sapiens miR-490 stem-loop
+21382 128 0
+0 hsa-mir-491 MI0003126 Homo sapiens miR-491 stem-loop
+21510 84 0
+0 hsa-mir-511-1 MI0003127 Homo sapiens miR-511-1 stem-loop
+21594 87 0
+0 hsa-mir-511-2 MI0003128 Homo sapiens miR-511-2 stem-loop
+21681 87 0
+0 hsa-mir-146b MI0003129 Homo sapiens miR-146b stem-loop
+21768 73 0
+0 hsa-mir-202 MI0003130 Homo sapiens miR-202 stem-loop
+21841 110 0
+0 hsa-mir-492 MI0003131 Homo sapiens miR-492 stem-loop
+21951 116 0
+0 hsa-mir-493 MI0003132 Homo sapiens miR-493 stem-loop
+22067 89 0
+0 hsa-mir-432 MI0003133 Homo sapiens miR-432 stem-loop
+22156 94 0
+0 hsa-mir-494 MI0003134 Homo sapiens miR-494 stem-loop
+22250 81 0
+0 hsa-mir-495 MI0003135 Homo sapiens miR-495 stem-loop
+22331 82 0
+0 hsa-mir-496 MI0003136 Homo sapiens miR-496 stem-loop
+22413 102 0
+0 hsa-mir-193b MI0003137 Homo sapiens miR-193b stem-loop
+22515 83 0
+0 hsa-mir-497 MI0003138 Homo sapiens miR-497 stem-loop
+22598 112 0
+0 hsa-mir-181d MI0003139 Homo sapiens miR-181d stem-loop
+22710 137 0
+0 hsa-mir-512-1 MI0003140 Homo sapiens miR-512-1 stem-loop
+22847 84 0
+0 hsa-mir-512-2 MI0003141 Homo sapiens miR-512-2 stem-loop
+22931 98 0
+0 hsa-mir-498 MI0003142 Homo sapiens miR-498 stem-loop
+23029 124 0
+0 hsa-mir-520e MI0003143 Homo sapiens miR-520e stem-loop
+23153 87 0
+0 hsa-mir-515-1 MI0003144 Homo sapiens miR-515-1 stem-loop
+23240 83 0
+0 hsa-mir-519e MI0003145 Homo sapiens miR-519e stem-loop
+23323 84 0
+0 hsa-mir-520f MI0003146 Homo sapiens miR-520f stem-loop
+23407 87 0
+0 hsa-mir-515-2 MI0003147 Homo sapiens miR-515-2 stem-loop
+23494 83 0
+0 hsa-mir-519c MI0003148 Homo sapiens miR-519c stem-loop
+23577 87 0
+0 hsa-mir-520a MI0003149 Homo sapiens miR-520a stem-loop
+23664 85 0
+0 hsa-mir-526b MI0003150 Homo sapiens miR-526b stem-loop
+23749 83 0
+0 hsa-mir-519b MI0003151 Homo sapiens miR-519b stem-loop
+23832 81 0
+0 hsa-mir-525 MI0003152 Homo sapiens miR-525 stem-loop
+23913 85 0
+0 hsa-mir-523 MI0003153 Homo sapiens miR-523 stem-loop
+23998 87 0
+0 hsa-mir-518f MI0003154 Homo sapiens miR-518f stem-loop
+24085 87 0
+0 hsa-mir-520b MI0003155 Homo sapiens miR-520b stem-loop
+24172 61 0
+0 hsa-mir-518b MI0003156 Homo sapiens miR-518b stem-loop
+24233 83 0
+0 hsa-mir-526a-1 MI0003157 Homo sapiens miR-526a-1 stem-loop
+24316 85 0
+0 hsa-mir-520c MI0003158 Homo sapiens miR-520c stem-loop
+24401 87 0
+0 hsa-mir-518c MI0003159 Homo sapiens miR-518c stem-loop
+24488 101 0
+0 hsa-mir-524 MI0003160 Homo sapiens miR-524 stem-loop
+24589 87 0
+0 hsa-mir-517a MI0003161 Homo sapiens miR-517a stem-loop
+24676 87 0
+0 hsa-mir-519d MI0003162 Homo sapiens miR-519d stem-loop
+24763 88 0
+0 hsa-mir-521-2 MI0003163 Homo sapiens miR-521-2 stem-loop
+24851 87 0
+0 hsa-mir-520d MI0003164 Homo sapiens miR-520d stem-loop
+24938 87 0
+0 hsa-mir-517b MI0003165 Homo sapiens miR-517b stem-loop
+25025 67 0
+0 hsa-mir-520g MI0003166 Homo sapiens miR-520g stem-loop
+25092 90 0
+0 hsa-mir-516b-2 MI0003167 Homo sapiens miR-516b-2 stem-loop
+25182 85 0
+0 hsa-mir-526a-2 MI0003168 Homo sapiens miR-526a-2 stem-loop
+25267 65 0
+0 hsa-mir-518e MI0003169 Homo sapiens miR-518e stem-loop
+25332 88 0
+0 hsa-mir-518a-1 MI0003170 Homo sapiens miR-518a-1 stem-loop
+25420 85 0
+0 hsa-mir-518d MI0003171 Homo sapiens miR-518d stem-loop
+25505 87 0
+0 hsa-mir-516b-1 MI0003172 Homo sapiens miR-516b-1 stem-loop
+25592 90 0
+0 hsa-mir-518a-2 MI0003173 Homo sapiens miR-518a-2 stem-loop
+25682 87 0
+0 hsa-mir-517c MI0003174 Homo sapiens miR-517c stem-loop
+25769 95 0
+0 hsa-mir-520h MI0003175 Homo sapiens miR-520h stem-loop
+25864 88 0
+0 hsa-mir-521-1 MI0003176 Homo sapiens miR-521-1 stem-loop
+25952 87 0
+0 hsa-mir-522 MI0003177 Homo sapiens miR-522 stem-loop
+26039 87 0
+0 hsa-mir-519a-1 MI0003178 Homo sapiens miR-519a-1 stem-loop
+26126 85 0
+0 hsa-mir-527 MI0003179 Homo sapiens miR-527 stem-loop
+26211 85 0
+0 hsa-mir-516a-1 MI0003180 Homo sapiens miR-516a-1 stem-loop
+26296 90 0
+0 hsa-mir-516a-2 MI0003181 Homo sapiens miR-516a-2 stem-loop
+26386 90 0
+0 hsa-mir-519a-2 MI0003182 Homo sapiens miR-519a-2 stem-loop
+26476 87 0
+0 hsa-mir-499a MI0003183 Homo sapiens miR-499a stem-loop
+26563 122 0
+0 hsa-mir-500a MI0003184 Homo sapiens miR-500a stem-loop
+26685 84 0
+0 hsa-mir-501 MI0003185 Homo sapiens miR-501 stem-loop
+26769 84 0
+0 hsa-mir-502 MI0003186 Homo sapiens miR-502 stem-loop
+26853 86 0
+0 hsa-mir-450a-2 MI0003187 Homo sapiens miR-450a-2 stem-loop
+26939 100 0
+0 hsa-mir-503 MI0003188 Homo sapiens miR-503 stem-loop
+27039 71 0
+0 hsa-mir-504 MI0003189 Homo sapiens miR-504 stem-loop
+27110 83 0
+0 hsa-mir-505 MI0003190 Homo sapiens miR-505 stem-loop
+27193 84 0
+0 hsa-mir-513a-1 MI0003191 Homo sapiens miR-513a-1 stem-loop
+27277 129 0
+0 hsa-mir-513a-2 MI0003192 Homo sapiens miR-513a-2 stem-loop
+27406 127 0
+0 hsa-mir-506 MI0003193 Homo sapiens miR-506 stem-loop
+27533 124 0
+0 hsa-mir-507 MI0003194 Homo sapiens miR-507 stem-loop
+27657 94 0
+0 hsa-mir-508 MI0003195 Homo sapiens miR-508 stem-loop
+27751 115 0
+0 hsa-mir-509-1 MI0003196 Homo sapiens miR-509-1 stem-loop
+27866 94 0
+0 hsa-mir-510 MI0003197 Homo sapiens miR-510 stem-loop
+27960 74 0
+0 hsa-mir-514a-1 MI0003198 Homo sapiens miR-514a-1 stem-loop
+28034 98 0
+0 hsa-mir-514a-2 MI0003199 Homo sapiens miR-514a-2 stem-loop
+28132 88 0
+0 hsa-mir-514a-3 MI0003200 Homo sapiens miR-514a-3 stem-loop
+28220 88 0
+0 hsa-mir-532 MI0003205 Homo sapiens miR-532 stem-loop
+28308 91 0
+0 hsa-mir-455 MI0003513 Homo sapiens miR-455 stem-loop
+28399 96 0
+0 hsa-mir-539 MI0003514 Homo sapiens miR-539 stem-loop
+28495 78 0
+0 hsa-mir-544a MI0003515 Homo sapiens miR-544a stem-loop
+28573 91 0
+0 hsa-mir-545 MI0003516 Homo sapiens miR-545 stem-loop
+28664 106 0
+0 hsa-mir-376a-2 MI0003529 Homo sapiens miR-376a-2 stem-loop
+28770 80 0
+0 hsa-mir-487b MI0003530 Homo sapiens miR-487b stem-loop
+28850 84 0
+0 hsa-mir-551a MI0003556 Homo sapiens miR-551a stem-loop
+28934 96 0
+0 hsa-mir-552 MI0003557 Homo sapiens miR-552 stem-loop
+29030 96 0
+0 hsa-mir-553 MI0003558 Homo sapiens miR-553 stem-loop
+29126 68 0
+0 hsa-mir-554 MI0003559 Homo sapiens miR-554 stem-loop
+29194 96 0
+0 hsa-mir-92b MI0003560 Homo sapiens miR-92b stem-loop
+29290 96 0
+0 hsa-mir-555 MI0003561 Homo sapiens miR-555 stem-loop
+29386 96 0
+0 hsa-mir-556 MI0003562 Homo sapiens miR-556 stem-loop
+29482 95 0
+0 hsa-mir-557 MI0003563 Homo sapiens miR-557 stem-loop
+29577 98 0
+0 hsa-mir-558 MI0003564 Homo sapiens miR-558 stem-loop
+29675 94 0
+0 hsa-mir-559 MI0003565 Homo sapiens miR-559 stem-loop
+29769 96 0
+0 hsa-mir-561 MI0003567 Homo sapiens miR-561 stem-loop
+29865 97 0
+0 hsa-mir-562 MI0003568 Homo sapiens miR-562 stem-loop
+29962 95 0
+0 hsa-mir-563 MI0003569 Homo sapiens miR-563 stem-loop
+30057 79 0
+0 hsa-mir-564 MI0003570 Homo sapiens miR-564 stem-loop
+30136 94 0
+0 hsa-mir-566 MI0003572 Homo sapiens miR-566 stem-loop
+30230 94 0
+0 hsa-mir-567 MI0003573 Homo sapiens miR-567 stem-loop
+30324 98 0
+0 hsa-mir-568 MI0003574 Homo sapiens miR-568 stem-loop
+30422 95 0
+0 hsa-mir-551b MI0003575 Homo sapiens miR-551b stem-loop
+30517 96 0
+0 hsa-mir-569 MI0003576 Homo sapiens miR-569 stem-loop
+30613 96 0
+0 hsa-mir-570 MI0003577 Homo sapiens miR-570 stem-loop
+30709 97 0
+0 hsa-mir-571 MI0003578 Homo sapiens miR-571 stem-loop
+30806 96 0
+0 hsa-mir-572 MI0003579 Homo sapiens miR-572 stem-loop
+30902 95 0
+0 hsa-mir-573 MI0003580 Homo sapiens miR-573 stem-loop
+30997 99 0
+0 hsa-mir-574 MI0003581 Homo sapiens miR-574 stem-loop
+31096 96 0
+0 hsa-mir-575 MI0003582 Homo sapiens miR-575 stem-loop
+31192 94 0
+0 hsa-mir-576 MI0003583 Homo sapiens miR-576 stem-loop
+31286 98 0
+0 hsa-mir-577 MI0003584 Homo sapiens miR-577 stem-loop
+31384 96 0
+0 hsa-mir-578 MI0003585 Homo sapiens miR-578 stem-loop
+31480 96 0
+0 hsa-mir-579 MI0003586 Homo sapiens miR-579 stem-loop
+31576 98 0
+0 hsa-mir-580 MI0003587 Homo sapiens miR-580 stem-loop
+31674 97 0
+0 hsa-mir-581 MI0003588 Homo sapiens miR-581 stem-loop
+31771 96 0
+0 hsa-mir-582 MI0003589 Homo sapiens miR-582 stem-loop
+31867 98 0
+0 hsa-mir-583 MI0003590 Homo sapiens miR-583 stem-loop
+31965 75 0
+0 hsa-mir-584 MI0003591 Homo sapiens miR-584 stem-loop
+32040 97 0
+0 hsa-mir-585 MI0003592 Homo sapiens miR-585 stem-loop
+32137 94 0
+0 hsa-mir-548a-1 MI0003593 Homo sapiens miR-548a-1 stem-loop
+32231 97 0
+0 hsa-mir-586 MI0003594 Homo sapiens miR-586 stem-loop
+32328 97 0
+0 hsa-mir-587 MI0003595 Homo sapiens miR-587 stem-loop
+32425 96 0
+0 hsa-mir-548b MI0003596 Homo sapiens miR-548b stem-loop
+32521 97 0
+0 hsa-mir-588 MI0003597 Homo sapiens miR-588 stem-loop
+32618 83 0
+0 hsa-mir-548a-2 MI0003598 Homo sapiens miR-548a-2 stem-loop
+32701 97 0
+0 hsa-mir-589 MI0003599 Homo sapiens miR-589 stem-loop
+32798 99 0
+0 hsa-mir-550a-1 MI0003600 Homo sapiens miR-550a-1 stem-loop
+32897 97 0
+0 hsa-mir-550a-2 MI0003601 Homo sapiens miR-550a-2 stem-loop
+32994 97 0
+0 hsa-mir-590 MI0003602 Homo sapiens miR-590 stem-loop
+33091 97 0
+0 hsa-mir-591 MI0003603 Homo sapiens miR-591 stem-loop
+33188 95 0
+0 hsa-mir-592 MI0003604 Homo sapiens miR-592 stem-loop
+33283 97 0
+0 hsa-mir-593 MI0003605 Homo sapiens miR-593 stem-loop
+33380 100 0
+0 hsa-mir-595 MI0003607 Homo sapiens miR-595 stem-loop
+33480 96 0
+0 hsa-mir-596 MI0003608 Homo sapiens miR-596 stem-loop
+33576 77 0
+0 hsa-mir-597 MI0003609 Homo sapiens miR-597 stem-loop
+33653 97 0
+0 hsa-mir-598 MI0003610 Homo sapiens miR-598 stem-loop
+33750 97 0
+0 hsa-mir-599 MI0003611 Homo sapiens miR-599 stem-loop
+33847 95 0
+0 hsa-mir-548a-3 MI0003612 Homo sapiens miR-548a-3 stem-loop
+33942 97 0
+0 hsa-mir-600 MI0003613 Homo sapiens miR-600 stem-loop
+34039 98 0
+0 hsa-mir-601 MI0003614 Homo sapiens miR-601 stem-loop
+34137 79 0
+0 hsa-mir-602 MI0003615 Homo sapiens miR-602 stem-loop
+34216 98 0
+0 hsa-mir-603 MI0003616 Homo sapiens miR-603 stem-loop
+34314 97 0
+0 hsa-mir-604 MI0003617 Homo sapiens miR-604 stem-loop
+34411 94 0
+0 hsa-mir-605 MI0003618 Homo sapiens miR-605 stem-loop
+34505 83 0
+0 hsa-mir-606 MI0003619 Homo sapiens miR-606 stem-loop
+34588 96 0
+0 hsa-mir-607 MI0003620 Homo sapiens miR-607 stem-loop
+34684 96 0
+0 hsa-mir-608 MI0003621 Homo sapiens miR-608 stem-loop
+34780 100 0
+0 hsa-mir-609 MI0003622 Homo sapiens miR-609 stem-loop
+34880 95 0
+0 hsa-mir-610 MI0003623 Homo sapiens miR-610 stem-loop
+34975 96 0
+0 hsa-mir-611 MI0003624 Homo sapiens miR-611 stem-loop
+35071 67 0
+0 hsa-mir-612 MI0003625 Homo sapiens miR-612 stem-loop
+35138 100 0
+0 hsa-mir-613 MI0003626 Homo sapiens miR-613 stem-loop
+35238 95 0
+0 hsa-mir-614 MI0003627 Homo sapiens miR-614 stem-loop
+35333 90 0
+0 hsa-mir-615 MI0003628 Homo sapiens miR-615 stem-loop
+35423 96 0
+0 hsa-mir-616 MI0003629 Homo sapiens miR-616 stem-loop
+35519 97 0
+0 hsa-mir-548c MI0003630 Homo sapiens miR-548c stem-loop
+35616 97 0
+0 hsa-mir-617 MI0003631 Homo sapiens miR-617 stem-loop
+35713 97 0
+0 hsa-mir-618 MI0003632 Homo sapiens miR-618 stem-loop
+35810 98 0
+0 hsa-mir-619 MI0003633 Homo sapiens miR-619 stem-loop
+35908 99 0
+0 hsa-mir-620 MI0003634 Homo sapiens miR-620 stem-loop
+36007 95 0
+0 hsa-mir-621 MI0003635 Homo sapiens miR-621 stem-loop
+36102 96 0
+0 hsa-mir-622 MI0003636 Homo sapiens miR-622 stem-loop
+36198 96 0
+0 hsa-mir-623 MI0003637 Homo sapiens miR-623 stem-loop
+36294 98 0
+0 hsa-mir-624 MI0003638 Homo sapiens miR-624 stem-loop
+36392 97 0
+0 hsa-mir-625 MI0003639 Homo sapiens miR-625 stem-loop
+36489 85 0
+0 hsa-mir-626 MI0003640 Homo sapiens miR-626 stem-loop
+36574 94 0
+0 hsa-mir-627 MI0003641 Homo sapiens miR-627 stem-loop
+36668 97 0
+0 hsa-mir-628 MI0003642 Homo sapiens miR-628 stem-loop
+36765 95 0
+0 hsa-mir-629 MI0003643 Homo sapiens miR-629 stem-loop
+36860 97 0
+0 hsa-mir-630 MI0003644 Homo sapiens miR-630 stem-loop
+36957 97 0
+0 hsa-mir-631 MI0003645 Homo sapiens miR-631 stem-loop
+37054 75 0
+0 hsa-mir-33b MI0003646 Homo sapiens miR-33b stem-loop
+37129 96 0
+0 hsa-mir-632 MI0003647 Homo sapiens miR-632 stem-loop
+37225 94 0
+0 hsa-mir-633 MI0003648 Homo sapiens miR-633 stem-loop
+37319 98 0
+0 hsa-mir-634 MI0003649 Homo sapiens miR-634 stem-loop
+37417 97 0
+0 hsa-mir-635 MI0003650 Homo sapiens miR-635 stem-loop
+37514 98 0
+0 hsa-mir-636 MI0003651 Homo sapiens miR-636 stem-loop
+37612 99 0
+0 hsa-mir-637 MI0003652 Homo sapiens miR-637 stem-loop
+37711 99 0
+0 hsa-mir-638 MI0003653 Homo sapiens miR-638 stem-loop
+37810 100 0
+0 hsa-mir-639 MI0003654 Homo sapiens miR-639 stem-loop
+37910 98 0
+0 hsa-mir-640 MI0003655 Homo sapiens miR-640 stem-loop
+38008 96 0
+0 hsa-mir-641 MI0003656 Homo sapiens miR-641 stem-loop
+38104 99 0
+0 hsa-mir-642a MI0003657 MI0003657 Homo sapiens miR-642a stem-loop
+38203 97 0
+0 hsa-mir-643 MI0003658 Homo sapiens miR-643 stem-loop
+38300 97 0
+0 hsa-mir-644a MI0003659 Homo sapiens miR-644a stem-loop
+38397 94 0
+0 hsa-mir-645 MI0003660 Homo sapiens miR-645 stem-loop
+38491 94 0
+0 hsa-mir-646 MI0003661 Homo sapiens miR-646 stem-loop
+38585 94 0
+0 hsa-mir-647 MI0003662 Homo sapiens miR-647 stem-loop
+38679 96 0
+0 hsa-mir-648 MI0003663 Homo sapiens miR-648 stem-loop
+38775 94 0
+0 hsa-mir-649 MI0003664 Homo sapiens miR-649 stem-loop
+38869 97 0
+0 hsa-mir-650 MI0003665 Homo sapiens miR-650 stem-loop
+38966 96 0
+0 hsa-mir-651 MI0003666 Homo sapiens miR-651 stem-loop
+39062 97 0
+0 hsa-mir-652 MI0003667 Homo sapiens miR-652 stem-loop
+39159 98 0
+0 hsa-mir-548d-1 MI0003668 Homo sapiens miR-548d-1 stem-loop
+39257 97 0
+0 hsa-mir-661 MI0003669 Homo sapiens miR-661 stem-loop
+39354 89 0
+0 hsa-mir-662 MI0003670 Homo sapiens miR-662 stem-loop
+39443 95 0
+0 hsa-mir-548d-2 MI0003671 Homo sapiens miR-548d-2 stem-loop
+39538 97 0
+0 hsa-mir-663a MI0003672 Homo sapiens miR-663a stem-loop
+39635 93 0
+0 hsa-mir-449b MI0003673 Homo sapiens miR-449b stem-loop
+39728 97 0
+0 hsa-mir-653 MI0003674 Homo sapiens miR-653 stem-loop
+39825 96 0
+0 hsa-mir-411 MI0003675 Homo sapiens miR-411 stem-loop
+39921 96 0
+0 hsa-mir-654 MI0003676 Homo sapiens miR-654 stem-loop
+40017 81 0
+0 hsa-mir-655 MI0003677 Homo sapiens miR-655 stem-loop
+40098 97 0
+0 hsa-mir-656 MI0003678 Homo sapiens miR-656 stem-loop
+40195 78 0
+0 hsa-mir-549 MI0003679 Homo sapiens miR-549 stem-loop
+40273 96 0
+0 hsa-mir-657 MI0003681 Homo sapiens miR-657 stem-loop
+40369 98 0
+0 hsa-mir-658 MI0003682 Homo sapiens miR-658 stem-loop
+40467 100 0
+0 hsa-mir-659 MI0003683 Homo sapiens miR-659 stem-loop
+40567 97 0
+0 hsa-mir-660 MI0003684 Homo sapiens miR-660 stem-loop
+40664 97 0
+0 hsa-mir-421 MI0003685 Homo sapiens miR-421 stem-loop
+40761 85 0
+0 hsa-mir-542 MI0003686 Homo sapiens miR-542 stem-loop
+40846 97 0
+0 hsa-mir-758 MI0003757 Homo sapiens miR-758 stem-loop
+40943 88 0
+0 hsa-mir-1264 MI0003758 Homo sapiens miR-1264 stem-loop
+41031 69 0
+0 hsa-mir-671 MI0003760 Homo sapiens miR-671 stem-loop
+41100 118 0
+0 hsa-mir-668 MI0003761 Homo sapiens miR-668 stem-loop
+41218 66 0
+0 hsa-mir-550a-3 MI0003762 Homo sapiens mir-550a-3 stem-loop
+41284 95 0
+0 hsa-mir-767 MI0003763 Homo sapiens miR-767 stem-loop
+41379 109 0
+0 hsa-mir-1224 MI0003764 Homo sapiens mir-1224 stem-loop
+41488 85 0
+0 hsa-mir-151b MI0003772 Homo sapiens mir-151b stem-loop
+41573 96 0
+0 hsa-mir-320b-1 MI0003776 Homo sapiens mir-320b-1 stem-loop
+41669 79 0
+0 hsa-mir-320c-1 MI0003778 Homo sapiens mir-320c-1 stem-loop
+41748 88 0
+0 hsa-mir-1296 MI0003780 Homo sapiens miR-1296 stem-loop
+41836 92 0
+0 hsa-mir-1468 MI0003782 Homo sapiens mir-1468 stem-loop
+41928 86 0
+0 hsa-mir-1323 MI0003786 Homo sapiens miR-1323 stem-loop
+42014 73 0
+0 hsa-mir-1271 MI0003814 Homo sapiens miR-1271 stem-loop
+42087 86 0
+0 hsa-mir-1301 MI0003815 Homo sapiens miR-1301 stem-loop
+42173 82 0
+0 hsa-mir-454 MI0003820 Homo sapiens miR-454 stem-loop
+42255 115 0
+0 hsa-mir-1185-2 MI0003821 Homo sapiens miR-1185-2 stem-loop
+42370 86 0
+0 hsa-mir-449c MI0003823 Homo sapiens mir-449c stem-loop
+42456 92 0
+0 hsa-mir-1283-1 MI0003832 Homo sapiens miR-1283-1 stem-loop
+42548 87 0
+0 hsa-mir-769 MI0003834 Homo sapiens miR-769 stem-loop
+42635 118 0
+0 hsa-mir-766 MI0003836 Homo sapiens miR-766 stem-loop
+42753 111 0
+0 hsa-mir-320b-2 MI0003839 Homo sapiens miR-320b-2 stem-loop
+42864 138 0
+0 hsa-mir-378d-2 MI0003840 Homo sapiens mir-378d-2 stem-loop
+43002 98 0
+0 hsa-mir-1185-1 MI0003844 Homo sapiens miR-1185-1 stem-loop
+43100 86 0
+0 hsa-mir-762 MI0003892 Homo sapiens mir-762 stem-loop
+43186 83 0
+0 hsa-mir-802 MI0003906 Homo sapiens mir-802 stem-loop
+43269 94 0
+0 hsa-mir-670 MI0003933 Homo sapiens mir-670 stem-loop
+43363 98 0
+0 hsa-mir-1298 MI0003938 Homo sapiens miR-1298 stem-loop
+43461 112 0
+0 hsa-mir-2113 MI0003939 Homo sapiens mir-2113 stem-loop
+43573 91 0
+0 hsa-mir-761 MI0003941 Homo sapiens mir-761 stem-loop
+43664 59 0
+0 hsa-mir-764 MI0003944 Homo sapiens mir-764 stem-loop
+43723 85 0
+0 hsa-mir-759 MI0004065 Homo sapiens mir-759 stem-loop
+43808 91 0
+0 hsa-mir-765 MI0005116 Homo sapiens miR-765 stem-loop
+43899 114 0
+0 hsa-mir-770 MI0005118 Homo sapiens miR-770 stem-loop
+44013 98 0
+0 hsa-mir-675 MI0005416 Homo sapiens miR-675 stem-loop
+44111 73 0
+0 hsa-mir-298 MI0005523 Homo sapiens miR-298 stem-loop
+44184 88 0
+0 hsa-mir-891a MI0005524 Homo sapiens miR-891a stem-loop
+44272 79 0
+0 hsa-mir-300 MI0005525 Homo sapiens miR-300 stem-loop
+44351 83 0
+0 hsa-mir-892a MI0005528 Homo sapiens miR-892a stem-loop
+44434 75 0
+0 hsa-mir-509-2 MI0005530 Homo sapiens miR-509-2 stem-loop
+44509 91 0
+0 hsa-mir-450b MI0005531 Homo sapiens miR-450b stem-loop
+44600 78 0
+0 hsa-mir-874 MI0005532 Homo sapiens miR-874 stem-loop
+44678 78 0
+0 hsa-mir-890 MI0005533 Homo sapiens miR-890 stem-loop
+44756 77 0
+0 hsa-mir-891b MI0005534 Homo sapiens miR-891b stem-loop
+44833 79 0
+0 hsa-mir-888 MI0005537 Homo sapiens miR-888 stem-loop
+44912 77 0
+0 hsa-mir-892b MI0005538 Homo sapiens miR-892b stem-loop
+44989 77 0
+0 hsa-mir-541 MI0005539 Homo sapiens miR-541 stem-loop
+45066 84 0
+0 hsa-mir-889 MI0005540 Homo sapiens miR-889 stem-loop
+45150 79 0
+0 hsa-mir-875 MI0005541 Homo sapiens miR-875 stem-loop
+45229 76 0
+0 hsa-mir-876 MI0005542 Homo sapiens miR-876 stem-loop
+45305 81 0
+0 hsa-mir-708 MI0005543 Homo sapiens miR-708 stem-loop
+45386 88 0
+0 hsa-mir-147b MI0005544 Homo sapiens miR-147b stem-loop
+45474 80 0
+0 hsa-mir-190b MI0005545 Homo sapiens miR-190b stem-loop
+45554 79 0
+0 hsa-mir-744 MI0005559 Homo sapiens miR-744 stem-loop
+45633 98 0
+0 hsa-mir-885 MI0005560 Homo sapiens miR-885 stem-loop
+45731 74 0
+0 hsa-mir-877 MI0005561 Homo sapiens miR-877 stem-loop
+45805 86 0
+0 hsa-mir-887 MI0005562 Homo sapiens miR-887 stem-loop
+45891 79 0
+0 hsa-mir-665 MI0005563 Homo sapiens miR-665 stem-loop
+45970 72 0
+0 hsa-mir-873 MI0005564 Homo sapiens miR-873 stem-loop
+46042 77 0
+0 hsa-mir-543 MI0005565 Homo sapiens miR-543 stem-loop
+46119 78 0
+0 hsa-mir-374b MI0005566 Homo sapiens miR-374b stem-loop
+46197 72 0
+0 hsa-mir-760 MI0005567 Homo sapiens miR-760 stem-loop
+46269 80 0
+0 hsa-mir-301b MI0005568 Homo sapiens miR-301b stem-loop
+46349 78 0
+0 hsa-mir-216b MI0005569 Homo sapiens miR-216b stem-loop
+46427 82 0
+0 hsa-mir-208b MI0005570 Homo sapiens miR-208b stem-loop
+46509 77 0
+0 hsa-mir-920 MI0005712 Homo sapiens miR-920 stem-loop
+46586 75 0
+0 hsa-mir-921 MI0005713 Homo sapiens miR-921 stem-loop
+46661 56 0
+0 hsa-mir-922 MI0005714 Homo sapiens miR-922 stem-loop
+46717 81 0
+0 hsa-mir-924 MI0005716 Homo sapiens miR-924 stem-loop
+46798 53 0
+0 hsa-mir-509-3 MI0005717 Homo sapiens miR-509-3 stem-loop
+46851 75 0
+0 hsa-mir-933 MI0005755 Homo sapiens miR-933 stem-loop
+46926 77 0
+0 hsa-mir-934 MI0005756 Homo sapiens miR-934 stem-loop
+47003 83 0
+0 hsa-mir-935 MI0005757 Homo sapiens miR-935 stem-loop
+47086 91 0
+0 hsa-mir-936 MI0005758 Homo sapiens miR-936 stem-loop
+47177 98 0
+0 hsa-mir-937 MI0005759 Homo sapiens miR-937 stem-loop
+47275 86 0
+0 hsa-mir-938 MI0005760 Homo sapiens miR-938 stem-loop
+47361 83 0
+0 hsa-mir-939 MI0005761 Homo sapiens miR-939 stem-loop
+47444 82 0
+0 hsa-mir-940 MI0005762 Homo sapiens miR-940 stem-loop
+47526 94 0
+0 hsa-mir-941-1 MI0005763 Homo sapiens miR-941-1 stem-loop
+47620 117 0
+0 hsa-mir-941-2 MI0005764 Homo sapiens miR-941-2 stem-loop
+47737 117 0
+0 hsa-mir-941-3 MI0005765 Homo sapiens miR-941-3 stem-loop
+47854 117 0
+0 hsa-mir-941-4 MI0005766 Homo sapiens miR-941-4 stem-loop
+47971 117 0
+0 hsa-mir-942 MI0005767 Homo sapiens miR-942 stem-loop
+48088 86 0
+0 hsa-mir-943 MI0005768 Homo sapiens miR-943 stem-loop
+48174 94 0
+0 hsa-mir-944 MI0005769 Homo sapiens miR-944 stem-loop
+48268 88 0
+0 hsa-mir-297 MI0005775 Homo sapiens miR-297 stem-loop
+48356 66 0
+0 hsa-mir-1178 MI0006271 Homo sapiens miR-1178 stem-loop
+48422 91 0
+0 hsa-mir-1179 MI0006272 Homo sapiens miR-1179 stem-loop
+48513 91 0
+0 hsa-mir-1180 MI0006273 Homo sapiens miR-1180 stem-loop
+48604 69 0
+0 hsa-mir-1181 MI0006274 Homo sapiens miR-1181 stem-loop
+48673 81 0
+0 hsa-mir-1182 MI0006275 Homo sapiens miR-1182 stem-loop
+48754 97 0
+0 hsa-mir-1183 MI0006276 Homo sapiens miR-1183 stem-loop
+48851 89 0
+0 hsa-mir-1184-1 MI0006277 Homo sapiens miR-1184-1 stem-loop
+48940 99 0
+0 hsa-mir-1225 MI0006311 Homo sapiens miR-1225 stem-loop
+49039 90 0
+0 hsa-mir-1226 MI0006313 Homo sapiens miR-1226 stem-loop
+49129 75 0
+0 hsa-mir-1227 MI0006316 Homo sapiens miR-1227 stem-loop
+49204 88 0
+0 hsa-mir-1228 MI0006318 Homo sapiens miR-1228 stem-loop
+49292 73 0
+0 hsa-mir-1229 MI0006319 Homo sapiens miR-1229 stem-loop
+49365 69 0
+0 hsa-mir-1231 MI0006321 Homo sapiens miR-1231 stem-loop
+49434 92 0
+0 hsa-mir-1233-1 MI0006323 Homo sapiens miR-1233-1 stem-loop
+49526 82 0
+0 hsa-mir-1234 MI0006324 Homo sapiens miR-1234 stem-loop
+49608 84 0
+0 hsa-mir-1236 MI0006326 Homo sapiens miR-1236 stem-loop
+49692 102 0
+0 hsa-mir-1237 MI0006327 Homo sapiens miR-1237 stem-loop
+49794 102 0
+0 hsa-mir-1238 MI0006328 Homo sapiens miR-1238 stem-loop
+49896 83 0
+0 hsa-mir-1200 MI0006332 Homo sapiens miR-1200 stem-loop
+49979 76 0
+0 hsa-mir-1202 MI0006334 Homo sapiens miR-1202 stem-loop
+50055 83 0
+0 hsa-mir-1203 MI0006335 Homo sapiens miR-1203 stem-loop
+50138 85 0
+0 hsa-mir-663b MI0006336 Homo sapiens miR-663b stem-loop
+50223 115 0
+0 hsa-mir-1204 MI0006337 Homo sapiens miR-1204 stem-loop
+50338 67 0
+0 hsa-mir-1205 MI0006338 Homo sapiens miR-1205 stem-loop
+50405 63 0
+0 hsa-mir-1206 MI0006339 Homo sapiens miR-1206 stem-loop
+50468 59 0
+0 hsa-mir-1207 MI0006340 Homo sapiens miR-1207 stem-loop
+50527 87 0
+0 hsa-mir-1208 MI0006341 Homo sapiens miR-1208 stem-loop
+50614 73 0
+0 hsa-mir-548e MI0006344 Homo sapiens miR-548e stem-loop
+50687 88 0
+0 hsa-mir-548j MI0006345 Homo sapiens miR-548j stem-loop
+50775 112 0
+0 hsa-mir-1285-1 MI0006346 Homo sapiens miR-1285-1 stem-loop
+50887 84 0
+0 hsa-mir-1285-2 MI0006347 Homo sapiens miR-1285-2 stem-loop
+50971 88 0
+0 hsa-mir-1286 MI0006348 Homo sapiens miR-1286 stem-loop
+51059 78 0
+0 hsa-mir-1287 MI0006349 Homo sapiens miR-1287 stem-loop
+51137 90 0
+0 hsa-mir-1289-1 MI0006350 Homo sapiens miR-1289-1 stem-loop
+51227 144 0
+0 hsa-mir-1289-2 MI0006351 Homo sapiens miR-1289-2 stem-loop
+51371 111 0
+0 hsa-mir-1290 MI0006352 Homo sapiens miR-1290 stem-loop
+51482 78 0
+0 hsa-mir-1291 MI0006353 Homo sapiens miR-1291 stem-loop
+51560 87 0
+0 hsa-mir-548k MI0006354 Homo sapiens miR-548k stem-loop
+51647 116 0
+0 hsa-mir-1293 MI0006355 Homo sapiens miR-1293 stem-loop
+51763 71 0
+0 hsa-mir-1294 MI0006356 Homo sapiens miR-1294 stem-loop
+51834 142 0
+0 hsa-mir-1295a MI0006357 Homo sapiens miR-1295a stem-loop
+51976 79 0
+0 hsa-mir-1297 MI0006358 Homo sapiens miR-1297 stem-loop
+52055 77 0
+0 hsa-mir-1299 MI0006359 Homo sapiens miR-1299 stem-loop
+52132 83 0
+0 hsa-mir-548l MI0006361 Homo sapiens miR-548l stem-loop
+52215 86 0
+0 hsa-mir-1302-1 MI0006362 Homo sapiens miR-1302-1 stem-loop
+52301 143 0
+0 hsa-mir-1302-2 MI0006363 Homo sapiens miR-1302-2 stem-loop
+52444 138 0
+0 hsa-mir-1302-3 MI0006364 Homo sapiens miR-1302-3 stem-loop
+52582 138 0
+0 hsa-mir-1302-4 MI0006365 Homo sapiens miR-1302-4 stem-loop
+52720 150 0
+0 hsa-mir-1302-5 MI0006366 Homo sapiens miR-1302-5 stem-loop
+52870 150 0
+0 hsa-mir-1302-6 MI0006367 Homo sapiens miR-1302-6 stem-loop
+53020 90 0
+0 hsa-mir-1302-7 MI0006368 Homo sapiens miR-1302-7 stem-loop
+53110 72 0
+0 hsa-mir-1302-8 MI0006369 Homo sapiens miR-1302-8 stem-loop
+53182 128 0
+0 hsa-mir-1303 MI0006370 Homo sapiens miR-1303 stem-loop
+53310 86 0
+0 hsa-mir-1304 MI0006371 Homo sapiens miR-1304 stem-loop
+53396 91 0
+0 hsa-mir-1305 MI0006372 Homo sapiens miR-1305 stem-loop
+53487 86 0
+0 hsa-mir-1243 MI0006373 Homo sapiens miR-1243 stem-loop
+53573 93 0
+0 hsa-mir-548f-1 MI0006374 Homo sapiens miR-548f-1 stem-loop
+53666 84 0
+0 hsa-mir-548f-2 MI0006375 Homo sapiens miR-548f-2 stem-loop
+53750 98 0
+0 hsa-mir-548f-3 MI0006376 Homo sapiens miR-548f-3 stem-loop
+53848 87 0
+0 hsa-mir-548f-4 MI0006377 Homo sapiens miR-548f-4 stem-loop
+53935 105 0
+0 hsa-mir-548f-5 MI0006378 Homo sapiens miR-548f-5 stem-loop
+54040 86 0
+0 hsa-mir-1244-1 MI0006379 Homo sapiens miR-1244-1 stem-loop
+54126 85 0
+0 hsa-mir-1245a MI0006380 Homo sapiens miR-1245a stem-loop
+54211 70 0
+0 hsa-mir-1246 MI0006381 Homo sapiens miR-1246 stem-loop
+54281 73 0
+0 hsa-mir-1247 MI0006382 Homo sapiens miR-1247 stem-loop
+54354 136 0
+0 hsa-mir-1248 MI0006383 Homo sapiens miR-1248 stem-loop
+54490 106 0
+0 hsa-mir-1249 MI0006384 Homo sapiens miR-1249 stem-loop
+54596 66 0
+0 hsa-mir-1250 MI0006385 Homo sapiens miR-1250 stem-loop
+54662 113 0
+0 hsa-mir-1251 MI0006386 Homo sapiens miR-1251 stem-loop
+54775 70 0
+0 hsa-mir-1253 MI0006387 Homo sapiens miR-1253 stem-loop
+54845 105 0
+0 hsa-mir-1254-1 MI0006388 Homo sapiens miR-1254-1 stem-loop
+54950 97 0
+0 hsa-mir-1255a MI0006389 Homo sapiens miR-1255a stem-loop
+55047 113 0
+0 hsa-mir-1256 MI0006390 Homo sapiens miR-1256 stem-loop
+55160 119 0
+0 hsa-mir-1257 MI0006391 Homo sapiens miR-1257 stem-loop
+55279 117 0
+0 hsa-mir-1258 MI0006392 Homo sapiens miR-1258 stem-loop
+55396 73 0
+0 hsa-mir-1260a MI0006394 Homo sapiens miR-1260a stem-loop
+55469 73 0
+0 hsa-mir-548g MI0006395 Homo sapiens miR-548g stem-loop
+55542 89 0
+0 hsa-mir-1261 MI0006396 Homo sapiens miR-1261 stem-loop
+55631 82 0
+0 hsa-mir-1262 MI0006397 Homo sapiens miR-1262 stem-loop
+55713 93 0
+0 hsa-mir-1263 MI0006398 Homo sapiens miR-1263 stem-loop
+55806 86 0
+0 hsa-mir-548n MI0006399 Homo sapiens miR-548n stem-loop
+55892 75 0
+0 hsa-mir-548m MI0006400 Homo sapiens miR-548m stem-loop
+55967 86 0
+0 hsa-mir-1265 MI0006401 Homo sapiens miR-1265 stem-loop
+56053 86 0
+0 hsa-mir-548o MI0006402 Homo sapiens miR-548o stem-loop
+56139 114 0
+0 hsa-mir-1266 MI0006403 Homo sapiens miR-1266 stem-loop
+56253 84 0
+0 hsa-mir-1267 MI0006404 Homo sapiens miR-1267 stem-loop
+56337 78 0
+0 hsa-mir-1268a MI0006405 Homo sapiens miR-1268a stem-loop
+56415 52 0
+0 hsa-mir-1269a MI0006406 Homo sapiens miR-1269a stem-loop
+56467 105 0
+0 hsa-mir-1270-1 MI0006407 Homo sapiens miR-1270-1 stem-loop
+56572 83 0
+0 hsa-mir-1272 MI0006408 Homo sapiens miR-1272 stem-loop
+56655 129 0
+0 hsa-mir-1273a MI0006409 Homo sapiens miR-1273a stem-loop
+56784 103 0
+0 hsa-mir-548h-1 MI0006411 Homo sapiens miR-548h-1 stem-loop
+56887 102 0
+0 hsa-mir-548h-2 MI0006412 Homo sapiens miR-548h-2 stem-loop
+56989 88 0
+0 hsa-mir-548h-3 MI0006413 Homo sapiens miR-548h-3 stem-loop
+57077 118 0
+0 hsa-mir-548h-4 MI0006414 Homo sapiens miR-548h-4 stem-loop
+57195 111 0
+0 hsa-mir-1275 MI0006415 Homo sapiens miR-1275 stem-loop
+57306 80 0
+0 hsa-mir-1276 MI0006416 Homo sapiens miR-1276 stem-loop
+57386 83 0
+0 hsa-mir-302e MI0006417 Homo sapiens miR-302e stem-loop
+57469 72 0
+0 hsa-mir-302f MI0006418 Homo sapiens miR-302f stem-loop
+57541 51 0
+0 hsa-mir-1277 MI0006419 Homo sapiens miR-1277 stem-loop
+57592 78 0
+0 hsa-mir-548p MI0006420 Homo sapiens miR-548p stem-loop
+57670 84 0
+0 hsa-mir-548i-1 MI0006421 Homo sapiens miR-548i-1 stem-loop
+57754 149 0
+0 hsa-mir-548i-2 MI0006422 Homo sapiens miR-548i-2 stem-loop
+57903 149 0
+0 hsa-mir-548i-3 MI0006423 Homo sapiens miR-548i-3 stem-loop
+58052 149 0
+0 hsa-mir-548i-4 MI0006424 Homo sapiens miR-548i-4 stem-loop
+58201 77 0
+0 hsa-mir-1278 MI0006425 Homo sapiens miR-1278 stem-loop
+58278 81 0
+0 hsa-mir-1279 MI0006426 Homo sapiens miR-1279 stem-loop
+58359 62 0
+0 hsa-mir-1281 MI0006428 Homo sapiens miR-1281 stem-loop
+58421 54 0
+0 hsa-mir-1282 MI0006429 Homo sapiens miR-1282 stem-loop
+58475 101 0
+0 hsa-mir-1283-2 MI0006430 Homo sapiens miR-1283-2 stem-loop
+58576 87 0
+0 hsa-mir-1284 MI0006431 Homo sapiens miR-1284 stem-loop
+58663 120 0
+0 hsa-mir-1288 MI0006432 Homo sapiens miR-1288 stem-loop
+58783 75 0
+0 hsa-mir-1292 MI0006433 Homo sapiens miR-1292 stem-loop
+58858 66 0
+0 hsa-mir-1252 MI0006434 Homo sapiens miR-1252 stem-loop
+58924 65 0
+0 hsa-mir-1255b-1 MI0006435 Homo sapiens miR-1255b-1 stem-loop
+58989 63 0
+0 hsa-mir-1255b-2 MI0006436 Homo sapiens miR-1255b-2 stem-loop
+59052 67 0
+0 hsa-mir-1280 MI0006437 Homo sapiens miR-1280 stem-loop
+59119 94 0
+0 hsa-mir-664 MI0006442 Homo sapiens miR-664 stem-loop
+59213 82 0
+0 hsa-mir-1306 MI0006443 Homo sapiens miR-1306 stem-loop
+59295 85 0
+0 hsa-mir-1307 MI0006444 Homo sapiens miR-1307 stem-loop
+59380 149 0
+0 hsa-mir-513b MI0006648 Homo sapiens miR-513b stem-loop
+59529 84 0
+0 hsa-mir-513c MI0006649 Homo sapiens miR-513c stem-loop
+59613 84 0
+0 hsa-mir-1321 MI0006652 Homo sapiens miR-1321 stem-loop
+59697 79 0
+0 hsa-mir-1322 MI0006653 Homo sapiens miR-1322 stem-loop
+59776 71 0
+0 hsa-mir-720 MI0006654 Homo sapiens miR-720 stem-loop
+59847 110 0
+0 hsa-mir-1197 MI0006656 Homo sapiens miR-1197 stem-loop
+59957 88 0
+0 hsa-mir-1324 MI0006657 Homo sapiens miR-1324 stem-loop
+60045 96 0
+0 hsa-mir-1469 MI0007074 Homo sapiens miR-1469 stem-loop
+60141 47 0
+0 hsa-mir-1470 MI0007075 Homo sapiens miR-1470 stem-loop
+60188 61 0
+0 hsa-mir-1471 MI0007076 Homo sapiens miR-1471 stem-loop
+60249 57 0
+0 hsa-mir-1537 MI0007258 Homo sapiens miR-1537 stem-loop
+60306 61 0
+0 hsa-mir-1538 MI0007259 Homo sapiens miR-1538 stem-loop
+60367 61 0
+0 hsa-mir-1539 MI0007260 Homo sapiens miR-1539 stem-loop
+60428 50 0
+0 hsa-mir-103b-1 MI0007261 Homo sapiens miR-103b-1 stem-loop
+60478 62 0
+0 hsa-mir-103b-2 MI0007262 Homo sapiens miR-103b-2 stem-loop
+60540 62 0
+0 hsa-mir-320d-1 MI0008190 Homo sapiens miR-320d-1 stem-loop
+60602 48 0
+0 hsa-mir-320c-2 MI0008191 Homo sapiens miR-320c-2 stem-loop
+60650 50 0
+0 hsa-mir-320d-2 MI0008192 Homo sapiens miR-320d-2 stem-loop
+60700 48 0
+0 hsa-mir-1825 MI0008193 Homo sapiens miR-1825 stem-loop
+60748 53 0
+0 hsa-mir-1827 MI0008195 Homo sapiens miR-1827 stem-loop
+60801 66 0
+0 hsa-mir-1908 MI0008329 Homo sapiens miR-1908 stem-loop
+60867 80 0
+0 hsa-mir-1909 MI0008330 Homo sapiens miR-1909 stem-loop
+60947 80 0
+0 hsa-mir-1910 MI0008331 Homo sapiens miR-1910 stem-loop
+61027 80 0
+0 hsa-mir-1911 MI0008332 Homo sapiens miR-1911 stem-loop
+61107 80 0
+0 hsa-mir-1912 MI0008333 Homo sapiens miR-1912 stem-loop
+61187 80 0
+0 hsa-mir-1913 MI0008334 Homo sapiens miR-1913 stem-loop
+61267 80 0
+0 hsa-mir-1914 MI0008335 Homo sapiens miR-1914 stem-loop
+61347 80 0
+0 hsa-mir-1915 MI0008336 Homo sapiens miR-1915 stem-loop
+61427 80 0
+0 hsa-mir-1972-1 MI0009982 Homo sapiens miR-1972-1 stem-loop
+61507 77 0
+0 hsa-mir-1973 MI0009983 Homo sapiens miR-1973 stem-loop
+61584 44 0
+0 hsa-mir-1976 MI0009986 Homo sapiens miR-1976 stem-loop
+61628 52 0
+0 hsa-mir-2052 MI0010486 Homo sapiens miR-2052 stem-loop
+61680 55 0
+0 hsa-mir-2053 MI0010487 Homo sapiens miR-2053 stem-loop
+61735 91 0
+0 hsa-mir-2054 MI0010488 Homo sapiens miR-2054 stem-loop
+61826 49 0
+0 hsa-mir-2110 MI0010629 Homo sapiens miR-2110 stem-loop
+61875 75 0
+0 hsa-mir-2114 MI0010633 Homo sapiens miR-2114 stem-loop
+61950 80 0
+0 hsa-mir-2115 MI0010634 Homo sapiens miR-2115 stem-loop
+62030 100 0
+0 hsa-mir-2116 MI0010635 Homo sapiens miR-2116 stem-loop
+62130 80 0
+0 hsa-mir-2117 MI0010636 Homo sapiens miR-2117 stem-loop
+62210 80 0
+0 hsa-mir-548q MI0010637 Homo sapiens miR-548q stem-loop
+62290 100 0
+0 hsa-mir-2276 MI0011282 Homo sapiens miR-2276 stem-loop
+62390 89 0
+0 hsa-mir-2277 MI0011284 Homo sapiens miR-2277 stem-loop
+62479 93 0
+0 hsa-mir-2278 MI0011285 Homo sapiens miR-2278 stem-loop
+62572 96 0
+0 hsa-mir-2681 MI0012062 Homo sapiens miR-2681 stem-loop
+62668 105 0
+0 hsa-mir-2682 MI0012063 Homo sapiens miR-2682 stem-loop
+62773 110 0
+0 hsa-mir-711 MI0012488 Homo sapiens miR-711 stem-loop
+62883 76 0
+0 hsa-mir-718 MI0012489 Homo sapiens miR-718 stem-loop
+62959 70 0
+0 hsa-mir-2861 MI0013006 Homo sapiens miR-2861 stem-loop
+63029 90 0
+0 hsa-mir-2909 MI0013083 Homo sapiens miR-2909 stem-loop
+63119 69 0
+0 hsa-mir-3115 MI0014127 Homo sapiens miR-3115 stem-loop
+63188 68 0
+0 hsa-mir-3116-1 MI0014128 Homo sapiens miR-3116-1 stem-loop
+63256 74 0
+0 hsa-mir-3116-2 MI0014129 Homo sapiens miR-3116-2 stem-loop
+63330 68 0
+0 hsa-mir-3117 MI0014130 Homo sapiens miR-3117 stem-loop
+63398 78 0
+0 hsa-mir-3118-1 MI0014131 Homo sapiens miR-3118-1 stem-loop
+63476 75 0
+0 hsa-mir-3118-2 MI0014132 Homo sapiens miR-3118-2 stem-loop
+63551 73 0
+0 hsa-mir-3118-3 MI0014133 Homo sapiens miR-3118-3 stem-loop
+63624 75 0
+0 hsa-mir-3119-1 MI0014134 Homo sapiens miR-3119-1 stem-loop
+63699 85 0
+0 hsa-mir-3119-2 MI0014135 Homo sapiens miR-3119-2 stem-loop
+63784 85 0
+0 hsa-mir-3120 MI0014136 Homo sapiens miR-3120 stem-loop
+63869 81 0
+0 hsa-mir-3121 MI0014137 Homo sapiens miR-3121 stem-loop
+63950 77 0
+0 hsa-mir-3122 MI0014138 Homo sapiens miR-3122 stem-loop
+64027 73 0
+0 hsa-mir-3123 MI0014139 Homo sapiens miR-3123 stem-loop
+64100 75 0
+0 hsa-mir-3124 MI0014140 Homo sapiens miR-3124 stem-loop
+64175 67 0
+0 hsa-mir-548s MI0014141 Homo sapiens miR-548s stem-loop
+64242 82 0
+0 hsa-mir-3125 MI0014142 Homo sapiens miR-3125 stem-loop
+64324 78 0
+0 hsa-mir-3126 MI0014143 Homo sapiens miR-3126 stem-loop
+64402 74 0
+0 hsa-mir-3127 MI0014144 Homo sapiens miR-3127 stem-loop
+64476 76 0
+0 hsa-mir-3128 MI0014145 Homo sapiens miR-3128 stem-loop
+64552 66 0
+0 hsa-mir-3129 MI0014146 Homo sapiens miR-3129 stem-loop
+64618 76 0
+0 hsa-mir-3130-1 MI0014147 Homo sapiens miR-3130-1 stem-loop
+64694 75 0
+0 hsa-mir-3130-2 MI0014148 Homo sapiens miR-3130-2 stem-loop
+64769 75 0
+0 hsa-mir-3131 MI0014151 Homo sapiens miR-3131 stem-loop
+64844 63 0
+0 hsa-mir-3132 MI0014152 Homo sapiens miR-3132 stem-loop
+64907 75 0
+0 hsa-mir-3133 MI0014153 Homo sapiens miR-3133 stem-loop
+64982 78 0
+0 hsa-mir-378b MI0014154 Homo sapiens miR-378b stem-loop
+65060 57 0
+0 hsa-mir-3134 MI0014155 Homo sapiens miR-3134 stem-loop
+65117 74 0
+0 hsa-mir-3135a MI0014156 Homo sapiens miR-3135a stem-loop
+65191 77 0
+0 hsa-mir-466 MI0014157 Homo sapiens miR-466 stem-loop
+65268 84 0
+0 hsa-mir-3136 MI0014158 Homo sapiens miR-3136 stem-loop
+65352 78 0
+0 hsa-mir-544b MI0014159 Homo sapiens miR-544b stem-loop
+65430 78 0
+0 hsa-mir-3137 MI0014160 Homo sapiens miR-3137 stem-loop
+65508 75 0
+0 hsa-mir-3138 MI0014161 Homo sapiens miR-3138 stem-loop
+65583 82 0
+0 hsa-mir-3139 MI0014162 Homo sapiens miR-3139 stem-loop
+65665 76 0
+0 hsa-mir-3140 MI0014163 Homo sapiens miR-3140 stem-loop
+65741 90 0
+0 hsa-mir-548t MI0014164 Homo sapiens miR-548t stem-loop
+65831 74 0
+0 hsa-mir-3141 MI0014165 Homo sapiens miR-3141 stem-loop
+65905 61 0
+0 hsa-mir-3142 MI0014166 Homo sapiens miR-3142 stem-loop
+65966 82 0
+0 hsa-mir-3143 MI0014167 Homo sapiens miR-3143 stem-loop
+66048 63 0
+0 hsa-mir-548u MI0014168 Homo sapiens miR-548u stem-loop
+66111 81 0
+0 hsa-mir-3144 MI0014169 Homo sapiens miR-3144 stem-loop
+66192 79 0
+0 hsa-mir-3145 MI0014170 Homo sapiens miR-3145 stem-loop
+66271 82 0
+0 hsa-mir-1273c MI0014171 Homo sapiens miR-1273c stem-loop
+66353 77 0
+0 hsa-mir-3146 MI0014172 Homo sapiens miR-3146 stem-loop
+66430 79 0
+0 hsa-mir-3147 MI0014173 Homo sapiens miR-3147 stem-loop
+66509 66 0
+0 hsa-mir-548v MI0014174 Homo sapiens miR-548v stem-loop
+66575 80 0
+0 hsa-mir-3148 MI0014175 Homo sapiens miR-3148 stem-loop
+66655 77 0
+0 hsa-mir-3149 MI0014176 Homo sapiens miR-3149 stem-loop
+66732 83 0
+0 hsa-mir-3150a MI0014177 Homo sapiens miR-3150a stem-loop
+66815 80 0
+0 hsa-mir-3151 MI0014178 Homo sapiens miR-3151 stem-loop
+66895 76 0
+0 hsa-mir-3152 MI0014179 Homo sapiens miR-3152 stem-loop
+66971 74 0
+0 hsa-mir-3153 MI0014180 Homo sapiens miR-3153 stem-loop
+67045 82 0
+0 hsa-mir-3074 MI0014181 Homo sapiens miR-3074 stem-loop
+67127 81 0
+0 hsa-mir-3154 MI0014182 Homo sapiens miR-3154 stem-loop
+67208 84 0
+0 hsa-mir-3155a MI0014183 Homo sapiens miR-3155a stem-loop
+67292 82 0
+0 hsa-mir-3156-1 MI0014184 Homo sapiens miR-3156-1 stem-loop
+67374 75 0
+0 hsa-mir-3157 MI0014185 Homo sapiens miR-3157 stem-loop
+67449 85 0
+0 hsa-mir-3158-1 MI0014186 Homo sapiens miR-3158-1 stem-loop
+67534 81 0
+0 hsa-mir-3158-2 MI0014187 Homo sapiens miR-3158-2 stem-loop
+67615 81 0
+0 hsa-mir-3159 MI0014188 Homo sapiens miR-3159 stem-loop
+67696 74 0
+0 hsa-mir-3160-1 MI0014189 Homo sapiens miR-3160-1 stem-loop
+67770 85 0
+0 hsa-mir-3160-2 MI0014190 Homo sapiens miR-3160-2 stem-loop
+67855 81 0
+0 hsa-mir-3161 MI0014191 Homo sapiens miR-3161 stem-loop
+67936 77 0
+0 hsa-mir-3162 MI0014192 Homo sapiens miR-3162 stem-loop
+68013 82 0
+0 hsa-mir-3163 MI0014193 Homo sapiens miR-3163 stem-loop
+68095 73 0
+0 hsa-mir-3164 MI0014194 Homo sapiens miR-3164 stem-loop
+68168 83 0
+0 hsa-mir-3165 MI0014195 Homo sapiens miR-3165 stem-loop
+68251 75 0
+0 hsa-mir-3166 MI0014196 Homo sapiens miR-3166 stem-loop
+68326 92 0
+0 hsa-mir-1260b MI0014197 Homo sapiens miR-1260b stem-loop
+68418 89 0
+0 hsa-mir-3167 MI0014198 Homo sapiens miR-3167 stem-loop
+68507 85 0
+0 hsa-mir-3168 MI0014199 Homo sapiens miR-3168 stem-loop
+68592 82 0
+0 hsa-mir-3169 MI0014200 Homo sapiens miR-3169 stem-loop
+68674 83 0
+0 hsa-mir-3170 MI0014201 Homo sapiens miR-3170 stem-loop
+68757 77 0
+0 hsa-mir-3171 MI0014202 Homo sapiens miR-3171 stem-loop
+68834 74 0
+0 hsa-mir-3173 MI0014204 Homo sapiens miR-3173 stem-loop
+68908 68 0
+0 hsa-mir-1193 MI0014205 Homo sapiens miR-1193 stem-loop
+68976 78 0
+0 hsa-mir-323b MI0014206 Homo sapiens miR-323b stem-loop
+69054 82 0
+0 hsa-mir-3118-4 MI0014207 Homo sapiens miR-3118-4 stem-loop
+69136 75 0
+0 hsa-mir-3174 MI0014208 Homo sapiens miR-3174 stem-loop
+69211 87 0
+0 hsa-mir-3175 MI0014209 Homo sapiens miR-3175 stem-loop
+69298 77 0
+0 hsa-mir-3176 MI0014210 Homo sapiens miR-3176 stem-loop
+69375 90 0
+0 hsa-mir-3177 MI0014211 Homo sapiens miR-3177 stem-loop
+69465 82 0
+0 hsa-mir-3178 MI0014212 Homo sapiens miR-3178 stem-loop
+69547 84 0
+0 hsa-mir-3179-1 MI0014213 Homo sapiens miR-3179-1 stem-loop
+69631 84 0
+0 hsa-mir-3180-1 MI0014214 Homo sapiens miR-3180-1 stem-loop
+69715 94 0
+0 hsa-mir-3180-2 MI0014215 Homo sapiens miR-3180-2 stem-loop
+69809 88 0
+0 hsa-mir-3179-2 MI0014216 Homo sapiens miR-3179-2 stem-loop
+69897 84 0
+0 hsa-mir-3180-3 MI0014217 Homo sapiens miR-3180-3 stem-loop
+69981 94 0
+0 hsa-mir-3179-3 MI0014221 Homo sapiens miR-3179-3 stem-loop
+70075 84 0
+0 hsa-mir-548w MI0014222 Homo sapiens miR-548w stem-loop
+70159 74 0
+0 hsa-mir-3181 MI0014223 Homo sapiens miR-3181 stem-loop
+70233 73 0
+0 hsa-mir-3182 MI0014224 Homo sapiens miR-3182 stem-loop
+70306 63 0
+0 hsa-mir-3183 MI0014225 Homo sapiens miR-3183 stem-loop
+70369 84 0
+0 hsa-mir-3184 MI0014226 Homo sapiens miR-3184 stem-loop
+70453 75 0
+0 hsa-mir-3185 MI0014227 Homo sapiens miR-3185 stem-loop
+70528 68 0
+0 hsa-mir-3065 MI0014228 Homo sapiens miR-3065 stem-loop
+70596 79 0
+0 hsa-mir-3186 MI0014229 Homo sapiens miR-3186 stem-loop
+70675 85 0
+0 hsa-mir-3156-2 MI0014230 Homo sapiens miR-3156-2 stem-loop
+70760 77 0
+0 hsa-mir-3187 MI0014231 Homo sapiens miR-3187 stem-loop
+70837 70 0
+0 hsa-mir-3188 MI0014232 Homo sapiens miR-3188 stem-loop
+70907 85 0
+0 hsa-mir-3189 MI0014233 Homo sapiens miR-3189 stem-loop
+70992 73 0
+0 hsa-mir-320e MI0014234 Homo sapiens miR-320e stem-loop
+71065 53 0
+0 hsa-mir-3190 MI0014235 Homo sapiens miR-3190 stem-loop
+71118 80 0
+0 hsa-mir-3191 MI0014236 Homo sapiens miR-3191 stem-loop
+71198 76 0
+0 hsa-mir-3192 MI0014237 Homo sapiens miR-3192 stem-loop
+71274 77 0
+0 hsa-mir-3193 MI0014238 Homo sapiens miR-3193 stem-loop
+71351 55 0
+0 hsa-mir-3194 MI0014239 Homo sapiens miR-3194 stem-loop
+71406 73 0
+0 hsa-mir-3195 MI0014240 Homo sapiens miR-3195 stem-loop
+71479 84 0
+0 hsa-mir-3196 MI0014241 Homo sapiens miR-3196 stem-loop
+71563 64 0
+0 hsa-mir-3156-3 MI0014242 Homo sapiens miR-3156-3 stem-loop
+71627 77 0
+0 hsa-mir-3118-5 MI0014243 Homo sapiens miR-3118-5 stem-loop
+71704 76 0
+0 hsa-mir-548x MI0014244 Homo sapiens miR-548x stem-loop
+71780 75 0
+0 hsa-mir-3197 MI0014245 Homo sapiens miR-3197 stem-loop
+71855 73 0
+0 hsa-mir-3198-1 MI0014246 Homo sapiens miR-3198-1 stem-loop
+71928 80 0
+0 hsa-mir-3199-1 MI0014247 Homo sapiens miR-3199-1 stem-loop
+72008 88 0
+0 hsa-mir-3199-2 MI0014248 Homo sapiens miR-3199-2 stem-loop
+72096 86 0
+0 hsa-mir-3200 MI0014249 Homo sapiens miR-3200 stem-loop
+72182 85 0
+0 hsa-mir-3201 MI0014250 Homo sapiens miR-3201 stem-loop
+72267 52 0
+0 hsa-mir-514b MI0014251 Homo sapiens miR-514b stem-loop
+72319 80 0
+0 hsa-mir-3202-1 MI0014252 Homo sapiens miR-3202-1 stem-loop
+72399 81 0
+0 hsa-mir-3202-2 MI0014253 Homo sapiens miR-3202-2 stem-loop
+72480 79 0
+0 hsa-mir-1273d MI0014254 Homo sapiens miR-1273d stem-loop
+72559 86 0
+0 hsa-mir-4295 MI0015822 Homo sapiens miR-4295 stem-loop
+72645 85 0
+0 hsa-mir-4296 MI0015823 Homo sapiens miR-4296 stem-loop
+72730 88 0
+0 hsa-mir-4297 MI0015824 Homo sapiens miR-4297 stem-loop
+72818 76 0
+0 hsa-mir-378c MI0015825 Homo sapiens miR-378c stem-loop
+72894 81 0
+0 hsa-mir-4293 MI0015826 Homo sapiens miR-4293 stem-loop
+72975 78 0
+0 hsa-mir-4294 MI0015827 Homo sapiens miR-4294 stem-loop
+73053 76 0
+0 hsa-mir-4301 MI0015828 Homo sapiens miR-4301 stem-loop
+73129 66 0
+0 hsa-mir-4299 MI0015829 Homo sapiens miR-4299 stem-loop
+73195 72 0
+0 hsa-mir-4298 MI0015830 Homo sapiens miR-4298 stem-loop
+73267 73 0
+0 hsa-mir-4300 MI0015831 Homo sapiens miR-4300 stem-loop
+73340 96 0
+0 hsa-mir-4304 MI0015832 Homo sapiens miR-4304 stem-loop
+73436 62 0
+0 hsa-mir-4302 MI0015833 Homo sapiens miR-4302 stem-loop
+73498 60 0
+0 hsa-mir-4303 MI0015834 Homo sapiens miR-4303 stem-loop
+73558 66 0
+0 hsa-mir-4305 MI0015835 Homo sapiens miR-4305 stem-loop
+73624 102 0
+0 hsa-mir-4306 MI0015836 Homo sapiens miR-4306 stem-loop
+73726 91 0
+0 hsa-mir-4309 MI0015837 Homo sapiens miR-4309 stem-loop
+73817 83 0
+0 hsa-mir-4307 MI0015838 Homo sapiens miR-4307 stem-loop
+73900 84 0
+0 hsa-mir-4308 MI0015839 Homo sapiens miR-4308 stem-loop
+73984 81 0
+0 hsa-mir-4310 MI0015840 Homo sapiens miR-4310 stem-loop
+74065 57 0
+0 hsa-mir-4311 MI0015841 Homo sapiens miR-4311 stem-loop
+74122 100 0
+0 hsa-mir-4312 MI0015842 Homo sapiens miR-4312 stem-loop
+74222 76 0
+0 hsa-mir-4313 MI0015843 Homo sapiens miR-4313 stem-loop
+74298 101 0
+0 hsa-mir-4315-1 MI0015844 Homo sapiens miR-4315-1 stem-loop
+74399 73 0
+0 hsa-mir-4316 MI0015845 Homo sapiens miR-4316 stem-loop
+74472 71 0
+0 hsa-mir-4314 MI0015846 Homo sapiens miR-4314 stem-loop
+74543 92 0
+0 hsa-mir-4318 MI0015847 Homo sapiens miR-4318 stem-loop
+74635 81 0
+0 hsa-mir-4319 MI0015848 Homo sapiens miR-4319 stem-loop
+74716 85 0
+0 hsa-mir-4320 MI0015849 Homo sapiens miR-4320 stem-loop
+74801 65 0
+0 hsa-mir-4317 MI0015850 Homo sapiens miR-4317 stem-loop
+74866 65 0
+0 hsa-mir-4322 MI0015851 Homo sapiens miR-4322 stem-loop
+74931 73 0
+0 hsa-mir-4321 MI0015852 Homo sapiens miR-4321 stem-loop
+75004 80 0
+0 hsa-mir-4323 MI0015853 Homo sapiens miR-4323 stem-loop
+75084 69 0
+0 hsa-mir-4324 MI0015854 Homo sapiens miR-4324 stem-loop
+75153 72 0
+0 hsa-mir-4256 MI0015855 Homo sapiens miR-4256 stem-loop
+75225 64 0
+0 hsa-mir-4257 MI0015856 Homo sapiens miR-4257 stem-loop
+75289 86 0
+0 hsa-mir-4258 MI0015857 Homo sapiens miR-4258 stem-loop
+75375 91 0
+0 hsa-mir-4259 MI0015858 Homo sapiens miR-4259 stem-loop
+75466 101 0
+0 hsa-mir-4260 MI0015859 Homo sapiens miR-4260 stem-loop
+75567 67 0
+0 hsa-mir-4253 MI0015860 Homo sapiens miR-4253 stem-loop
+75634 68 0
+0 hsa-mir-4251 MI0015861 Homo sapiens miR-4251 stem-loop
+75702 61 0
+0 hsa-mir-4254 MI0015862 Homo sapiens miR-4254 stem-loop
+75763 76 0
+0 hsa-mir-4255 MI0015863 Homo sapiens miR-4255 stem-loop
+75839 72 0
+0 hsa-mir-4252 MI0015864 Homo sapiens miR-4252 stem-loop
+75911 63 0
+0 hsa-mir-4325 MI0015865 Homo sapiens miR-4325 stem-loop
+75974 90 0
+0 hsa-mir-4326 MI0015866 Homo sapiens miR-4326 stem-loop
+76064 59 0
+0 hsa-mir-4327 MI0015867 Homo sapiens miR-4327 stem-loop
+76123 85 0
+0 hsa-mir-4261 MI0015868 Homo sapiens miR-4261 stem-loop
+76208 58 0
+0 hsa-mir-4265 MI0015869 Homo sapiens miR-4265 stem-loop
+76266 99 0
+0 hsa-mir-4266 MI0015870 Homo sapiens miR-4266 stem-loop
+76365 55 0
+0 hsa-mir-4267 MI0015871 Homo sapiens miR-4267 stem-loop
+76420 82 0
+0 hsa-mir-4262 MI0015872 Homo sapiens miR-4262 stem-loop
+76502 54 0
+0 hsa-mir-2355 MI0015873 Homo sapiens miR-2355 stem-loop
+76556 87 0
+0 hsa-mir-4268 MI0015874 Homo sapiens miR-4268 stem-loop
+76643 64 0
+0 hsa-mir-4269 MI0015875 Homo sapiens miR-4269 stem-loop
+76707 84 0
+0 hsa-mir-4263 MI0015876 Homo sapiens miR-4263 stem-loop
+76791 83 0
+0 hsa-mir-4264 MI0015877 Homo sapiens miR-4264 stem-loop
+76874 66 0
+0 hsa-mir-4270 MI0015878 Homo sapiens miR-4270 stem-loop
+76940 70 0
+0 hsa-mir-4271 MI0015879 Homo sapiens miR-4271 stem-loop
+77010 67 0
+0 hsa-mir-4272 MI0015880 Homo sapiens miR-4272 stem-loop
+77077 64 0
+0 hsa-mir-4273 MI0015881 Homo sapiens miR-4273 stem-loop
+77141 84 0
+0 hsa-mir-4276 MI0015882 Homo sapiens miR-4276 stem-loop
+77225 70 0
+0 hsa-mir-4275 MI0015883 Homo sapiens miR-4275 stem-loop
+77295 87 0
+0 hsa-mir-4274 MI0015884 Homo sapiens miR-4274 stem-loop
+77382 91 0
+0 hsa-mir-4281 MI0015885 Homo sapiens miR-4281 stem-loop
+77473 62 0
+0 hsa-mir-4277 MI0015886 Homo sapiens miR-4277 stem-loop
+77535 84 0
+0 hsa-mir-4279 MI0015887 Homo sapiens miR-4279 stem-loop
+77619 58 0
+0 hsa-mir-4278 MI0015888 Homo sapiens miR-4278 stem-loop
+77677 69 0
+0 hsa-mir-4280 MI0015889 Homo sapiens miR-4280 stem-loop
+77746 76 0
+0 hsa-mir-4282 MI0015890 Homo sapiens miR-4282 stem-loop
+77822 67 0
+0 hsa-mir-4285 MI0015891 Homo sapiens miR-4285 stem-loop
+77889 85 0
+0 hsa-mir-4283-1 MI0015892 Homo sapiens miR-4283-1 stem-loop
+77974 80 0
+0 hsa-mir-4284 MI0015893 Homo sapiens miR-4284 stem-loop
+78054 81 0
+0 hsa-mir-4286 MI0015894 Homo sapiens miR-4286 stem-loop
+78135 93 0
+0 hsa-mir-4287 MI0015895 Homo sapiens miR-4287 stem-loop
+78228 78 0
+0 hsa-mir-4288 MI0015896 Homo sapiens miR-4288 stem-loop
+78306 67 0
+0 hsa-mir-4292 MI0015897 Homo sapiens miR-4292 stem-loop
+78373 67 0
+0 hsa-mir-4289 MI0015898 Homo sapiens miR-4289 stem-loop
+78440 70 0
+0 hsa-mir-4290 MI0015899 Homo sapiens miR-4290 stem-loop
+78510 95 0
+0 hsa-mir-4291 MI0015900 Homo sapiens miR-4291 stem-loop
+78605 65 0
+0 hsa-mir-4329 MI0015901 Homo sapiens miR-4329 stem-loop
+78670 71 0
+0 hsa-mir-4330 MI0015902 Homo sapiens miR-4330 stem-loop
+78741 105 0
+0 hsa-mir-500b MI0015903 Homo sapiens miR-500b stem-loop
+78846 79 0
+0 hsa-mir-4328 MI0015904 Homo sapiens miR-4328 stem-loop
+78925 56 0
+0 hsa-mir-1184-2 MI0015971 Homo sapiens miR-1184-2 stem-loop
+78981 99 0
+0 hsa-mir-1184-3 MI0015972 Homo sapiens miR-1184-3 stem-loop
+79080 99 0
+0 hsa-mir-1233-2 MI0015973 Homo sapiens miR-1233-2 stem-loop
+79179 82 0
+0 hsa-mir-1244-2 MI0015974 Homo sapiens miR-1244-2 stem-loop
+79261 85 0
+0 hsa-mir-1244-3 MI0015975 Homo sapiens miR-1244-3 stem-loop
+79346 85 0
+0 hsa-mir-1270-2 MI0015976 Homo sapiens miR-1270-2 stem-loop
+79431 83 0
+0 hsa-mir-1972-2 MI0015977 Homo sapiens miR-1972-2 stem-loop
+79514 77 0
+0 hsa-mir-1302-9 MI0015978 Homo sapiens miR-1302-9 stem-loop
+79591 138 0
+0 hsa-mir-1302-10 MI0015979 Homo sapiens miR-1302-10 stem-loop
+79729 138 0
+0 hsa-mir-1302-11 MI0015980 Homo sapiens miR-1302-11 stem-loop
+79867 138 0
+0 hsa-mir-3118-6 MI0015981 Homo sapiens miR-3118-6 stem-loop
+80005 75 0
+0 hsa-mir-4283-2 MI0015982 Homo sapiens miR-4283-2 stem-loop
+80080 80 0
+0 hsa-mir-4315-2 MI0015983 Homo sapiens miR-4315-2 stem-loop
+80160 73 0
+0 hsa-mir-3605 MI0015995 Homo sapiens miR-3605 stem-loop
+80233 100 0
+0 hsa-mir-3606 MI0015996 Homo sapiens miR-3606 stem-loop
+80333 63 0
+0 hsa-mir-3607 MI0015997 Homo sapiens miR-3607 stem-loop
+80396 79 0
+0 hsa-mir-3609 MI0015999 Homo sapiens miR-3609 stem-loop
+80475 80 0
+0 hsa-mir-3610 MI0016000 Homo sapiens miR-3610 stem-loop
+80555 73 0
+0 hsa-mir-3611 MI0016001 Homo sapiens miR-3611 stem-loop
+80628 83 0
+0 hsa-mir-3612 MI0016002 Homo sapiens miR-3612 stem-loop
+80711 87 0
+0 hsa-mir-3613 MI0016003 Homo sapiens miR-3613 stem-loop
+80798 87 0
+0 hsa-mir-3614 MI0016004 Homo sapiens miR-3614 stem-loop
+80885 86 0
+0 hsa-mir-3615 MI0016005 Homo sapiens miR-3615 stem-loop
+80971 87 0
+0 hsa-mir-3616 MI0016006 Homo sapiens miR-3616 stem-loop
+81058 92 0
+0 hsa-mir-3617 MI0016007 Homo sapiens miR-3617 stem-loop
+81150 79 0
+0 hsa-mir-3618 MI0016008 Homo sapiens miR-3618 stem-loop
+81229 88 0
+0 hsa-mir-3619 MI0016009 Homo sapiens miR-3619 stem-loop
+81317 83 0
+0 hsa-mir-23c MI0016010 Homo sapiens miR-23c stem-loop
+81400 100 0
+0 hsa-mir-3620 MI0016011 Homo sapiens miR-3620 stem-loop
+81500 79 0
+0 hsa-mir-3621 MI0016012 Homo sapiens miR-3621 stem-loop
+81579 85 0
+0 hsa-mir-3622a MI0016013 Homo sapiens miR-3622a stem-loop
+81664 83 0
+0 hsa-mir-3622b MI0016014 Homo sapiens miR-3622b stem-loop
+81747 95 0
+0 hsa-mir-3646 MI0016046 Homo sapiens miR-3646 stem-loop
+81842 84 0
+0 hsa-mir-3648 MI0016048 Homo sapiens miR-3648 stem-loop
+81926 180 0
+0 hsa-mir-3649 MI0016049 Homo sapiens miR-3649 stem-loop
+82106 66 0
+0 hsa-mir-3650 MI0016050 Homo sapiens miR-3650 stem-loop
+82172 60 0
+0 hsa-mir-3651 MI0016051 Homo sapiens miR-3651 stem-loop
+82232 90 0
+0 hsa-mir-3652 MI0016052 Homo sapiens miR-3652 stem-loop
+82322 131 0
+0 hsa-mir-3653 MI0016053 Homo sapiens miR-3653 stem-loop
+82453 110 0
+0 hsa-mir-3654 MI0016054 Homo sapiens miR-3654 stem-loop
+82563 56 0
+0 hsa-mir-3655 MI0016055 Homo sapiens miR-3655 stem-loop
+82619 83 0
+0 hsa-mir-3656 MI0016056 Homo sapiens miR-3656 stem-loop
+82702 69 0
+0 hsa-mir-3657 MI0016057 Homo sapiens miR-3657 stem-loop
+82771 117 0
+0 hsa-mir-3658 MI0016058 Homo sapiens miR-3658 stem-loop
+82888 56 0
+0 hsa-mir-1273e MI0016059 Homo sapiens miR-1273e stem-loop
+82944 102 0
+0 hsa-mir-3659 MI0016060 Homo sapiens miR-3659 stem-loop
+83046 99 0
+0 hsa-mir-3660 MI0016061 Homo sapiens miR-3660 stem-loop
+83145 100 0
+0 hsa-mir-3661 MI0016062 Homo sapiens miR-3661 stem-loop
+83245 96 0
+0 hsa-mir-3662 MI0016063 Homo sapiens miR-3662 stem-loop
+83341 95 0
+0 hsa-mir-3663 MI0016064 Homo sapiens miR-3663 stem-loop
+83436 97 0
+0 hsa-mir-3664 MI0016065 Homo sapiens miR-3664 stem-loop
+83533 99 0
+0 hsa-mir-3665 MI0016066 Homo sapiens miR-3665 stem-loop
+83632 105 0
+0 hsa-mir-3666 MI0016067 Homo sapiens miR-3666 stem-loop
+83737 111 0
+0 hsa-mir-3667 MI0016068 Homo sapiens miR-3667 stem-loop
+83848 74 0
+0 hsa-mir-3668 MI0016069 Homo sapiens miR-3668 stem-loop
+83922 75 0
+0 hsa-mir-3669 MI0016070 Homo sapiens miR-3669 stem-loop
+83997 81 0
+0 hsa-mir-3670-1 MI0016071 Homo sapiens miR-3670-1 stem-loop
+84078 65 0
+0 hsa-mir-3671 MI0016072 Homo sapiens miR-3671 stem-loop
+84143 88 0
+0 hsa-mir-3672 MI0016073 Homo sapiens miR-3672 stem-loop
+84231 82 0
+0 hsa-mir-3673 MI0016074 Homo sapiens miR-3673 stem-loop
+84313 102 0
+0 hsa-mir-3674 MI0016075 Homo sapiens miR-3674 stem-loop
+84415 68 0
+0 hsa-mir-3675 MI0016076 Homo sapiens miR-3675 stem-loop
+84483 73 0
+0 hsa-mir-3676 MI0016077 Homo sapiens miR-3676 stem-loop
+84556 85 0
+0 hsa-mir-3677 MI0016078 Homo sapiens miR-3677 stem-loop
+84641 60 0
+0 hsa-mir-3678 MI0016079 Homo sapiens miR-3678 stem-loop
+84701 94 0
+0 hsa-mir-3679 MI0016080 Homo sapiens miR-3679 stem-loop
+84795 68 0
+0 hsa-mir-3680-1 MI0016081 Homo sapiens miR-3680-1 stem-loop
+84863 87 0
+0 hsa-mir-3681 MI0016082 Homo sapiens miR-3681 stem-loop
+84950 72 0
+0 hsa-mir-3682 MI0016083 Homo sapiens miR-3682 stem-loop
+85022 84 0
+0 hsa-mir-3683 MI0016084 Homo sapiens miR-3683 stem-loop
+85106 82 0
+0 hsa-mir-3684 MI0016085 Homo sapiens miR-3684 stem-loop
+85188 74 0
+0 hsa-mir-3685 MI0016086 Homo sapiens miR-3685 stem-loop
+85262 62 0
+0 hsa-mir-3686 MI0016087 Homo sapiens miR-3686 stem-loop
+85324 86 0
+0 hsa-mir-3687 MI0016088 Homo sapiens miR-3687 stem-loop
+85410 61 0
+0 hsa-mir-3688-1 MI0016089 Homo sapiens miR-3688-1 stem-loop
+85471 93 0
+0 hsa-mir-3689a MI0016090 Homo sapiens miR-3689a stem-loop
+85564 78 0
+0 hsa-mir-3690 MI0016091 Homo sapiens miR-3690 stem-loop
+85642 75 0
+0 hsa-mir-3691 MI0016092 Homo sapiens miR-3691 stem-loop
+85717 90 0
+0 hsa-mir-3692 MI0016093 Homo sapiens miR-3692 stem-loop
+85807 69 0
+0 hsa-mir-3713 MI0016134 Homo sapiens miR-3713 stem-loop
+85876 45 0
+0 hsa-mir-3714 MI0016135 Homo sapiens miR-3714 stem-loop
+85921 65 0
+0 hsa-mir-3180-4 MI0016408 Homo sapiens miR-3180-4 stem-loop
+85986 153 0
+0 hsa-mir-3180-5 MI0016409 Homo sapiens miR-3180-5 stem-loop
+86139 153 0
+0 hsa-mir-3907 MI0016410 Homo sapiens miR-3907 stem-loop
+86292 151 0
+0 hsa-mir-3689b MI0016411 Homo sapiens miR-3689b stem-loop
+86443 148 0
+0 hsa-mir-3908 MI0016412 Homo sapiens miR-3908 stem-loop
+86591 126 0
+0 hsa-mir-3909 MI0016413 Homo sapiens miR-3909 stem-loop
+86717 119 0
+0 hsa-mir-3910-1 MI0016414 Homo sapiens miR-3910-1 stem-loop
+86836 111 0
+0 hsa-mir-3911 MI0016415 Homo sapiens miR-3911 stem-loop
+86947 109 0
+0 hsa-mir-3912 MI0016416 Homo sapiens miR-3912 stem-loop
+87056 105 0
+0 hsa-mir-3913-1 MI0016417 Homo sapiens miR-3913-1 stem-loop
+87161 102 0
+0 hsa-mir-3913-2 MI0016418 Homo sapiens miR-3913-2 stem-loop
+87263 100 0
+0 hsa-mir-3914-1 MI0016419 Homo sapiens miR-3914-1 stem-loop
+87363 99 0
+0 hsa-mir-3915 MI0016420 Homo sapiens miR-3915 stem-loop
+87462 97 0
+0 hsa-mir-3914-2 MI0016421 Homo sapiens miR-3914-2 stem-loop
+87559 95 0
+0 hsa-mir-3916 MI0016422 Homo sapiens miR-3916 stem-loop
+87654 94 0
+0 hsa-mir-3917 MI0016423 Homo sapiens miR-3917 stem-loop
+87748 93 0
+0 hsa-mir-3918 MI0016424 Homo sapiens miR-3918 stem-loop
+87841 93 0
+0 hsa-mir-3919 MI0016425 Homo sapiens miR-3919 stem-loop
+87934 89 0
+0 hsa-mir-3150b MI0016426 Homo sapiens miR-3150b stem-loop
+88023 86 0
+0 hsa-mir-3920 MI0016427 Homo sapiens miR-3920 stem-loop
+88109 86 0
+0 hsa-mir-3921 MI0016428 Homo sapiens miR-3921 stem-loop
+88195 85 0
+0 hsa-mir-3922 MI0016429 Homo sapiens miR-3922 stem-loop
+88280 84 0
+0 hsa-mir-3923 MI0016430 Homo sapiens miR-3923 stem-loop
+88364 83 0
+0 hsa-mir-3910-2 MI0016431 Homo sapiens miR-3910-2 stem-loop
+88447 82 0
+0 hsa-mir-3924 MI0016432 Homo sapiens miR-3924 stem-loop
+88529 81 0
+0 hsa-mir-3925 MI0016433 Homo sapiens miR-3925 stem-loop
+88610 77 0
+0 hsa-mir-3926-1 MI0016434 Homo sapiens miR-3926-1 stem-loop
+88687 73 0
+0 hsa-mir-3927 MI0016435 Homo sapiens miR-3927 stem-loop
+88760 71 0
+0 hsa-mir-676 MI0016436 Homo sapiens miR-676 stem-loop
+88831 67 0
+0 hsa-mir-3926-2 MI0016437 Homo sapiens miR-3926-2 stem-loop
+88898 63 0
+0 hsa-mir-3928 MI0016438 Homo sapiens miR-3928 stem-loop
+88961 58 0
+0 hsa-mir-3929 MI0016439 Homo sapiens miR-3929 stem-loop
+89019 55 0
+0 hsa-mir-3934 MI0016590 Homo sapiens miR-3934 stem-loop
+89074 107 0
+0 hsa-mir-3935 MI0016591 Homo sapiens miR-3935 stem-loop
+89181 104 0
+0 hsa-mir-3936 MI0016592 Homo sapiens miR-3936 stem-loop
+89285 110 0
+0 hsa-mir-3937 MI0016593 Homo sapiens miR-3937 stem-loop
+89395 106 0
+0 hsa-mir-3938 MI0016594 Homo sapiens miR-3938 stem-loop
+89501 103 0
+0 hsa-mir-548y MI0016595 Homo sapiens miR-548y stem-loop
+89604 110 0
+0 hsa-mir-3939 MI0016596 Homo sapiens miR-3939 stem-loop
+89714 106 0
+0 hsa-mir-3940 MI0016597 Homo sapiens miR-3940 stem-loop
+89820 102 0
+0 hsa-mir-3941 MI0016598 Homo sapiens miR-3941 stem-loop
+89922 103 0
+0 hsa-mir-3942 MI0016599 Homo sapiens miR-3942 stem-loop
+90025 109 0
+0 hsa-mir-3943 MI0016600 Homo sapiens miR-3943 stem-loop
+90134 100 0
+0 hsa-mir-3944 MI0016601 Homo sapiens miR-3944 stem-loop
+90234 108 0
+0 hsa-mir-3945 MI0016602 Homo sapiens miR-3945 stem-loop
+90342 98 0
+0 hsa-mir-374c MI0016684 Homo sapiens miR-374c stem-loop
+90440 70 0
+0 hsa-mir-642b MI0016685 Homo sapiens miR-642b stem-loop
+90510 77 0
+0 hsa-mir-550b-1 MI0016686 Homo sapiens miR-550b-1 stem-loop
+90587 97 0
+0 hsa-mir-550b-2 MI0016687 Homo sapiens miR-550b-2 stem-loop
+90684 97 0
+0 hsa-mir-548z MI0016688 Homo sapiens miR-548z stem-loop
+90781 97 0
+0 hsa-mir-548aa-1 MI0016689 Homo sapiens miR-548aa-1 stem-loop
+90878 97 0
+0 hsa-mir-548aa-2 MI0016690 Homo sapiens miR-548aa-2 stem-loop
+90975 97 0
+0 hsa-mir-548o-2 MI0016746 Homo sapiens miR-548o-2 stem-loop
+91072 70 0
+0 hsa-mir-1254-2 MI0016747 Homo sapiens miR-1254-2 stem-loop
+91142 63 0
+0 hsa-mir-1268b MI0016748 Homo sapiens miR-1268b stem-loop
+91205 50 0
+0 hsa-mir-378d-1 MI0016749 Homo sapiens miR-378d-1 stem-loop
+91255 54 0
+0 hsa-mir-378e MI0016750 Homo sapiens miR-378e stem-loop
+91309 79 0
+0 hsa-mir-548h-5 MI0016751 Homo sapiens miR-548h-5 stem-loop
+91388 60 0
+0 hsa-mir-548ab MI0016752 Homo sapiens miR-548ab stem-loop
+91448 84 0
+0 hsa-mir-4417 MI0016753 Homo sapiens miR-4417 stem-loop
+91532 73 0
+0 hsa-mir-4418 MI0016754 Homo sapiens miR-4418 stem-loop
+91605 62 0
+0 hsa-mir-4419a MI0016755 Homo sapiens miR-4419a stem-loop
+91667 77 0
+0 hsa-mir-378f MI0016756 Homo sapiens miR-378f stem-loop
+91744 78 0
+0 hsa-mir-4420 MI0016757 Homo sapiens miR-4420 stem-loop
+91822 77 0
+0 hsa-mir-4421 MI0016758 Homo sapiens miR-4421 stem-loop
+91899 69 0
+0 hsa-mir-4422 MI0016759 Homo sapiens miR-4422 stem-loop
+91968 83 0
+0 hsa-mir-4423 MI0016760 Homo sapiens miR-4423 stem-loop
+92051 80 0
+0 hsa-mir-378g MI0016761 Homo sapiens miR-378g stem-loop
+92131 41 0
+0 hsa-mir-548ac MI0016762 Homo sapiens miR-548ac stem-loop
+92172 88 0
+0 hsa-mir-4424 MI0016763 Homo sapiens miR-4424 stem-loop
+92260 86 0
+0 hsa-mir-4425 MI0016764 Homo sapiens miR-4425 stem-loop
+92346 84 0
+0 hsa-mir-4426 MI0016765 Homo sapiens miR-4426 stem-loop
+92430 63 0
+0 hsa-mir-4427 MI0016766 Homo sapiens miR-4427 stem-loop
+92493 68 0
+0 hsa-mir-4428 MI0016767 Homo sapiens miR-4428 stem-loop
+92561 73 0
+0 hsa-mir-4429 MI0016768 Homo sapiens miR-4429 stem-loop
+92634 73 0
+0 hsa-mir-4430 MI0016769 Homo sapiens miR-4430 stem-loop
+92707 49 0
+0 hsa-mir-548ad MI0016770 Homo sapiens miR-548ad stem-loop
+92756 82 0
+0 hsa-mir-4431 MI0016771 Homo sapiens miR-4431 stem-loop
+92838 94 0
+0 hsa-mir-4432 MI0016772 Homo sapiens miR-4432 stem-loop
+92932 84 0
+0 hsa-mir-4433 MI0016773 Homo sapiens miR-4433 stem-loop
+93016 81 0
+0 hsa-mir-4434 MI0016774 Homo sapiens miR-4434 stem-loop
+93097 53 0
+0 hsa-mir-4435-1 MI0016775 Homo sapiens miR-4435-1 stem-loop
+93150 80 0
+0 hsa-mir-4436a MI0016776 Homo sapiens miR-4436a stem-loop
+93230 85 0
+0 hsa-mir-4435-2 MI0016777 Homo sapiens miR-4435-2 stem-loop
+93315 74 0
+0 hsa-mir-4437 MI0016778 Homo sapiens miR-4437 stem-loop
+93389 60 0
+0 hsa-mir-548ae-1 MI0016779 Homo sapiens miR-548ae-1 stem-loop
+93449 70 0
+0 hsa-mir-548ae-2 MI0016780 Homo sapiens miR-548ae-2 stem-loop
+93519 67 0
+0 hsa-mir-4438 MI0016781 Homo sapiens miR-4438 stem-loop
+93586 93 0
+0 hsa-mir-4439 MI0016782 Homo sapiens miR-4439 stem-loop
+93679 80 0
+0 hsa-mir-4440 MI0016783 Homo sapiens miR-4440 stem-loop
+93759 98 0
+0 hsa-mir-4441 MI0016784 Homo sapiens miR-4441 stem-loop
+93857 100 0
+0 hsa-mir-4442 MI0016785 Homo sapiens miR-4442 stem-loop
+93957 67 0
+0 hsa-mir-4443 MI0016786 Homo sapiens miR-4443 stem-loop
+94024 53 0
+0 hsa-mir-4444-1 MI0016787 Homo sapiens miR-4444-1 stem-loop
+94077 74 0
+0 hsa-mir-4445 MI0016788 Homo sapiens miR-4445 stem-loop
+94151 70 0
+0 hsa-mir-4446 MI0016789 Homo sapiens miR-4446 stem-loop
+94221 67 0
+0 hsa-mir-4447 MI0016790 Homo sapiens miR-4447 stem-loop
+94288 91 0
+0 hsa-mir-4448 MI0016791 Homo sapiens miR-4448 stem-loop
+94379 86 0
+0 hsa-mir-4449 MI0016792 Homo sapiens miR-4449 stem-loop
+94465 66 0
+0 hsa-mir-548ag-1 MI0016793 Homo sapiens miR-548ag-1 stem-loop
+94531 66 0
+0 hsa-mir-548ag-2 MI0016794 Homo sapiens miR-548ag-2 stem-loop
+94597 64 0
+0 hsa-mir-4450 MI0016795 Homo sapiens miR-4450 stem-loop
+94661 65 0
+0 hsa-mir-548ah MI0016796 Homo sapiens miR-548ah stem-loop
+94726 76 0
+0 hsa-mir-4451 MI0016797 Homo sapiens miR-4451 stem-loop
+94802 66 0
+0 hsa-mir-4452 MI0016798 Homo sapiens miR-4452 stem-loop
+94868 71 0
+0 hsa-mir-4453 MI0016799 Homo sapiens miR-4453 stem-loop
+94939 89 0
+0 hsa-mir-4454 MI0016800 Homo sapiens miR-4454 stem-loop
+95028 55 0
+0 hsa-mir-4455 MI0016801 Homo sapiens miR-4455 stem-loop
+95083 58 0
+0 hsa-mir-4456 MI0016802 Homo sapiens miR-4456 stem-loop
+95141 43 0
+0 hsa-mir-4457 MI0016803 Homo sapiens miR-4457 stem-loop
+95184 68 0
+0 hsa-mir-4458 MI0016804 Homo sapiens miR-4458 stem-loop
+95252 75 0
+0 hsa-mir-4459 MI0016805 Homo sapiens miR-4459 stem-loop
+95327 66 0
+0 hsa-mir-4460 MI0016806 Homo sapiens miR-4460 stem-loop
+95393 86 0
+0 hsa-mir-4461 MI0016807 Homo sapiens miR-4461 stem-loop
+95479 74 0
+0 hsa-mir-378h MI0016808 Homo sapiens miR-378h stem-loop
+95553 83 0
+0 hsa-mir-3135b MI0016809 Homo sapiens miR-3135b stem-loop
+95636 68 0
+0 hsa-mir-4462 MI0016810 Homo sapiens miR-4462 stem-loop
+95704 58 0
+0 hsa-mir-4463 MI0016811 Homo sapiens miR-4463 stem-loop
+95762 67 0
+0 hsa-mir-4464 MI0016812 Homo sapiens miR-4464 stem-loop
+95829 92 0
+0 hsa-mir-548ai MI0016813 Homo sapiens miR-548ai stem-loop
+95921 88 0
+0 hsa-mir-548aj-1 MI0016814 Homo sapiens miR-548aj-1 stem-loop
+96009 72 0
+0 hsa-mir-548aj-2 MI0016815 Homo sapiens miR-548aj-2 stem-loop
+96081 92 0
+0 hsa-mir-4465 MI0016816 Homo sapiens miR-4465 stem-loop
+96173 70 0
+0 hsa-mir-4466 MI0016817 Homo sapiens miR-4466 stem-loop
+96243 54 0
+0 hsa-mir-4467 MI0016818 Homo sapiens miR-4467 stem-loop
+96297 63 0
+0 hsa-mir-4468 MI0016819 Homo sapiens miR-4468 stem-loop
+96360 64 0
+0 hsa-mir-4469 MI0016820 Homo sapiens miR-4469 stem-loop
+96424 79 0
+0 hsa-mir-4470 MI0016821 Homo sapiens miR-4470 stem-loop
+96503 72 0
+0 hsa-mir-4471 MI0016822 Homo sapiens miR-4471 stem-loop
+96575 83 0
+0 hsa-mir-4472-1 MI0016823 Homo sapiens miR-4472-1 stem-loop
+96658 80 0
+0 hsa-mir-4472-2 MI0016824 Homo sapiens miR-4472-2 stem-loop
+96738 67 0
+0 hsa-mir-4473 MI0016825 Homo sapiens miR-4473 stem-loop
+96805 91 0
+0 hsa-mir-4474 MI0016826 Homo sapiens miR-4474 stem-loop
+96896 78 0
+0 hsa-mir-4475 MI0016827 Homo sapiens miR-4475 stem-loop
+96974 61 0
+0 hsa-mir-4476 MI0016828 Homo sapiens miR-4476 stem-loop
+97035 70 0
+0 hsa-mir-4477a MI0016829 Homo sapiens miR-4477a stem-loop
+97105 81 0
+0 hsa-mir-4477b MI0016830 Homo sapiens miR-4477b stem-loop
+97186 81 0
+0 hsa-mir-4478 MI0016831 Homo sapiens miR-4478 stem-loop
+97267 86 0
+0 hsa-mir-3689c MI0016832 Homo sapiens miR-3689c stem-loop
+97353 72 0
+0 hsa-mir-548x-2 MI0016833 Homo sapiens miR-548x-2 stem-loop
+97425 100 0
+0 hsa-mir-3689d-1 MI0016834 Homo sapiens miR-3689d-1 stem-loop
+97525 74 0
+0 hsa-mir-3689d-2 MI0016835 Homo sapiens miR-3689d-2 stem-loop
+97599 80 0
+0 hsa-mir-3689e MI0016836 Homo sapiens miR-3689e stem-loop
+97679 72 0
+0 hsa-mir-3689f MI0016837 Homo sapiens miR-3689f stem-loop
+97751 66 0
+0 hsa-mir-4479 MI0016838 Homo sapiens miR-4479 stem-loop
+97817 71 0
+0 hsa-mir-3155b MI0016839 Homo sapiens miR-3155b stem-loop
+97888 56 0
+0 hsa-mir-548ak MI0016840 Homo sapiens miR-548ak stem-loop
+97944 57 0
+0 hsa-mir-4480 MI0016841 Homo sapiens miR-4480 stem-loop
+98001 71 0
+0 hsa-mir-4481 MI0016842 Homo sapiens miR-4481 stem-loop
+98072 60 0
+0 hsa-mir-4482-1 MI0016843 Homo sapiens miR-4482-1 stem-loop
+98132 70 0
+0 hsa-mir-4483 MI0016844 Homo sapiens miR-4483 stem-loop
+98202 62 0
+0 hsa-mir-4484 MI0016845 Homo sapiens miR-4484 stem-loop
+98264 83 0
+0 hsa-mir-4485 MI0016846 Homo sapiens miR-4485 stem-loop
+98347 57 0
+0 hsa-mir-4486 MI0016847 Homo sapiens miR-4486 stem-loop
+98404 63 0
+0 hsa-mir-4487 MI0016848 Homo sapiens miR-4487 stem-loop
+98467 73 0
+0 hsa-mir-4488 MI0016849 Homo sapiens miR-4488 stem-loop
+98540 62 0
+0 hsa-mir-4489 MI0016850 Homo sapiens miR-4489 stem-loop
+98602 62 0
+0 hsa-mir-548al MI0016851 Homo sapiens miR-548al stem-loop
+98664 97 0
+0 hsa-mir-4490 MI0016852 Homo sapiens miR-4490 stem-loop
+98761 84 0
+0 hsa-mir-4491 MI0016853 Homo sapiens miR-4491 stem-loop
+98845 68 0
+0 hsa-mir-4492 MI0016854 Homo sapiens miR-4492 stem-loop
+98913 80 0
+0 hsa-mir-4493 MI0016855 Homo sapiens miR-4493 stem-loop
+98993 73 0
+0 hsa-mir-4494 MI0016856 Homo sapiens miR-4494 stem-loop
+99066 84 0
+0 hsa-mir-4495 MI0016857 Homo sapiens miR-4495 stem-loop
+99150 66 0
+0 hsa-mir-4496 MI0016858 Homo sapiens miR-4496 stem-loop
+99216 61 0
+0 hsa-mir-4497 MI0016859 Homo sapiens miR-4497 stem-loop
+99277 89 0
+0 hsa-mir-4498 MI0016860 Homo sapiens miR-4498 stem-loop
+99366 66 0
+0 hsa-mir-4419b MI0016861 Homo sapiens miR-4419b stem-loop
+99432 68 0
+0 hsa-mir-4499 MI0016862 Homo sapiens miR-4499 stem-loop
+99500 69 0
+0 hsa-mir-4500 MI0016863 Homo sapiens miR-4500 stem-loop
+99569 76 0
+0 hsa-mir-4501 MI0016864 Homo sapiens miR-4501 stem-loop
+99645 64 0
+0 hsa-mir-4502 MI0016865 Homo sapiens miR-4502 stem-loop
+99709 81 0
+0 hsa-mir-4503 MI0016866 Homo sapiens miR-4503 stem-loop
+99790 83 0
+0 hsa-mir-4504 MI0016867 Homo sapiens miR-4504 stem-loop
+99873 92 0
+0 hsa-mir-4505 MI0016868 Homo sapiens miR-4505 stem-loop
+99965 73 0
+0 hsa-mir-4506 MI0016869 Homo sapiens miR-4506 stem-loop
+100038 77 0
+0 hsa-mir-2392 MI0016870 Homo sapiens miR-2392 stem-loop
+100115 84 0
+0 hsa-mir-4507 MI0016871 Homo sapiens miR-4507 stem-loop
+100199 52 0
+0 hsa-mir-4508 MI0016872 Homo sapiens miR-4508 stem-loop
+100251 70 0
+0 hsa-mir-4509-1 MI0016873 Homo sapiens miR-4509-1 stem-loop
+100321 94 0
+0 hsa-mir-4509-2 MI0016874 Homo sapiens miR-4509-2 stem-loop
+100415 94 0
+0 hsa-mir-4509-3 MI0016875 Homo sapiens miR-4509-3 stem-loop
+100509 94 0
+0 hsa-mir-4510 MI0016876 Homo sapiens miR-4510 stem-loop
+100603 68 0
+0 hsa-mir-4511 MI0016877 Homo sapiens miR-4511 stem-loop
+100671 87 0
+0 hsa-mir-4512 MI0016878 Homo sapiens miR-4512 stem-loop
+100758 77 0
+0 hsa-mir-4513 MI0016879 Homo sapiens miR-4513 stem-loop
+100835 86 0
+0 hsa-mir-4514 MI0016880 Homo sapiens miR-4514 stem-loop
+100921 57 0
+0 hsa-mir-4515 MI0016881 Homo sapiens miR-4515 stem-loop
+100978 81 0
+0 hsa-mir-4516 MI0016882 Homo sapiens miR-4516 stem-loop
+101059 86 0
+0 hsa-mir-4517 MI0016883 Homo sapiens miR-4517 stem-loop
+101145 79 0
+0 hsa-mir-4518 MI0016884 Homo sapiens miR-4518 stem-loop
+101224 83 0
+0 hsa-mir-4519 MI0016885 Homo sapiens miR-4519 stem-loop
+101307 58 0
+0 hsa-mir-4520a MI0016886 Homo sapiens miR-4520a stem-loop
+101365 70 0
+0 hsa-mir-4521 MI0016887 Homo sapiens miR-4521 stem-loop
+101435 60 0
+0 hsa-mir-1269b MI0016888 Homo sapiens miR-1269b stem-loop
+101495 75 0
+0 hsa-mir-4522 MI0016889 Homo sapiens miR-4522 stem-loop
+101570 87 0
+0 hsa-mir-4523 MI0016890 Homo sapiens miR-4523 stem-loop
+101657 69 0
+0 hsa-mir-4524a MI0016891 Homo sapiens miR-4524a stem-loop
+101726 69 0
+0 hsa-mir-4525 MI0016892 Homo sapiens miR-4525 stem-loop
+101795 75 0
+0 hsa-mir-4526 MI0016893 Homo sapiens miR-4526 stem-loop
+101870 87 0
+0 hsa-mir-4527 MI0016894 Homo sapiens miR-4527 stem-loop
+101957 70 0
+0 hsa-mir-4528 MI0016895 Homo sapiens miR-4528 stem-loop
+102027 90 0
+0 hsa-mir-4529 MI0016896 Homo sapiens miR-4529 stem-loop
+102117 78 0
+0 hsa-mir-4530 MI0016897 Homo sapiens miR-4530 stem-loop
+102195 56 0
+0 hsa-mir-4531 MI0016898 Homo sapiens miR-4531 stem-loop
+102251 47 0
+0 hsa-mir-4532 MI0016899 Homo sapiens miR-4532 stem-loop
+102298 51 0
+0 hsa-mir-4533 MI0016900 Homo sapiens miR-4533 stem-loop
+102349 71 0
+0 hsa-mir-4534 MI0016901 Homo sapiens miR-4534 stem-loop
+102420 60 0
+0 hsa-mir-378i MI0016902 Homo sapiens miR-378i stem-loop
+102480 76 0
+0 hsa-mir-4535 MI0016903 Homo sapiens miR-4535 stem-loop
+102556 59 0
+0 hsa-mir-548am MI0016904 Homo sapiens miR-548am stem-loop
+102615 74 0
+0 hsa-mir-1587 MI0016905 Homo sapiens miR-1587 stem-loop
+102689 53 0
+0 hsa-mir-4536-1 MI0016906 Homo sapiens miR-4536-1 stem-loop
+102742 88 0
+0 hsa-mir-548an MI0016907 Homo sapiens miR-548an stem-loop
+102830 83 0
+0 hsa-mir-4537 MI0016908 Homo sapiens miR-4537 stem-loop
+102913 70 0
+0 hsa-mir-4538 MI0016909 Homo sapiens miR-4538 stem-loop
+102983 78 0
+0 hsa-mir-4539 MI0016910 Homo sapiens miR-4539 stem-loop
+103061 60 0
+0 hsa-mir-4540 MI0016911 Homo sapiens miR-4540 stem-loop
+103121 55 0
+0 hsa-mir-3960 MI0016964 Homo sapiens miR-3960 stem-loop
+103176 91 0
+0 hsa-mir-3972 MI0016990 Homo sapiens miR-3972 stem-loop
+103267 87 0
+0 hsa-mir-3973 MI0016991 Homo sapiens miR-3973 stem-loop
+103354 107 0
+0 hsa-mir-3974 MI0016992 Homo sapiens miR-3974 stem-loop
+103461 96 0
+0 hsa-mir-3975 MI0016993 Homo sapiens miR-3975 stem-loop
+103557 70 0
+0 hsa-mir-3976 MI0016994 Homo sapiens miR-3976 stem-loop
+103627 139 0
+0 hsa-mir-3977 MI0016995 Homo sapiens miR-3977 stem-loop
+103766 70 0
+0 hsa-mir-3978 MI0016996 Homo sapiens miR-3978 stem-loop
+103836 101 0
+0 hsa-mir-4632 MI0017259 Homo sapiens miR-4632 stem-loop
+103937 61 0
+0 hsa-mir-4633 MI0017260 Homo sapiens miR-4633 stem-loop
+103998 79 0
+0 hsa-mir-4634 MI0017261 Homo sapiens miR-4634 stem-loop
+104077 54 0
+0 hsa-mir-4635 MI0017262 Homo sapiens miR-4635 stem-loop
+104131 79 0
+0 hsa-mir-4636 MI0017263 Homo sapiens miR-4636 stem-loop
+104210 80 0
+0 hsa-mir-4637 MI0017264 Homo sapiens miR-4637 stem-loop
+104290 84 0
+0 hsa-mir-4638 MI0017265 Homo sapiens miR-4638 stem-loop
+104374 68 0
+0 hsa-mir-4639 MI0017266 Homo sapiens miR-4639 stem-loop
+104442 69 0
+0 hsa-mir-4640 MI0017267 Homo sapiens miR-4640 stem-loop
+104511 90 0
+0 hsa-mir-4641 MI0017268 Homo sapiens miR-4641 stem-loop
+104601 66 0
+0 hsa-mir-4642 MI0017269 Homo sapiens miR-4642 stem-loop
+104667 82 0
+0 hsa-mir-4643 MI0017270 Homo sapiens miR-4643 stem-loop
+104749 78 0
+0 hsa-mir-4644 MI0017271 Homo sapiens miR-4644 stem-loop
+104827 84 0
+0 hsa-mir-4645 MI0017272 Homo sapiens miR-4645 stem-loop
+104911 77 0
+0 hsa-mir-4646 MI0017273 Homo sapiens miR-4646 stem-loop
+104988 63 0
+0 hsa-mir-4647 MI0017274 Homo sapiens miR-4647 stem-loop
+105051 80 0
+0 hsa-mir-4648 MI0017275 Homo sapiens miR-4648 stem-loop
+105131 72 0
+0 hsa-mir-4649 MI0017276 Homo sapiens miR-4649 stem-loop
+105203 64 0
+0 hsa-mir-4650-1 MI0017277 Homo sapiens miR-4650-1 stem-loop
+105267 76 0
+0 hsa-mir-4650-2 MI0017278 Homo sapiens miR-4650-2 stem-loop
+105343 76 0
+0 hsa-mir-4651 MI0017279 Homo sapiens miR-4651 stem-loop
+105419 73 0
+0 hsa-mir-4652 MI0017280 Homo sapiens miR-4652 stem-loop
+105492 78 0
+0 hsa-mir-4653 MI0017281 Homo sapiens miR-4653 stem-loop
+105570 83 0
+0 hsa-mir-4654 MI0017282 Homo sapiens miR-4654 stem-loop
+105653 76 0
+0 hsa-mir-4655 MI0017283 Homo sapiens miR-4655 stem-loop
+105729 74 0
+0 hsa-mir-4656 MI0017284 Homo sapiens miR-4656 stem-loop
+105803 75 0
+0 hsa-mir-4657 MI0017285 Homo sapiens miR-4657 stem-loop
+105878 53 0
+0 hsa-mir-4658 MI0017286 Homo sapiens miR-4658 stem-loop
+105931 65 0
+0 hsa-mir-4659a MI0017287 Homo sapiens miR-4659a stem-loop
+105996 81 0
+0 hsa-mir-4660 MI0017288 Homo sapiens miR-4660 stem-loop
+106077 74 0
+0 hsa-mir-4661 MI0017289 Homo sapiens miR-4661 stem-loop
+106151 75 0
+0 hsa-mir-4662a MI0017290 Homo sapiens miR-4662a stem-loop
+106226 67 0
+0 hsa-mir-4659b MI0017291 Homo sapiens miR-4659b stem-loop
+106293 73 0
+0 hsa-mir-4663 MI0017292 Homo sapiens miR-4663 stem-loop
+106366 76 0
+0 hsa-mir-4662b MI0017293 Homo sapiens miR-4662b stem-loop
+106442 81 0
+0 hsa-mir-4664 MI0017294 Homo sapiens miR-4664 stem-loop
+106523 71 0
+0 hsa-mir-4665 MI0017295 Homo sapiens miR-4665 stem-loop
+106594 79 0
+0 hsa-mir-4666a MI0017296 Homo sapiens miR-4666a stem-loop
+106673 79 0
+0 hsa-mir-4667 MI0017297 Homo sapiens miR-4667 stem-loop
+106752 66 0
+0 hsa-mir-4668 MI0017298 Homo sapiens miR-4668 stem-loop
+106818 70 0
+0 hsa-mir-2964a MI0017299 Homo sapiens miR-2964a stem-loop
+106888 88 0
+0 hsa-mir-4669 MI0017300 Homo sapiens miR-4669 stem-loop
+106976 62 0
+0 hsa-mir-4670 MI0017301 Homo sapiens miR-4670 stem-loop
+107038 75 0
+0 hsa-mir-4671 MI0017302 Homo sapiens miR-4671 stem-loop
+107113 73 0
+0 hsa-mir-4672 MI0017303 Homo sapiens miR-4672 stem-loop
+107186 81 0
+0 hsa-mir-4673 MI0017304 Homo sapiens miR-4673 stem-loop
+107267 59 0
+0 hsa-mir-4674 MI0017305 Homo sapiens miR-4674 stem-loop
+107326 87 0
+0 hsa-mir-4675 MI0017306 Homo sapiens miR-4675 stem-loop
+107413 77 0
+0 hsa-mir-4676 MI0017307 Homo sapiens miR-4676 stem-loop
+107490 72 0
+0 hsa-mir-4677 MI0017308 Homo sapiens miR-4677 stem-loop
+107562 80 0
+0 hsa-mir-4678 MI0017309 Homo sapiens miR-4678 stem-loop
+107642 74 0
+0 hsa-mir-4679-1 MI0017310 Homo sapiens miR-4679-1 stem-loop
+107716 75 0
+0 hsa-mir-4679-2 MI0017311 Homo sapiens miR-4679-2 stem-loop
+107791 77 0
+0 hsa-mir-4680 MI0017312 Homo sapiens miR-4680 stem-loop
+107868 66 0
+0 hsa-mir-4681 MI0017313 Homo sapiens miR-4681 stem-loop
+107934 72 0
+0 hsa-mir-4682 MI0017314 Homo sapiens miR-4682 stem-loop
+108006 80 0
+0 hsa-mir-4683 MI0017315 Homo sapiens miR-4683 stem-loop
+108086 81 0
+0 hsa-mir-4684 MI0017316 Homo sapiens miR-4684 stem-loop
+108167 82 0
+0 hsa-mir-4685 MI0017317 Homo sapiens miR-4685 stem-loop
+108249 69 0
+0 hsa-mir-4686 MI0017318 Homo sapiens miR-4686 stem-loop
+108318 76 0
+0 hsa-mir-4687 MI0017319 Homo sapiens miR-4687 stem-loop
+108394 80 0
+0 hsa-mir-1343 MI0017320 Homo sapiens miR-1343 stem-loop
+108474 84 0
+0 hsa-mir-4688 MI0017321 Homo sapiens miR-4688 stem-loop
+108558 83 0
+0 hsa-mir-4689 MI0017322 Homo sapiens miR-4689 stem-loop
+108641 70 0
+0 hsa-mir-4690 MI0017323 Homo sapiens miR-4690 stem-loop
+108711 60 0
+0 hsa-mir-4691 MI0017324 Homo sapiens miR-4691 stem-loop
+108771 85 0
+0 hsa-mir-4692 MI0017325 Homo sapiens miR-4692 stem-loop
+108856 63 0
+0 hsa-mir-4693 MI0017326 Homo sapiens miR-4693 stem-loop
+108919 75 0
+0 hsa-mir-4694 MI0017327 Homo sapiens miR-4694 stem-loop
+108994 80 0
+0 hsa-mir-4695 MI0017328 Homo sapiens miR-4695 stem-loop
+109074 74 0
+0 hsa-mir-4696 MI0017329 Homo sapiens miR-4696 stem-loop
+109148 70 0
+0 hsa-mir-4697 MI0017330 Homo sapiens miR-4697 stem-loop
+109218 78 0
+0 hsa-mir-4698 MI0017331 Homo sapiens miR-4698 stem-loop
+109296 80 0
+0 hsa-mir-4699 MI0017332 Homo sapiens miR-4699 stem-loop
+109376 74 0
+0 hsa-mir-4700 MI0017333 Homo sapiens miR-4700 stem-loop
+109450 74 0
+0 hsa-mir-4701 MI0017334 Homo sapiens miR-4701 stem-loop
+109524 63 0
+0 hsa-mir-3198-2 MI0017335 Homo sapiens miR-3198-2 stem-loop
+109587 80 0
+0 hsa-mir-4703 MI0017336 Homo sapiens miR-4703 stem-loop
+109667 79 0
+0 hsa-mir-4704 MI0017337 Homo sapiens miR-4704 stem-loop
+109746 75 0
+0 hsa-mir-4705 MI0017338 Homo sapiens miR-4705 stem-loop
+109821 71 0
+0 hsa-mir-4706 MI0017339 Homo sapiens miR-4706 stem-loop
+109892 82 0
+0 hsa-mir-4707 MI0017340 Homo sapiens miR-4707 stem-loop
+109974 80 0
+0 hsa-mir-4708 MI0017341 Homo sapiens miR-4708 stem-loop
+110054 67 0
+0 hsa-mir-4709 MI0017342 Homo sapiens miR-4709 stem-loop
+110121 72 0
+0 hsa-mir-3545 MI0017343 Homo sapiens miR-3545 stem-loop
+110193 86 0
+0 hsa-mir-4710 MI0017344 Homo sapiens miR-4710 stem-loop
+110279 56 0
+0 hsa-mir-4711 MI0017345 Homo sapiens miR-4711 stem-loop
+110335 70 0
+0 hsa-mir-4712 MI0017346 Homo sapiens miR-4712 stem-loop
+110405 82 0
+0 hsa-mir-4713 MI0017347 Homo sapiens miR-4713 stem-loop
+110487 75 0
+0 hsa-mir-4714 MI0017348 Homo sapiens miR-4714 stem-loop
+110562 77 0
+0 hsa-mir-4715 MI0017349 Homo sapiens miR-4715 stem-loop
+110639 79 0
+0 hsa-mir-4716 MI0017350 Homo sapiens miR-4716 stem-loop
+110718 84 0
+0 hsa-mir-3529 MI0017351 Homo sapiens miR-3529 stem-loop
+110802 78 0
+0 hsa-mir-4717 MI0017352 Homo sapiens miR-4717 stem-loop
+110880 72 0
+0 hsa-mir-4718 MI0017353 Homo sapiens miR-4718 stem-loop
+110952 51 0
+0 hsa-mir-4719 MI0017354 Homo sapiens miR-4719 stem-loop
+111003 84 0
+0 hsa-mir-4720 MI0017355 Homo sapiens miR-4720 stem-loop
+111087 76 0
+0 hsa-mir-4721 MI0017356 Homo sapiens miR-4721 stem-loop
+111163 89 0
+0 hsa-mir-4722 MI0017357 Homo sapiens miR-4722 stem-loop
+111252 60 0
+0 hsa-mir-4520b MI0017358 Homo sapiens miR-4520b stem-loop
+111312 54 0
+0 hsa-mir-4723 MI0017359 Homo sapiens miR-4723 stem-loop
+111366 81 0
+0 hsa-mir-451b MI0017360 Homo sapiens miR-451b stem-loop
+111447 68 0
+0 hsa-mir-4724 MI0017361 Homo sapiens miR-4724 stem-loop
+111515 89 0
+0 hsa-mir-4725 MI0017362 Homo sapiens miR-4725 stem-loop
+111604 90 0
+0 hsa-mir-4726 MI0017363 Homo sapiens miR-4726 stem-loop
+111694 58 0
+0 hsa-mir-4727 MI0017364 Homo sapiens miR-4727 stem-loop
+111752 55 0
+0 hsa-mir-4728 MI0017365 Homo sapiens miR-4728 stem-loop
+111807 67 0
+0 hsa-mir-4729 MI0017366 Homo sapiens miR-4729 stem-loop
+111874 72 0
+0 hsa-mir-4730 MI0017367 Homo sapiens miR-4730 stem-loop
+111946 76 0
+0 hsa-mir-4731 MI0017368 Homo sapiens miR-4731 stem-loop
+112022 70 0
+0 hsa-mir-4732 MI0017369 Homo sapiens miR-4732 stem-loop
+112092 76 0
+0 hsa-mir-4733 MI0017370 Homo sapiens miR-4733 stem-loop
+112168 76 0
+0 hsa-mir-4734 MI0017371 Homo sapiens miR-4734 stem-loop
+112244 70 0
+0 hsa-mir-4735 MI0017372 Homo sapiens miR-4735 stem-loop
+112314 69 0
+0 hsa-mir-4736 MI0017373 Homo sapiens miR-4736 stem-loop
+112383 47 0
+0 hsa-mir-4737 MI0017374 Homo sapiens miR-4737 stem-loop
+112430 81 0
+0 hsa-mir-3064 MI0017375 Homo sapiens miR-3064 stem-loop
+112511 66 0
+0 hsa-mir-4738 MI0017376 Homo sapiens miR-4738 stem-loop
+112577 87 0
+0 hsa-mir-4739 MI0017377 Homo sapiens miR-4739 stem-loop
+112664 74 0
+0 hsa-mir-4740 MI0017378 Homo sapiens miR-4740 stem-loop
+112738 63 0
+0 hsa-mir-4741 MI0017379 Homo sapiens miR-4741 stem-loop
+112801 90 0
+0 hsa-mir-4742 MI0017380 Homo sapiens miR-4742 stem-loop
+112891 85 0
+0 hsa-mir-4743 MI0017381 Homo sapiens miR-4743 stem-loop
+112976 69 0
+0 hsa-mir-4744 MI0017382 Homo sapiens miR-4744 stem-loop
+113045 82 0
+0 hsa-mir-3591 MI0017383 Homo sapiens miR-3591 stem-loop
+113127 73 0
+0 hsa-mir-4745 MI0017384 Homo sapiens miR-4745 stem-loop
+113200 62 0
+0 hsa-mir-4746 MI0017385 Homo sapiens miR-4746 stem-loop
+113262 71 0
+0 hsa-mir-4747 MI0017386 Homo sapiens miR-4747 stem-loop
+113333 54 0
+0 hsa-mir-4748 MI0017387 Homo sapiens miR-4748 stem-loop
+113387 82 0
+0 hsa-mir-4749 MI0017388 Homo sapiens miR-4749 stem-loop
+113469 61 0
+0 hsa-mir-4750 MI0017389 Homo sapiens miR-4750 stem-loop
+113530 56 0
+0 hsa-mir-4751 MI0017390 Homo sapiens miR-4751 stem-loop
+113586 74 0
+0 hsa-mir-4752 MI0017391 Homo sapiens miR-4752 stem-loop
+113660 72 0
+0 hsa-mir-4753 MI0017392 Homo sapiens miR-4753 stem-loop
+113732 83 0
+0 hsa-mir-371b MI0017393 Homo sapiens miR-371b stem-loop
+113815 66 0
+0 hsa-mir-4754 MI0017394 Homo sapiens miR-4754 stem-loop
+113881 89 0
+0 hsa-mir-4755 MI0017395 Homo sapiens miR-4755 stem-loop
+113970 72 0
+0 hsa-mir-499b MI0017396 Homo sapiens miR-499b stem-loop
+114042 73 0
+0 hsa-mir-4756 MI0017397 Homo sapiens miR-4756 stem-loop
+114115 78 0
+0 hsa-mir-4757 MI0017398 Homo sapiens miR-4757 stem-loop
+114193 77 0
+0 hsa-mir-4758 MI0017399 Homo sapiens miR-4758 stem-loop
+114270 71 0
+0 hsa-mir-4759 MI0017400 Homo sapiens miR-4759 stem-loop
+114341 83 0
+0 hsa-mir-4760 MI0017401 Homo sapiens miR-4760 stem-loop
+114424 80 0
+0 hsa-mir-4761 MI0017402 Homo sapiens miR-4761 stem-loop
+114504 82 0
+0 hsa-mir-4762 MI0017403 Homo sapiens miR-4762 stem-loop
+114586 75 0
+0 hsa-mir-4763 MI0017404 Homo sapiens miR-4763 stem-loop
+114661 92 0
+0 hsa-mir-4764 MI0017405 Homo sapiens miR-4764 stem-loop
+114753 88 0
+0 hsa-mir-4765 MI0017406 Homo sapiens miR-4765 stem-loop
+114841 77 0
+0 hsa-mir-4766 MI0017407 Homo sapiens miR-4766 stem-loop
+114918 76 0
+0 hsa-mir-4767 MI0017408 Homo sapiens miR-4767 stem-loop
+114994 78 0
+0 hsa-mir-4768 MI0017409 Homo sapiens miR-4768 stem-loop
+115072 74 0
+0 hsa-mir-4769 MI0017410 Homo sapiens miR-4769 stem-loop
+115146 77 0
+0 hsa-mir-4770 MI0017411 Homo sapiens miR-4770 stem-loop
+115223 58 0
+0 hsa-mir-4771-1 MI0017412 Homo sapiens miR-4771-1 stem-loop
+115281 74 0
+0 hsa-mir-4771-2 MI0017413 Homo sapiens miR-4771-2 stem-loop
+115355 74 0
+0 hsa-mir-4772 MI0017414 Homo sapiens miR-4772 stem-loop
+115429 78 0
+0 hsa-mir-4773-1 MI0017415 Homo sapiens miR-4773-1 stem-loop
+115507 78 0
+0 hsa-mir-4773-2 MI0017416 Homo sapiens miR-4773-2 stem-loop
+115585 78 0
+0 hsa-mir-4774 MI0017417 Homo sapiens miR-4774 stem-loop
+115663 76 0
+0 hsa-mir-4775 MI0017418 Homo sapiens miR-4775 stem-loop
+115739 75 0
+0 hsa-mir-4776-1 MI0017419 Homo sapiens miR-4776-1 stem-loop
+115814 80 0
+0 hsa-mir-4776-2 MI0017420 Homo sapiens miR-4776-2 stem-loop
+115894 80 0
+0 hsa-mir-4777 MI0017421 Homo sapiens miR-4777 stem-loop
+115974 86 0
+0 hsa-mir-4778 MI0017422 Homo sapiens miR-4778 stem-loop
+116060 80 0
+0 hsa-mir-4779 MI0017423 Homo sapiens miR-4779 stem-loop
+116140 83 0
+0 hsa-mir-4780 MI0017424 Homo sapiens miR-4780 stem-loop
+116223 81 0
+0 hsa-mir-4436b-1 MI0017425 Homo sapiens miR-4436b-1 stem-loop
+116304 91 0
+0 hsa-mir-4781 MI0017426 Homo sapiens miR-4781 stem-loop
+116395 76 0
+0 hsa-mir-4782 MI0017427 Homo sapiens miR-4782 stem-loop
+116471 79 0
+0 hsa-mir-4783 MI0017428 Homo sapiens miR-4783 stem-loop
+116550 82 0
+0 hsa-mir-4784 MI0017429 Homo sapiens miR-4784 stem-loop
+116632 77 0
+0 hsa-mir-4785 MI0017430 Homo sapiens miR-4785 stem-loop
+116709 73 0
+0 hsa-mir-1245b MI0017431 Homo sapiens miR-1245b stem-loop
+116782 69 0
+0 hsa-mir-2467 MI0017432 Homo sapiens miR-2467 stem-loop
+116851 81 0
+0 hsa-mir-4786 MI0017433 Homo sapiens miR-4786 stem-loop
+116932 80 0
+0 hsa-mir-4787 MI0017434 Homo sapiens miR-4787 stem-loop
+117012 84 0
+0 hsa-mir-4788 MI0017435 Homo sapiens miR-4788 stem-loop
+117096 80 0
+0 hsa-mir-4789 MI0017436 Homo sapiens miR-4789 stem-loop
+117176 82 0
+0 hsa-mir-4790 MI0017437 Homo sapiens miR-4790 stem-loop
+117258 79 0
+0 hsa-mir-4791 MI0017438 Homo sapiens miR-4791 stem-loop
+117337 84 0
+0 hsa-mir-4792 MI0017439 Homo sapiens miR-4792 stem-loop
+117421 74 0
+0 hsa-mir-4793 MI0017440 Homo sapiens miR-4793 stem-loop
+117495 87 0
+0 hsa-mir-4794 MI0017441 Homo sapiens miR-4794 stem-loop
+117582 77 0
+0 hsa-mir-4795 MI0017442 Homo sapiens miR-4795 stem-loop
+117659 89 0
+0 hsa-mir-4796 MI0017443 Homo sapiens miR-4796 stem-loop
+117748 81 0
+0 hsa-mir-4797 MI0017444 Homo sapiens miR-4797 stem-loop
+117829 71 0
+0 hsa-mir-4798 MI0017445 Homo sapiens miR-4798 stem-loop
+117900 75 0
+0 hsa-mir-4799 MI0017446 Homo sapiens miR-4799 stem-loop
+117975 74 0
+0 hsa-mir-3688-2 MI0017447 Homo sapiens miR-3688-2 stem-loop
+118049 87 0
+0 hsa-mir-4800 MI0017448 Homo sapiens miR-4800 stem-loop
+118136 80 0
+0 hsa-mir-4801 MI0017449 Homo sapiens miR-4801 stem-loop
+118216 82 0
+0 hsa-mir-4802 MI0017450 Homo sapiens miR-4802 stem-loop
+118298 80 0
+0 hsa-mir-4803 MI0017451 Homo sapiens miR-4803 stem-loop
+118378 74 0
+0 hsa-mir-4804 MI0017452 Homo sapiens miR-4804 stem-loop
+118452 73 0
+0 hsa-mir-4999 MI0017865 Homo sapiens miR-4999 stem-loop
+118525 91 0
+0 hsa-mir-5000 MI0017866 Homo sapiens miR-5000 stem-loop
+118616 103 0
+0 hsa-mir-5001 MI0017867 Homo sapiens miR-5001 stem-loop
+118719 100 0
+0 hsa-mir-5002 MI0017868 Homo sapiens miR-5002 stem-loop
+118819 97 0
+0 hsa-mir-5003 MI0017869 Homo sapiens miR-5003 stem-loop
+118916 99 0
+0 hsa-mir-5004 MI0017870 Homo sapiens miR-5004 stem-loop
+119015 107 0
+0 hsa-mir-548ao MI0017871 Homo sapiens miR-548ao stem-loop
+119122 96 0
+0 hsa-mir-4482-2 MI0017872 Homo sapiens miR-4482-2 stem-loop
+119218 98 0
+0 hsa-mir-5006 MI0017873 Homo sapiens miR-5006 stem-loop
+119316 110 0
+0 hsa-mir-5007 MI0017874 Homo sapiens miR-5007 stem-loop
+119426 95 0
+0 hsa-mir-548ap MI0017875 Homo sapiens miR-548ap stem-loop
+119521 96 0
+0 hsa-mir-5008 MI0017876 Homo sapiens miR-5008 stem-loop
+119617 94 0
+0 hsa-mir-5009 MI0017877 Homo sapiens miR-5009 stem-loop
+119711 100 0
+0 hsa-mir-5010 MI0017878 Homo sapiens miR-5010 stem-loop
+119811 120 0
+0 hsa-mir-5011 MI0017879 Homo sapiens miR-5011 stem-loop
+119931 103 0
+0 hsa-mir-5047 MI0017932 Homo sapiens miR-5047 stem-loop
+120034 100 0
+0 hsa-mir-5087 MI0017976 Homo sapiens miR-5087 stem-loop
+120134 76 0
+0 hsa-mir-5088 MI0017977 Homo sapiens miR-5088 stem-loop
+120210 84 0
+0 hsa-mir-5089 MI0017978 Homo sapiens miR-5089 stem-loop
+120294 84 0
+0 hsa-mir-5090 MI0017979 Homo sapiens miR-5090 stem-loop
+120378 85 0
+0 hsa-mir-5091 MI0017980 Homo sapiens miR-5091 stem-loop
+120463 93 0
+0 hsa-mir-5092 MI0017981 Homo sapiens miR-5092 stem-loop
+120556 88 0
+0 hsa-mir-5093 MI0017982 Homo sapiens miR-5093 stem-loop
+120644 100 0
+0 hsa-mir-5094 MI0017983 Homo sapiens miR-5094 stem-loop
+120744 85 0
+0 hsa-mir-5095 MI0018001 Homo sapiens miR-5095 stem-loop
+120829 88 0
+0 hsa-mir-1273f MI0018002 Homo sapiens miR-1273f stem-loop
+120917 99 0
+0 hsa-mir-1273g MI0018003 Homo sapiens miR-1273g stem-loop
+121016 100 0
+0 hsa-mir-5096 MI0018004 Homo sapiens miR-5096 stem-loop
+121116 70 0
+0 hsa-mir-5186 MI0018165 Homo sapiens miR-5186 stem-loop
+121186 120 0
+0 hsa-mir-5187 MI0018166 Homo sapiens miR-5187 stem-loop
+121306 76 0
+0 hsa-mir-5188 MI0018167 Homo sapiens miR-5188 stem-loop
+121382 113 0
+0 hsa-mir-5189 MI0018168 Homo sapiens miR-5189 stem-loop
+121495 114 0
+0 hsa-mir-5190 MI0018169 Homo sapiens miR-5190 stem-loop
+121609 80 0
+0 hsa-mir-5191 MI0018170 Homo sapiens miR-5191 stem-loop
+121689 120 0
+0 hsa-mir-5192 MI0018171 Homo sapiens miR-5192 stem-loop
+121809 92 0
+0 hsa-mir-5193 MI0018172 Homo sapiens miR-5193 stem-loop
+121901 109 0
+0 hsa-mir-5194 MI0018173 Homo sapiens miR-5194 stem-loop
+122010 120 0
+0 hsa-mir-5195 MI0018174 Homo sapiens miR-5195 stem-loop
+122130 115 0
+0 hsa-mir-5196 MI0018175 Homo sapiens miR-5196 stem-loop
+122245 115 0
+0 hsa-mir-5197 MI0018176 Homo sapiens miR-5197 stem-loop
+122360 112 0
+0 hsa-mir-4436b-2 MI0019110 Homo sapiens miR-4436b-2 stem-loop
+122472 91 0
+0 hsa-mir-4444-2 MI0019111 Homo sapiens miR-4444-2 stem-loop
+122563 74 0
+0 hsa-mir-3670-2 MI0019112 Homo sapiens miR-3670-2 stem-loop
+122637 65 0
+0 hsa-mir-3680-2 MI0019113 Homo sapiens miR-3680-2 stem-loop
+122702 87 0
+0 hsa-mir-4524b MI0019114 Homo sapiens miR-4524b stem-loop
+122789 115 0
+0 hsa-mir-5571 MI0019115 Homo sapiens miR-5571 stem-loop
+122904 113 0
+0 hsa-mir-5100 MI0019116 Homo sapiens miR-5100 stem-loop
+123017 119 0
+0 hsa-mir-5572 MI0019117 Homo sapiens miR-5572 stem-loop
+123136 137 0
+0 hsa-mir-548aq MI0019130 Homo sapiens miR-548aq stem-loop
+123273 58 0
+0 hsa-mir-548ar MI0019131 Homo sapiens miR-548ar stem-loop
+123331 57 0
+0 hsa-mir-548as MI0019132 Homo sapiens miR-548as stem-loop
+123388 58 0
+0 hsa-mir-5579 MI0019133 Homo sapiens miR-5579 stem-loop
+123446 58 0
+0 hsa-mir-644b MI0019134 Homo sapiens miR-644b stem-loop
+123504 61 0
+0 hsa-mir-5580 MI0019135 Homo sapiens miR-5580 stem-loop
+123565 58 0
+0 hsa-mir-5581 MI0019136 Homo sapiens miR-5581 stem-loop
+123623 60 0
+0 hsa-mir-548at MI0019137 Homo sapiens miR-548at stem-loop
+123683 58 0
+0 hsa-mir-5582 MI0019138 Homo sapiens miR-5582 stem-loop
+123741 68 0
+0 hsa-mir-5583-1 MI0019139 Homo sapiens miR-5583-1 stem-loop
+123809 59 0
+0 hsa-mir-5583-2 MI0019140 Homo sapiens miR-5583-2 stem-loop
+123868 59 0
+0 hsa-mir-5584 MI0019141 Homo sapiens miR-5584 stem-loop
+123927 60 0
+0 hsa-mir-5585 MI0019142 Homo sapiens miR-5585 stem-loop
+123987 59 0
+0 hsa-mir-5586 MI0019143 Homo sapiens miR-5586 stem-loop
+124046 59 0
+0 hsa-mir-5587 MI0019144 Homo sapiens miR-5587 stem-loop
+124105 53 0
+0 hsa-mir-548au MI0019145 Homo sapiens miR-548au stem-loop
+124158 54 0
+0 hsa-mir-1295b MI0019146 Homo sapiens miR-1295b stem-loop
+124212 60 0
+0 hsa-mir-5588 MI0019147 Homo sapiens miR-5588 stem-loop
+124272 63 0
+0 hsa-mir-5589 MI0019148 Homo sapiens miR-5589 stem-loop
+124335 60 0
+0 hsa-mir-4536-2 MI0019149 Homo sapiens miR-4536-2 stem-loop
+124395 88 0
+0 hsa-mir-5590 MI0019150 Homo sapiens miR-5590 stem-loop
+124483 54 0
+0 hsa-mir-5591 MI0019151 Homo sapiens miR-5591 stem-loop
+124537 65 0
+0 hsa-mir-548av MI0019152 Homo sapiens miR-548av stem-loop
+124602 62 0
+0 hsa-mir-5680 MI0019280 Homo sapiens miR-5680 stem-loop
+124664 84 0
+0 hsa-mir-5681a MI0019281 Homo sapiens miR-5681a stem-loop
+124748 75 0
+0 hsa-mir-5682 MI0019282 Homo sapiens miR-5682 stem-loop
+124823 76 0
+0 hsa-mir-548aw MI0019283 Homo sapiens miR-548aw stem-loop
+124899 65 0
+0 hsa-mir-5683 MI0019284 Homo sapiens miR-5683 stem-loop
+124964 76 0
+0 hsa-mir-5684 MI0019285 Homo sapiens miR-5684 stem-loop
+125040 65 0
+0 hsa-mir-548ax MI0019286 Homo sapiens miR-548ax stem-loop
+125105 73 0
+0 hsa-mir-5685 MI0019287 Homo sapiens miR-5685 stem-loop
+125178 79 0
+0 hsa-mir-5692c-1 MI0019288 Homo sapiens miR-5692c-1 stem-loop
+125257 91 0
+0 hsa-mir-5692c-2 MI0019289 Homo sapiens miR-5692c-2 stem-loop
+125348 77 0
+0 hsa-mir-5686 MI0019290 Homo sapiens miR-5686 stem-loop
+125425 82 0
+0 hsa-mir-5687 MI0019291 Homo sapiens miR-5687 stem-loop
+125507 77 0
+0 hsa-mir-5688 MI0019292 Homo sapiens miR-5688 stem-loop
+125584 83 0
+0 hsa-mir-5681b MI0019293 Homo sapiens miR-5681b stem-loop
+125667 60 0
+0 hsa-mir-5689 MI0019294 Homo sapiens miR-5689 stem-loop
+125727 78 0
+0 hsa-mir-5690 MI0019295 Homo sapiens miR-5690 stem-loop
+125805 73 0
+0 hsa-mir-5691 MI0019296 Homo sapiens miR-5691 stem-loop
+125878 68 0
+0 hsa-mir-5692a-1 MI0019297 Homo sapiens miR-5692a-1 stem-loop
+125946 69 0
+0 hsa-mir-5692a-2 MI0019298 Homo sapiens miR-5692a-2 stem-loop
+126015 59 0
+0 hsa-mir-4666b MI0019299 Homo sapiens miR-4666b stem-loop
+126074 81 0
+0 hsa-mir-5693 MI0019300 Homo sapiens miR-5693 stem-loop
+126155 73 0
+0 hsa-mir-5694 MI0019301 Homo sapiens miR-5694 stem-loop
+126228 76 0
+0 hsa-mir-5695 MI0019302 Homo sapiens miR-5695 stem-loop
+126304 85 0
+0 hsa-mir-5696 MI0019303 Homo sapiens miR-5696 stem-loop
+126389 85 0
+0 hsa-mir-5697 MI0019304 Homo sapiens miR-5697 stem-loop
+126474 78 0
+0 hsa-mir-5698 MI0019305 Homo sapiens miR-5698 stem-loop
+126552 72 0
+0 hsa-mir-5699 MI0019306 Homo sapiens miR-5699 stem-loop
+126624 90 0
+0 hsa-mir-5700 MI0019307 Homo sapiens miR-5700 stem-loop
+126714 71 0
+0 hsa-mir-5701-1 MI0019308 Homo sapiens miR-5701-1 stem-loop
+126785 82 0
+0 hsa-mir-5702 MI0019309 Homo sapiens miR-5702 stem-loop
+126867 84 0
+0 hsa-mir-5703 MI0019310 Homo sapiens miR-5703 stem-loop
+126951 56 0
+0 hsa-mir-5692b MI0019311 Homo sapiens miR-5692b stem-loop
+127007 87 0
+0 hsa-mir-5704 MI0019312 Homo sapiens miR-5704 stem-loop
+127094 77 0
+0 hsa-mir-5705 MI0019313 Homo sapiens miR-5705 stem-loop
+127171 89 0
+0 hsa-mir-5706 MI0019314 Homo sapiens miR-5706 stem-loop
+127260 80 0
+0 hsa-mir-5707 MI0019315 Homo sapiens miR-5707 stem-loop
+127340 81 0
+0 hsa-mir-5708 MI0019316 Homo sapiens miR-5708 stem-loop
+127421 85 0
+0 hsa-mir-5701-2 MI0019593 Homo sapiens miR-5701-2 stem-loop
+127506 82 0

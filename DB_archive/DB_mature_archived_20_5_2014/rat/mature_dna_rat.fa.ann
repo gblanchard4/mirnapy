@@ -1,0 +1,1361 @@
+14756 680 11
+0 rno-miR-322 MIMAT0001619 Rattus norvegicus miR-322
+0 22 0
+0 rno-miR-322* MIMAT0000547 Rattus norvegicus miR-322*
+22 20 0
+0 rno-miR-323* MIMAT0004637 Rattus norvegicus miR-323*
+42 22 0
+0 rno-miR-323 MIMAT0000550 Rattus norvegicus miR-323
+64 21 0
+0 rno-miR-301a* MIMAT0017026 Rattus norvegicus miR-301a*
+85 21 0
+0 rno-miR-301a MIMAT0000552 Rattus norvegicus miR-301a
+106 23 0
+0 rno-miR-324-5p MIMAT0000553 Rattus norvegicus miR-324-5p
+129 23 0
+0 rno-miR-324-3p MIMAT0000554 Rattus norvegicus miR-324-3p
+152 22 0
+0 rno-miR-325-5p MIMAT0000557 Rattus norvegicus miR-325-5p
+174 23 0
+0 rno-miR-325-3p MIMAT0004639 Rattus norvegicus miR-325-3p
+197 22 0
+0 rno-miR-326* MIMAT0017028 Rattus norvegicus miR-326*
+219 20 0
+0 rno-miR-326 MIMAT0000560 Rattus norvegicus miR-326
+239 21 0
+0 rno-miR-327 MIMAT0000561 Rattus norvegicus miR-327
+260 19 0
+0 rno-let-7d MIMAT0000562 Rattus norvegicus let-7d
+279 22 0
+0 rno-let-7d* MIMAT0000563 Rattus norvegicus let-7d*
+301 22 0
+0 rno-miR-328a* MIMAT0017029 Rattus norvegicus miR-328a*
+323 19 0
+0 rno-miR-328a MIMAT0000564 Rattus norvegicus miR-328a
+342 22 0
+0 rno-miR-329* MIMAT0017031 Rattus norvegicus miR-329*
+364 24 0
+0 rno-miR-329 MIMAT0000566 Rattus norvegicus miR-329
+388 22 0
+0 rno-miR-330 MIMAT0004641 Rattus norvegicus miR-330
+410 22 0
+0 rno-miR-330* MIMAT0000568 Rattus norvegicus miR-330*
+432 23 0
+0 rno-miR-331* MIMAT0017033 Rattus norvegicus miR-331*
+455 19 0
+0 rno-miR-331 MIMAT0000570 Rattus norvegicus miR-331
+474 21 0
+0 rno-miR-140 MIMAT0000573 Rattus norvegicus miR-140
+495 22 0
+0 rno-miR-140* MIMAT0000574 Rattus norvegicus miR-140*
+517 21 0
+0 rno-miR-335 MIMAT0000575 Rattus norvegicus miR-335
+538 23 0
+0 rno-miR-336 MIMAT0000576 Rattus norvegicus miR-336
+561 21 0
+0 rno-miR-336* MIMAT0017034 Rattus norvegicus miR-336*
+582 24 0
+0 rno-miR-337* MIMAT0017035 Rattus norvegicus miR-337*
+606 21 0
+0 rno-miR-337 MIMAT0000577 Rattus norvegicus miR-337
+627 23 0
+0 rno-miR-148b-5p MIMAT0004645 Rattus norvegicus miR-148b-5p
+650 22 0
+0 rno-miR-148b-3p MIMAT0000579 Rattus norvegicus miR-148b-3p
+672 22 0
+0 rno-miR-338* MIMAT0004646 Rattus norvegicus miR-338*
+694 22 0
+0 rno-miR-338 MIMAT0000581 Rattus norvegicus miR-338
+716 23 0
+0 rno-miR-339-5p MIMAT0000583 Rattus norvegicus miR-339-5p
+739 23 0
+0 rno-miR-339-3p MIMAT0004648 Rattus norvegicus miR-339-3p
+762 23 0
+0 rno-miR-340-5p MIMAT0004650 Rattus norvegicus miR-340-5p
+785 22 0
+0 rno-miR-340-3p MIMAT0000585 Rattus norvegicus miR-340-3p
+807 23 0
+0 rno-miR-341 MIMAT0000587 Rattus norvegicus miR-341
+830 21 0
+0 rno-miR-342-5p MIMAT0004652 Rattus norvegicus miR-342-5p
+851 22 0
+0 rno-miR-342-3p MIMAT0000589 Rattus norvegicus miR-342-3p
+873 23 0
+0 rno-miR-343 MIMAT0000591 Rattus norvegicus miR-343
+896 20 0
+0 rno-miR-344a-5p MIMAT0004654 Rattus norvegicus miR-344a-5p
+916 24 0
+0 rno-miR-344a-3p MIMAT0000592 Rattus norvegicus miR-344a-3p
+940 23 0
+0 rno-miR-345-5p MIMAT0000594 Rattus norvegicus miR-345-5p
+963 21 0
+0 rno-miR-345-3p MIMAT0004655 Rattus norvegicus miR-345-3p
+984 22 0
+0 rno-miR-346 MIMAT0000596 Rattus norvegicus miR-346
+1006 23 0
+0 rno-miR-347 MIMAT0000598 Rattus norvegicus miR-347
+1029 19 0
+0 rno-miR-349 MIMAT0000599 Rattus norvegicus miR-349
+1048 22 0
+0 rno-miR-129 MIMAT0000600 Rattus norvegicus miR-129
+1070 21 0
+0 rno-miR-129-2* MIMAT0000601 Rattus norvegicus miR-129-2*
+1091 22 0
+0 rno-miR-20a MIMAT0000602 Rattus norvegicus miR-20a
+1113 23 0
+0 rno-miR-20a* MIMAT0000603 Rattus norvegicus miR-20a*
+1136 21 0
+0 rno-miR-350 MIMAT0000604 Rattus norvegicus miR-350
+1157 24 0
+0 rno-miR-7a MIMAT0000606 Rattus norvegicus miR-7a
+1181 23 0
+0 rno-miR-7a-1* MIMAT0000607 Rattus norvegicus miR-7a-1*
+1204 22 0
+0 rno-miR-351 MIMAT0000608 Rattus norvegicus miR-351
+1226 25 0
+0 rno-miR-351* MIMAT0017041 Rattus norvegicus miR-351*
+1251 21 0
+0 rno-miR-352 MIMAT0000610 Rattus norvegicus miR-352
+1272 21 0
+0 rno-miR-135b MIMAT0000611 Rattus norvegicus miR-135b
+1293 23 0
+0 rno-miR-135b* MIMAT0017043 Rattus norvegicus miR-135b*
+1316 22 0
+0 rno-miR-151 MIMAT0000613 Rattus norvegicus miR-151
+1338 21 0
+0 rno-miR-151* MIMAT0000614 Rattus norvegicus miR-151*
+1359 21 0
+0 rno-miR-101b* MIMAT0017045 Rattus norvegicus miR-101b*
+1380 22 0
+0 rno-miR-101b MIMAT0000615 Rattus norvegicus miR-101b
+1402 21 0
+0 rno-let-7a MIMAT0000774 Rattus norvegicus let-7a
+1423 22 0
+0 rno-let-7a-1* MIMAT0017085 Rattus norvegicus let-7a-1*
+1445 22 0
+0 rno-let-7a-2* MIMAT0017086 Rattus norvegicus let-7a-2*
+1467 22 0
+0 rno-let-7b MIMAT0000775 Rattus norvegicus let-7b
+1489 22 0
+0 rno-let-7b* MIMAT0004705 Rattus norvegicus let-7b*
+1511 22 0
+0 rno-let-7c MIMAT0000776 Rattus norvegicus let-7c
+1533 22 0
+0 rno-let-7c-1* MIMAT0017087 Rattus norvegicus let-7c-1*
+1555 22 0
+0 rno-let-7c-2* MIMAT0017088 Rattus norvegicus let-7c-2*
+1577 22 0
+0 rno-let-7e MIMAT0000777 Rattus norvegicus let-7e
+1599 22 0
+0 rno-let-7e* MIMAT0004706 Rattus norvegicus let-7e*
+1621 22 0
+0 rno-let-7f MIMAT0000778 Rattus norvegicus let-7f
+1643 22 0
+0 rno-let-7f-1* MIMAT0017089 Rattus norvegicus let-7f-1*
+1665 21 0
+0 rno-let-7f-2* MIMAT0017090 Rattus norvegicus let-7f-2*
+1686 21 0
+0 rno-let-7i MIMAT0000779 Rattus norvegicus let-7i
+1707 22 0
+0 rno-let-7i* MIMAT0004707 Rattus norvegicus let-7i*
+1729 22 0
+0 rno-miR-7a-2* MIMAT0017091 Rattus norvegicus miR-7a-2*
+1751 22 0
+0 rno-miR-7b MIMAT0000780 Rattus norvegicus miR-7b
+1773 23 0
+0 rno-miR-9 MIMAT0000781 Rattus norvegicus miR-9
+1796 23 0
+0 rno-miR-9* MIMAT0004708 Rattus norvegicus miR-9*
+1819 22 0
+0 rno-miR-10a-5p MIMAT0000782 Rattus norvegicus miR-10a-5p
+1841 23 0
+0 rno-miR-10a-3p MIMAT0004709 Rattus norvegicus miR-10a-3p
+1864 22 0
+0 rno-miR-10b MIMAT0000783 Rattus norvegicus miR-10b
+1886 22 0
+0 rno-miR-10b* MIMAT0017092 Rattus norvegicus miR-10b*
+1908 21 0
+0 rno-miR-15b MIMAT0000784 Rattus norvegicus miR-15b
+1929 22 0
+0 rno-miR-15b* MIMAT0017093 Rattus norvegicus miR-15b*
+1951 22 0
+0 rno-miR-16 MIMAT0000785 Rattus norvegicus miR-16
+1973 22 0
+0 rno-miR-16* MIMAT0017094 Rattus norvegicus miR-16*
+1995 21 0
+0 rno-miR-17-5p MIMAT0000786 Rattus norvegicus miR-17-5p
+2016 23 0
+0 rno-miR-17-1-3p MIMAT0004710 Rattus norvegicus miR-17-1-3p
+2039 22 0
+0 rno-miR-18a MIMAT0000787 Rattus norvegicus miR-18a
+2061 23 0
+0 rno-miR-18a* MIMAT0017095 Rattus norvegicus miR-18a*
+2084 21 0
+0 rno-miR-19b-1* MIMAT0017096 Rattus norvegicus miR-19b-1*
+2105 22 0
+0 rno-miR-19b MIMAT0000788 Rattus norvegicus miR-19b
+2127 23 0
+0 rno-miR-19b-2* MIMAT0017097 Rattus norvegicus miR-19b-2*
+2150 23 0
+0 rno-miR-19a* MIMAT0017098 Rattus norvegicus miR-19a*
+2173 20 0
+0 rno-miR-19a MIMAT0000789 Rattus norvegicus miR-19a
+2193 23 0
+0 rno-miR-21 MIMAT0000790 Rattus norvegicus miR-21
+2216 22 0
+0 rno-miR-21* MIMAT0004711 Rattus norvegicus miR-21*
+2238 22 0
+0 rno-miR-22* MIMAT0003152 Rattus norvegicus miR-22*
+2260 22 0
+0 rno-miR-22 MIMAT0000791 Rattus norvegicus miR-22
+2282 22 0
+0 rno-miR-23a* MIMAT0004712 Rattus norvegicus miR-23a*
+2304 22 0
+0 rno-miR-23a MIMAT0000792 Rattus norvegicus miR-23a
+2326 21 0
+0 rno-miR-23b* MIMAT0017099 Rattus norvegicus miR-23b*
+2347 21 0
+0 rno-miR-23b MIMAT0000793 Rattus norvegicus miR-23b
+2368 21 0
+0 rno-miR-24-1* MIMAT0003153 Rattus norvegicus miR-24-1*
+2389 22 0
+0 rno-miR-24 MIMAT0000794 Rattus norvegicus miR-24
+2411 22 0
+0 rno-miR-24-2* MIMAT0005441 Rattus norvegicus miR-24-2*
+2433 22 0
+0 rno-miR-25* MIMAT0004713 Rattus norvegicus miR-25*
+2455 22 0
+0 rno-miR-25 MIMAT0000795 Rattus norvegicus miR-25
+2477 22 0
+0 rno-miR-26a MIMAT0000796 Rattus norvegicus miR-26a
+2499 22 0
+0 rno-miR-26a* MIMAT0017100 Rattus norvegicus miR-26a*
+2521 21 0
+0 rno-miR-26b MIMAT0000797 Rattus norvegicus miR-26b
+2542 21 0
+0 rno-miR-26b* MIMAT0004714 Rattus norvegicus miR-26b*
+2563 22 0
+0 rno-miR-27b* MIMAT0017101 Rattus norvegicus miR-27b*
+2585 24 0
+0 rno-miR-27b MIMAT0000798 Rattus norvegicus miR-27b
+2609 21 0
+0 rno-miR-27a* MIMAT0004715 Rattus norvegicus miR-27a*
+2630 22 0
+0 rno-miR-27a MIMAT0000799 Rattus norvegicus miR-27a
+2652 21 0
+0 rno-miR-28 MIMAT0000800 Rattus norvegicus miR-28
+2673 22 0
+0 rno-miR-28* MIMAT0004716 Rattus norvegicus miR-28*
+2695 22 0
+0 rno-miR-29b-2* MIMAT0004717 Rattus norvegicus miR-29b-2*
+2717 22 0
+0 rno-miR-29b MIMAT0000801 Rattus norvegicus miR-29b
+2739 23 0
+0 rno-miR-29a* MIMAT0004718 Rattus norvegicus miR-29a*
+2762 22 0
+0 rno-miR-29a MIMAT0000802 Rattus norvegicus miR-29a
+2784 22 0
+0 rno-miR-29b-1* MIMAT0005445 Rattus norvegicus miR-29b-1*
+2806 22 0
+0 rno-miR-29c* MIMAT0003154 Rattus norvegicus miR-29c*
+2828 22 0
+0 rno-miR-29c MIMAT0000803 Rattus norvegicus miR-29c
+2850 22 0
+0 rno-miR-30c MIMAT0000804 Rattus norvegicus miR-30c
+2872 23 0
+0 rno-miR-30c-1* MIMAT0004719 Rattus norvegicus miR-30c-1*
+2895 22 0
+0 rno-miR-30e MIMAT0000805 Rattus norvegicus miR-30e
+2917 22 0
+0 rno-miR-30e* MIMAT0004720 Rattus norvegicus miR-30e*
+2939 22 0
+0 rno-miR-30b-5p MIMAT0000806 Rattus norvegicus miR-30b-5p
+2961 22 0
+0 rno-miR-30b-3p MIMAT0004721 Rattus norvegicus miR-30b-3p
+2983 22 0
+0 rno-miR-30d MIMAT0000807 Rattus norvegicus miR-30d
+3005 22 0
+0 rno-miR-30d* MIMAT0004722 Rattus norvegicus miR-30d*
+3027 22 0
+0 rno-miR-30a MIMAT0000808 Rattus norvegicus miR-30a
+3049 22 0
+0 rno-miR-30a* MIMAT0000809 Rattus norvegicus miR-30a*
+3071 22 0
+0 rno-miR-30c-2* MIMAT0005442 Rattus norvegicus miR-30c-2*
+3093 22 0
+0 rno-miR-31 MIMAT0000810 Rattus norvegicus miR-31
+3115 22 0
+0 rno-miR-31* MIMAT0017102 Rattus norvegicus miR-31*
+3137 23 0
+0 rno-miR-32 MIMAT0000811 Rattus norvegicus miR-32
+3160 22 0
+0 rno-miR-32* MIMAT0017103 Rattus norvegicus miR-32*
+3182 22 0
+0 rno-miR-33 MIMAT0000812 Rattus norvegicus miR-33
+3204 21 0
+0 rno-miR-33* MIMAT0017104 Rattus norvegicus miR-33*
+3225 21 0
+0 rno-miR-34b MIMAT0000813 Rattus norvegicus miR-34b
+3246 23 0
+0 rno-miR-34b* MIMAT0017105 Rattus norvegicus miR-34b*
+3269 22 0
+0 rno-miR-34c MIMAT0000814 Rattus norvegicus miR-34c
+3291 23 0
+0 rno-miR-34c* MIMAT0004723 Rattus norvegicus miR-34c*
+3314 22 0
+0 rno-miR-34a MIMAT0000815 Rattus norvegicus miR-34a
+3336 22 0
+0 rno-miR-34a* MIMAT0017106 Rattus norvegicus miR-34a*
+3358 22 0
+0 rno-miR-92a-1* MIMAT0017107 Rattus norvegicus miR-92a-1*
+3380 23 0
+0 rno-miR-92a MIMAT0000816 Rattus norvegicus miR-92a
+3403 21 0
+0 rno-miR-92a-2* MIMAT0017108 Rattus norvegicus miR-92a-2*
+3424 22 0
+0 rno-miR-93 MIMAT0000817 Rattus norvegicus miR-93
+3446 23 0
+0 rno-miR-93* MIMAT0017109 Rattus norvegicus miR-93*
+3469 23 0
+0 rno-miR-96 MIMAT0000818 Rattus norvegicus miR-96
+3492 23 0
+0 rno-miR-96* MIMAT0017110 Rattus norvegicus miR-96*
+3515 22 0
+0 rno-miR-98 MIMAT0000819 Rattus norvegicus miR-98
+3537 22 0
+0 rno-miR-98* MIMAT0017111 Rattus norvegicus miR-98*
+3559 21 0
+0 rno-miR-99a MIMAT0000820 Rattus norvegicus miR-99a
+3580 22 0
+0 rno-miR-99a* MIMAT0004724 Rattus norvegicus miR-99a*
+3602 22 0
+0 rno-miR-99b MIMAT0000821 Rattus norvegicus miR-99b
+3624 22 0
+0 rno-miR-99b* MIMAT0004725 Rattus norvegicus miR-99b*
+3646 22 0
+0 rno-miR-100 MIMAT0000822 Rattus norvegicus miR-100
+3668 22 0
+0 rno-miR-100* MIMAT0017112 Rattus norvegicus miR-100*
+3690 19 0
+0 rno-miR-101a* MIMAT0004726 Rattus norvegicus miR-101a*
+3709 22 0
+0 rno-miR-101a MIMAT0000823 Rattus norvegicus miR-101a
+3731 21 0
+0 rno-miR-103-2* MIMAT0017113 Rattus norvegicus miR-103-2*
+3752 17 0
+0 rno-miR-103 MIMAT0000824 Rattus norvegicus miR-103
+3769 23 0
+0 rno-miR-103-1* MIMAT0017114 Rattus norvegicus miR-103-1*
+3792 24 0
+0 rno-miR-106b MIMAT0000825 Rattus norvegicus miR-106b
+3816 21 0
+0 rno-miR-106b* MIMAT0004727 Rattus norvegicus miR-106b*
+3837 22 0
+0 rno-miR-107* MIMAT0017115 Rattus norvegicus miR-107*
+3859 24 0
+0 rno-miR-107 MIMAT0000826 Rattus norvegicus miR-107
+3883 23 0
+0 rno-miR-122 MIMAT0000827 Rattus norvegicus miR-122
+3906 22 0
+0 rno-miR-122* MIMAT0017116 Rattus norvegicus miR-122*
+3928 19 0
+0 rno-miR-124* MIMAT0004728 Rattus norvegicus miR-124*
+3947 22 0
+0 rno-miR-124 MIMAT0000828 Rattus norvegicus miR-124
+3969 20 0
+0 rno-miR-125a-5p MIMAT0000829 Rattus norvegicus miR-125a-5p
+3989 24 0
+0 rno-miR-125a-3p MIMAT0004729 Rattus norvegicus miR-125a-3p
+4013 22 0
+0 rno-miR-125b-5p MIMAT0000830 Rattus norvegicus miR-125b-5p
+4035 22 0
+0 rno-miR-125b-3p MIMAT0004730 Rattus norvegicus miR-125b-3p
+4057 22 0
+0 rno-miR-125b* MIMAT0004731 Rattus norvegicus miR-125b*
+4079 22 0
+0 rno-miR-126* MIMAT0000831 Rattus norvegicus miR-126*
+4101 21 0
+0 rno-miR-126 MIMAT0000832 Rattus norvegicus miR-126
+4122 22 0
+0 rno-miR-127* MIMAT0017117 Rattus norvegicus miR-127*
+4144 23 0
+0 rno-miR-127 MIMAT0000833 Rattus norvegicus miR-127
+4167 22 0
+0 rno-miR-128-1* MIMAT0017118 Rattus norvegicus miR-128-1*
+4189 21 0
+0 rno-miR-128 MIMAT0000834 Rattus norvegicus miR-128
+4210 21 0
+0 rno-miR-128-2* MIMAT0017119 Rattus norvegicus miR-128-2*
+4231 21 0
+0 rno-miR-129-1* MIMAT0017120 Rattus norvegicus miR-129-1*
+4252 19 0
+0 rno-miR-130a* MIMAT0017121 Rattus norvegicus miR-130a*
+4271 22 0
+0 rno-miR-130a MIMAT0000836 Rattus norvegicus miR-130a
+4293 22 0
+0 rno-miR-130b* MIMAT0017122 Rattus norvegicus miR-130b*
+4315 22 0
+0 rno-miR-130b MIMAT0000837 Rattus norvegicus miR-130b
+4337 22 0
+0 rno-miR-132* MIMAT0017123 Rattus norvegicus miR-132*
+4359 22 0
+0 rno-miR-132 MIMAT0000838 Rattus norvegicus miR-132
+4381 22 0
+0 rno-miR-133a* MIMAT0017124 Rattus norvegicus miR-133a*
+4403 22 0
+0 rno-miR-133a MIMAT0000839 Rattus norvegicus miR-133a
+4425 22 0
+0 rno-miR-134 MIMAT0000840 Rattus norvegicus miR-134
+4447 22 0
+0 rno-miR-134* MIMAT0017125 Rattus norvegicus miR-134*
+4469 22 0
+0 rno-miR-135a MIMAT0000841 Rattus norvegicus miR-135a
+4491 23 0
+0 rno-miR-135a* MIMAT0004732 Rattus norvegicus miR-135a*
+4514 22 0
+0 rno-miR-136 MIMAT0000842 Rattus norvegicus miR-136
+4536 23 0
+0 rno-miR-136* MIMAT0004733 Rattus norvegicus miR-136*
+4559 22 0
+0 rno-miR-137* MIMAT0017126 Rattus norvegicus miR-137*
+4581 22 0
+0 rno-miR-137 MIMAT0000843 Rattus norvegicus miR-137
+4603 23 0
+0 rno-miR-138 MIMAT0000844 Rattus norvegicus miR-138
+4626 23 0
+0 rno-miR-138-2* MIMAT0017127 Rattus norvegicus miR-138-2*
+4649 21 0
+0 rno-miR-138-1* MIMAT0004734 Rattus norvegicus miR-138-1*
+4670 22 0
+0 rno-miR-139-5p MIMAT0000845 Rattus norvegicus miR-139-5p
+4692 22 0
+0 rno-miR-139-3p MIMAT0004735 Rattus norvegicus miR-139-3p
+4714 22 0
+0 rno-miR-141* MIMAT0017128 Rattus norvegicus miR-141*
+4736 22 0
+0 rno-miR-141 MIMAT0000846 Rattus norvegicus miR-141
+4758 22 0
+0 rno-miR-142-5p MIMAT0000847 Rattus norvegicus miR-142-5p
+4780 21 0
+0 rno-miR-142-3p MIMAT0000848 Rattus norvegicus miR-142-3p
+4801 23 0
+0 rno-miR-143* MIMAT0017129 Rattus norvegicus miR-143*
+4824 21 0
+0 rno-miR-143 MIMAT0000849 Rattus norvegicus miR-143
+4845 22 0
+0 rno-miR-144* MIMAT0017130 Rattus norvegicus miR-144*
+4867 23 0
+0 rno-miR-144 MIMAT0000850 Rattus norvegicus miR-144
+4890 20 0
+0 rno-miR-145 MIMAT0000851 Rattus norvegicus miR-145
+4910 23 0
+0 rno-miR-145* MIMAT0017131 Rattus norvegicus miR-145*
+4933 21 0
+0 rno-miR-146a MIMAT0000852 Rattus norvegicus miR-146a
+4954 22 0
+0 rno-miR-146a* MIMAT0017132 Rattus norvegicus miR-146a*
+4976 21 0
+0 rno-miR-150 MIMAT0000853 Rattus norvegicus miR-150
+4997 22 0
+0 rno-miR-150* MIMAT0017133 Rattus norvegicus miR-150*
+5019 19 0
+0 rno-miR-152* MIMAT0017134 Rattus norvegicus miR-152*
+5038 23 0
+0 rno-miR-152 MIMAT0000854 Rattus norvegicus miR-152
+5061 21 0
+0 rno-miR-153* MIMAT0017135 Rattus norvegicus miR-153*
+5082 23 0
+0 rno-miR-153 MIMAT0000855 Rattus norvegicus miR-153
+5105 22 0
+0 rno-miR-154 MIMAT0000856 Rattus norvegicus miR-154
+5127 22 0
+0 rno-miR-154* MIMAT0017136 Rattus norvegicus miR-154*
+5149 22 0
+0 rno-miR-181c MIMAT0000857 Rattus norvegicus miR-181c
+5171 22 0
+0 rno-miR-181c* MIMAT0017137 Rattus norvegicus miR-181c*
+5193 22 0
+0 rno-miR-181a MIMAT0000858 Rattus norvegicus miR-181a
+5215 23 0
+0 rno-miR-181a-2* MIMAT0017138 Rattus norvegicus miR-181a-2*
+5238 19 0
+0 rno-miR-181b MIMAT0000859 Rattus norvegicus miR-181b
+5257 23 0
+0 rno-miR-181b-1* MIMAT0017139 Rattus norvegicus miR-181b-1*
+5280 21 0
+0 rno-miR-181b-2* MIMAT0017140 Rattus norvegicus miR-181b-2*
+5301 22 0
+0 rno-miR-183 MIMAT0000860 Rattus norvegicus miR-183
+5323 22 0
+0 rno-miR-183* MIMAT0017141 Rattus norvegicus miR-183*
+5345 21 0
+0 rno-miR-184 MIMAT0000861 Rattus norvegicus miR-184
+5366 22 0
+0 rno-miR-185 MIMAT0000862 Rattus norvegicus miR-185
+5388 22 0
+0 rno-miR-185* MIMAT0017142 Rattus norvegicus miR-185*
+5410 19 0
+0 rno-miR-186 MIMAT0000863 Rattus norvegicus miR-186
+5429 22 0
+0 rno-miR-186* MIMAT0017143 Rattus norvegicus miR-186*
+5451 21 0
+0 rno-miR-187* MIMAT0017144 Rattus norvegicus miR-187*
+5472 18 0
+0 rno-miR-187 MIMAT0000864 Rattus norvegicus miR-187
+5490 22 0
+0 rno-miR-190 MIMAT0000865 Rattus norvegicus miR-190
+5512 22 0
+0 rno-miR-190* MIMAT0017145 Rattus norvegicus miR-190*
+5534 22 0
+0 rno-miR-191 MIMAT0000866 Rattus norvegicus miR-191
+5556 23 0
+0 rno-miR-191* MIMAT0017146 Rattus norvegicus miR-191*
+5579 22 0
+0 rno-miR-192 MIMAT0000867 Rattus norvegicus miR-192
+5601 21 0
+0 rno-miR-192* MIMAT0017147 Rattus norvegicus miR-192*
+5622 22 0
+0 rno-miR-193* MIMAT0004736 Rattus norvegicus miR-193*
+5644 22 0
+0 rno-miR-193 MIMAT0000868 Rattus norvegicus miR-193
+5666 22 0
+0 rno-miR-194 MIMAT0000869 Rattus norvegicus miR-194
+5688 22 0
+0 rno-miR-194* MIMAT0017148 Rattus norvegicus miR-194*
+5710 21 0
+0 rno-miR-195 MIMAT0000870 Rattus norvegicus miR-195
+5731 21 0
+0 rno-miR-195* MIMAT0017149 Rattus norvegicus miR-195*
+5752 23 0
+0 rno-miR-196a MIMAT0000871 Rattus norvegicus miR-196a
+5775 22 0
+0 rno-miR-196a* MIMAT0004737 Rattus norvegicus miR-196a*
+5797 22 0
+0 rno-miR-199a-5p MIMAT0000872 Rattus norvegicus miR-199a-5p
+5819 23 0
+0 rno-miR-199a-3p MIMAT0004738 Rattus norvegicus miR-199a-3p
+5842 22 0
+0 rno-miR-200c* MIMAT0017150 Rattus norvegicus miR-200c*
+5864 21 0
+0 rno-miR-200c MIMAT0000873 Rattus norvegicus miR-200c
+5885 21 0
+0 rno-miR-200a* MIMAT0017151 Rattus norvegicus miR-200a*
+5906 21 0
+0 rno-miR-200a MIMAT0000874 Rattus norvegicus miR-200a
+5927 22 0
+0 rno-miR-200b* MIMAT0017152 Rattus norvegicus miR-200b*
+5949 22 0
+0 rno-miR-200b MIMAT0000875 Rattus norvegicus miR-200b
+5971 23 0
+0 rno-miR-203* MIMAT0017153 Rattus norvegicus miR-203*
+5994 21 0
+0 rno-miR-203 MIMAT0000876 Rattus norvegicus miR-203
+6015 22 0
+0 rno-miR-204 MIMAT0000877 Rattus norvegicus miR-204
+6037 22 0
+0 rno-miR-204* MIMAT0004739 Rattus norvegicus miR-204*
+6059 22 0
+0 rno-miR-205 MIMAT0000878 Rattus norvegicus miR-205
+6081 23 0
+0 rno-miR-206* MIMAT0017154 Rattus norvegicus miR-206*
+6104 22 0
+0 rno-miR-206 MIMAT0000879 Rattus norvegicus miR-206
+6126 22 0
+0 rno-miR-208* MIMAT0017155 Rattus norvegicus miR-208*
+6148 22 0
+0 rno-miR-208 MIMAT0000880 Rattus norvegicus miR-208
+6170 18 0
+0 rno-miR-210* MIMAT0017156 Rattus norvegicus miR-210*
+6188 22 0
+0 rno-miR-210 MIMAT0000881 Rattus norvegicus miR-210
+6210 22 0
+0 rno-miR-211 MIMAT0000882 Rattus norvegicus miR-211
+6232 22 0
+0 rno-miR-211* MIMAT0017157 Rattus norvegicus miR-211*
+6254 20 0
+0 rno-miR-212* MIMAT0017158 Rattus norvegicus miR-212*
+6274 24 0
+0 rno-miR-212 MIMAT0000883 Rattus norvegicus miR-212
+6298 22 0
+0 rno-miR-181a-1* MIMAT0000884 Rattus norvegicus miR-181a-1*
+6320 22 0
+0 rno-miR-214* MIMAT0017159 Rattus norvegicus miR-214*
+6342 17 0
+0 rno-miR-214 MIMAT0000885 Rattus norvegicus miR-214
+6359 21 0
+0 rno-miR-216a MIMAT0000886 Rattus norvegicus miR-216a
+6380 22 0
+0 rno-miR-216a* MIMAT0017160 Rattus norvegicus miR-216a*
+6402 22 0
+0 rno-miR-217 MIMAT0000887 Rattus norvegicus miR-217
+6424 22 0
+0 rno-miR-217* MIMAT0017161 Rattus norvegicus miR-217*
+6446 22 0
+0 rno-miR-218a MIMAT0000888 Rattus norvegicus miR-218a
+6468 21 0
+0 rno-miR-218a-2* MIMAT0004740 Rattus norvegicus miR-218a-2*
+6489 22 0
+0 rno-miR-218a-1* MIMAT0017162 Rattus norvegicus miR-218a-1*
+6511 21 0
+0 rno-miR-219-5p MIMAT0000889 Rattus norvegicus miR-219-5p
+6532 21 0
+0 rno-miR-219-1-3p MIMAT0004741 Rattus norvegicus miR-219-1-3p
+6553 22 0
+0 rno-miR-219-2-3p MIMAT0005446 Rattus norvegicus miR-219-2-3p
+6575 22 0
+0 rno-miR-221* MIMAT0017163 Rattus norvegicus miR-221*
+6597 23 0
+0 rno-miR-221 MIMAT0000890 Rattus norvegicus miR-221
+6620 23 0
+0 rno-miR-222* MIMAT0017164 Rattus norvegicus miR-222*
+6643 21 0
+0 rno-miR-222 MIMAT0000891 Rattus norvegicus miR-222
+6664 21 0
+0 rno-miR-223* MIMAT0017165 Rattus norvegicus miR-223*
+6685 23 0
+0 rno-miR-223 MIMAT0000892 Rattus norvegicus miR-223
+6708 21 0
+0 rno-miR-290 MIMAT0000893 Rattus norvegicus miR-290
+6729 18 0
+0 rno-miR-291a-5p MIMAT0000894 Rattus norvegicus miR-291a-5p
+6747 22 0
+0 rno-miR-291a-3p MIMAT0000895 Rattus norvegicus miR-291a-3p
+6769 23 0
+0 rno-miR-292-5p MIMAT0000896 Rattus norvegicus miR-292-5p
+6792 22 0
+0 rno-miR-292-3p MIMAT0000897 Rattus norvegicus miR-292-3p
+6814 23 0
+0 rno-miR-296* MIMAT0000898 Rattus norvegicus miR-296*
+6837 21 0
+0 rno-miR-296 MIMAT0004742 Rattus norvegicus miR-296
+6858 22 0
+0 rno-miR-297 MIMAT0000899 Rattus norvegicus miR-297
+6880 23 0
+0 rno-miR-298 MIMAT0000900 Rattus norvegicus miR-298
+6903 23 0
+0 rno-miR-298* MIMAT0017166 Rattus norvegicus miR-298*
+6926 22 0
+0 rno-miR-299 MIMAT0000901 Rattus norvegicus miR-299
+6948 22 0
+0 rno-miR-299* MIMAT0017167 Rattus norvegicus miR-299*
+6970 21 0
+0 rno-miR-300-5p MIMAT0004743 Rattus norvegicus miR-300-5p
+6991 22 0
+0 rno-miR-300-3p MIMAT0000902 Rattus norvegicus miR-300-3p
+7013 22 0
+0 rno-miR-320* MIMAT0017168 Rattus norvegicus miR-320*
+7035 22 0
+0 rno-miR-320 MIMAT0000903 Rattus norvegicus miR-320
+7057 22 0
+0 rno-miR-196b MIMAT0001082 Rattus norvegicus miR-196b
+7079 22 0
+0 rno-miR-196b* MIMAT0017171 Rattus norvegicus miR-196b*
+7101 23 0
+0 rno-miR-421 MIMAT0001320 Rattus norvegicus miR-421
+7124 21 0
+0 rno-miR-421* MIMAT0017175 Rattus norvegicus miR-421*
+7145 20 0
+0 rno-miR-448* MIMAT0017177 Rattus norvegicus miR-448*
+7165 22 0
+0 rno-miR-448 MIMAT0001534 Rattus norvegicus miR-448
+7187 21 0
+0 rno-miR-429 MIMAT0001538 Rattus norvegicus miR-429
+7208 22 0
+0 rno-miR-449a MIMAT0001543 Rattus norvegicus miR-449a
+7230 22 0
+0 rno-miR-449a* MIMAT0017181 Rattus norvegicus miR-449a*
+7252 22 0
+0 rno-miR-450a MIMAT0001547 Rattus norvegicus miR-450a
+7274 22 0
+0 rno-miR-450a* MIMAT0017183 Rattus norvegicus miR-450a*
+7296 21 0
+0 rno-miR-365* MIMAT0017184 Rattus norvegicus miR-365*
+7317 17 0
+0 rno-miR-365 MIMAT0001549 Rattus norvegicus miR-365
+7334 22 0
+0 rno-miR-431 MIMAT0001626 Rattus norvegicus miR-431
+7356 21 0
+0 rno-miR-433* MIMAT0017192 Rattus norvegicus miR-433*
+7377 22 0
+0 rno-miR-433 MIMAT0001628 Rattus norvegicus miR-433
+7399 22 0
+0 rno-miR-451 MIMAT0001633 Rattus norvegicus miR-451
+7421 22 0
+0 rno-miR-451* MIMAT0017193 Rattus norvegicus miR-451*
+7443 23 0
+0 rno-miR-489* MIMAT0017196 Rattus norvegicus miR-489*
+7466 24 0
+0 rno-miR-489 MIMAT0003113 Rattus norvegicus miR-489
+7490 22 0
+0 rno-miR-383 MIMAT0003114 Rattus norvegicus miR-383
+7512 21 0
+0 rno-miR-383* MIMAT0017197 Rattus norvegicus miR-383*
+7533 21 0
+0 rno-miR-207 MIMAT0003115 Rattus norvegicus miR-207
+7554 23 0
+0 rno-miR-501 MIMAT0003116 Rattus norvegicus miR-501
+7577 20 0
+0 rno-miR-501* MIMAT0017198 Rattus norvegicus miR-501*
+7597 23 0
+0 rno-miR-361 MIMAT0003117 Rattus norvegicus miR-361
+7620 22 0
+0 rno-miR-361* MIMAT0017199 Rattus norvegicus miR-361*
+7642 24 0
+0 rno-miR-215 MIMAT0003118 Rattus norvegicus miR-215
+7666 22 0
+0 rno-miR-224 MIMAT0003119 Rattus norvegicus miR-224
+7688 22 0
+0 rno-miR-224* MIMAT0017200 Rattus norvegicus miR-224*
+7710 22 0
+0 rno-miR-483* MIMAT0017201 Rattus norvegicus miR-483*
+7732 22 0
+0 rno-miR-483 MIMAT0003121 Rattus norvegicus miR-483
+7754 22 0
+0 rno-miR-370* MIMAT0017202 Rattus norvegicus miR-370*
+7776 24 0
+0 rno-miR-370 MIMAT0003122 Rattus norvegicus miR-370
+7800 22 0
+0 rno-miR-377* MIMAT0017203 Rattus norvegicus miR-377*
+7822 22 0
+0 rno-miR-377 MIMAT0003123 Rattus norvegicus miR-377
+7844 23 0
+0 rno-miR-412* MIMAT0017204 Rattus norvegicus miR-412*
+7867 20 0
+0 rno-miR-412 MIMAT0003124 Rattus norvegicus miR-412
+7887 22 0
+0 rno-miR-1* MIMAT0003162 Rattus norvegicus miR-1*
+7909 22 0
+0 rno-miR-1 MIMAT0003125 Rattus norvegicus miR-1
+7931 22 0
+0 rno-miR-133b* MIMAT0017205 Rattus norvegicus miR-133b*
+7953 21 0
+0 rno-miR-133b MIMAT0003126 Rattus norvegicus miR-133b
+7974 22 0
+0 rno-miR-540* MIMAT0017211 Rattus norvegicus miR-540*
+7996 23 0
+0 rno-miR-540 MIMAT0003174 Rattus norvegicus miR-540
+8019 22 0
+0 rno-miR-543 MIMAT0004787 Rattus norvegicus miR-543
+8041 21 0
+0 rno-miR-543* MIMAT0003175 Rattus norvegicus miR-543*
+8062 21 0
+0 rno-miR-539 MIMAT0003176 Rattus norvegicus miR-539
+8083 22 0
+0 rno-miR-539* MIMAT0017212 Rattus norvegicus miR-539*
+8105 22 0
+0 rno-miR-541 MIMAT0003177 Rattus norvegicus miR-541
+8127 25 0
+0 rno-miR-541* MIMAT0017213 Rattus norvegicus miR-541*
+8152 23 0
+0 rno-miR-542-5p MIMAT0003178 Rattus norvegicus miR-542-5p
+8175 22 0
+0 rno-miR-542-3p MIMAT0003179 Rattus norvegicus miR-542-3p
+8197 22 0
+0 rno-miR-493* MIMAT0017217 Rattus norvegicus miR-493*
+8219 22 0
+0 rno-miR-493 MIMAT0003191 Rattus norvegicus miR-493
+8241 21 0
+0 rno-miR-379 MIMAT0003192 Rattus norvegicus miR-379
+8262 21 0
+0 rno-miR-379* MIMAT0004791 Rattus norvegicus miR-379*
+8283 22 0
+0 rno-miR-494* MIMAT0017218 Rattus norvegicus miR-494*
+8305 22 0
+0 rno-miR-494 MIMAT0003193 Rattus norvegicus miR-494
+8327 23 0
+0 rno-miR-376c* MIMAT0017219 Rattus norvegicus miR-376c*
+8350 21 0
+0 rno-miR-376c MIMAT0003194 Rattus norvegicus miR-376c
+8371 21 0
+0 rno-miR-376b-5p MIMAT0003195 Rattus norvegicus miR-376b-5p
+8392 22 0
+0 rno-miR-376b-3p MIMAT0003196 Rattus norvegicus miR-376b-3p
+8414 21 0
+0 rno-miR-376a* MIMAT0003197 Rattus norvegicus miR-376a*
+8435 21 0
+0 rno-miR-376a MIMAT0003198 Rattus norvegicus miR-376a
+8456 21 0
+0 rno-miR-381* MIMAT0017220 Rattus norvegicus miR-381*
+8477 22 0
+0 rno-miR-381 MIMAT0003199 Rattus norvegicus miR-381
+8499 18 0
+0 rno-miR-487b* MIMAT0017221 Rattus norvegicus miR-487b*
+8517 23 0
+0 rno-miR-487b MIMAT0003200 Rattus norvegicus miR-487b
+8540 22 0
+0 rno-miR-382 MIMAT0003201 Rattus norvegicus miR-382
+8562 22 0
+0 rno-miR-382* MIMAT0003202 Rattus norvegicus miR-382*
+8584 21 0
+0 rno-miR-485 MIMAT0003203 Rattus norvegicus miR-485
+8605 22 0
+0 rno-miR-485* MIMAT0017222 Rattus norvegicus miR-485*
+8627 22 0
+0 rno-miR-409-5p MIMAT0003204 Rattus norvegicus miR-409-5p
+8649 23 0
+0 rno-miR-409-3p MIMAT0003205 Rattus norvegicus miR-409-3p
+8672 20 0
+0 rno-miR-369-5p MIMAT0003206 Rattus norvegicus miR-369-5p
+8692 22 0
+0 rno-miR-369-3p MIMAT0003207 Rattus norvegicus miR-369-3p
+8714 21 0
+0 rno-miR-374 MIMAT0003208 Rattus norvegicus miR-374
+8735 22 0
+0 rno-miR-374* MIMAT0017223 Rattus norvegicus miR-374*
+8757 22 0
+0 rno-miR-363* MIMAT0003209 Rattus norvegicus miR-363*
+8779 22 0
+0 rno-miR-363 MIMAT0003210 Rattus norvegicus miR-363
+8801 21 0
+0 rno-miR-20b-5p MIMAT0003211 Rattus norvegicus miR-20b-5p
+8822 23 0
+0 rno-miR-20b-3p MIMAT0003212 Rattus norvegicus miR-20b-3p
+8845 22 0
+0 rno-miR-503 MIMAT0003213 Rattus norvegicus miR-503
+8867 23 0
+0 rno-miR-503* MIMAT0017224 Rattus norvegicus miR-503*
+8890 23 0
+0 rno-miR-378* MIMAT0003378 Rattus norvegicus miR-378*
+8913 22 0
+0 rno-miR-378 MIMAT0003379 Rattus norvegicus miR-378
+8935 21 0
+0 rno-miR-505* MIMAT0017226 Rattus norvegicus miR-505*
+8956 23 0
+0 rno-miR-505 MIMAT0003380 Rattus norvegicus miR-505
+8979 20 0
+0 rno-miR-499 MIMAT0003381 Rattus norvegicus miR-499
+8999 21 0
+0 rno-miR-499* MIMAT0017227 Rattus norvegicus miR-499*
+9020 22 0
+0 rno-miR-664-1* MIMAT0017228 Rattus norvegicus miR-664-1*
+9042 21 0
+0 rno-miR-664 MIMAT0003382 Rattus norvegicus miR-664
+9063 22 0
+0 rno-miR-664-2* MIMAT0017229 Rattus norvegicus miR-664-2*
+9085 21 0
+0 rno-miR-497 MIMAT0003383 Rattus norvegicus miR-497
+9106 22 0
+0 rno-miR-497* MIMAT0017230 Rattus norvegicus miR-497*
+9128 23 0
+0 rno-miR-466b MIMAT0005278 Rattus norvegicus miR-466b
+9151 22 0
+0 rno-miR-466b-1* MIMAT0017285 Rattus norvegicus miR-466b-1*
+9173 22 0
+0 rno-miR-466b-2* MIMAT0017286 Rattus norvegicus miR-466b-2*
+9195 21 0
+0 rno-miR-466c MIMAT0005279 Rattus norvegicus miR-466c
+9216 21 0
+0 rno-miR-466c* MIMAT0017287 Rattus norvegicus miR-466c*
+9237 21 0
+0 rno-miR-743b* MIMAT0017288 Rattus norvegicus miR-743b*
+9258 22 0
+0 rno-miR-743b MIMAT0005280 Rattus norvegicus miR-743b
+9280 22 0
+0 rno-miR-871 MIMAT0005281 Rattus norvegicus miR-871
+9302 24 0
+0 rno-miR-871* MIMAT0017289 Rattus norvegicus miR-871*
+9326 22 0
+0 rno-miR-872 MIMAT0005282 Rattus norvegicus miR-872
+9348 21 0
+0 rno-miR-872* MIMAT0005283 Rattus norvegicus miR-872*
+9369 22 0
+0 rno-miR-874* MIMAT0017290 Rattus norvegicus miR-874*
+9391 21 0
+0 rno-miR-874 MIMAT0005284 Rattus norvegicus miR-874
+9412 22 0
+0 rno-miR-877 MIMAT0005285 Rattus norvegicus miR-877
+9434 20 0
+0 rno-miR-878 MIMAT0005286 Rattus norvegicus miR-878
+9454 22 0
+0 rno-miR-879 MIMAT0005287 Rattus norvegicus miR-879
+9476 21 0
+0 rno-miR-879* MIMAT0017291 Rattus norvegicus miR-879*
+9497 21 0
+0 rno-miR-880* MIMAT0017292 Rattus norvegicus miR-880*
+9518 21 0
+0 rno-miR-880 MIMAT0005288 Rattus norvegicus miR-880
+9539 22 0
+0 rno-miR-881* MIMAT0017293 Rattus norvegicus miR-881*
+9561 19 0
+0 rno-miR-881 MIMAT0005289 Rattus norvegicus miR-881
+9580 22 0
+0 rno-miR-883* MIMAT0017294 Rattus norvegicus miR-883*
+9602 23 0
+0 rno-miR-883 MIMAT0005290 Rattus norvegicus miR-883
+9625 22 0
+0 rno-miR-147 MIMAT0005297 Rattus norvegicus miR-147
+9647 22 0
+0 rno-miR-17-2-3p MIMAT0017295 Rattus norvegicus miR-17-2-3p
+9669 23 0
+0 rno-miR-181d MIMAT0005299 Rattus norvegicus miR-181d
+9692 23 0
+0 rno-miR-181d* MIMAT0017296 Rattus norvegicus miR-181d*
+9715 20 0
+0 rno-miR-182 MIMAT0005300 Rattus norvegicus miR-182
+9735 25 0
+0 rno-miR-188 MIMAT0005301 Rattus norvegicus miR-188
+9760 21 0
+0 rno-miR-188* MIMAT0017297 Rattus norvegicus miR-188*
+9781 20 0
+0 rno-miR-190b MIMAT0005302 Rattus norvegicus miR-190b
+9801 21 0
+0 rno-miR-190b* MIMAT0017298 Rattus norvegicus miR-190b*
+9822 20 0
+0 rno-miR-196c MIMAT0005303 Rattus norvegicus miR-196c
+9842 22 0
+0 rno-miR-196c* MIMAT0017299 Rattus norvegicus miR-196c*
+9864 22 0
+0 rno-miR-301b* MIMAT0017300 Rattus norvegicus miR-301b*
+9886 22 0
+0 rno-miR-301b MIMAT0005304 Rattus norvegicus miR-301b
+9908 23 0
+0 rno-miR-375* MIMAT0017301 Rattus norvegicus miR-375*
+9931 23 0
+0 rno-miR-375 MIMAT0005307 Rattus norvegicus miR-375
+9954 22 0
+0 rno-miR-380 MIMAT0005308 Rattus norvegicus miR-380
+9976 22 0
+0 rno-miR-380* MIMAT0017302 Rattus norvegicus miR-380*
+9998 21 0
+0 rno-miR-384-5p MIMAT0005309 Rattus norvegicus miR-384-5p
+10019 23 0
+0 rno-miR-384-3p MIMAT0005310 Rattus norvegicus miR-384-3p
+10042 22 0
+0 rno-miR-410* MIMAT0017303 Rattus norvegicus miR-410*
+10064 21 0
+0 rno-miR-410 MIMAT0005311 Rattus norvegicus miR-410
+10085 21 0
+0 rno-miR-411 MIMAT0005312 Rattus norvegicus miR-411
+10106 21 0
+0 rno-miR-411* MIMAT0017304 Rattus norvegicus miR-411*
+10127 20 0
+0 rno-miR-423* MIMAT0017305 Rattus norvegicus miR-423*
+10147 24 0
+0 rno-miR-423 MIMAT0005313 Rattus norvegicus miR-423
+10171 23 0
+0 rno-miR-425 MIMAT0005314 Rattus norvegicus miR-425
+10194 23 0
+0 rno-miR-425* MIMAT0017306 Rattus norvegicus miR-425*
+10217 21 0
+0 rno-miR-434* MIMAT0017307 Rattus norvegicus miR-434*
+10238 23 0
+0 rno-miR-434 MIMAT0005315 Rattus norvegicus miR-434
+10261 22 0
+0 rno-miR-455 MIMAT0005316 Rattus norvegicus miR-455
+10283 22 0
+0 rno-miR-455* MIMAT0017308 Rattus norvegicus miR-455*
+10305 22 0
+0 rno-miR-463* MIMAT0017309 Rattus norvegicus miR-463*
+10327 21 0
+0 rno-miR-463 MIMAT0005317 Rattus norvegicus miR-463
+10348 22 0
+0 rno-miR-471 MIMAT0005318 Rattus norvegicus miR-471
+10370 22 0
+0 rno-miR-471* MIMAT0017310 Rattus norvegicus miR-471*
+10392 20 0
+0 rno-miR-484 MIMAT0005319 Rattus norvegicus miR-484
+10412 22 0
+0 rno-miR-495 MIMAT0005320 Rattus norvegicus miR-495
+10434 22 0
+0 rno-miR-500* MIMAT0017311 Rattus norvegicus miR-500*
+10456 24 0
+0 rno-miR-500 MIMAT0005321 Rattus norvegicus miR-500
+10480 22 0
+0 rno-miR-532-5p MIMAT0005322 Rattus norvegicus miR-532-5p
+10502 22 0
+0 rno-miR-532-3p MIMAT0005323 Rattus norvegicus miR-532-3p
+10524 22 0
+0 rno-miR-598-5p MIMAT0005324 Rattus norvegicus miR-598-5p
+10546 22 0
+0 rno-miR-598-3p MIMAT0005325 Rattus norvegicus miR-598-3p
+10568 22 0
+0 rno-miR-671 MIMAT0005326 Rattus norvegicus miR-671
+10590 21 0
+0 rno-miR-672 MIMAT0005327 Rattus norvegicus miR-672
+10611 23 0
+0 rno-miR-672* MIMAT0017312 Rattus norvegicus miR-672*
+10634 21 0
+0 rno-miR-673 MIMAT0005328 Rattus norvegicus miR-673
+10655 22 0
+0 rno-miR-673* MIMAT0017313 Rattus norvegicus miR-673*
+10677 22 0
+0 rno-miR-674-5p MIMAT0005329 Rattus norvegicus miR-674-5p
+10699 22 0
+0 rno-miR-674-3p MIMAT0005330 Rattus norvegicus miR-674-3p
+10721 22 0
+0 rno-miR-708 MIMAT0005331 Rattus norvegicus miR-708
+10743 23 0
+0 rno-miR-708* MIMAT0005332 Rattus norvegicus miR-708*
+10766 22 0
+0 rno-miR-742* MIMAT0017314 Rattus norvegicus miR-742*
+10788 21 0
+0 rno-miR-742 MIMAT0005333 Rattus norvegicus miR-742
+10809 22 0
+0 rno-miR-743a* MIMAT0017315 Rattus norvegicus miR-743a*
+10831 22 0
+0 rno-miR-743a MIMAT0005334 Rattus norvegicus miR-743a
+10853 22 0
+0 rno-miR-758* MIMAT0017316 Rattus norvegicus miR-758*
+10875 21 0
+0 rno-miR-758 MIMAT0005335 Rattus norvegicus miR-758
+10896 22 0
+0 rno-miR-760-5p MIMAT0005336 Rattus norvegicus miR-760-5p
+10918 22 0
+0 rno-miR-760-3p MIMAT0005337 Rattus norvegicus miR-760-3p
+10940 20 0
+0 rno-miR-770 MIMAT0005338 Rattus norvegicus miR-770
+10960 22 0
+0 rno-miR-770* MIMAT0017317 Rattus norvegicus miR-770*
+10982 17 0
+0 rno-miR-873 MIMAT0005339 Rattus norvegicus miR-873
+10999 21 0
+0 rno-miR-873* MIMAT0017318 Rattus norvegicus miR-873*
+11020 21 0
+0 rno-miR-92b* MIMAT0017319 Rattus norvegicus miR-92b*
+11041 24 0
+0 rno-miR-92b MIMAT0005340 Rattus norvegicus miR-92b
+11065 22 0
+0 rno-miR-488* MIMAT0017320 Rattus norvegicus miR-488*
+11087 21 0
+0 rno-miR-488 MIMAT0005341 Rattus norvegicus miR-488
+11108 21 0
+0 rno-miR-652* MIMAT0017321 Rattus norvegicus miR-652*
+11129 23 0
+0 rno-miR-652 MIMAT0005342 Rattus norvegicus miR-652
+11152 21 0
+0 rno-miR-146b MIMAT0005595 Rattus norvegicus miR-146b
+11173 24 0
+0 rno-miR-146b* MIMAT0017334 Rattus norvegicus miR-146b*
+11197 21 0
+0 rno-miR-551b* MIMAT0017335 Rattus norvegicus miR-551b*
+11218 23 0
+0 rno-miR-551b MIMAT0005596 Rattus norvegicus miR-551b
+11241 23 0
+0 rno-miR-202 MIMAT0012822 Rattus norvegicus miR-202
+11264 19 0
+0 rno-miR-202* MIMAT0017355 Rattus norvegicus miR-202*
+11283 21 0
+0 rno-miR-490* MIMAT0017356 Rattus norvegicus miR-490*
+11304 20 0
+0 rno-miR-490 MIMAT0012823 Rattus norvegicus miR-490
+11324 22 0
+0 rno-miR-105 MIMAT0012825 Rattus norvegicus miR-105
+11346 22 0
+0 rno-miR-1224 MIMAT0012827 Rattus norvegicus miR-1224
+11368 21 0
+0 rno-miR-362 MIMAT0012828 Rattus norvegicus miR-362
+11389 24 0
+0 rno-miR-362* MIMAT0017357 Rattus norvegicus miR-362*
+11413 22 0
+0 rno-miR-511 MIMAT0012829 Rattus norvegicus miR-511
+11435 21 0
+0 rno-miR-511* MIMAT0017358 Rattus norvegicus miR-511*
+11456 21 0
+0 rno-miR-504 MIMAT0012830 Rattus norvegicus miR-504
+11477 22 0
+0 rno-miR-544* MIMAT0017359 Rattus norvegicus miR-544*
+11499 20 0
+0 rno-miR-544 MIMAT0012831 Rattus norvegicus miR-544
+11519 21 0
+0 rno-miR-568 MIMAT0012832 Rattus norvegicus miR-568
+11540 20 0
+0 rno-miR-582 MIMAT0012833 Rattus norvegicus miR-582
+11560 22 0
+0 rno-miR-582* MIMAT0017360 Rattus norvegicus miR-582*
+11582 22 0
+0 rno-miR-592 MIMAT0012834 Rattus norvegicus miR-592
+11604 23 0
+0 rno-miR-615 MIMAT0012835 Rattus norvegicus miR-615
+11627 22 0
+0 rno-miR-628 MIMAT0012836 Rattus norvegicus miR-628
+11649 22 0
+0 rno-miR-632 MIMAT0012837 Rattus norvegicus miR-632
+11671 19 0
+0 rno-miR-653 MIMAT0012838 Rattus norvegicus miR-653
+11690 21 0
+0 rno-miR-653* MIMAT0017361 Rattus norvegicus miR-653*
+11711 22 0
+0 rno-miR-668 MIMAT0012839 Rattus norvegicus miR-668
+11733 24 0
+0 rno-miR-802 MIMAT0012840 Rattus norvegicus miR-802
+11757 21 0
+0 rno-miR-802* MIMAT0017362 Rattus norvegicus miR-802*
+11778 23 0
+0 rno-miR-675 MIMAT0012841 Rattus norvegicus miR-675
+11801 22 0
+0 rno-miR-675* MIMAT0017363 Rattus norvegicus miR-675*
+11823 21 0
+0 rno-miR-875 MIMAT0012842 Rattus norvegicus miR-875
+11844 22 0
+0 rno-miR-876 MIMAT0012843 Rattus norvegicus miR-876
+11866 22 0
+0 rno-miR-665 MIMAT0012844 Rattus norvegicus miR-665
+11888 22 0
+0 rno-miR-935 MIMAT0012845 Rattus norvegicus miR-935
+11910 23 0
+0 rno-miR-201 MIMAT0012846 Rattus norvegicus miR-201
+11933 20 0
+0 rno-miR-201* MIMAT0017364 Rattus norvegicus miR-201*
+11953 22 0
+0 rno-miR-293 MIMAT0012847 Rattus norvegicus miR-293
+11975 21 0
+0 rno-miR-293* MIMAT0017365 Rattus norvegicus miR-293*
+11996 22 0
+0 rno-miR-294 MIMAT0012848 Rattus norvegicus miR-294
+12018 21 0
+0 rno-miR-295 MIMAT0012849 Rattus norvegicus miR-295
+12039 23 0
+0 rno-miR-295* MIMAT0017366 Rattus norvegicus miR-295*
+12062 22 0
+0 rno-miR-465 MIMAT0012850 Rattus norvegicus miR-465
+12084 22 0
+0 rno-miR-465* MIMAT0017367 Rattus norvegicus miR-465*
+12106 22 0
+0 rno-miR-547* MIMAT0017368 Rattus norvegicus miR-547*
+12128 22 0
+0 rno-miR-547 MIMAT0012851 Rattus norvegicus miR-547
+12150 22 0
+0 rno-miR-667* MIMAT0017369 Rattus norvegicus miR-667*
+12172 24 0
+0 rno-miR-667 MIMAT0012852 Rattus norvegicus miR-667
+12196 22 0
+0 rno-miR-761 MIMAT0012853 Rattus norvegicus miR-761
+12218 22 0
+0 rno-miR-764 MIMAT0012854 Rattus norvegicus miR-764
+12240 22 0
+0 rno-miR-764* MIMAT0017370 Rattus norvegicus miR-764*
+12262 23 0
+0 rno-miR-666 MIMAT0012855 Rattus norvegicus miR-666
+12285 20 0
+0 rno-miR-666* MIMAT0017371 Rattus norvegicus miR-666*
+12305 23 0
+0 rno-miR-759 MIMAT0012856 Rattus norvegicus miR-759
+12328 22 0
+0 rno-miR-678 MIMAT0012857 Rattus norvegicus miR-678
+12350 22 0
+0 rno-miR-711 MIMAT0012859 Rattus norvegicus miR-711
+12372 22 0
+0 rno-miR-496* MIMAT0017372 Rattus norvegicus miR-496*
+12394 20 0
+0 rno-miR-496 MIMAT0012860 Rattus norvegicus miR-496
+12414 21 0
+0 rno-miR-3541 MIMAT0017795 Rattus norvegicus miR-3541
+12435 18 0
+0 rno-miR-3542 MIMAT0017796 Rattus norvegicus miR-3542
+12453 21 0
+0 rno-miR-3543 MIMAT0017797 Rattus norvegicus miR-3543
+12474 23 0
+0 rno-miR-3544 MIMAT0017798 Rattus norvegicus miR-3544
+12497 23 0
+0 rno-miR-3545-5p MIMAT0017799 Rattus norvegicus miR-3545-5p
+12520 20 0
+0 rno-miR-3545-3p MIMAT0017800 Rattus norvegicus miR-3545-3p
+12540 22 0
+0 rno-miR-3546 MIMAT0017801 Rattus norvegicus miR-3546
+12562 22 0
+0 rno-miR-3547 MIMAT0017802 Rattus norvegicus miR-3547
+12584 23 0
+0 rno-miR-449c-5p MIMAT0017803 Rattus norvegicus miR-449c-5p
+12607 21 0
+0 rno-miR-449c-3p MIMAT0017804 Rattus norvegicus miR-449c-3p
+12628 17 0
+0 rno-miR-3085 MIMAT0017805 Rattus norvegicus miR-3085
+12645 21 0
+0 rno-miR-3548 MIMAT0017806 Rattus norvegicus miR-3548
+12666 22 0
+0 rno-miR-3549 MIMAT0017807 Rattus norvegicus miR-3549
+12688 19 0
+0 rno-miR-3550 MIMAT0017808 Rattus norvegicus miR-3550
+12707 21 0
+0 rno-miR-3551-5p MIMAT0017809 Rattus norvegicus miR-3551-5p
+12728 24 0
+0 rno-miR-3551-3p MIMAT0017810 Rattus norvegicus miR-3551-3p
+12752 23 0
+0 rno-miR-344b-5p MIMAT0017811 Rattus norvegicus miR-344b-5p
+12775 22 0
+0 rno-miR-344b-2-3p MIMAT0017812 Rattus norvegicus miR-344b-2-3p
+12797 22 0
+0 rno-miR-3552 MIMAT0017813 Rattus norvegicus miR-3552
+12819 21 0
+0 rno-miR-3553 MIMAT0017814 Rattus norvegicus miR-3553
+12840 23 0
+0 rno-miR-3074 MIMAT0017815 Rattus norvegicus miR-3074
+12863 22 0
+0 rno-miR-3554 MIMAT0017816 Rattus norvegicus miR-3554
+12885 19 0
+0 rno-miR-3555 MIMAT0017817 Rattus norvegicus miR-3555
+12904 21 0
+0 rno-miR-3556b MIMAT0017818 Rattus norvegicus miR-3556b
+12925 20 0
+0 rno-miR-3557-5p MIMAT0017819 Rattus norvegicus miR-3557-5p
+12945 22 0
+0 rno-miR-3557-3p MIMAT0017820 Rattus norvegicus miR-3557-3p
+12967 22 0
+0 rno-miR-3556a MIMAT0017821 Rattus norvegicus miR-3556a
+12989 18 0
+0 rno-miR-291b MIMAT0017822 Rattus norvegicus miR-291b
+13007 22 0
+0 rno-miR-3596d MIMAT0017823 Rattus norvegicus miR-3596d
+13029 20 0
+0 rno-miR-466d MIMAT0017824 Rattus norvegicus miR-466d
+13049 22 0
+0 rno-miR-3558-5p MIMAT0017825 Rattus norvegicus miR-3558-5p
+13071 24 0
+0 rno-miR-3558-3p MIMAT0017826 Rattus norvegicus miR-3558-3p
+13095 20 0
+0 rno-miR-3559-5p MIMAT0017827 Rattus norvegicus miR-3559-5p
+13115 22 0
+0 rno-miR-3559-3p MIMAT0017828 Rattus norvegicus miR-3559-3p
+13137 22 0
+0 rno-miR-3560 MIMAT0017829 Rattus norvegicus miR-3560
+13159 22 0
+0 rno-miR-3561-5p MIMAT0017830 Rattus norvegicus miR-3561-5p
+13181 21 0
+0 rno-miR-3561-3p MIMAT0017831 Rattus norvegicus miR-3561-3p
+13202 21 0
+0 rno-miR-3562 MIMAT0017832 Rattus norvegicus miR-3562
+13223 22 0
+0 rno-miR-3563-5p MIMAT0017833 Rattus norvegicus miR-3563-5p
+13245 20 0
+0 rno-miR-3563-3p MIMAT0017834 Rattus norvegicus miR-3563-3p
+13265 17 0
+0 rno-miR-3597-5p MIMAT0017835 Rattus norvegicus miR-3597-5p
+13282 19 0
+0 rno-miR-3597-3p MIMAT0017836 Rattus norvegicus miR-3597-3p
+13301 18 0
+0 rno-miR-3564 MIMAT0017837 Rattus norvegicus miR-3564
+13319 21 0
+0 rno-miR-218b MIMAT0017838 Rattus norvegicus miR-218b
+13340 20 0
+0 rno-miR-3065-5p MIMAT0017839 Rattus norvegicus miR-3065-5p
+13360 20 0
+0 rno-miR-3065-3p MIMAT0017840 Rattus norvegicus miR-3065-3p
+13380 24 0
+0 rno-miR-3566 MIMAT0017841 Rattus norvegicus miR-3566
+13404 20 0
+0 rno-miR-344a MIMAT0017842 Rattus norvegicus miR-344a
+13424 19 0
+0 rno-miR-3567 MIMAT0017843 Rattus norvegicus miR-3567
+13443 22 0
+0 rno-miR-208b-5p MIMAT0017844 Rattus norvegicus miR-208b-5p
+13465 20 0
+0 rno-miR-208b-3p MIMAT0017845 Rattus norvegicus miR-208b-3p
+13485 18 0
+0 rno-miR-216b-5p MIMAT0017846 Rattus norvegicus miR-216b-5p
+13503 22 0
+0 rno-miR-216b-3p MIMAT0017847 Rattus norvegicus miR-216b-3p
+13525 20 0
+0 rno-miR-3568 MIMAT0017848 Rattus norvegicus miR-3568
+13545 22 0
+0 rno-miR-3569 MIMAT0017849 Rattus norvegicus miR-3569
+13567 21 0
+0 rno-miR-3570 MIMAT0017850 Rattus norvegicus miR-3570
+13588 22 0
+0 rno-miR-3571 MIMAT0017851 Rattus norvegicus miR-3571
+13610 23 0
+0 rno-miR-1949 MIMAT0017852 Rattus norvegicus miR-1949
+13633 23 0
+0 rno-miR-3572 MIMAT0017853 Rattus norvegicus miR-3572
+13656 24 0
+0 rno-miR-1188-5p MIMAT0017854 Rattus norvegicus miR-1188-5p
+13680 21 0
+0 rno-miR-1188-3p MIMAT0017855 Rattus norvegicus miR-1188-3p
+13701 17 0
+0 rno-miR-3573-5p MIMAT0017856 Rattus norvegicus miR-3573-5p
+13718 22 0
+0 rno-miR-3573-3p MIMAT0017857 Rattus norvegicus miR-3573-3p
+13740 23 0
+0 rno-miR-1193-5p MIMAT0017858 Rattus norvegicus miR-1193-5p
+13763 20 0
+0 rno-miR-1193-3p MIMAT0017859 Rattus norvegicus miR-1193-3p
+13783 22 0
+0 rno-miR-3574 MIMAT0017860 Rattus norvegicus miR-3574
+13805 22 0
+0 rno-miR-3575 MIMAT0017861 Rattus norvegicus miR-3575
+13827 18 0
+0 rno-miR-3576 MIMAT0017862 Rattus norvegicus miR-3576
+13845 22 0
+0 rno-miR-3577 MIMAT0017863 Rattus norvegicus miR-3577
+13867 21 0
+0 rno-miR-1912-5p MIMAT0017864 Rattus norvegicus miR-1912-5p
+13888 21 0
+0 rno-miR-1912-3p MIMAT0017865 Rattus norvegicus miR-1912-3p
+13909 19 0
+0 rno-miR-3578 MIMAT0017866 Rattus norvegicus miR-3578
+13928 22 0
+0 rno-miR-3579 MIMAT0017867 Rattus norvegicus miR-3579
+13950 22 0
+0 rno-miR-3580-5p MIMAT0017868 Rattus norvegicus miR-3580-5p
+13972 22 0
+0 rno-miR-3580-3p MIMAT0017869 Rattus norvegicus miR-3580-3p
+13994 22 0
+0 rno-miR-3581 MIMAT0017870 Rattus norvegicus miR-3581
+14016 23 0
+0 rno-miR-3596b MIMAT0017871 Rattus norvegicus miR-3596b
+14039 20 0
+0 rno-miR-3582 MIMAT0017872 Rattus norvegicus miR-3582
+14059 21 0
+0 rno-miR-3583-5p MIMAT0017873 Rattus norvegicus miR-3583-5p
+14080 24 0
+0 rno-miR-3583-3p MIMAT0017874 Rattus norvegicus miR-3583-3p
+14104 22 0
+0 rno-miR-3584-5p MIMAT0017875 Rattus norvegicus miR-3584-5p
+14126 18 0
+0 rno-miR-3584-3p MIMAT0017876 Rattus norvegicus miR-3584-3p
+14144 19 0
+0 rno-miR-3596c MIMAT0017877 Rattus norvegicus miR-3596c
+14163 21 0
+0 rno-miR-3585-5p MIMAT0017878 Rattus norvegicus miR-3585-5p
+14184 22 0
+0 rno-miR-3585-3p MIMAT0017879 Rattus norvegicus miR-3585-3p
+14206 19 0
+0 rno-miR-3586-5p MIMAT0017880 Rattus norvegicus miR-3586-5p
+14225 17 0
+0 rno-miR-3586-3p MIMAT0017881 Rattus norvegicus miR-3586-3p
+14242 23 0
+0 rno-miR-2964 MIMAT0017882 Rattus norvegicus miR-2964
+14265 22 0
+0 rno-miR-3587 MIMAT0017883 Rattus norvegicus miR-3587
+14287 21 0
+0 rno-miR-702-5p MIMAT0017884 Rattus norvegicus miR-702-5p
+14308 21 0
+0 rno-miR-702-3p MIMAT0017885 Rattus norvegicus miR-702-3p
+14329 23 0
+0 rno-miR-3596a MIMAT0017886 Rattus norvegicus miR-3596a
+14352 22 0
+0 rno-miR-3588 MIMAT0017887 Rattus norvegicus miR-3588
+14374 22 0
+0 rno-miR-3589 MIMAT0017888 Rattus norvegicus miR-3589
+14396 22 0
+0 rno-miR-3590-5p MIMAT0017889 Rattus norvegicus miR-3590-5p
+14418 21 0
+0 rno-miR-3590-3p MIMAT0017890 Rattus norvegicus miR-3590-3p
+14439 22 0
+0 rno-miR-2985 MIMAT0017891 Rattus norvegicus miR-2985
+14461 22 0
+0 rno-miR-1249 MIMAT0017892 Rattus norvegicus miR-1249
+14483 22 0
+0 rno-miR-3591 MIMAT0017893 Rattus norvegicus miR-3591
+14505 20 0
+0 rno-miR-344b-1-3p MIMAT0017894 Rattus norvegicus miR-344b-1-3p
+14525 22 0
+0 rno-miR-3592 MIMAT0017895 Rattus norvegicus miR-3592
+14547 21 0
+0 rno-miR-3593-5p MIMAT0017896 Rattus norvegicus miR-3593-5p
+14568 22 0
+0 rno-miR-3593-3p MIMAT0017897 Rattus norvegicus miR-3593-3p
+14590 22 0
+0 rno-miR-3594-5p MIMAT0017898 Rattus norvegicus miR-3594-5p
+14612 21 0
+0 rno-miR-3594-3p MIMAT0017899 Rattus norvegicus miR-3594-3p
+14633 22 0
+0 rno-miR-3120 MIMAT0017900 Rattus norvegicus miR-3120
+14655 21 0
+0 rno-miR-741-5p MIMAT0017901 Rattus norvegicus miR-741-5p
+14676 21 0
+0 rno-miR-741-3p MIMAT0017902 Rattus norvegicus miR-741-3p
+14697 22 0
+0 rno-miR-3595 MIMAT0017903 Rattus norvegicus miR-3595
+14719 19 0
+0 rno-miR-328b-3p MIMAT0017904 Rattus norvegicus miR-328b-3p
+14738 18 0

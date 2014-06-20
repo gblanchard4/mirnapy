@@ -1,0 +1,853 @@
+9486 426 11
+0 dme-miR-1-5p MIMAT0020779 Drosophila melanogaster miR-1-5p
+0 22 0
+0 dme-miR-1-3p MIMAT0000105 Drosophila melanogaster miR-1-3p
+22 22 0
+0 dme-miR-2a-1-5p MIMAT0020780 Drosophila melanogaster miR-2a-1-5p
+44 22 0
+0 dme-miR-2a-3p MIMAT0000106 Drosophila melanogaster miR-2a-3p
+66 23 0
+0 dme-miR-2a-2-5p MIMAT0020781 Drosophila melanogaster miR-2a-2-5p
+89 21 0
+0 dme-miR-2b-1-5p MIMAT0020782 Drosophila melanogaster miR-2b-1-5p
+110 23 0
+0 dme-miR-2b-3p MIMAT0000107 Drosophila melanogaster miR-2b-3p
+133 23 0
+0 dme-miR-2b-2-5p MIMAT0020783 Drosophila melanogaster miR-2b-2-5p
+156 23 0
+0 dme-miR-3-5p MIMAT0020784 Drosophila melanogaster miR-3-5p
+179 22 0
+0 dme-miR-3-3p MIMAT0000108 Drosophila melanogaster miR-3-3p
+201 22 0
+0 dme-miR-4-5p MIMAT0020785 Drosophila melanogaster miR-4-5p
+223 24 0
+0 dme-miR-4-3p MIMAT0000109 Drosophila melanogaster miR-4-3p
+247 21 0
+0 dme-miR-5-5p MIMAT0000110 Drosophila melanogaster miR-5-5p
+268 23 0
+0 dme-miR-5-3p MIMAT0020786 Drosophila melanogaster miR-5-3p
+291 23 0
+0 dme-miR-6-1-5p MIMAT0020787 Drosophila melanogaster miR-6-1-5p
+314 22 0
+0 dme-miR-6-3p MIMAT0000111 Drosophila melanogaster miR-6-3p
+336 22 0
+0 dme-miR-6-2-5p MIMAT0020788 Drosophila melanogaster miR-6-2-5p
+358 23 0
+0 dme-miR-6-3-5p MIMAT0020789 Drosophila melanogaster miR-6-3-5p
+381 23 0
+0 dme-miR-7-5p MIMAT0000112 Drosophila melanogaster miR-7-5p
+404 23 0
+0 dme-miR-7-3p MIMAT0020790 Drosophila melanogaster miR-7-3p
+427 22 0
+0 dme-miR-8-5p MIMAT0020791 Drosophila melanogaster miR-8-5p
+449 22 0
+0 dme-miR-8-3p MIMAT0000113 Drosophila melanogaster miR-8-3p
+471 23 0
+0 dme-miR-9a-5p MIMAT0000114 Drosophila melanogaster miR-9a-5p
+494 23 0
+0 dme-miR-9a-3p MIMAT0020792 Drosophila melanogaster miR-9a-3p
+517 22 0
+0 dme-miR-10-5p MIMAT0000115 Drosophila melanogaster miR-10-5p
+539 22 0
+0 dme-miR-10-3p MIMAT0012531 Drosophila melanogaster miR-10-3p
+561 23 0
+0 dme-miR-11-5p MIMAT0020793 Drosophila melanogaster miR-11-5p
+584 22 0
+0 dme-miR-11-3p MIMAT0000116 Drosophila melanogaster miR-11-3p
+606 21 0
+0 dme-miR-12-5p MIMAT0000117 Drosophila melanogaster miR-12-5p
+627 23 0
+0 dme-miR-12-3p MIMAT0020794 Drosophila melanogaster miR-12-3p
+650 22 0
+0 dme-miR-13a-5p MIMAT0020795 Drosophila melanogaster miR-13a-5p
+672 22 0
+0 dme-miR-13a-3p MIMAT0000118 Drosophila melanogaster miR-13a-3p
+694 22 0
+0 dme-miR-13b-1-5p MIMAT0020796 Drosophila melanogaster miR-13b-1-5p
+716 25 0
+0 dme-miR-13b-3p MIMAT0000119 Drosophila melanogaster miR-13b-3p
+741 22 0
+0 dme-miR-13b-2-5p MIMAT0020797 Drosophila melanogaster miR-13b-2-5p
+763 24 0
+0 dme-miR-14-5p MIMAT0020798 Drosophila melanogaster miR-14-5p
+787 22 0
+0 dme-miR-14-3p MIMAT0000120 Drosophila melanogaster miR-14-3p
+809 22 0
+0 dme-miR-263a-5p MIMAT0000319 Drosophila melanogaster miR-263a-5p
+831 24 0
+0 dme-miR-263a-3p MIMAT0020799 Drosophila melanogaster miR-263a-3p
+855 22 0
+0 dme-miR-184-5p MIMAT0000330 Drosophila melanogaster miR-184-5p
+877 21 0
+0 dme-miR-184-3p MIMAT0000331 Drosophila melanogaster miR-184-3p
+898 22 0
+0 dme-miR-274-5p MIMAT0000332 Drosophila melanogaster miR-274-5p
+920 23 0
+0 dme-miR-274-3p MIMAT0020800 Drosophila melanogaster miR-274-3p
+943 23 0
+0 dme-miR-275-5p MIMAT0020801 Drosophila melanogaster miR-275-5p
+966 23 0
+0 dme-miR-275-3p MIMAT0000333 Drosophila melanogaster miR-275-3p
+989 23 0
+0 dme-miR-92a-5p MIMAT0020802 Drosophila melanogaster miR-92a-5p
+1012 22 0
+0 dme-miR-92a-3p MIMAT0000334 Drosophila melanogaster miR-92a-3p
+1034 22 0
+0 dme-miR-219-5p MIMAT0000335 Drosophila melanogaster miR-219-5p
+1056 21 0
+0 dme-miR-219-3p MIMAT0020803 Drosophila melanogaster miR-219-3p
+1077 22 0
+0 dme-miR-276a-5p MIMAT0000336 Drosophila melanogaster miR-276a-5p
+1099 23 0
+0 dme-miR-276a-3p MIMAT0000337 Drosophila melanogaster miR-276a-3p
+1122 22 0
+0 dme-miR-277-5p MIMAT0020804 Drosophila melanogaster miR-277-5p
+1144 21 0
+0 dme-miR-277-3p MIMAT0000338 Drosophila melanogaster miR-277-3p
+1165 23 0
+0 dme-miR-278-5p MIMAT0020805 Drosophila melanogaster miR-278-5p
+1188 23 0
+0 dme-miR-278-3p MIMAT0000339 Drosophila melanogaster miR-278-3p
+1211 22 0
+0 dme-miR-133-5p MIMAT0020806 Drosophila melanogaster miR-133-5p
+1233 23 0
+0 dme-miR-133-3p MIMAT0000340 Drosophila melanogaster miR-133-3p
+1256 22 0
+0 dme-miR-279-5p MIMAT0020807 Drosophila melanogaster miR-279-5p
+1278 26 0
+0 dme-miR-279-3p MIMAT0000341 Drosophila melanogaster miR-279-3p
+1304 22 0
+0 dme-miR-33-5p MIMAT0000342 Drosophila melanogaster miR-33-5p
+1326 21 0
+0 dme-miR-33-3p MIMAT0020808 Drosophila melanogaster miR-33-3p
+1347 22 0
+0 dme-miR-280-5p MIMAT0000343 Drosophila melanogaster miR-280-5p
+1369 27 0
+0 dme-miR-281-1-5p MIMAT0000344 Drosophila melanogaster miR-281-1-5p
+1396 23 0
+0 dme-miR-281-3p MIMAT0000345 Drosophila melanogaster miR-281-3p
+1419 23 0
+0 dme-miR-282-5p MIMAT0000346 Drosophila melanogaster miR-282-5p
+1442 24 0
+0 dme-miR-282-3p MIMAT0020809 Drosophila melanogaster miR-282-3p
+1466 22 0
+0 dme-miR-283-5p MIMAT0000347 Drosophila melanogaster miR-283-5p
+1488 22 0
+0 dme-miR-283-3p MIMAT0020810 Drosophila melanogaster miR-283-3p
+1510 21 0
+0 dme-miR-284-5p MIMAT0020811 Drosophila melanogaster miR-284-5p
+1531 26 0
+0 dme-miR-284-3p MIMAT0000348 Drosophila melanogaster miR-284-3p
+1557 21 0
+0 dme-miR-281-2-5p MIMAT0000349 Drosophila melanogaster miR-281-2-5p
+1578 22 0
+0 dme-miR-34-5p MIMAT0000350 Drosophila melanogaster miR-34-5p
+1600 24 0
+0 dme-miR-34-3p MIMAT0020812 Drosophila melanogaster miR-34-3p
+1624 23 0
+0 dme-miR-124-5p MIMAT0020813 Drosophila melanogaster miR-124-5p
+1647 23 0
+0 dme-miR-124-3p MIMAT0000351 Drosophila melanogaster miR-124-3p
+1670 23 0
+0 dme-miR-79-5p MIMAT0020814 Drosophila melanogaster miR-79-5p
+1693 23 0
+0 dme-miR-79-3p MIMAT0000352 Drosophila melanogaster miR-79-3p
+1716 22 0
+0 dme-miR-276b-5p MIMAT0020815 Drosophila melanogaster miR-276b-5p
+1738 23 0
+0 dme-miR-276b-3p MIMAT0000354 Drosophila melanogaster miR-276b-3p
+1761 22 0
+0 dme-miR-210-5p MIMAT0020816 Drosophila melanogaster miR-210-5p
+1783 23 0
+0 dme-miR-210-3p MIMAT0000355 Drosophila melanogaster miR-210-3p
+1806 23 0
+0 dme-miR-285-5p MIMAT0020817 Drosophila melanogaster miR-285-5p
+1829 23 0
+0 dme-miR-285-3p MIMAT0000356 Drosophila melanogaster miR-285-3p
+1852 22 0
+0 dme-miR-100-5p MIMAT0000357 Drosophila melanogaster miR-100-5p
+1874 22 0
+0 dme-miR-100-3p MIMAT0020818 Drosophila melanogaster miR-100-3p
+1896 22 0
+0 dme-miR-92b-5p MIMAT0020819 Drosophila melanogaster miR-92b-5p
+1918 23 0
+0 dme-miR-92b-3p MIMAT0000358 Drosophila melanogaster miR-92b-3p
+1941 22 0
+0 dme-miR-286-5p MIMAT0020820 Drosophila melanogaster miR-286-5p
+1963 22 0
+0 dme-miR-286-3p MIMAT0000359 Drosophila melanogaster miR-286-3p
+1985 23 0
+0 dme-miR-287-3p MIMAT0000360 Drosophila melanogaster miR-287-3p
+2008 21 0
+0 dme-miR-87-5p MIMAT0020821 Drosophila melanogaster miR-87-5p
+2029 22 0
+0 dme-miR-87-3p MIMAT0000361 Drosophila melanogaster miR-87-3p
+2051 21 0
+0 dme-miR-263b-5p MIMAT0000362 Drosophila melanogaster miR-263b-5p
+2072 21 0
+0 dme-miR-263b-3p MIMAT0020822 Drosophila melanogaster miR-263b-3p
+2093 22 0
+0 dme-miR-288-3p MIMAT0000363 Drosophila melanogaster miR-288-3p
+2115 23 0
+0 dme-miR-289-5p MIMAT0000364 Drosophila melanogaster miR-289-5p
+2138 26 0
+0 dme-bantam-5p MIMAT0020823 Drosophila melanogaster bantam-5p
+2164 23 0
+0 dme-bantam-3p MIMAT0000365 Drosophila melanogaster bantam-3p
+2187 23 0
+0 dme-miR-303-5p MIMAT0000388 Drosophila melanogaster miR-303-5p
+2210 23 0
+0 dme-miR-303-3p MIMAT0020824 Drosophila melanogaster miR-303-3p
+2233 22 0
+0 dme-miR-31b-5p MIMAT0000389 Drosophila melanogaster miR-31b-5p
+2255 22 0
+0 dme-miR-31b-3p MIMAT0020825 Drosophila melanogaster miR-31b-3p
+2277 22 0
+0 dme-miR-304-5p MIMAT0000390 Drosophila melanogaster miR-304-5p
+2299 23 0
+0 dme-miR-304-3p MIMAT0020826 Drosophila melanogaster miR-304-3p
+2322 22 0
+0 dme-miR-305-5p MIMAT0000391 Drosophila melanogaster miR-305-5p
+2344 23 0
+0 dme-miR-305-3p MIMAT0020827 Drosophila melanogaster miR-305-3p
+2367 23 0
+0 dme-miR-9c-5p MIMAT0000392 Drosophila melanogaster miR-9c-5p
+2390 22 0
+0 dme-miR-9c-3p MIMAT0020828 Drosophila melanogaster miR-9c-3p
+2412 22 0
+0 dme-miR-306-5p MIMAT0000393 Drosophila melanogaster miR-306-5p
+2434 22 0
+0 dme-miR-306-3p MIMAT0000394 Drosophila melanogaster miR-306-3p
+2456 22 0
+0 dme-miR-9b-5p MIMAT0000395 Drosophila melanogaster miR-9b-5p
+2478 23 0
+0 dme-miR-9b-3p MIMAT0020829 Drosophila melanogaster miR-9b-3p
+2501 22 0
+0 dme-let-7-5p MIMAT0000396 Drosophila melanogaster let-7-5p
+2523 21 0
+0 dme-let-7-3p MIMAT0020830 Drosophila melanogaster let-7-3p
+2544 22 0
+0 dme-miR-125-5p MIMAT0000397 Drosophila melanogaster miR-125-5p
+2566 22 0
+0 dme-miR-125-3p MIMAT0020831 Drosophila melanogaster miR-125-3p
+2588 21 0
+0 dme-miR-307a-5p MIMAT0020832 Drosophila melanogaster miR-307a-5p
+2609 22 0
+0 dme-miR-307a-3p MIMAT0000398 Drosophila melanogaster miR-307a-3p
+2631 20 0
+0 dme-miR-308-5p MIMAT0020833 Drosophila melanogaster miR-308-5p
+2651 22 0
+0 dme-miR-308-3p MIMAT0000399 Drosophila melanogaster miR-308-3p
+2673 22 0
+0 dme-miR-31a-5p MIMAT0000400 Drosophila melanogaster miR-31a-5p
+2695 23 0
+0 dme-miR-31a-3p MIMAT0020834 Drosophila melanogaster miR-31a-3p
+2718 22 0
+0 dme-miR-309-5p MIMAT0020835 Drosophila melanogaster miR-309-5p
+2740 22 0
+0 dme-miR-309-3p MIMAT0000401 Drosophila melanogaster miR-309-3p
+2762 22 0
+0 dme-miR-310-5p MIMAT0020836 Drosophila melanogaster miR-310-5p
+2784 23 0
+0 dme-miR-310-3p MIMAT0000402 Drosophila melanogaster miR-310-3p
+2807 22 0
+0 dme-miR-311-5p MIMAT0020837 Drosophila melanogaster miR-311-5p
+2829 23 0
+0 dme-miR-311-3p MIMAT0000403 Drosophila melanogaster miR-311-3p
+2852 22 0
+0 dme-miR-312-5p MIMAT0020838 Drosophila melanogaster miR-312-5p
+2874 23 0
+0 dme-miR-312-3p MIMAT0000404 Drosophila melanogaster miR-312-3p
+2897 22 0
+0 dme-miR-313-5p MIMAT0020839 Drosophila melanogaster miR-313-5p
+2919 22 0
+0 dme-miR-313-3p MIMAT0000405 Drosophila melanogaster miR-313-3p
+2941 22 0
+0 dme-miR-314-5p MIMAT0020840 Drosophila melanogaster miR-314-5p
+2963 26 0
+0 dme-miR-314-3p MIMAT0000406 Drosophila melanogaster miR-314-3p
+2989 21 0
+0 dme-miR-315-5p MIMAT0000407 Drosophila melanogaster miR-315-5p
+3010 22 0
+0 dme-miR-315-3p MIMAT0020841 Drosophila melanogaster miR-315-3p
+3032 22 0
+0 dme-miR-316-5p MIMAT0000408 Drosophila melanogaster miR-316-5p
+3054 22 0
+0 dme-miR-316-3p MIMAT0020842 Drosophila melanogaster miR-316-3p
+3076 22 0
+0 dme-miR-317-5p MIMAT0020843 Drosophila melanogaster miR-317-5p
+3098 22 0
+0 dme-miR-317-3p MIMAT0000409 Drosophila melanogaster miR-317-3p
+3120 24 0
+0 dme-miR-318-5p MIMAT0020844 Drosophila melanogaster miR-318-5p
+3144 22 0
+0 dme-miR-318-3p MIMAT0000410 Drosophila melanogaster miR-318-3p
+3166 22 0
+0 dme-miR-2c-5p MIMAT0020845 Drosophila melanogaster miR-2c-5p
+3188 25 0
+0 dme-miR-2c-3p MIMAT0000411 Drosophila melanogaster miR-2c-3p
+3213 23 0
+0 dme-miR-iab-4-5p MIMAT0000412 Drosophila melanogaster miR-iab-4-5p
+3236 22 0
+0 dme-miR-iab-4-3p MIMAT0000413 Drosophila melanogaster miR-iab-4-3p
+3258 24 0
+0 dme-miR-iab-8-5p MIMAT0005463 Drosophila melanogaster miR-iab-8-5p
+3282 23 0
+0 dme-miR-iab-8-3p MIMAT0005464 Drosophila melanogaster miR-iab-8-3p
+3305 22 0
+0 dme-miR-954-5p MIMAT0005465 Drosophila melanogaster miR-954-5p
+3327 21 0
+0 dme-miR-954-3p MIMAT0020846 Drosophila melanogaster miR-954-3p
+3348 21 0
+0 dme-miR-955-5p MIMAT0005466 Drosophila melanogaster miR-955-5p
+3369 23 0
+0 dme-miR-955-3p MIMAT0020847 Drosophila melanogaster miR-955-3p
+3392 22 0
+0 dme-miR-190-5p MIMAT0005467 Drosophila melanogaster miR-190-5p
+3414 24 0
+0 dme-miR-190-3p MIMAT0020848 Drosophila melanogaster miR-190-3p
+3438 22 0
+0 dme-miR-193-5p MIMAT0020849 Drosophila melanogaster miR-193-5p
+3460 22 0
+0 dme-miR-193-3p MIMAT0005468 Drosophila melanogaster miR-193-3p
+3482 22 0
+0 dme-miR-956-5p MIMAT0020850 Drosophila melanogaster miR-956-5p
+3504 24 0
+0 dme-miR-956-3p MIMAT0005469 Drosophila melanogaster miR-956-3p
+3528 23 0
+0 dme-miR-957-5p MIMAT0020851 Drosophila melanogaster miR-957-5p
+3551 23 0
+0 dme-miR-957-3p MIMAT0005470 Drosophila melanogaster miR-957-3p
+3574 22 0
+0 dme-miR-958-5p MIMAT0020852 Drosophila melanogaster miR-958-5p
+3596 23 0
+0 dme-miR-958-3p MIMAT0005471 Drosophila melanogaster miR-958-3p
+3619 22 0
+0 dme-miR-375-5p MIMAT0020853 Drosophila melanogaster miR-375-5p
+3641 24 0
+0 dme-miR-375-3p MIMAT0005472 Drosophila melanogaster miR-375-3p
+3665 22 0
+0 dme-miR-959-5p MIMAT0020854 Drosophila melanogaster miR-959-5p
+3687 21 0
+0 dme-miR-959-3p MIMAT0005473 Drosophila melanogaster miR-959-3p
+3708 22 0
+0 dme-miR-960-5p MIMAT0005474 Drosophila melanogaster miR-960-5p
+3730 22 0
+0 dme-miR-960-3p MIMAT0020855 Drosophila melanogaster miR-960-3p
+3752 22 0
+0 dme-miR-961-5p MIMAT0005475 Drosophila melanogaster miR-961-5p
+3774 22 0
+0 dme-miR-961-3p MIMAT0020856 Drosophila melanogaster miR-961-3p
+3796 22 0
+0 dme-miR-962-5p MIMAT0005476 Drosophila melanogaster miR-962-5p
+3818 25 0
+0 dme-miR-962-3p MIMAT0020857 Drosophila melanogaster miR-962-3p
+3843 22 0
+0 dme-miR-963-5p MIMAT0005477 Drosophila melanogaster miR-963-5p
+3865 24 0
+0 dme-miR-963-3p MIMAT0020858 Drosophila melanogaster miR-963-3p
+3889 22 0
+0 dme-miR-964-5p MIMAT0005478 Drosophila melanogaster miR-964-5p
+3911 22 0
+0 dme-miR-964-3p MIMAT0020859 Drosophila melanogaster miR-964-3p
+3933 22 0
+0 dme-miR-932-5p MIMAT0005479 Drosophila melanogaster miR-932-5p
+3955 22 0
+0 dme-miR-932-3p MIMAT0020860 Drosophila melanogaster miR-932-3p
+3977 22 0
+0 dme-miR-965-5p MIMAT0020861 Drosophila melanogaster miR-965-5p
+3999 23 0
+0 dme-miR-965-3p MIMAT0005480 Drosophila melanogaster miR-965-3p
+4022 22 0
+0 dme-miR-966-5p MIMAT0005481 Drosophila melanogaster miR-966-5p
+4044 21 0
+0 dme-miR-966-3p MIMAT0020862 Drosophila melanogaster miR-966-3p
+4065 22 0
+0 dme-miR-967-5p MIMAT0005482 Drosophila melanogaster miR-967-5p
+4087 21 0
+0 dme-miR-967-3p MIMAT0020863 Drosophila melanogaster miR-967-3p
+4108 23 0
+0 dme-miR-1002-5p MIMAT0005483 Drosophila melanogaster miR-1002-5p
+4131 24 0
+0 dme-miR-1002-3p MIMAT0020864 Drosophila melanogaster miR-1002-3p
+4155 22 0
+0 dme-miR-968-5p MIMAT0005484 Drosophila melanogaster miR-968-5p
+4177 24 0
+0 dme-miR-968-3p MIMAT0020865 Drosophila melanogaster miR-968-3p
+4201 22 0
+0 dme-miR-969-5p MIMAT0005485 Drosophila melanogaster miR-969-5p
+4223 21 0
+0 dme-miR-969-3p MIMAT0020866 Drosophila melanogaster miR-969-3p
+4244 21 0
+0 dme-miR-970-5p MIMAT0020867 Drosophila melanogaster miR-970-5p
+4265 24 0
+0 dme-miR-970-3p MIMAT0005486 Drosophila melanogaster miR-970-3p
+4289 21 0
+0 dme-miR-971-5p MIMAT0020868 Drosophila melanogaster miR-971-5p
+4310 24 0
+0 dme-miR-971-3p MIMAT0005487 Drosophila melanogaster miR-971-3p
+4334 22 0
+0 dme-miR-972-5p MIMAT0020869 Drosophila melanogaster miR-972-5p
+4356 21 0
+0 dme-miR-972-3p MIMAT0005488 Drosophila melanogaster miR-972-3p
+4377 22 0
+0 dme-miR-973-5p MIMAT0005489 Drosophila melanogaster miR-973-5p
+4399 25 0
+0 dme-miR-973-3p MIMAT0020870 Drosophila melanogaster miR-973-3p
+4424 22 0
+0 dme-miR-974-5p MIMAT0005490 Drosophila melanogaster miR-974-5p
+4446 22 0
+0 dme-miR-974-3p MIMAT0020871 Drosophila melanogaster miR-974-3p
+4468 22 0
+0 dme-miR-975-5p MIMAT0005491 Drosophila melanogaster miR-975-5p
+4490 23 0
+0 dme-miR-975-3p MIMAT0020872 Drosophila melanogaster miR-975-3p
+4513 22 0
+0 dme-miR-976-5p MIMAT0020873 Drosophila melanogaster miR-976-5p
+4535 22 0
+0 dme-miR-976-3p MIMAT0005492 Drosophila melanogaster miR-976-3p
+4557 22 0
+0 dme-miR-977-5p MIMAT0020874 Drosophila melanogaster miR-977-5p
+4579 22 0
+0 dme-miR-977-3p MIMAT0005493 Drosophila melanogaster miR-977-3p
+4601 21 0
+0 dme-miR-978-5p MIMAT0020875 Drosophila melanogaster miR-978-5p
+4622 24 0
+0 dme-miR-978-3p MIMAT0005494 Drosophila melanogaster miR-978-3p
+4646 22 0
+0 dme-miR-979-5p MIMAT0020876 Drosophila melanogaster miR-979-5p
+4668 23 0
+0 dme-miR-979-3p MIMAT0005495 Drosophila melanogaster miR-979-3p
+4691 21 0
+0 dme-miR-980-5p MIMAT0020877 Drosophila melanogaster miR-980-5p
+4712 24 0
+0 dme-miR-980-3p MIMAT0005496 Drosophila melanogaster miR-980-3p
+4736 22 0
+0 dme-miR-981-5p MIMAT0020878 Drosophila melanogaster miR-981-5p
+4758 22 0
+0 dme-miR-981-3p MIMAT0005497 Drosophila melanogaster miR-981-3p
+4780 22 0
+0 dme-miR-982-5p MIMAT0005498 Drosophila melanogaster miR-982-5p
+4802 23 0
+0 dme-miR-982-3p MIMAT0020879 Drosophila melanogaster miR-982-3p
+4825 22 0
+0 dme-miR-983-5p MIMAT0005499 Drosophila melanogaster miR-983-5p
+4847 22 0
+0 dme-miR-983-3p MIMAT0020880 Drosophila melanogaster miR-983-3p
+4869 22 0
+0 dme-miR-984-5p MIMAT0005500 Drosophila melanogaster miR-984-5p
+4891 23 0
+0 dme-miR-984-3p MIMAT0020881 Drosophila melanogaster miR-984-3p
+4914 20 0
+0 dme-miR-927-5p MIMAT0005501 Drosophila melanogaster miR-927-5p
+4934 22 0
+0 dme-miR-927-3p MIMAT0020882 Drosophila melanogaster miR-927-3p
+4956 22 0
+0 dme-miR-985-5p MIMAT0020883 Drosophila melanogaster miR-985-5p
+4978 22 0
+0 dme-miR-985-3p MIMAT0005502 Drosophila melanogaster miR-985-3p
+5000 22 0
+0 dme-miR-986-5p MIMAT0005503 Drosophila melanogaster miR-986-5p
+5022 22 0
+0 dme-miR-986-3p MIMAT0020884 Drosophila melanogaster miR-986-3p
+5044 22 0
+0 dme-miR-987-5p MIMAT0005504 Drosophila melanogaster miR-987-5p
+5066 24 0
+0 dme-miR-987-3p MIMAT0020885 Drosophila melanogaster miR-987-3p
+5090 20 0
+0 dme-miR-988-5p MIMAT0020886 Drosophila melanogaster miR-988-5p
+5110 22 0
+0 dme-miR-988-3p MIMAT0005505 Drosophila melanogaster miR-988-3p
+5132 22 0
+0 dme-miR-989-5p MIMAT0020887 Drosophila melanogaster miR-989-5p
+5154 23 0
+0 dme-miR-989-3p MIMAT0005506 Drosophila melanogaster miR-989-3p
+5177 21 0
+0 dme-miR-137-5p MIMAT0020888 Drosophila melanogaster miR-137-5p
+5198 23 0
+0 dme-miR-137-3p MIMAT0005507 Drosophila melanogaster miR-137-3p
+5221 22 0
+0 dme-miR-990-5p MIMAT0005508 Drosophila melanogaster miR-990-5p
+5243 21 0
+0 dme-miR-990-3p MIMAT0020889 Drosophila melanogaster miR-990-3p
+5264 24 0
+0 dme-miR-991-5p MIMAT0020890 Drosophila melanogaster miR-991-5p
+5288 22 0
+0 dme-miR-991-3p MIMAT0005509 Drosophila melanogaster miR-991-3p
+5310 22 0
+0 dme-miR-992-5p MIMAT0020891 Drosophila melanogaster miR-992-5p
+5332 22 0
+0 dme-miR-992-3p MIMAT0005510 Drosophila melanogaster miR-992-3p
+5354 22 0
+0 dme-miR-929-5p MIMAT0020892 Drosophila melanogaster miR-929-5p
+5376 22 0
+0 dme-miR-929-3p MIMAT0005511 Drosophila melanogaster miR-929-3p
+5398 21 0
+0 dme-miR-993-5p MIMAT0020893 Drosophila melanogaster miR-993-5p
+5419 23 0
+0 dme-miR-993-3p MIMAT0005512 Drosophila melanogaster miR-993-3p
+5442 23 0
+0 dme-miR-994-5p MIMAT0005513 Drosophila melanogaster miR-994-5p
+5465 22 0
+0 dme-miR-994-3p MIMAT0020894 Drosophila melanogaster miR-994-3p
+5487 23 0
+0 dme-miR-995-5p MIMAT0010206 Drosophila melanogaster miR-995-5p
+5510 22 0
+0 dme-miR-995-3p MIMAT0005514 Drosophila melanogaster miR-995-3p
+5532 21 0
+0 dme-miR-996-5p MIMAT0020895 Drosophila melanogaster miR-996-5p
+5553 22 0
+0 dme-miR-996-3p MIMAT0005515 Drosophila melanogaster miR-996-3p
+5575 22 0
+0 dme-miR-252-5p MIMAT0005516 Drosophila melanogaster miR-252-5p
+5597 22 0
+0 dme-miR-252-3p MIMAT0020896 Drosophila melanogaster miR-252-3p
+5619 22 0
+0 dme-miR-997-5p MIMAT0005517 Drosophila melanogaster miR-997-5p
+5641 21 0
+0 dme-miR-997-3p MIMAT0020897 Drosophila melanogaster miR-997-3p
+5662 21 0
+0 dme-miR-998-5p MIMAT0020898 Drosophila melanogaster miR-998-5p
+5683 22 0
+0 dme-miR-998-3p MIMAT0005518 Drosophila melanogaster miR-998-3p
+5705 21 0
+0 dme-miR-999-5p MIMAT0020899 Drosophila melanogaster miR-999-5p
+5726 22 0
+0 dme-miR-999-3p MIMAT0005519 Drosophila melanogaster miR-999-3p
+5748 22 0
+0 dme-miR-1000-5p MIMAT0005520 Drosophila melanogaster miR-1000-5p
+5770 21 0
+0 dme-miR-1000-3p MIMAT0020900 Drosophila melanogaster miR-1000-3p
+5791 22 0
+0 dme-miR-1001-5p MIMAT0005521 Drosophila melanogaster miR-1001-5p
+5813 21 0
+0 dme-miR-1001-3p MIMAT0020901 Drosophila melanogaster miR-1001-3p
+5834 22 0
+0 dme-miR-1003-5p MIMAT0020902 Drosophila melanogaster miR-1003-5p
+5856 21 0
+0 dme-miR-1003-3p MIMAT0005016 Drosophila melanogaster miR-1003-3p
+5877 22 0
+0 dme-miR-1004-3p MIMAT0005017 Drosophila melanogaster miR-1004-3p
+5899 22 0
+0 dme-miR-1005-3p MIMAT0005018 Drosophila melanogaster miR-1005-3p
+5921 21 0
+0 dme-miR-1006-5p MIMAT0020903 Drosophila melanogaster miR-1006-5p
+5942 25 0
+0 dme-miR-1006-3p MIMAT0005019 Drosophila melanogaster miR-1006-3p
+5967 23 0
+0 dme-miR-1007-5p MIMAT0020904 Drosophila melanogaster miR-1007-5p
+5990 23 0
+0 dme-miR-1007-3p MIMAT0005020 Drosophila melanogaster miR-1007-3p
+6013 22 0
+0 dme-miR-1008-3p MIMAT0005021 Drosophila melanogaster miR-1008-3p
+6035 21 0
+0 dme-miR-1009-3p MIMAT0005022 Drosophila melanogaster miR-1009-3p
+6056 23 0
+0 dme-miR-1010-5p MIMAT0020905 Drosophila melanogaster miR-1010-5p
+6079 20 0
+0 dme-miR-1010-3p MIMAT0005023 Drosophila melanogaster miR-1010-3p
+6099 24 0
+0 dme-miR-1011-3p MIMAT0005024 Drosophila melanogaster miR-1011-3p
+6123 23 0
+0 dme-miR-1012-5p MIMAT0020906 Drosophila melanogaster miR-1012-5p
+6146 21 0
+0 dme-miR-1012-3p MIMAT0005025 Drosophila melanogaster miR-1012-3p
+6167 23 0
+0 dme-miR-1013-3p MIMAT0005026 Drosophila melanogaster miR-1013-3p
+6190 20 0
+0 dme-miR-1014-5p MIMAT0020907 Drosophila melanogaster miR-1014-5p
+6210 22 0
+0 dme-miR-1014-3p MIMAT0005027 Drosophila melanogaster miR-1014-3p
+6232 21 0
+0 dme-miR-1015-3p MIMAT0005028 Drosophila melanogaster miR-1015-3p
+6253 22 0
+0 dme-miR-1016-5p MIMAT0020908 Drosophila melanogaster miR-1016-5p
+6275 20 0
+0 dme-miR-1016-3p MIMAT0005029 Drosophila melanogaster miR-1016-3p
+6295 21 0
+0 dme-miR-1017-3p MIMAT0005030 Drosophila melanogaster miR-1017-3p
+6316 23 0
+0 dme-miR-2279-5p MIMAT0011784 Drosophila melanogaster miR-2279-5p
+6339 22 0
+0 dme-miR-2279-3p MIMAT0011785 Drosophila melanogaster miR-2279-3p
+6361 22 0
+0 dme-miR-2280-5p MIMAT0011786 Drosophila melanogaster miR-2280-5p
+6383 22 0
+0 dme-miR-2280-3p MIMAT0011787 Drosophila melanogaster miR-2280-3p
+6405 22 0
+0 dme-miR-2281-5p MIMAT0011788 Drosophila melanogaster miR-2281-5p
+6427 23 0
+0 dme-miR-2281-3p MIMAT0011789 Drosophila melanogaster miR-2281-3p
+6450 21 0
+0 dme-miR-2282-3p MIMAT0011790 Drosophila melanogaster miR-2282-3p
+6471 22 0
+0 dme-miR-2283-5p MIMAT0011791 Drosophila melanogaster miR-2283-5p
+6493 23 0
+0 dme-miR-2283-3p MIMAT0020909 Drosophila melanogaster miR-2283-3p
+6516 21 0
+0 dme-miR-307b-5p MIMAT0012194 Drosophila melanogaster miR-307b-5p
+6537 22 0
+0 dme-miR-307b-3p MIMAT0012195 Drosophila melanogaster miR-307b-3p
+6559 22 0
+0 dme-miR-2489-5p MIMAT0020910 Drosophila melanogaster miR-2489-5p
+6581 29 0
+0 dme-miR-2489-3p MIMAT0012196 Drosophila melanogaster miR-2489-3p
+6610 22 0
+0 dme-miR-2490-5p MIMAT0012197 Drosophila melanogaster miR-2490-5p
+6632 23 0
+0 dme-miR-2490-3p MIMAT0020911 Drosophila melanogaster miR-2490-3p
+6655 21 0
+0 dme-miR-2491-5p MIMAT0012198 Drosophila melanogaster miR-2491-5p
+6676 22 0
+0 dme-miR-2491-3p MIMAT0020912 Drosophila melanogaster miR-2491-3p
+6698 18 0
+0 dme-miR-2492-5p MIMAT0020913 Drosophila melanogaster miR-2492-5p
+6716 22 0
+0 dme-miR-2492-3p MIMAT0012199 Drosophila melanogaster miR-2492-3p
+6738 23 0
+0 dme-miR-2493-5p MIMAT0012200 Drosophila melanogaster miR-2493-5p
+6761 21 0
+0 dme-miR-2493-3p MIMAT0012201 Drosophila melanogaster miR-2493-3p
+6782 23 0
+0 dme-miR-2494-5p MIMAT0012202 Drosophila melanogaster miR-2494-5p
+6805 21 0
+0 dme-miR-2494-3p MIMAT0012203 Drosophila melanogaster miR-2494-3p
+6826 24 0
+0 dme-miR-2495-5p MIMAT0012204 Drosophila melanogaster miR-2495-5p
+6850 22 0
+0 dme-miR-2495-3p MIMAT0012205 Drosophila melanogaster miR-2495-3p
+6872 24 0
+0 dme-miR-2496-5p MIMAT0012206 Drosophila melanogaster miR-2496-5p
+6896 24 0
+0 dme-miR-2496-3p MIMAT0012207 Drosophila melanogaster miR-2496-3p
+6920 22 0
+0 dme-miR-2497-5p MIMAT0012208 Drosophila melanogaster miR-2497-5p
+6942 25 0
+0 dme-miR-2497-3p MIMAT0012209 Drosophila melanogaster miR-2497-3p
+6967 22 0
+0 dme-miR-2498-5p MIMAT0012210 Drosophila melanogaster miR-2498-5p
+6989 24 0
+0 dme-miR-2498-3p MIMAT0012211 Drosophila melanogaster miR-2498-3p
+7013 23 0
+0 dme-miR-2499-5p MIMAT0012212 Drosophila melanogaster miR-2499-5p
+7036 24 0
+0 dme-miR-2499-3p MIMAT0012213 Drosophila melanogaster miR-2499-3p
+7060 24 0
+0 dme-miR-2500-5p MIMAT0012214 Drosophila melanogaster miR-2500-5p
+7084 25 0
+0 dme-miR-2500-3p MIMAT0012215 Drosophila melanogaster miR-2500-3p
+7109 22 0
+0 dme-miR-2501-5p MIMAT0012216 Drosophila melanogaster miR-2501-5p
+7131 23 0
+0 dme-miR-2501-3p MIMAT0012217 Drosophila melanogaster miR-2501-3p
+7154 22 0
+0 dme-miR-3641-5p MIMAT0018055 Drosophila melanogaster miR-3641-5p
+7176 20 0
+0 dme-miR-3641-3p MIMAT0018056 Drosophila melanogaster miR-3641-3p
+7196 22 0
+0 dme-miR-3642-5p MIMAT0018057 Drosophila melanogaster miR-3642-5p
+7218 22 0
+0 dme-miR-3642-3p MIMAT0018058 Drosophila melanogaster miR-3642-3p
+7240 22 0
+0 dme-miR-3643-5p MIMAT0018059 Drosophila melanogaster miR-3643-5p
+7262 22 0
+0 dme-miR-3643-3p MIMAT0018060 Drosophila melanogaster miR-3643-3p
+7284 22 0
+0 dme-miR-3644-5p MIMAT0018061 Drosophila melanogaster miR-3644-5p
+7306 22 0
+0 dme-miR-3644-3p MIMAT0018062 Drosophila melanogaster miR-3644-3p
+7328 23 0
+0 dme-miR-3645-5p MIMAT0018063 Drosophila melanogaster miR-3645-5p
+7351 21 0
+0 dme-miR-3645-3p MIMAT0018064 Drosophila melanogaster miR-3645-3p
+7372 21 0
+0 dme-miR-4910-5p MIMAT0020503 Drosophila melanogaster miR-4910-5p
+7393 21 0
+0 dme-miR-4911-3p MIMAT0020504 Drosophila melanogaster miR-4911-3p
+7414 22 0
+0 dme-miR-4912-5p MIMAT0020505 Drosophila melanogaster miR-4912-5p
+7436 23 0
+0 dme-miR-4913-3p MIMAT0020506 Drosophila melanogaster miR-4913-3p
+7459 23 0
+0 dme-miR-4914-5p MIMAT0020507 Drosophila melanogaster miR-4914-5p
+7482 22 0
+0 dme-miR-4915-5p MIMAT0020508 Drosophila melanogaster miR-4915-5p
+7504 25 0
+0 dme-miR-4916-3p MIMAT0020509 Drosophila melanogaster miR-4916-3p
+7529 22 0
+0 dme-miR-2535b-3p MIMAT0020510 Drosophila melanogaster miR-2535b-3p
+7551 22 0
+0 dme-miR-4917-3p MIMAT0020511 Drosophila melanogaster miR-4917-3p
+7573 22 0
+0 dme-miR-4918-5p MIMAT0020512 Drosophila melanogaster miR-4918-5p
+7595 24 0
+0 dme-miR-4919-5p MIMAT0020513 Drosophila melanogaster miR-4919-5p
+7619 21 0
+0 dme-miR-4908-3p MIMAT0020514 Drosophila melanogaster miR-4908-3p
+7640 22 0
+0 dme-miR-4909-3p MIMAT0020515 Drosophila melanogaster miR-4909-3p
+7662 23 0
+0 dme-miR-4939-3p MIMAT0020145 Drosophila melanogaster miR-4939-3p
+7685 21 0
+0 dme-miR-4940-5p MIMAT0020146 Drosophila melanogaster miR-4940-5p
+7706 22 0
+0 dme-miR-4940-3p MIMAT0020147 Drosophila melanogaster miR-4940-3p
+7728 22 0
+0 dme-miR-4941-5p MIMAT0020148 Drosophila melanogaster miR-4941-5p
+7750 21 0
+0 dme-miR-4941-3p MIMAT0020149 Drosophila melanogaster miR-4941-3p
+7771 24 0
+0 dme-miR-4942-3p MIMAT0020150 Drosophila melanogaster miR-4942-3p
+7795 22 0
+0 dme-miR-4943-5p MIMAT0020151 Drosophila melanogaster miR-4943-5p
+7817 22 0
+0 dme-miR-4943-3p MIMAT0020152 Drosophila melanogaster miR-4943-3p
+7839 23 0
+0 dme-miR-4944-5p MIMAT0020153 Drosophila melanogaster miR-4944-5p
+7862 22 0
+0 dme-miR-4944-3p MIMAT0020154 Drosophila melanogaster miR-4944-3p
+7884 22 0
+0 dme-miR-4945-5p MIMAT0020155 Drosophila melanogaster miR-4945-5p
+7906 21 0
+0 dme-miR-4946-5p MIMAT0020156 Drosophila melanogaster miR-4946-5p
+7927 21 0
+0 dme-miR-4947-5p MIMAT0020157 Drosophila melanogaster miR-4947-5p
+7948 23 0
+0 dme-miR-4948-5p MIMAT0020158 Drosophila melanogaster miR-4948-5p
+7971 22 0
+0 dme-miR-4948-3p MIMAT0020159 Drosophila melanogaster miR-4948-3p
+7993 22 0
+0 dme-miR-4949-5p MIMAT0020160 Drosophila melanogaster miR-4949-5p
+8015 21 0
+0 dme-miR-4949-3p MIMAT0020161 Drosophila melanogaster miR-4949-3p
+8036 22 0
+0 dme-miR-4950-5p MIMAT0020162 Drosophila melanogaster miR-4950-5p
+8058 22 0
+0 dme-miR-4950-3p MIMAT0020163 Drosophila melanogaster miR-4950-3p
+8080 22 0
+0 dme-miR-4951-5p MIMAT0020164 Drosophila melanogaster miR-4951-5p
+8102 21 0
+0 dme-miR-4951-3p MIMAT0020165 Drosophila melanogaster miR-4951-3p
+8123 23 0
+0 dme-miR-4952-5p MIMAT0020166 Drosophila melanogaster miR-4952-5p
+8146 23 0
+0 dme-miR-4952-3p MIMAT0020167 Drosophila melanogaster miR-4952-3p
+8169 21 0
+0 dme-miR-4953-3p MIMAT0020168 Drosophila melanogaster miR-4953-3p
+8190 23 0
+0 dme-miR-4954-5p MIMAT0020169 Drosophila melanogaster miR-4954-5p
+8213 22 0
+0 dme-miR-4954-3p MIMAT0020170 Drosophila melanogaster miR-4954-3p
+8235 21 0
+0 dme-miR-4955-5p MIMAT0020171 Drosophila melanogaster miR-4955-5p
+8256 22 0
+0 dme-miR-4955-3p MIMAT0020172 Drosophila melanogaster miR-4955-3p
+8278 22 0
+0 dme-miR-4956-5p MIMAT0020173 Drosophila melanogaster miR-4956-5p
+8300 22 0
+0 dme-miR-4956-3p MIMAT0020174 Drosophila melanogaster miR-4956-3p
+8322 22 0
+0 dme-miR-4957-5p MIMAT0020175 Drosophila melanogaster miR-4957-5p
+8344 22 0
+0 dme-miR-4957-3p MIMAT0020176 Drosophila melanogaster miR-4957-3p
+8366 21 0
+0 dme-miR-4958-5p MIMAT0020177 Drosophila melanogaster miR-4958-5p
+8387 22 0
+0 dme-miR-4958-3p MIMAT0020178 Drosophila melanogaster miR-4958-3p
+8409 22 0
+0 dme-miR-4959-5p MIMAT0020179 Drosophila melanogaster miR-4959-5p
+8431 22 0
+0 dme-miR-4960-3p MIMAT0020180 Drosophila melanogaster miR-4960-3p
+8453 21 0
+0 dme-miR-4961-5p MIMAT0020181 Drosophila melanogaster miR-4961-5p
+8474 22 0
+0 dme-miR-4961-3p MIMAT0020182 Drosophila melanogaster miR-4961-3p
+8496 23 0
+0 dme-miR-4962-5p MIMAT0020183 Drosophila melanogaster miR-4962-5p
+8519 24 0
+0 dme-miR-4962-3p MIMAT0020184 Drosophila melanogaster miR-4962-3p
+8543 23 0
+0 dme-miR-4963-5p MIMAT0020185 Drosophila melanogaster miR-4963-5p
+8566 21 0
+0 dme-miR-4963-3p MIMAT0020186 Drosophila melanogaster miR-4963-3p
+8587 22 0
+0 dme-miR-4964-3p MIMAT0020187 Drosophila melanogaster miR-4964-3p
+8609 23 0
+0 dme-miR-4965-5p MIMAT0020188 Drosophila melanogaster miR-4965-5p
+8632 21 0
+0 dme-miR-4965-3p MIMAT0020189 Drosophila melanogaster miR-4965-3p
+8653 22 0
+0 dme-miR-4966-5p MIMAT0020190 Drosophila melanogaster miR-4966-5p
+8675 22 0
+0 dme-miR-4966-3p MIMAT0020191 Drosophila melanogaster miR-4966-3p
+8697 22 0
+0 dme-miR-4967-5p MIMAT0020192 Drosophila melanogaster miR-4967-5p
+8719 20 0
+0 dme-miR-4967-3p MIMAT0020193 Drosophila melanogaster miR-4967-3p
+8739 22 0
+0 dme-miR-4968-5p MIMAT0020194 Drosophila melanogaster miR-4968-5p
+8761 22 0
+0 dme-miR-4969-5p MIMAT0020195 Drosophila melanogaster miR-4969-5p
+8783 24 0
+0 dme-miR-4969-3p MIMAT0020196 Drosophila melanogaster miR-4969-3p
+8807 22 0
+0 dme-miR-4970-5p MIMAT0020197 Drosophila melanogaster miR-4970-5p
+8829 22 0
+0 dme-miR-4971-5p MIMAT0020198 Drosophila melanogaster miR-4971-5p
+8851 22 0
+0 dme-miR-4972-5p MIMAT0020199 Drosophila melanogaster miR-4972-5p
+8873 22 0
+0 dme-miR-4972-3p MIMAT0020200 Drosophila melanogaster miR-4972-3p
+8895 22 0
+0 dme-miR-4973-5p MIMAT0020201 Drosophila melanogaster miR-4973-5p
+8917 21 0
+0 dme-miR-4973-3p MIMAT0020202 Drosophila melanogaster miR-4973-3p
+8938 22 0
+0 dme-miR-4974-5p MIMAT0020203 Drosophila melanogaster miR-4974-5p
+8960 22 0
+0 dme-miR-4974-3p MIMAT0020204 Drosophila melanogaster miR-4974-3p
+8982 22 0
+0 dme-miR-4975-5p MIMAT0020205 Drosophila melanogaster miR-4975-5p
+9004 21 0
+0 dme-miR-4976-5p MIMAT0020206 Drosophila melanogaster miR-4976-5p
+9025 22 0
+0 dme-miR-4976-3p MIMAT0020207 Drosophila melanogaster miR-4976-3p
+9047 20 0
+0 dme-miR-4977-5p MIMAT0020208 Drosophila melanogaster miR-4977-5p
+9067 21 0
+0 dme-miR-4977-3p MIMAT0020209 Drosophila melanogaster miR-4977-3p
+9088 23 0
+0 dme-miR-4978-5p MIMAT0020210 Drosophila melanogaster miR-4978-5p
+9111 21 0
+0 dme-miR-4979-5p MIMAT0020211 Drosophila melanogaster miR-4979-5p
+9132 22 0
+0 dme-miR-4979-3p MIMAT0020212 Drosophila melanogaster miR-4979-3p
+9154 22 0
+0 dme-miR-4980-3p MIMAT0020213 Drosophila melanogaster miR-4980-3p
+9176 23 0
+0 dme-miR-4981-3p MIMAT0020214 Drosophila melanogaster miR-4981-3p
+9199 21 0
+0 dme-miR-4982-5p MIMAT0020215 Drosophila melanogaster miR-4982-5p
+9220 21 0
+0 dme-miR-4982-3p MIMAT0020216 Drosophila melanogaster miR-4982-3p
+9241 22 0
+0 dme-miR-4983-5p MIMAT0020217 Drosophila melanogaster miR-4983-5p
+9263 22 0
+0 dme-miR-4983-3p MIMAT0020218 Drosophila melanogaster miR-4983-3p
+9285 22 0
+0 dme-miR-4984-5p MIMAT0020219 Drosophila melanogaster miR-4984-5p
+9307 25 0
+0 dme-miR-4984-3p MIMAT0020220 Drosophila melanogaster miR-4984-3p
+9332 22 0
+0 dme-miR-4985-5p MIMAT0020221 Drosophila melanogaster miR-4985-5p
+9354 22 0
+0 dme-miR-4985-3p MIMAT0020222 Drosophila melanogaster miR-4985-3p
+9376 22 0
+0 dme-miR-4986-5p MIMAT0020223 Drosophila melanogaster miR-4986-5p
+9398 23 0
+0 dme-miR-4986-3p MIMAT0020224 Drosophila melanogaster miR-4986-3p
+9421 21 0
+0 dme-miR-4987-5p MIMAT0020225 Drosophila melanogaster miR-4987-5p
+9442 23 0
+0 dme-miR-4987-3p MIMAT0020226 Drosophila melanogaster miR-4987-3p
+9465 21 0

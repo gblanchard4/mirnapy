@@ -1,0 +1,67 @@
+BuildTree               Hierachical Clustering based on EBSeq DE
+                        inferences
+DenNHist                Density plot to compare the empirical q's and
+                        the simulated q's from the fitted beta
+                        distribution.
+EBMultiTest             Using EM algorithm to calculate the posterior
+                        probabilities of interested patterns in a
+                        multiple condition study
+EBSeq_NingLeng-package
+                        EBSeq: RNA-Seq Differential Expression Analysis
+                        on both gene and isoform level
+EBTest                  Using EM algorithm to calculate the posterior
+                        probabilities of being DE
+GeneEBresultGouldBart2
+                        The EBSeq result of the empirical gene data (
+                        Gould Lab data, bart2 )
+GeneMat                 The simulated data for two condition gene DE
+                        analysis
+GeneMultiSimu           Gene Level Simulation for multiple conditions
+GeneSimu                Gene Level Simulation
+GeneSimuAt              Gene Level Simulation with outliers
+GetMultiFC              Calculate the Fold Changes for each pair of
+                        conditions in a multiple condition study.
+GetMultiPP              Generate the Posterior Probability of each
+                        transcript.
+GetNg                   Generate the Ng vector
+GetNormalizedMat        Calculate normalized expression matrix
+GetPP                   Generate the Posterior Probability of each
+                        transcript.
+GetPPMat                Generate the Posterior Probability of each
+                        transcript.
+GetPatterns             Generate all possible patterns in a multiple
+                        condition study
+GetR                    Calculate the R
+IsoEBresultGouldBart2   The EBSeq result of the empirical isoform data
+                        ( Gould Lab data, bart2 )
+IsoList                 The simulated data for two condition isoform DE
+                        analysis
+IsoSimu                 Isoform level simulation
+IsoSimuAt               Isoform level simulation with outliers
+Likefun                 Likelihood Function of the NB-Beta Model
+LikefunMulti            Likelihood Function of the NB-Beta Model
+LogN                    The function to run EM (one round) using optim.
+LogNMulti               The function to run EM (one round) using optim.
+MedianNorm              Median Normalization
+MergeGene               Plots of gene simulation result
+MergeIso                Isoforms of gene simulation result
+MultiGeneMat            The simulated data for multiple condition gene
+                        DE analysis
+PlotPattern             Visualize the patterns
+PlotPostVsRawFC         Plot Posterior FC vs FC
+PlotTree                Plot the dendrograph of the hierachical cluster
+                        results from EBSeq
+PolyFitPlot             Fit the mean-var relationship using polynomial
+                        regression
+PostFC                  Calculate the posterior fold change for each
+                        transcript across conditions
+QQP                     The Quantile-Quantile Plot to compare the
+                        empirical q's and simulated q's from fitted
+                        beta distribution
+QuantileNorm            Quantile Normalization
+RankNorm                Rank Normalization
+WithinDE                Test each sample with the other ones
+beta.mom                Fit the beta distribution by method of moments
+crit_fun                Calculate the soft threshold for a target FDR
+f0                      The Prior Predictive Distribution of being EE
+f1                      The Prior Predictive Distribution of being DE

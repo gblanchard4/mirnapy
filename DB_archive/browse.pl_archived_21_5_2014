@@ -1,0 +1,521 @@
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Browse miRBase by species</title>
+<link rel="stylesheet" type="text/css" href="/css/mirna_base.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/css/mirna_browse.css" media="all"/>
+<link rel="stylesheet" type="text/css" href="/css/query.css" media="all"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+</head>
+<body>
+<table id="header">
+<tr>
+<td id="mirna_logo">
+<a href="/">
+<img src="/images/mirbase-logo-blue-web.png" alt="miRBase" width="130" />
+</a>
+</td>
+<td id="pageTitle">
+<a href="/">
+<h1>
+	miRBase
+</h1>
+</a>
+</td>
+<td id="sanger_logo">
+<a href="http://www.ls.manchester.ac.uk/">
+<img src="/images/logomanchester.gif" alt="University of Manchester" width="120" />
+</a>
+</td>
+</tr>
+<tr>
+	<td id="spacer" colspan="2"><img height="1" src="/images/blank.gif" alt="" width="650" /></td>
+</tr>
+</table>
+<div id="navBarDiv">
+<div id="searchBox">
+	<form method="get" action="/cgi-bin/query.pl" enctype="multipart/form-data" name="sitesearch">
+	<input type="text" name="terms"  size="15" maxlength="100" id="searchField" /> <input type="submit" name="submit" value="Search" id="submitButton" /> </form>
+</div>
+<ul id="navbar">
+<li>
+	<a href="/index.shtml">Home</a>
+</li>
+<li>
+	<a href="/search.shtml">Search</a>
+</li>
+<li>
+	<a href="/cgi-bin/browse.pl">Browse</a>
+</li>
+<li>
+	<a href="/help/index.shtml">Help</a>
+</li>
+<li>
+	<a href="/ftp.shtml">Download</a>
+</li>
+<li>
+	<a href="http://www.mirbase.org/blog/">Blog</a>
+</li>
+<li class="spaceLeft">
+	<a href="/registry.shtml">Submit</a>
+</li>
+</ul>
+</div>
+<div id="mainSection">
+<h2>
+	Browse miRBase by species
+</h2>
+
+<SCRIPT LANGUAGE="javascript">
+function toggleList(tree_id) {
+    var element = document.getElementById(tree_id);
+    if (element) {
+        if (element.style.display == 'none') {
+            element.style.display = 'block';    
+        }
+        else {
+            element.style.display = 'none';    
+        }
+    }
+}
+
+function expandAll() {
+    var allTags=document.getElementsByTagName('ul');
+    for( i=0; i<allTags.length; i++ ) {
+	if( allTags[i].className=='treenode' ) {
+	    allTags[i].style.display = 'block';
+	}
+    }
+}
+
+function collapseAll() {
+    var allTags=document.getElementsByTagName('ul');
+    for( i=0; i<allTags.length; i++ ) {
+	if( allTags[i].className=='treenode' ) {
+	    allTags[i].style.display = 'none';
+	}
+    }
+}
+
+</SCRIPT>
+<p>
+	Click taxa to expand and collapse the tree.  Click species names to list microRNAs.<br>Jump to: <a href="?org=hsa">human</a>, <a href="?org=mmu">mouse</a>, <a href="?org=dme">fly</a>, <a href="?org=cel">worm</a>, <a href="?org=ath">Arabidopsis</a>.
+</p>
+<p>
+	Key: species name (miRNA count) [assembly version]
+</p>
+<input type="button"  name="expandAll()" value="Expand all" onclick="javascript:expandAll()" /><input type="button"  name="collapseAll()" value="Collapse all" onclick="javascript:collapseAll()" /><div id="simpleTree">
+<UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_1")'>Chromalveolata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_1' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_2")'>Heterokontophyta</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_2' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=esi">Ectocarpus siliculosus</a> (26 precursors, 52 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pti">Phaeodactylum tricornutum</a> (13 precursors, 13 mature)</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_3")'>Metazoa</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_3' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_4")'>Bilateria</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_4' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_5")'>Deuterostoma</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_5' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=xbo">Xenoturbella bocki</a> (8 precursors, 8 mature)</LI>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_6")'>Chordata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_6' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_7")'>Cephalochordata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_7' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bbe">Branchiostoma belcheri</a> (118 precursors, 173 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bfl">Branchiostoma floridae</a> (156 precursors, 187 mature) [JGI2.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_8")'>Urochordata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_8' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cin">Ciona intestinalis</a> (348 precursors, 550 mature) [JGI2]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=csa">Ciona savignyi</a> (27 precursors, 25 mature) [CSAV2.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=odi">Oikopleura dioica</a> (66 precursors, 63 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_9")'>Vertebrata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_9' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aca">Anolis carolinensis</a> (282 precursors, 416 mature) [AnoCar2.0]</LI>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_10")'>Agnathostomata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_10' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pma">Petromyzon marinus</a> (244 precursors, 302 mature) [Petromyzon_marinus-7.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_11")'>Amphibia</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_11' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=xla">Xenopus laevis</a> (22 precursors, 21 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=xtr">Xenopus tropicalis</a> (189 precursors, 175 mature) [JGI4.2]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_12")'>Aves</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_12' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=gga">Gallus gallus</a> (734 precursors, 996 mature) [Gallus-gallus-4.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=tgu">Taeniopygia guttata</a> (246 precursors, 334 mature) [taeGlu3.2.4]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_13")'>Mammalia</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_13' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_14")'>Carnivora</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_14' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cfa">Canis familiaris</a> (324 precursors, 291 mature) [CanFam3.1]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_15")'>Laurasiatheria</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_15' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aja">Artibeus jamaicensis</a> (19 precursors, 19 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=eca">Equus caballus</a> (341 precursors, 360 mature) [EquCab2.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_16")'>Metatheria</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_16' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mdo">Monodelphis domestica</a> (460 precursors, 767 mature) [MonDom5]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=meu">Macropus eugenii</a> (3 precursors, 3 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sha">Sarcophilus harrisii</a> (66 precursors, 64 mature) [DEVIL7_0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_17")'>Primates</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_17' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_18")'>Atelidae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_18' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=age">Ateles geoffroyi</a> (60 precursors, 54 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=lla">Lagothrix lagotricha</a> (48 precursors, 45 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_19")'>Cebidae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_19' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sla">Saguinus labiatus</a> (42 precursors, 40 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_20")'>Cercopithecidae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_20' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mml">Macaca mulatta</a> (615 precursors, 912 mature) [MMUL1.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mne">Macaca nemestrina</a> (74 precursors, 70 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pbi">Pygathrix bieti</a> (11 precursors, 9 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_21")'>Hominidae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_21' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ggo">Gorilla gorilla</a> (322 precursors, 317 mature) [GorGor3]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hsa">Homo sapiens</a> (1872 precursors, 2578 mature) [GRCh37.p5]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ppa">Pan paniscus</a> (88 precursors, 83 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ppy">Pongo pygmaeus</a> (634 precursors, 653 mature) [PPYG2]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ptr">Pan troglodytes</a> (656 precursors, 582 mature) [PanTro2.1.4]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ssy">Symphalangus syndactylus</a> (11 precursors, 10 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_22")'>Lemuridae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_22' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=lca">Lemur catta</a> (16 precursors, 15 mature)</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_23")'>Prototheria</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_23' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=oan">Ornithorhynchus anatinus</a> (396 precursors, 640 mature) [OANA5]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_24")'>Rodentia</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_24' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cgr">Cricetulus griseus</a> (200 precursors, 307 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mmu">Mus musculus</a> (1186 precursors, 1908 mature) [GRCm38]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=rno">Rattus norvegicus</a> (449 precursors, 728 mature) [RGSC3.4]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_25")'>Ruminantia</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_25' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bta">Bos taurus</a> (798 precursors, 783 mature) [UMD3.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=oar">Ovis aries</a> (105 precursors, 153 mature) [OARv3.1]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_26")'>Suina</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_26' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ssc">Sus scrofa</a> (280 precursors, 326 mature) [Sscrofa10.2]</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_27")'>Pisces</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_27' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ccr">Cyprinus carpio</a> (134 precursors, 146 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dre">Danio rerio</a> (346 precursors, 255 mature) [Zv9]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=fru">Fugu rubripes</a> (129 precursors, 108 mature) [FUGU5]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hhi">Hippoglossus hippoglossus</a> (40 precursors, 37 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ipu">Ictalurus punctatus</a> (281 precursors, 205 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ola">Oryzias latipes</a> (168 precursors, 146 mature) [MEDAKA1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pol">Paralichthys olivaceus</a> (20 precursors, 38 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=tni">Tetraodon nigroviridis</a> (132 precursors, 109 mature) [Tetraodon8]</LI>
+</UL></UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_28")'>Echinodermata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_28' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=spu">Strongylocentrotus purpuratus</a> (61 precursors, 70 mature) [Spur3.1]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_29")'>Hemichordata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_29' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sko">Saccoglossus kowalevskii</a> (91 precursors, 115 mature) [JGI3.0]</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_30")'>Ecdysozoa</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_30' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_31")'>Arthropoda</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_31' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_32")'>Chelicerata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_32' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=isc">Ixodes scapularis</a> (49 precursors, 49 mature) [Iscaw1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=rmi">Rhipicephalus microplus</a> (24 precursors, 24 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=tur">Tetranychus urticae</a> (52 precursors, 92 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_33")'>Crustacea</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_33' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dpu">Daphnia pulex</a> (44 precursors, 45 mature) [JGI1.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mja">Marsupenaeus japonicus</a> (6 precursors, 8 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_34")'>Hexapoda</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_34' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aae">Aedes aegypti</a> (101 precursors, 124 mature) [AaegL1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aga">Anopheles gambiae</a> (67 precursors, 65 mature) [AgamP3]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ame">Apis mellifera</a> (218 precursors, 222 mature) [Amel_4.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=api">Acyrthosiphon pisum</a> (117 precursors, 103 mature) [AphidBase2]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bmo">Bombyx mori</a> (489 precursors, 567 mature) [SILKDB2.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cqu">Culex quinquefasciatus</a> (74 precursors, 93 mature) [CpipJ1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dan">Drosophila ananassae</a> (76 precursors, 75 mature) [dana_r1.3_FB2010_03]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=der">Drosophila erecta</a> (81 precursors, 78 mature) [dere_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dgr">Drosophila grimshawi</a> (82 precursors, 72 mature) [dgri_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dme">Drosophila melanogaster</a> (238 precursors, 426 mature) [BDGP5.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dmo">Drosophila mojavensis</a> (71 precursors, 71 mature) [dmoj_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dpe">Drosophila persimilis</a> (75 precursors, 69 mature) [dper_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dps">Drosophila pseudoobscura</a> (210 precursors, 273 mature) [dpse_r2.26_FB2012_01]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dse">Drosophila sechellia</a> (78 precursors, 76 mature) [dsec_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dsi">Drosophila simulans</a> (136 precursors, 178 mature) [dsim_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dvi">Drosophila virilis</a> (74 precursors, 74 mature) [FB2011_07]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dwi">Drosophila willistoni</a> (77 precursors, 72 mature) [dwil_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dya">Drosophila yakuba</a> (80 precursors, 75 mature) [dyak_r1.3_FB2010_02]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hme">Heliconius melpomene</a> (92 precursors, 97 mature) [HelMel1.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=lmi">Locusta migratoria</a> (7 precursors, 14 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mse">Manduca sexta</a> (94 precursors, 89 mature) [Msex1.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ngi">Nasonia giraulti</a> (32 precursors, 32 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=nlo">Nasonia longicornis</a> (28 precursors, 28 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=nvi">Nasonia vitripennis</a> (53 precursors, 53 mature) [Nvit_2.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=tca">Tribolium castaneum</a> (220 precursors, 430 mature) [Tcas3.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_35")'>Mandibulata</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_35' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=smr">Strigamia maritima</a> (3 precursors, 4 mature)</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_36")'>Nematoda</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_36' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=asu">Ascaris suum</a> (97 precursors, 189 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bma">Brugia malayi</a> (134 precursors, 108 mature) [ASM299v2]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cbn">Caenorhabditis brenneri</a> (214 precursors, 152 mature) [C_brenneri-6.0.1b]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cbr">Caenorhabditis briggsae</a> (177 precursors, 165 mature) [WS200]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cel">Caenorhabditis elegans</a> (223 precursors, 368 mature) [WBcel215]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=crm">Caenorhabditis remanei</a> (156 precursors, 182 mature) [WS200]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hco">Haemonchus contortus</a> (187 precursors, 194 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ppc">Pristionchus pacificus</a> (124 precursors, 99 mature) [WS200]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=prd">Panagrellus redivivus</a> (199 precursors, 394 mature) [Pred3]</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_37")'>Lophotrochozoa</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_37' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_38")'>Annelida</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_38' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cte">Capitella teleta</a> (124 precursors, 134 mature) [JGI1.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_39")'>Brachiopoda</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_39' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=gpy">Glottidia pyramidata</a> (1 precursors, 1 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=tre">Terebratulina retusa</a> (1 precursors, 1 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_40")'>Molusca</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_40' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hru">Haliotis rufescens</a> (5 precursors, 5 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=lgi">Lottia gigantea</a> (60 precursors, 64 mature) [JGI1]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_41")'>Nemertea</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_41' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cla">Cerebratulus lacteus</a> (2 precursors, 2 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_42")'>Platyhelminthes</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_42' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=egr">Echinococcus granulosus</a> (23 precursors, 26 mature) [WTSI240910]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=emu">Echinococcus multilocularis</a> (22 precursors, 22 mature) [WTSI3]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sja">Schistosoma japonicum</a> (55 precursors, 78 mature) [ASM15177v1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sma">Schistosoma mansoni</a> (20 precursors, 29 mature) [WTSI5]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sme">Schmidtea mediterranea</a> (148 precursors, 257 mature) [WUSTL3.1]</LI>
+</UL></UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_43")'>Cnidaria</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_43' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hma">Hydra magnipapillata</a> (17 precursors, 20 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=nve">Nematostella vectensis</a> (49 precursors, 78 mature) [JGI1.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_44")'>Porifera</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_44' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aqu">Amphimedon queenslandica</a> (14 precursors, 16 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=lco">Leucosolenia complicata</a> (1 precursors, 1 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sci">Sycon ciliatum</a> (1 precursors, 2 mature)</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_45")'>Mycetozoa</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_45' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ddi">Dictyostelium discoideum</a> (17 precursors, 20 mature) [DictyBase2009]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_46")'>Viridiplantae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_46' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_47")'>Chlorophyta</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_47' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cre">Chlamydomonas reinhardtii</a> (50 precursors, 85 mature) [CHLRE3.1]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_48")'>Coniferophyta</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_48' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cln">Cunninghamia lanceolata</a> (5 precursors, 5 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pab">Picea abies</a> (40 precursors, 41 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pde">Pinus densata</a> (30 precursors, 30 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pta">Pinus taeda</a> (36 precursors, 37 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_49")'>Embryophyta</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_49' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ppt">Physcomitrella patens</a> (229 precursors, 280 mature) [JGI1.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=smo">Selaginella moellendorffii</a> (58 precursors, 64 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_50")'>Magnoliophyta</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_50' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_51")'>eudicotyledons</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_51' STYLE='display: none;'>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_52")'>Araliaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_52' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pgi">Panax ginseng</a> (29 precursors, 32 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_53")'>Asteraceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_53' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cca">Cynara cardunculus</a> (48 precursors, 57 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=han">Helianthus annuus</a> (7 precursors, 8 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=har">Helianthus argophyllus</a> (3 precursors, 3 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hci">Helianthus ciliaris</a> (3 precursors, 3 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hex">Helianthus exilis</a> (2 precursors, 2 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hpa">Helianthus paradoxus</a> (3 precursors, 3 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hpe">Helianthus petiolaris</a> (3 precursors, 3 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=htu">Helianthus tuberosus</a> (16 precursors, 16 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_54")'>Brassicaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_54' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aly">Arabidopsis lyrata</a> (205 precursors, 384 mature) [v1.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ath">Arabidopsis thaliana</a> (298 precursors, 337 mature) [TAIR10]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bna">Brassica napus</a> (90 precursors, 92 mature) [BrassicaDB-20080411]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bol">Brassica oleracea</a> (6 precursors, 7 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bra">Brassica rapa</a> (39 precursors, 43 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_55")'>Caricaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_55' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cpa">Carica papaya</a> (79 precursors, 81 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_56")'>Cucurbitaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_56' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=cme">Cucumis melo</a> (120 precursors, 120 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_57")'>Euphorbiaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_57' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hbr">Hevea brasiliensis</a> (28 precursors, 28 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mes">Manihot esculenta</a> (153 precursors, 153 mature) [Cassava4]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=rco">Ricinus communis</a> (63 precursors, 63 mature) [TIGR0.1]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_58")'>Fabaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_58' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aau">Acacia auriculiformis</a> (7 precursors, 7 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ahy">Arachis hypogaea</a> (23 precursors, 32 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=amg">Acacia mangium</a> (3 precursors, 3 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=gma">Glycine max</a> (505 precursors, 554 mature) [v1.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=gso">Glycine soja</a> (13 precursors, 13 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=lja">Lotus japonicus</a> (62 precursors, 67 mature) [lj2.5]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mtr">Medicago truncatula</a> (672 precursors, 756 mature) [JCVI_Mt3.5.2]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=pvu">Phaseolus vulgaris</a> (8 precursors, 10 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=vun">Vigna unguiculata</a> (18 precursors, 18 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_59")'>Lamiales</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_59' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ama">Avicennia marina</a> (2 precursors, 3 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dpr">Digitalis purpurea</a> (13 precursors, 13 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=rgl">Rehmannia glutinosa</a> (13 precursors, 13 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ssl">Salvia sclarea</a> (18 precursors, 18 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_60")'>Linaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_60' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=lus">Linum usitatissimum</a> (124 precursors, 124 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_61")'>Malvaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_61' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=gar">Gossypium arboreum</a> (1 precursors, 1 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ghb">Gossypium herbaceum</a> (1 precursors, 1 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ghr">Gossypium hirsutum</a> (78 precursors, 80 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=gra">Gossypium raimondii</a> (4 precursors, 4 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=tcc">Theobroma cacao</a> (82 precursors, 82 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_62")'>Ranunculaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_62' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=aqc">Aquilegia caerulea</a> (45 precursors, 45 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_63")'>Rhizophoraceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_63' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bcy">Bruguiera cylindrica</a> (4 precursors, 4 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bgy">Bruguiera gymnorhiza</a> (4 precursors, 4 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_64")'>Rosaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_64' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mdm">Malus domestica</a> (206 precursors, 207 mature) [maldom-pseudo1.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ppe">Prunus persica</a> (180 precursors, 214 mature) [Prupe1_0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_65")'>Rutaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_65' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ccl">Citrus clementine</a> (5 precursors, 5 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=crt">Citrus reticulata</a> (4 precursors, 4 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=csi">Citrus sinensis</a> (60 precursors, 64 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ctr">Citrus trifoliata</a> (6 precursors, 6 mature)</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_66")'>Salicaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_66' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=peu">Populus euphratica</a> (4 precursors, 4 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ptc">Populus trichocarpa</a> (352 precursors, 401 mature) [JGI_Poptr2.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_67")'>Solanaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_67' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=nta">Nicotiana tabacum</a> (162 precursors, 164 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sly">Solanum lycopersicum</a> (46 precursors, 48 mature) [SL2.40]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=stu">Solanum tuberosum</a> (224 precursors, 343 mature) [SolTub3.0]</LI>
+</UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_68")'>Vitaceae</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_68' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=vvi">Vitis vinifera</a> (163 precursors, 186 mature) [Genoscope-20100122]</LI>
+</UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_69")'>monocotyledons</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_69' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ata">Aegilops tauschii</a> (2 precursors, 2 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bdi">Brachypodium distachyon</a> (258 precursors, 464 mature) [v1.0]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=egu">Elaeis guineensis</a> (6 precursors, 6 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=far">Festuca arundinacea</a> (15 precursors, 15 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hvu">Hordeum vulgare</a> (67 precursors, 69 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=osa">Oryza sativa</a> (592 precursors, 713 mature) [MSU7]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sbi">Sorghum bicolor</a> (205 precursors, 241 mature) [Sorbi1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sof">Saccharum officinarum</a> (16 precursors, 16 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ssp">Saccharum ssp.</a> (19 precursors, 20 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=tae">Triticum aestivum</a> (42 precursors, 42 mature) [TIGR_tae2]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ttu">Triticum turgidum</a> (1 precursors, 1 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=zma">Zea mays</a> (172 precursors, 321 mature) [RefGen_v2]</LI>
+</UL></UL></UL>
+<LI><A HREF='javascript:void(0);' onClick='toggleList("0x1e1b16e0_70")'>Viruses</A></LI>
+<UL class='treenode' ID='0x1e1b16e0_70' STYLE='display: none;'>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bhv1">Bovine herpesvirus 1</a> (10 precursors, 12 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bkv">BK polyomavirus</a> (1 precursors, 2 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=blv">Bovine leukemia virus</a> (5 precursors, 10 mature) [K02120.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bpcv1">Bandicoot papillomatosis carcinomatosis virus type 1</a> (0 precursors, 1 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=bpcv2">Bandicoot papillomatosis carcinomatosis virus type 2</a> (0 precursors, 1 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=dev">Duck enteritis virus</a> (24 precursors, 33 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=ebv">Epstein Barr virus</a> (25 precursors, 44 mature) [EMBL:AJ507799.2]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hbv">Herpes B virus</a> (12 precursors, 15 mature) [Refseq:NC_004812]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hcmv">Human cytomegalovirus</a> (15 precursors, 26 mature) [EMBL:X17403.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hhv6b">Human herpesvirus 6B</a> (0 precursors, 8 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hiv1">Human immunodeficiency virus 1</a> (3 precursors, 4 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hsv1">Herpes Simplex Virus 1</a> (18 precursors, 27 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hsv2">Herpes Simplex Virus 2</a> (18 precursors, 24 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hvsa">Herpesvirus saimiri strain A11</a> (3 precursors, 6 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=hvt">Herpesvirus of turkeys</a> (17 precursors, 28 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=iltv">Infectious laryngotracheitis virus</a> (7 precursors, 10 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=jcv">JC polyomavirus</a> (1 precursors, 2 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=kshv">Kaposi sarcoma-associated herpesvirus</a> (13 precursors, 25 mature) [EMBL:U75698.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mcmv">Mouse cytomegalovirus</a> (18 precursors, 29 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mcv">Merkel cell polyomavirus</a> (1 precursors, 2 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mdv1">Mareks disease virus</a> (14 precursors, 26 mature) [EMBL:AF243438.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mdv2">Mareks disease virus type 2</a> (18 precursors, 36 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=mghv">Mouse gammaherpesvirus 68</a> (15 precursors, 28 mature) [EMBL:U97553.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=prv">Pseudorabies virus</a> (13 precursors, 13 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=rlcv">Rhesus lymphocryptovirus</a> (36 precursors, 68 mature)</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=rrv">Rhesus monkey rhadinovirus</a> (7 precursors, 11 mature) [EMBL:AF210726.1]</LI>
+<LI class='leaf'><a href="/cgi-bin/mirna_summary.pl?org=sv40">Simian virus 40</a> (1 precursors, 2 mature)</LI>
+</UL></UL></div>
+<input type="button"  name="expandAll()" value="Expand all" onclick="javascript:expandAll()" /><input type="button"  name="collapseAll()" value="Collapse all" onclick="javascript:collapseAll()" /></div>
+<div id="footer">
+<p class="mailto">
+	Comments, questions? Email  <a href="mailto:mirbase@manchester.ac.uk">mirbase@manchester.ac.uk</a>
+</p>
+</div>
+
+</body>
+</html>

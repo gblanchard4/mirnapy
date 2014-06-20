@@ -1,0 +1,2315 @@
+25328 1157 11
+0 mmu-let-7g-5p MIMAT0000121 Mus musculus let-7g-5p
+0 22 0
+0 mmu-let-7g-3p MIMAT0004519 Mus musculus let-7g-3p
+22 22 0
+0 mmu-let-7i-5p MIMAT0000122 Mus musculus let-7i-5p
+44 22 0
+0 mmu-let-7i-3p MIMAT0004520 Mus musculus let-7i-3p
+66 22 0
+0 mmu-miR-1a-1-5p MIMAT0016979 Mus musculus miR-1a-1-5p
+88 23 0
+0 mmu-miR-1a-3p MIMAT0000123 Mus musculus miR-1a-3p
+111 22 0
+0 mmu-miR-15b-5p MIMAT0000124 Mus musculus miR-15b-5p
+133 22 0
+0 mmu-miR-15b-3p MIMAT0004521 Mus musculus miR-15b-3p
+155 22 0
+0 mmu-miR-23b-5p MIMAT0016980 Mus musculus miR-23b-5p
+177 21 0
+0 mmu-miR-23b-3p MIMAT0000125 Mus musculus miR-23b-3p
+198 21 0
+0 mmu-miR-27b-5p MIMAT0004522 Mus musculus miR-27b-5p
+219 22 0
+0 mmu-miR-27b-3p MIMAT0000126 Mus musculus miR-27b-3p
+241 21 0
+0 mmu-miR-29b-1-5p MIMAT0004523 Mus musculus miR-29b-1-5p
+262 22 0
+0 mmu-miR-29b-3p MIMAT0000127 Mus musculus miR-29b-3p
+284 23 0
+0 mmu-miR-30a-5p MIMAT0000128 Mus musculus miR-30a-5p
+307 22 0
+0 mmu-miR-30a-3p MIMAT0000129 Mus musculus miR-30a-3p
+329 22 0
+0 mmu-miR-30b-5p MIMAT0000130 Mus musculus miR-30b-5p
+351 22 0
+0 mmu-miR-30b-3p MIMAT0004524 Mus musculus miR-30b-3p
+373 22 0
+0 mmu-miR-99a-5p MIMAT0000131 Mus musculus miR-99a-5p
+395 22 0
+0 mmu-miR-99a-3p MIMAT0016981 Mus musculus miR-99a-3p
+417 21 0
+0 mmu-miR-99b-5p MIMAT0000132 Mus musculus miR-99b-5p
+438 22 0
+0 mmu-miR-99b-3p MIMAT0004525 Mus musculus miR-99b-3p
+460 22 0
+0 mmu-miR-101a-5p MIMAT0004526 Mus musculus miR-101a-5p
+482 22 0
+0 mmu-miR-101a-3p MIMAT0000133 Mus musculus miR-101a-3p
+504 21 0
+0 mmu-miR-124-5p MIMAT0004527 Mus musculus miR-124-5p
+525 22 0
+0 mmu-miR-124-3p MIMAT0000134 Mus musculus miR-124-3p
+547 20 0
+0 mmu-miR-125a-5p MIMAT0000135 Mus musculus miR-125a-5p
+567 24 0
+0 mmu-miR-125a-3p MIMAT0004528 Mus musculus miR-125a-3p
+591 22 0
+0 mmu-miR-125b-5p MIMAT0000136 Mus musculus miR-125b-5p
+613 22 0
+0 mmu-miR-125b-2-3p MIMAT0004529 Mus musculus miR-125b-2-3p
+635 22 0
+0 mmu-miR-126-5p MIMAT0000137 Mus musculus miR-126-5p
+657 21 0
+0 mmu-miR-126-3p MIMAT0000138 Mus musculus miR-126-3p
+678 22 0
+0 mmu-miR-127-5p MIMAT0004530 Mus musculus miR-127-5p
+700 22 0
+0 mmu-miR-127-3p MIMAT0000139 Mus musculus miR-127-3p
+722 22 0
+0 mmu-miR-128-1-5p MIMAT0016982 Mus musculus miR-128-1-5p
+744 21 0
+0 mmu-miR-128-3p MIMAT0000140 Mus musculus miR-128-3p
+765 21 0
+0 mmu-miR-130a-5p MIMAT0016983 Mus musculus miR-130a-5p
+786 22 0
+0 mmu-miR-130a-3p MIMAT0000141 Mus musculus miR-130a-3p
+808 22 0
+0 mmu-miR-9-5p MIMAT0000142 Mus musculus miR-9-5p
+830 23 0
+0 mmu-miR-9-3p MIMAT0000143 Mus musculus miR-9-3p
+853 22 0
+0 mmu-miR-132-5p MIMAT0016984 Mus musculus miR-132-5p
+875 22 0
+0 mmu-miR-132-3p MIMAT0000144 Mus musculus miR-132-3p
+897 22 0
+0 mmu-miR-133a-5p MIMAT0003473 Mus musculus miR-133a-5p
+919 21 0
+0 mmu-miR-133a-3p MIMAT0000145 Mus musculus miR-133a-3p
+940 22 0
+0 mmu-miR-134-5p MIMAT0000146 Mus musculus miR-134-5p
+962 22 0
+0 mmu-miR-134-3p MIMAT0016985 Mus musculus miR-134-3p
+984 20 0
+0 mmu-miR-135a-5p MIMAT0000147 Mus musculus miR-135a-5p
+1004 23 0
+0 mmu-miR-135a-1-3p MIMAT0004531 Mus musculus miR-135a-1-3p
+1027 22 0
+0 mmu-miR-136-5p MIMAT0000148 Mus musculus miR-136-5p
+1049 22 0
+0 mmu-miR-136-3p MIMAT0004532 Mus musculus miR-136-3p
+1071 22 0
+0 mmu-miR-137-5p MIMAT0016986 Mus musculus miR-137-5p
+1093 23 0
+0 mmu-miR-137-3p MIMAT0000149 Mus musculus miR-137-3p
+1116 23 0
+0 mmu-miR-138-5p MIMAT0000150 Mus musculus miR-138-5p
+1139 23 0
+0 mmu-miR-138-2-3p MIMAT0016987 Mus musculus miR-138-2-3p
+1162 21 0
+0 mmu-miR-140-5p MIMAT0000151 Mus musculus miR-140-5p
+1183 22 0
+0 mmu-miR-140-3p MIMAT0000152 Mus musculus miR-140-3p
+1205 21 0
+0 mmu-miR-141-5p MIMAT0004533 Mus musculus miR-141-5p
+1226 22 0
+0 mmu-miR-141-3p MIMAT0000153 Mus musculus miR-141-3p
+1248 22 0
+0 mmu-miR-142-5p MIMAT0000154 Mus musculus miR-142-5p
+1270 21 0
+0 mmu-miR-142-3p MIMAT0000155 Mus musculus miR-142-3p
+1291 23 0
+0 mmu-miR-144-5p MIMAT0016988 Mus musculus miR-144-5p
+1314 23 0
+0 mmu-miR-144-3p MIMAT0000156 Mus musculus miR-144-3p
+1337 20 0
+0 mmu-miR-145-5p MIMAT0000157 Mus musculus miR-145-5p
+1357 23 0
+0 mmu-miR-145-3p MIMAT0004534 Mus musculus miR-145-3p
+1380 22 0
+0 mmu-miR-146a-5p MIMAT0000158 Mus musculus miR-146a-5p
+1402 22 0
+0 mmu-miR-146a-3p MIMAT0016989 Mus musculus miR-146a-3p
+1424 22 0
+0 mmu-miR-149-5p MIMAT0000159 Mus musculus miR-149-5p
+1446 23 0
+0 mmu-miR-149-3p MIMAT0016990 Mus musculus miR-149-3p
+1469 22 0
+0 mmu-miR-150-5p MIMAT0000160 Mus musculus miR-150-5p
+1491 22 0
+0 mmu-miR-150-3p MIMAT0004535 Mus musculus miR-150-3p
+1513 22 0
+0 mmu-miR-151-5p MIMAT0004536 Mus musculus miR-151-5p
+1535 21 0
+0 mmu-miR-151-3p MIMAT0000161 Mus musculus miR-151-3p
+1556 21 0
+0 mmu-miR-152-5p MIMAT0016991 Mus musculus miR-152-5p
+1577 24 0
+0 mmu-miR-152-3p MIMAT0000162 Mus musculus miR-152-3p
+1601 21 0
+0 mmu-miR-153-5p MIMAT0016992 Mus musculus miR-153-5p
+1622 17 0
+0 mmu-miR-153-3p MIMAT0000163 Mus musculus miR-153-3p
+1639 22 0
+0 mmu-miR-154-5p MIMAT0000164 Mus musculus miR-154-5p
+1661 22 0
+0 mmu-miR-154-3p MIMAT0004537 Mus musculus miR-154-3p
+1683 22 0
+0 mmu-miR-155-5p MIMAT0000165 Mus musculus miR-155-5p
+1705 23 0
+0 mmu-miR-155-3p MIMAT0016993 Mus musculus miR-155-3p
+1728 21 0
+0 mmu-miR-10b-5p MIMAT0000208 Mus musculus miR-10b-5p
+1749 23 0
+0 mmu-miR-10b-3p MIMAT0004538 Mus musculus miR-10b-3p
+1772 22 0
+0 mmu-miR-129-5p MIMAT0000209 Mus musculus miR-129-5p
+1794 21 0
+0 mmu-miR-129-1-3p MIMAT0016994 Mus musculus miR-129-1-3p
+1815 22 0
+0 mmu-miR-181a-5p MIMAT0000210 Mus musculus miR-181a-5p
+1837 23 0
+0 mmu-miR-181a-2-3p MIMAT0005443 Mus musculus miR-181a-2-3p
+1860 22 0
+0 mmu-miR-182-5p MIMAT0000211 Mus musculus miR-182-5p
+1882 25 0
+0 mmu-miR-182-3p MIMAT0016995 Mus musculus miR-182-3p
+1907 21 0
+0 mmu-miR-183-5p MIMAT0000212 Mus musculus miR-183-5p
+1928 22 0
+0 mmu-miR-183-3p MIMAT0004539 Mus musculus miR-183-3p
+1950 22 0
+0 mmu-miR-184-5p MIMAT0022690 Mus musculus miR-184-5p
+1972 22 0
+0 mmu-miR-184-3p MIMAT0000213 Mus musculus miR-184-3p
+1994 22 0
+0 mmu-miR-185-5p MIMAT0000214 Mus musculus miR-185-5p
+2016 22 0
+0 mmu-miR-185-3p MIMAT0016996 Mus musculus miR-185-3p
+2038 21 0
+0 mmu-miR-186-5p MIMAT0000215 Mus musculus miR-186-5p
+2059 22 0
+0 mmu-miR-186-3p MIMAT0004540 Mus musculus miR-186-3p
+2081 22 0
+0 mmu-miR-187-5p MIMAT0016997 Mus musculus miR-187-5p
+2103 22 0
+0 mmu-miR-187-3p MIMAT0000216 Mus musculus miR-187-3p
+2125 22 0
+0 mmu-miR-188-5p MIMAT0000217 Mus musculus miR-188-5p
+2147 21 0
+0 mmu-miR-188-3p MIMAT0004541 Mus musculus miR-188-3p
+2168 21 0
+0 mmu-miR-24-1-5p MIMAT0000218 Mus musculus miR-24-1-5p
+2189 23 0
+0 mmu-miR-24-3p MIMAT0000219 Mus musculus miR-24-3p
+2212 22 0
+0 mmu-miR-190-5p MIMAT0000220 Mus musculus miR-190-5p
+2234 22 0
+0 mmu-miR-190-3p MIMAT0016998 Mus musculus miR-190-3p
+2256 22 0
+0 mmu-miR-191-5p MIMAT0000221 Mus musculus miR-191-5p
+2278 23 0
+0 mmu-miR-191-3p MIMAT0004542 Mus musculus miR-191-3p
+2301 22 0
+0 mmu-miR-193-5p MIMAT0004544 Mus musculus miR-193-5p
+2323 22 0
+0 mmu-miR-193-3p MIMAT0000223 Mus musculus miR-193-3p
+2345 22 0
+0 mmu-miR-194-5p MIMAT0000224 Mus musculus miR-194-5p
+2367 22 0
+0 mmu-miR-194-1-3p MIMAT0016999 Mus musculus miR-194-1-3p
+2389 22 0
+0 mmu-miR-195-5p MIMAT0000225 Mus musculus miR-195-5p
+2411 21 0
+0 mmu-miR-195-3p MIMAT0017000 Mus musculus miR-195-3p
+2432 22 0
+0 mmu-miR-199a-5p MIMAT0000229 Mus musculus miR-199a-5p
+2454 23 0
+0 mmu-miR-199a-3p MIMAT0000230 Mus musculus miR-199a-3p
+2477 22 0
+0 mmu-miR-200b-5p MIMAT0004545 Mus musculus miR-200b-5p
+2499 22 0
+0 mmu-miR-200b-3p MIMAT0000233 Mus musculus miR-200b-3p
+2521 22 0
+0 mmu-miR-201-5p MIMAT0000234 Mus musculus miR-201-5p
+2543 22 0
+0 mmu-miR-201-3p MIMAT0017001 Mus musculus miR-201-3p
+2565 23 0
+0 mmu-miR-202-5p MIMAT0004546 Mus musculus miR-202-5p
+2588 21 0
+0 mmu-miR-202-3p MIMAT0000235 Mus musculus miR-202-3p
+2609 22 0
+0 mmu-miR-203-5p MIMAT0004547 Mus musculus miR-203-5p
+2631 22 0
+0 mmu-miR-203-3p MIMAT0000236 Mus musculus miR-203-3p
+2653 22 0
+0 mmu-miR-204-5p MIMAT0000237 Mus musculus miR-204-5p
+2675 22 0
+0 mmu-miR-204-3p MIMAT0017002 Mus musculus miR-204-3p
+2697 21 0
+0 mmu-miR-205-5p MIMAT0000238 Mus musculus miR-205-5p
+2718 22 0
+0 mmu-miR-205-3p MIMAT0017003 Mus musculus miR-205-3p
+2740 22 0
+0 mmu-miR-206-5p MIMAT0017004 Mus musculus miR-206-5p
+2762 23 0
+0 mmu-miR-206-3p MIMAT0000239 Mus musculus miR-206-3p
+2785 22 0
+0 mmu-miR-207 MIMAT0000240 Mus musculus miR-207
+2807 23 0
+0 mmu-miR-122-5p MIMAT0000246 Mus musculus miR-122-5p
+2830 22 0
+0 mmu-miR-122-3p MIMAT0017005 Mus musculus miR-122-3p
+2852 20 0
+0 mmu-miR-143-5p MIMAT0017006 Mus musculus miR-143-5p
+2872 21 0
+0 mmu-miR-143-3p MIMAT0000247 Mus musculus miR-143-3p
+2893 21 0
+0 mmu-miR-30e-5p MIMAT0000248 Mus musculus miR-30e-5p
+2914 22 0
+0 mmu-miR-30e-3p MIMAT0000249 Mus musculus miR-30e-3p
+2936 22 0
+0 mmu-miR-290-5p MIMAT0000366 Mus musculus miR-290-5p
+2958 22 0
+0 mmu-miR-290-3p MIMAT0004572 Mus musculus miR-290-3p
+2980 24 0
+0 mmu-miR-291a-5p MIMAT0000367 Mus musculus miR-291a-5p
+3004 22 0
+0 mmu-miR-291a-3p MIMAT0000368 Mus musculus miR-291a-3p
+3026 22 0
+0 mmu-miR-292-5p MIMAT0000369 Mus musculus miR-292-5p
+3048 22 0
+0 mmu-miR-292-3p MIMAT0000370 Mus musculus miR-292-3p
+3070 24 0
+0 mmu-miR-293-5p MIMAT0004573 Mus musculus miR-293-5p
+3094 22 0
+0 mmu-miR-293-3p MIMAT0000371 Mus musculus miR-293-3p
+3116 22 0
+0 mmu-miR-294-5p MIMAT0004574 Mus musculus miR-294-5p
+3138 22 0
+0 mmu-miR-294-3p MIMAT0000372 Mus musculus miR-294-3p
+3160 22 0
+0 mmu-miR-295-5p MIMAT0004575 Mus musculus miR-295-5p
+3182 22 0
+0 mmu-miR-295-3p MIMAT0000373 Mus musculus miR-295-3p
+3204 23 0
+0 mmu-miR-296-5p MIMAT0000374 Mus musculus miR-296-5p
+3227 21 0
+0 mmu-miR-296-3p MIMAT0004576 Mus musculus miR-296-3p
+3248 22 0
+0 mmu-miR-297a-5p MIMAT0000375 Mus musculus miR-297a-5p
+3270 22 0
+0 mmu-miR-298-5p MIMAT0000376 Mus musculus miR-298-5p
+3292 23 0
+0 mmu-miR-298-3p MIMAT0017007 Mus musculus miR-298-3p
+3315 22 0
+0 mmu-miR-299-5p MIMAT0000377 Mus musculus miR-299-5p
+3337 22 0
+0 mmu-miR-299-3p MIMAT0004577 Mus musculus miR-299-3p
+3359 22 0
+0 mmu-miR-300-5p MIMAT0004578 Mus musculus miR-300-5p
+3381 22 0
+0 mmu-miR-300-3p MIMAT0000378 Mus musculus miR-300-3p
+3403 22 0
+0 mmu-miR-301a-5p MIMAT0017008 Mus musculus miR-301a-5p
+3425 22 0
+0 mmu-miR-301a-3p MIMAT0000379 Mus musculus miR-301a-3p
+3447 23 0
+0 mmu-miR-302a-5p MIMAT0004579 Mus musculus miR-302a-5p
+3470 22 0
+0 mmu-miR-302a-3p MIMAT0000380 Mus musculus miR-302a-3p
+3492 23 0
+0 mmu-miR-34c-5p MIMAT0000381 Mus musculus miR-34c-5p
+3515 23 0
+0 mmu-miR-34c-3p MIMAT0004580 Mus musculus miR-34c-3p
+3538 22 0
+0 mmu-miR-34b-5p MIMAT0000382 Mus musculus miR-34b-5p
+3560 23 0
+0 mmu-miR-34b-3p MIMAT0004581 Mus musculus miR-34b-3p
+3583 22 0
+0 mmu-let-7d-5p MIMAT0000383 Mus musculus let-7d-5p
+3605 22 0
+0 mmu-let-7d-3p MIMAT0000384 Mus musculus let-7d-3p
+3627 22 0
+0 mmu-miR-106a-5p MIMAT0000385 Mus musculus miR-106a-5p
+3649 23 0
+0 mmu-miR-106a-3p MIMAT0017009 Mus musculus miR-106a-3p
+3672 23 0
+0 mmu-miR-106b-5p MIMAT0000386 Mus musculus miR-106b-5p
+3695 21 0
+0 mmu-miR-106b-3p MIMAT0004582 Mus musculus miR-106b-3p
+3716 22 0
+0 mmu-miR-130b-5p MIMAT0004583 Mus musculus miR-130b-5p
+3738 22 0
+0 mmu-miR-130b-3p MIMAT0000387 Mus musculus miR-130b-3p
+3760 22 0
+0 mmu-miR-19b-2-5p MIMAT0017010 Mus musculus miR-19b-2-5p
+3782 24 0
+0 mmu-miR-19b-3p MIMAT0000513 Mus musculus miR-19b-3p
+3806 23 0
+0 mmu-miR-30c-5p MIMAT0000514 Mus musculus miR-30c-5p
+3829 23 0
+0 mmu-miR-30c-1-3p MIMAT0004616 Mus musculus miR-30c-1-3p
+3852 22 0
+0 mmu-miR-30c-2-3p MIMAT0005438 Mus musculus miR-30c-2-3p
+3874 22 0
+0 mmu-miR-30d-5p MIMAT0000515 Mus musculus miR-30d-5p
+3896 22 0
+0 mmu-miR-30d-3p MIMAT0017011 Mus musculus miR-30d-3p
+3918 22 0
+0 mmu-miR-148a-5p MIMAT0004617 Mus musculus miR-148a-5p
+3940 22 0
+0 mmu-miR-148a-3p MIMAT0000516 Mus musculus miR-148a-3p
+3962 22 0
+0 mmu-miR-192-5p MIMAT0000517 Mus musculus miR-192-5p
+3984 21 0
+0 mmu-miR-192-3p MIMAT0017012 Mus musculus miR-192-3p
+4005 22 0
+0 mmu-miR-196a-5p MIMAT0000518 Mus musculus miR-196a-5p
+4027 22 0
+0 mmu-miR-196a-1-3p MIMAT0017013 Mus musculus miR-196a-1-3p
+4049 22 0
+0 mmu-miR-196a-2-3p MIMAT0004618 Mus musculus miR-196a-2-3p
+4071 22 0
+0 mmu-miR-200a-5p MIMAT0004619 Mus musculus miR-200a-5p
+4093 22 0
+0 mmu-miR-200a-3p MIMAT0000519 Mus musculus miR-200a-3p
+4115 22 0
+0 mmu-miR-208a-5p MIMAT0017014 Mus musculus miR-208a-5p
+4137 22 0
+0 mmu-miR-208a-3p MIMAT0000520 Mus musculus miR-208a-3p
+4159 22 0
+0 mmu-let-7a-5p MIMAT0000521 Mus musculus let-7a-5p
+4181 22 0
+0 mmu-let-7a-1-3p MIMAT0004620 Mus musculus let-7a-1-3p
+4203 22 0
+0 mmu-let-7a-2-3p MIMAT0017015 Mus musculus let-7a-2-3p
+4225 21 0
+0 mmu-let-7b-5p MIMAT0000522 Mus musculus let-7b-5p
+4246 22 0
+0 mmu-let-7b-3p MIMAT0004621 Mus musculus let-7b-3p
+4268 22 0
+0 mmu-let-7c-5p MIMAT0000523 Mus musculus let-7c-5p
+4290 22 0
+0 mmu-let-7c-1-3p MIMAT0004622 Mus musculus let-7c-1-3p
+4312 22 0
+0 mmu-let-7c-2-3p MIMAT0005439 Mus musculus let-7c-2-3p
+4334 22 0
+0 mmu-let-7e-5p MIMAT0000524 Mus musculus let-7e-5p
+4356 22 0
+0 mmu-let-7e-3p MIMAT0017016 Mus musculus let-7e-3p
+4378 22 0
+0 mmu-let-7f-5p MIMAT0000525 Mus musculus let-7f-5p
+4400 22 0
+0 mmu-let-7f-1-3p MIMAT0004623 Mus musculus let-7f-1-3p
+4422 22 0
+0 mmu-let-7f-2-3p MIMAT0017017 Mus musculus let-7f-2-3p
+4444 21 0
+0 mmu-miR-15a-5p MIMAT0000526 Mus musculus miR-15a-5p
+4465 22 0
+0 mmu-miR-15a-3p MIMAT0004624 Mus musculus miR-15a-3p
+4487 22 0
+0 mmu-miR-16-5p MIMAT0000527 Mus musculus miR-16-5p
+4509 22 0
+0 mmu-miR-16-1-3p MIMAT0004625 Mus musculus miR-16-1-3p
+4531 22 0
+0 mmu-miR-16-2-3p MIMAT0017018 Mus musculus miR-16-2-3p
+4553 22 0
+0 mmu-miR-18a-5p MIMAT0000528 Mus musculus miR-18a-5p
+4575 23 0
+0 mmu-miR-18a-3p MIMAT0004626 Mus musculus miR-18a-3p
+4598 22 0
+0 mmu-miR-20a-5p MIMAT0000529 Mus musculus miR-20a-5p
+4620 23 0
+0 mmu-miR-20a-3p MIMAT0004627 Mus musculus miR-20a-3p
+4643 22 0
+0 mmu-miR-21-5p MIMAT0000530 Mus musculus miR-21-5p
+4665 22 0
+0 mmu-miR-21-3p MIMAT0004628 Mus musculus miR-21-3p
+4687 22 0
+0 mmu-miR-22-5p MIMAT0004629 Mus musculus miR-22-5p
+4709 22 0
+0 mmu-miR-22-3p MIMAT0000531 Mus musculus miR-22-3p
+4731 22 0
+0 mmu-miR-23a-5p MIMAT0017019 Mus musculus miR-23a-5p
+4753 22 0
+0 mmu-miR-23a-3p MIMAT0000532 Mus musculus miR-23a-3p
+4775 21 0
+0 mmu-miR-24-2-5p MIMAT0005440 Mus musculus miR-24-2-5p
+4796 22 0
+0 mmu-miR-26a-5p MIMAT0000533 Mus musculus miR-26a-5p
+4818 22 0
+0 mmu-miR-26a-1-3p MIMAT0017020 Mus musculus miR-26a-1-3p
+4840 22 0
+0 mmu-miR-26b-5p MIMAT0000534 Mus musculus miR-26b-5p
+4862 21 0
+0 mmu-miR-26b-3p MIMAT0004630 Mus musculus miR-26b-3p
+4883 22 0
+0 mmu-miR-29a-5p MIMAT0004631 Mus musculus miR-29a-5p
+4905 22 0
+0 mmu-miR-29a-3p MIMAT0000535 Mus musculus miR-29a-3p
+4927 22 0
+0 mmu-miR-29c-5p MIMAT0004632 Mus musculus miR-29c-5p
+4949 22 0
+0 mmu-miR-29c-3p MIMAT0000536 Mus musculus miR-29c-3p
+4971 22 0
+0 mmu-miR-27a-5p MIMAT0004633 Mus musculus miR-27a-5p
+4993 22 0
+0 mmu-miR-27a-3p MIMAT0000537 Mus musculus miR-27a-3p
+5015 21 0
+0 mmu-miR-31-5p MIMAT0000538 Mus musculus miR-31-5p
+5036 22 0
+0 mmu-miR-31-3p MIMAT0004634 Mus musculus miR-31-3p
+5058 23 0
+0 mmu-miR-92a-2-5p MIMAT0004635 Mus musculus miR-92a-2-5p
+5081 22 0
+0 mmu-miR-92a-3p MIMAT0000539 Mus musculus miR-92a-3p
+5103 21 0
+0 mmu-miR-93-5p MIMAT0000540 Mus musculus miR-93-5p
+5124 23 0
+0 mmu-miR-93-3p MIMAT0004636 Mus musculus miR-93-3p
+5147 22 0
+0 mmu-miR-96-5p MIMAT0000541 Mus musculus miR-96-5p
+5169 23 0
+0 mmu-miR-96-3p MIMAT0017021 Mus musculus miR-96-3p
+5192 22 0
+0 mmu-miR-34a-5p MIMAT0000542 Mus musculus miR-34a-5p
+5214 22 0
+0 mmu-miR-34a-3p MIMAT0017022 Mus musculus miR-34a-3p
+5236 21 0
+0 mmu-miR-129-2-3p MIMAT0000544 Mus musculus miR-129-2-3p
+5257 22 0
+0 mmu-miR-98-5p MIMAT0000545 Mus musculus miR-98-5p
+5279 22 0
+0 mmu-miR-98-3p MIMAT0017023 Mus musculus miR-98-3p
+5301 22 0
+0 mmu-miR-103-1-5p MIMAT0017024 Mus musculus miR-103-1-5p
+5323 23 0
+0 mmu-miR-103-3p MIMAT0000546 Mus musculus miR-103-3p
+5346 23 0
+0 mmu-miR-103-2-5p MIMAT0017025 Mus musculus miR-103-2-5p
+5369 23 0
+0 mmu-miR-322-5p MIMAT0000548 Mus musculus miR-322-5p
+5392 22 0
+0 mmu-miR-322-3p MIMAT0000549 Mus musculus miR-322-3p
+5414 21 0
+0 mmu-miR-323-5p MIMAT0004638 Mus musculus miR-323-5p
+5435 22 0
+0 mmu-miR-323-3p MIMAT0000551 Mus musculus miR-323-3p
+5457 21 0
+0 mmu-miR-324-5p MIMAT0000555 Mus musculus miR-324-5p
+5478 23 0
+0 mmu-miR-324-3p MIMAT0000556 Mus musculus miR-324-3p
+5501 20 0
+0 mmu-miR-325-5p MIMAT0000558 Mus musculus miR-325-5p
+5521 23 0
+0 mmu-miR-325-3p MIMAT0004640 Mus musculus miR-325-3p
+5544 22 0
+0 mmu-miR-326-5p MIMAT0017027 Mus musculus miR-326-5p
+5566 24 0
+0 mmu-miR-326-3p MIMAT0000559 Mus musculus miR-326-3p
+5590 21 0
+0 mmu-miR-328-5p MIMAT0017030 Mus musculus miR-328-5p
+5611 22 0
+0 mmu-miR-328-3p MIMAT0000565 Mus musculus miR-328-3p
+5633 22 0
+0 mmu-miR-329-5p MIMAT0017032 Mus musculus miR-329-5p
+5655 22 0
+0 mmu-miR-329-3p MIMAT0000567 Mus musculus miR-329-3p
+5677 22 0
+0 mmu-miR-330-5p MIMAT0004642 Mus musculus miR-330-5p
+5699 22 0
+0 mmu-miR-330-3p MIMAT0000569 Mus musculus miR-330-3p
+5721 23 0
+0 mmu-miR-331-5p MIMAT0004643 Mus musculus miR-331-5p
+5744 22 0
+0 mmu-miR-331-3p MIMAT0000571 Mus musculus miR-331-3p
+5766 21 0
+0 mmu-miR-337-5p MIMAT0004644 Mus musculus miR-337-5p
+5787 21 0
+0 mmu-miR-337-3p MIMAT0000578 Mus musculus miR-337-3p
+5808 21 0
+0 mmu-miR-148b-5p MIMAT0017036 Mus musculus miR-148b-5p
+5829 24 0
+0 mmu-miR-148b-3p MIMAT0000580 Mus musculus miR-148b-3p
+5853 22 0
+0 mmu-miR-338-5p MIMAT0004647 Mus musculus miR-338-5p
+5875 22 0
+0 mmu-miR-338-3p MIMAT0000582 Mus musculus miR-338-3p
+5897 22 0
+0 mmu-miR-339-5p MIMAT0000584 Mus musculus miR-339-5p
+5919 23 0
+0 mmu-miR-339-3p MIMAT0004649 Mus musculus miR-339-3p
+5942 23 0
+0 mmu-miR-340-5p MIMAT0004651 Mus musculus miR-340-5p
+5965 22 0
+0 mmu-miR-340-3p MIMAT0000586 Mus musculus miR-340-3p
+5987 22 0
+0 mmu-miR-341-5p MIMAT0017037 Mus musculus miR-341-5p
+6009 21 0
+0 mmu-miR-341-3p MIMAT0000588 Mus musculus miR-341-3p
+6030 21 0
+0 mmu-miR-342-5p MIMAT0004653 Mus musculus miR-342-5p
+6051 22 0
+0 mmu-miR-342-3p MIMAT0000590 Mus musculus miR-342-3p
+6073 23 0
+0 mmu-miR-344-5p MIMAT0017038 Mus musculus miR-344-5p
+6096 26 0
+0 mmu-miR-344-3p MIMAT0000593 Mus musculus miR-344-3p
+6122 23 0
+0 mmu-miR-345-5p MIMAT0000595 Mus musculus miR-345-5p
+6145 22 0
+0 mmu-miR-345-3p MIMAT0004656 Mus musculus miR-345-3p
+6167 22 0
+0 mmu-miR-346-5p MIMAT0000597 Mus musculus miR-346-5p
+6189 23 0
+0 mmu-miR-346-3p MIMAT0017039 Mus musculus miR-346-3p
+6212 22 0
+0 mmu-miR-350-5p MIMAT0017040 Mus musculus miR-350-5p
+6234 19 0
+0 mmu-miR-350-3p MIMAT0000605 Mus musculus miR-350-3p
+6253 22 0
+0 mmu-miR-351-5p MIMAT0000609 Mus musculus miR-351-5p
+6275 24 0
+0 mmu-miR-351-3p MIMAT0017042 Mus musculus miR-351-3p
+6299 21 0
+0 mmu-miR-135b-5p MIMAT0000612 Mus musculus miR-135b-5p
+6320 23 0
+0 mmu-miR-135b-3p MIMAT0017044 Mus musculus miR-135b-3p
+6343 22 0
+0 mmu-miR-101b-5p MIMAT0017046 Mus musculus miR-101b-5p
+6365 23 0
+0 mmu-miR-101b-3p MIMAT0000616 Mus musculus miR-101b-3p
+6388 21 0
+0 mmu-miR-1a-2-5p MIMAT0017047 Mus musculus miR-1a-2-5p
+6409 23 0
+0 mmu-miR-107-5p MIMAT0017048 Mus musculus miR-107-5p
+6432 23 0
+0 mmu-miR-107-3p MIMAT0000647 Mus musculus miR-107-3p
+6455 23 0
+0 mmu-miR-10a-5p MIMAT0000648 Mus musculus miR-10a-5p
+6478 23 0
+0 mmu-miR-10a-3p MIMAT0004659 Mus musculus miR-10a-3p
+6501 22 0
+0 mmu-miR-17-5p MIMAT0000649 Mus musculus miR-17-5p
+6523 23 0
+0 mmu-miR-17-3p MIMAT0000650 Mus musculus miR-17-3p
+6546 22 0
+0 mmu-miR-19a-5p MIMAT0004660 Mus musculus miR-19a-5p
+6568 22 0
+0 mmu-miR-19a-3p MIMAT0000651 Mus musculus miR-19a-3p
+6590 23 0
+0 mmu-miR-25-5p MIMAT0017049 Mus musculus miR-25-5p
+6613 22 0
+0 mmu-miR-25-3p MIMAT0000652 Mus musculus miR-25-3p
+6635 22 0
+0 mmu-miR-28-5p MIMAT0000653 Mus musculus miR-28-5p
+6657 22 0
+0 mmu-miR-28-3p MIMAT0004661 Mus musculus miR-28-3p
+6679 22 0
+0 mmu-miR-32-5p MIMAT0000654 Mus musculus miR-32-5p
+6701 22 0
+0 mmu-miR-32-3p MIMAT0017050 Mus musculus miR-32-3p
+6723 21 0
+0 mmu-miR-100-5p MIMAT0000655 Mus musculus miR-100-5p
+6744 22 0
+0 mmu-miR-100-3p MIMAT0017051 Mus musculus miR-100-3p
+6766 22 0
+0 mmu-miR-139-5p MIMAT0000656 Mus musculus miR-139-5p
+6788 22 0
+0 mmu-miR-139-3p MIMAT0004662 Mus musculus miR-139-3p
+6810 22 0
+0 mmu-miR-200c-5p MIMAT0004663 Mus musculus miR-200c-5p
+6832 22 0
+0 mmu-miR-200c-3p MIMAT0000657 Mus musculus miR-200c-3p
+6854 23 0
+0 mmu-miR-210-5p MIMAT0017052 Mus musculus miR-210-5p
+6877 22 0
+0 mmu-miR-210-3p MIMAT0000658 Mus musculus miR-210-3p
+6899 22 0
+0 mmu-miR-212-5p MIMAT0017053 Mus musculus miR-212-5p
+6921 23 0
+0 mmu-miR-212-3p MIMAT0000659 Mus musculus miR-212-3p
+6944 22 0
+0 mmu-miR-181a-1-3p MIMAT0000660 Mus musculus miR-181a-1-3p
+6966 22 0
+0 mmu-miR-214-5p MIMAT0004664 Mus musculus miR-214-5p
+6988 22 0
+0 mmu-miR-214-3p MIMAT0000661 Mus musculus miR-214-3p
+7010 22 0
+0 mmu-miR-216a-5p MIMAT0000662 Mus musculus miR-216a-5p
+7032 22 0
+0 mmu-miR-216a-3p MIMAT0017054 Mus musculus miR-216a-3p
+7054 22 0
+0 mmu-miR-218-5p MIMAT0000663 Mus musculus miR-218-5p
+7076 21 0
+0 mmu-miR-218-1-3p MIMAT0004665 Mus musculus miR-218-1-3p
+7097 22 0
+0 mmu-miR-218-2-3p MIMAT0005444 Mus musculus miR-218-2-3p
+7119 22 0
+0 mmu-miR-219-5p MIMAT0000664 Mus musculus miR-219-5p
+7141 21 0
+0 mmu-miR-219-1-3p MIMAT0017055 Mus musculus miR-219-1-3p
+7162 22 0
+0 mmu-miR-223-5p MIMAT0017056 Mus musculus miR-223-5p
+7184 23 0
+0 mmu-miR-223-3p MIMAT0000665 Mus musculus miR-223-3p
+7207 22 0
+0 mmu-miR-320-5p MIMAT0017057 Mus musculus miR-320-5p
+7229 22 0
+0 mmu-miR-320-3p MIMAT0000666 Mus musculus miR-320-3p
+7251 22 0
+0 mmu-miR-26a-2-3p MIMAT0017058 Mus musculus miR-26a-2-3p
+7273 22 0
+0 mmu-miR-33-5p MIMAT0000667 Mus musculus miR-33-5p
+7295 21 0
+0 mmu-miR-33-3p MIMAT0004666 Mus musculus miR-33-3p
+7316 22 0
+0 mmu-miR-211-5p MIMAT0000668 Mus musculus miR-211-5p
+7338 22 0
+0 mmu-miR-211-3p MIMAT0017059 Mus musculus miR-211-3p
+7360 21 0
+0 mmu-miR-221-5p MIMAT0017060 Mus musculus miR-221-5p
+7381 26 0
+0 mmu-miR-221-3p MIMAT0000669 Mus musculus miR-221-3p
+7407 23 0
+0 mmu-miR-222-5p MIMAT0017061 Mus musculus miR-222-5p
+7430 21 0
+0 mmu-miR-222-3p MIMAT0000670 Mus musculus miR-222-3p
+7451 21 0
+0 mmu-miR-224-5p MIMAT0000671 Mus musculus miR-224-5p
+7472 21 0
+0 mmu-miR-224-3p MIMAT0017062 Mus musculus miR-224-3p
+7493 22 0
+0 mmu-miR-29b-2-5p MIMAT0017063 Mus musculus miR-29b-2-5p
+7515 25 0
+0 mmu-miR-199b-5p MIMAT0000672 Mus musculus miR-199b-5p
+7540 23 0
+0 mmu-miR-199b-3p MIMAT0004667 Mus musculus miR-199b-3p
+7563 22 0
+0 mmu-miR-135a-2-3p MIMAT0017064 Mus musculus miR-135a-2-3p
+7585 21 0
+0 mmu-miR-19b-1-5p MIMAT0017065 Mus musculus miR-19b-1-5p
+7606 23 0
+0 mmu-miR-92a-1-5p MIMAT0017066 Mus musculus miR-92a-1-5p
+7629 23 0
+0 mmu-miR-138-1-3p MIMAT0004668 Mus musculus miR-138-1-3p
+7652 22 0
+0 mmu-miR-181b-5p MIMAT0000673 Mus musculus miR-181b-5p
+7674 23 0
+0 mmu-miR-181b-1-3p MIMAT0017067 Mus musculus miR-181b-1-3p
+7697 19 0
+0 mmu-miR-181c-5p MIMAT0000674 Mus musculus miR-181c-5p
+7716 22 0
+0 mmu-miR-181c-3p MIMAT0017068 Mus musculus miR-181c-3p
+7738 22 0
+0 mmu-miR-125b-1-3p MIMAT0004669 Mus musculus miR-125b-1-3p
+7760 22 0
+0 mmu-miR-128-2-5p MIMAT0017069 Mus musculus miR-128-2-5p
+7782 23 0
+0 mmu-miR-7a-5p MIMAT0000677 Mus musculus miR-7a-5p
+7805 23 0
+0 mmu-miR-7a-1-3p MIMAT0004670 Mus musculus miR-7a-1-3p
+7828 22 0
+0 mmu-miR-7a-2-3p MIMAT0017070 Mus musculus miR-7a-2-3p
+7850 22 0
+0 mmu-miR-7b-5p MIMAT0000678 Mus musculus miR-7b-5p
+7872 23 0
+0 mmu-miR-7b-3p MIMAT0017071 Mus musculus miR-7b-3p
+7895 22 0
+0 mmu-miR-217-5p MIMAT0000679 Mus musculus miR-217-5p
+7917 23 0
+0 mmu-miR-217-3p MIMAT0017072 Mus musculus miR-217-3p
+7940 23 0
+0 mmu-miR-194-2-3p MIMAT0017073 Mus musculus miR-194-2-3p
+7963 22 0
+0 mmu-miR-219-2-3p MIMAT0022841 Mus musculus miR-219-2-3p
+7985 22 0
+0 mmu-miR-361-5p MIMAT0000704 Mus musculus miR-361-5p
+8007 22 0
+0 mmu-miR-361-3p MIMAT0017075 Mus musculus miR-361-3p
+8029 25 0
+0 mmu-miR-362-5p MIMAT0000706 Mus musculus miR-362-5p
+8054 24 0
+0 mmu-miR-362-3p MIMAT0004684 Mus musculus miR-362-3p
+8078 22 0
+0 mmu-miR-363-5p MIMAT0017076 Mus musculus miR-363-5p
+8100 22 0
+0 mmu-miR-363-3p MIMAT0000708 Mus musculus miR-363-3p
+8122 22 0
+0 mmu-miR-365-1-5p MIMAT0017077 Mus musculus miR-365-1-5p
+8144 23 0
+0 mmu-miR-365-3p MIMAT0000711 Mus musculus miR-365-3p
+8167 22 0
+0 mmu-miR-375-5p MIMAT0017078 Mus musculus miR-375-5p
+8189 22 0
+0 mmu-miR-375-3p MIMAT0000739 Mus musculus miR-375-3p
+8211 22 0
+0 mmu-miR-376a-5p MIMAT0003387 Mus musculus miR-376a-5p
+8233 22 0
+0 mmu-miR-376a-3p MIMAT0000740 Mus musculus miR-376a-3p
+8255 21 0
+0 mmu-miR-377-5p MIMAT0017079 Mus musculus miR-377-5p
+8276 22 0
+0 mmu-miR-377-3p MIMAT0000741 Mus musculus miR-377-3p
+8298 22 0
+0 mmu-miR-378-5p MIMAT0000742 Mus musculus miR-378-5p
+8320 22 0
+0 mmu-miR-378-3p MIMAT0003151 Mus musculus miR-378-3p
+8342 21 0
+0 mmu-miR-379-5p MIMAT0000743 Mus musculus miR-379-5p
+8363 21 0
+0 mmu-miR-379-3p MIMAT0017080 Mus musculus miR-379-3p
+8384 22 0
+0 mmu-miR-380-5p MIMAT0000744 Mus musculus miR-380-5p
+8406 22 0
+0 mmu-miR-380-3p MIMAT0000745 Mus musculus miR-380-3p
+8428 22 0
+0 mmu-miR-381-5p MIMAT0017081 Mus musculus miR-381-5p
+8450 23 0
+0 mmu-miR-381-3p MIMAT0000746 Mus musculus miR-381-3p
+8473 22 0
+0 mmu-miR-382-5p MIMAT0000747 Mus musculus miR-382-5p
+8495 22 0
+0 mmu-miR-382-3p MIMAT0004691 Mus musculus miR-382-3p
+8517 22 0
+0 mmu-miR-383-5p MIMAT0000748 Mus musculus miR-383-5p
+8539 22 0
+0 mmu-miR-383-3p MIMAT0017082 Mus musculus miR-383-3p
+8561 21 0
+0 mmu-miR-335-5p MIMAT0000766 Mus musculus miR-335-5p
+8582 23 0
+0 mmu-miR-335-3p MIMAT0004704 Mus musculus miR-335-3p
+8605 22 0
+0 mmu-miR-133b-5p MIMAT0017083 Mus musculus miR-133b-5p
+8627 22 0
+0 mmu-miR-133b-3p MIMAT0000769 Mus musculus miR-133b-3p
+8649 22 0
+0 mmu-miR-181b-2-3p MIMAT0017084 Mus musculus miR-181b-2-3p
+8671 22 0
+0 mmu-miR-215-5p MIMAT0000904 Mus musculus miR-215-5p
+8693 21 0
+0 mmu-miR-215-3p MIMAT0017169 Mus musculus miR-215-3p
+8714 21 0
+0 mmu-miR-384-5p MIMAT0004745 Mus musculus miR-384-5p
+8735 23 0
+0 mmu-miR-384-3p MIMAT0001076 Mus musculus miR-384-3p
+8758 22 0
+0 mmu-miR-196b-5p MIMAT0001081 Mus musculus miR-196b-5p
+8780 22 0
+0 mmu-miR-196b-3p MIMAT0017170 Mus musculus miR-196b-3p
+8802 22 0
+0 mmu-miR-409-5p MIMAT0004746 Mus musculus miR-409-5p
+8824 23 0
+0 mmu-miR-409-3p MIMAT0001090 Mus musculus miR-409-3p
+8847 22 0
+0 mmu-miR-410-5p MIMAT0017172 Mus musculus miR-410-5p
+8869 21 0
+0 mmu-miR-410-3p MIMAT0001091 Mus musculus miR-410-3p
+8890 21 0
+0 mmu-miR-376b-5p MIMAT0003388 Mus musculus miR-376b-5p
+8911 22 0
+0 mmu-miR-376b-3p MIMAT0001092 Mus musculus miR-376b-3p
+8933 21 0
+0 mmu-miR-411-5p MIMAT0004747 Mus musculus miR-411-5p
+8954 21 0
+0 mmu-miR-411-3p MIMAT0001093 Mus musculus miR-411-3p
+8975 22 0
+0 mmu-miR-412-5p MIMAT0017173 Mus musculus miR-412-5p
+8997 23 0
+0 mmu-miR-412-3p MIMAT0001094 Mus musculus miR-412-3p
+9020 20 0
+0 mmu-miR-370-5p MIMAT0017174 Mus musculus miR-370-5p
+9040 20 0
+0 mmu-miR-370-3p MIMAT0001095 Mus musculus miR-370-3p
+9060 22 0
+0 mmu-miR-425-5p MIMAT0004750 Mus musculus miR-425-5p
+9082 23 0
+0 mmu-miR-425-3p MIMAT0001342 Mus musculus miR-425-3p
+9105 21 0
+0 mmu-miR-431-5p MIMAT0001418 Mus musculus miR-431-5p
+9126 21 0
+0 mmu-miR-431-3p MIMAT0004753 Mus musculus miR-431-3p
+9147 22 0
+0 mmu-miR-433-5p MIMAT0001419 Mus musculus miR-433-5p
+9169 22 0
+0 mmu-miR-433-3p MIMAT0001420 Mus musculus miR-433-3p
+9191 22 0
+0 mmu-miR-434-5p MIMAT0001421 Mus musculus miR-434-5p
+9213 22 0
+0 mmu-miR-434-3p MIMAT0001422 Mus musculus miR-434-3p
+9235 22 0
+0 mmu-miR-448-5p MIMAT0017176 Mus musculus miR-448-5p
+9257 22 0
+0 mmu-miR-448-3p MIMAT0001533 Mus musculus miR-448-3p
+9279 22 0
+0 mmu-miR-429-5p MIMAT0017178 Mus musculus miR-429-5p
+9301 21 0
+0 mmu-miR-429-3p MIMAT0001537 Mus musculus miR-429-3p
+9322 22 0
+0 mmu-miR-365-2-5p MIMAT0017179 Mus musculus miR-365-2-5p
+9344 23 0
+0 mmu-miR-449a-5p MIMAT0001542 Mus musculus miR-449a-5p
+9367 22 0
+0 mmu-miR-449a-3p MIMAT0017180 Mus musculus miR-449a-3p
+9389 22 0
+0 mmu-miR-450a-5p MIMAT0001546 Mus musculus miR-450a-5p
+9411 22 0
+0 mmu-miR-450a-1-3p MIMAT0017182 Mus musculus miR-450a-1-3p
+9433 22 0
+0 mmu-miR-451 MIMAT0001632 Mus musculus miR-451
+9455 22 0
+0 mmu-miR-452-5p MIMAT0001637 Mus musculus miR-452-5p
+9477 22 0
+0 mmu-miR-452-3p MIMAT0017194 Mus musculus miR-452-3p
+9499 22 0
+0 mmu-miR-463-5p MIMAT0002104 Mus musculus miR-463-5p
+9521 22 0
+0 mmu-miR-463-3p MIMAT0004758 Mus musculus miR-463-3p
+9543 22 0
+0 mmu-miR-465a-5p MIMAT0002106 Mus musculus miR-465a-5p
+9565 23 0
+0 mmu-miR-465a-3p MIMAT0004217 Mus musculus miR-465a-3p
+9588 22 0
+0 mmu-miR-466a-5p MIMAT0004759 Mus musculus miR-466a-5p
+9610 22 0
+0 mmu-miR-466a-3p MIMAT0002107 Mus musculus miR-466a-3p
+9632 23 0
+0 mmu-miR-467a-5p MIMAT0003409 Mus musculus miR-467a-5p
+9655 22 0
+0 mmu-miR-467a-3p MIMAT0002108 Mus musculus miR-467a-3p
+9677 22 0
+0 mmu-miR-468-5p MIMAT0022699 Mus musculus miR-468-5p
+9699 27 0
+0 mmu-miR-468-3p MIMAT0002109 Mus musculus miR-468-3p
+9726 23 0
+0 mmu-miR-470-5p MIMAT0002111 Mus musculus miR-470-5p
+9749 23 0
+0 mmu-miR-470-3p MIMAT0004760 Mus musculus miR-470-3p
+9772 22 0
+0 mmu-miR-471-5p MIMAT0002112 Mus musculus miR-471-5p
+9794 22 0
+0 mmu-miR-471-3p MIMAT0017195 Mus musculus miR-471-3p
+9816 22 0
+0 mmu-miR-532-5p MIMAT0002889 Mus musculus miR-532-5p
+9838 22 0
+0 mmu-miR-532-3p MIMAT0004781 Mus musculus miR-532-3p
+9860 22 0
+0 mmu-miR-489-5p MIMAT0022704 Mus musculus miR-489-5p
+9882 25 0
+0 mmu-miR-489-3p MIMAT0003112 Mus musculus miR-489-3p
+9907 23 0
+0 mmu-miR-483-5p MIMAT0004782 Mus musculus miR-483-5p
+9930 22 0
+0 mmu-miR-483-3p MIMAT0003120 Mus musculus miR-483-3p
+9952 21 0
+0 mmu-miR-484 MIMAT0003127 Mus musculus miR-484
+9973 22 0
+0 mmu-miR-485-5p MIMAT0003128 Mus musculus miR-485-5p
+9995 22 0
+0 mmu-miR-485-3p MIMAT0003129 Mus musculus miR-485-3p
+10017 22 0
+0 mmu-miR-486-5p MIMAT0003130 Mus musculus miR-486-5p
+10039 22 0
+0 mmu-miR-486-3p MIMAT0017206 Mus musculus miR-486-3p
+10061 21 0
+0 mmu-miR-546 MIMAT0003166 Mus musculus miR-546
+10082 16 0
+0 mmu-miR-540-5p MIMAT0004786 Mus musculus miR-540-5p
+10098 23 0
+0 mmu-miR-540-3p MIMAT0003167 Mus musculus miR-540-3p
+10121 20 0
+0 mmu-miR-543-5p MIMAT0017207 Mus musculus miR-543-5p
+10141 21 0
+0 mmu-miR-543-3p MIMAT0003168 Mus musculus miR-543-3p
+10162 22 0
+0 mmu-miR-539-5p MIMAT0003169 Mus musculus miR-539-5p
+10184 22 0
+0 mmu-miR-539-3p MIMAT0017208 Mus musculus miR-539-3p
+10206 22 0
+0 mmu-miR-541-5p MIMAT0003170 Mus musculus miR-541-5p
+10228 25 0
+0 mmu-miR-541-3p MIMAT0017209 Mus musculus miR-541-3p
+10253 22 0
+0 mmu-miR-542-5p MIMAT0003171 Mus musculus miR-542-5p
+10275 22 0
+0 mmu-miR-542-3p MIMAT0003172 Mus musculus miR-542-3p
+10297 22 0
+0 mmu-miR-547-5p MIMAT0017210 Mus musculus miR-547-5p
+10319 21 0
+0 mmu-miR-547-3p MIMAT0003173 Mus musculus miR-547-3p
+10340 21 0
+0 mmu-miR-367-5p MIMAT0017214 Mus musculus miR-367-5p
+10361 21 0
+0 mmu-miR-367-3p MIMAT0003181 Mus musculus miR-367-3p
+10382 22 0
+0 mmu-miR-494-5p MIMAT0017215 Mus musculus miR-494-5p
+10404 22 0
+0 mmu-miR-494-3p MIMAT0003182 Mus musculus miR-494-3p
+10426 22 0
+0 mmu-miR-376c-5p MIMAT0005295 Mus musculus miR-376c-5p
+10448 22 0
+0 mmu-miR-376c-3p MIMAT0003183 Mus musculus miR-376c-3p
+10470 21 0
+0 mmu-miR-487b-5p MIMAT0017216 Mus musculus miR-487b-5p
+10491 21 0
+0 mmu-miR-487b-3p MIMAT0003184 Mus musculus miR-487b-3p
+10512 22 0
+0 mmu-miR-369-5p MIMAT0003185 Mus musculus miR-369-5p
+10534 22 0
+0 mmu-miR-369-3p MIMAT0003186 Mus musculus miR-369-3p
+10556 21 0
+0 mmu-miR-20b-5p MIMAT0003187 Mus musculus miR-20b-5p
+10577 23 0
+0 mmu-miR-20b-3p MIMAT0004788 Mus musculus miR-20b-3p
+10600 22 0
+0 mmu-miR-450a-2-3p MIMAT0004789 Mus musculus miR-450a-2-3p
+10622 22 0
+0 mmu-miR-503-5p MIMAT0003188 Mus musculus miR-503-5p
+10644 23 0
+0 mmu-miR-503-3p MIMAT0004790 Mus musculus miR-503-3p
+10667 22 0
+0 mmu-miR-291b-5p MIMAT0003189 Mus musculus miR-291b-5p
+10689 22 0
+0 mmu-miR-291b-3p MIMAT0003190 Mus musculus miR-291b-3p
+10711 22 0
+0 mmu-miR-302b-5p MIMAT0003373 Mus musculus miR-302b-5p
+10733 23 0
+0 mmu-miR-302b-3p MIMAT0003374 Mus musculus miR-302b-3p
+10756 23 0
+0 mmu-miR-302c-5p MIMAT0003375 Mus musculus miR-302c-5p
+10779 22 0
+0 mmu-miR-302c-3p MIMAT0003376 Mus musculus miR-302c-3p
+10801 22 0
+0 mmu-miR-302d-5p MIMAT0017225 Mus musculus miR-302d-5p
+10823 23 0
+0 mmu-miR-302d-3p MIMAT0003377 Mus musculus miR-302d-3p
+10846 23 0
+0 mmu-miR-1224-5p MIMAT0005460 Mus musculus miR-1224-5p
+10869 21 0
+0 mmu-miR-1224-3p MIMAT0017231 Mus musculus miR-1224-3p
+10890 21 0
+0 mmu-miR-1247-5p MIMAT0014800 Mus musculus miR-1247-5p
+10911 22 0
+0 mmu-miR-1247-3p MIMAT0014801 Mus musculus miR-1247-3p
+10933 21 0
+0 mmu-miR-301b-5p MIMAT0017232 Mus musculus miR-301b-5p
+10954 22 0
+0 mmu-miR-301b-3p MIMAT0004186 Mus musculus miR-301b-3p
+10976 23 0
+0 mmu-miR-675-5p MIMAT0003725 Mus musculus miR-675-5p
+10999 22 0
+0 mmu-miR-675-3p MIMAT0003726 Mus musculus miR-675-3p
+11021 22 0
+0 mmu-miR-744-5p MIMAT0004187 Mus musculus miR-744-5p
+11043 22 0
+0 mmu-miR-744-3p MIMAT0004820 Mus musculus miR-744-3p
+11065 22 0
+0 mmu-miR-374-5p MIMAT0003727 Mus musculus miR-374-5p
+11087 22 0
+0 mmu-miR-374-3p MIMAT0003728 Mus musculus miR-374-3p
+11109 22 0
+0 mmu-miR-216b-5p MIMAT0003729 Mus musculus miR-216b-5p
+11131 22 0
+0 mmu-miR-216b-3p MIMAT0017233 Mus musculus miR-216b-3p
+11153 22 0
+0 mmu-miR-592-5p MIMAT0003730 Mus musculus miR-592-5p
+11175 23 0
+0 mmu-miR-592-3p MIMAT0017234 Mus musculus miR-592-3p
+11198 22 0
+0 mmu-miR-758-5p MIMAT0017235 Mus musculus miR-758-5p
+11220 21 0
+0 mmu-miR-758-3p MIMAT0003889 Mus musculus miR-758-3p
+11241 19 0
+0 mmu-miR-1264-5p MIMAT0014802 Mus musculus miR-1264-5p
+11260 22 0
+0 mmu-miR-1264-3p MIMAT0014803 Mus musculus miR-1264-3p
+11282 22 0
+0 mmu-miR-551b-5p MIMAT0017236 Mus musculus miR-551b-5p
+11304 23 0
+0 mmu-miR-551b-3p MIMAT0003890 Mus musculus miR-551b-3p
+11327 21 0
+0 mmu-miR-1249-5p MIMAT0014804 Mus musculus miR-1249-5p
+11348 25 0
+0 mmu-miR-1249-3p MIMAT0010560 Mus musculus miR-1249-3p
+11373 22 0
+0 mmu-miR-671-5p MIMAT0003731 Mus musculus miR-671-5p
+11395 23 0
+0 mmu-miR-671-3p MIMAT0004821 Mus musculus miR-671-3p
+11418 21 0
+0 mmu-miR-668-5p MIMAT0017237 Mus musculus miR-668-5p
+11439 24 0
+0 mmu-miR-668-3p MIMAT0003732 Mus musculus miR-668-3p
+11463 24 0
+0 mmu-miR-1843-5p MIMAT0014805 Mus musculus miR-1843-5p
+11487 21 0
+0 mmu-miR-1843-3p MIMAT0014806 Mus musculus miR-1843-3p
+11508 22 0
+0 mmu-miR-665-5p MIMAT0017238 Mus musculus miR-665-5p
+11530 26 0
+0 mmu-miR-665-3p MIMAT0003733 Mus musculus miR-665-3p
+11556 20 0
+0 mmu-miR-667-5p MIMAT0017239 Mus musculus miR-667-5p
+11576 25 0
+0 mmu-miR-667-3p MIMAT0003734 Mus musculus miR-667-3p
+11601 23 0
+0 mmu-miR-770-5p MIMAT0004822 Mus musculus miR-770-5p
+11624 22 0
+0 mmu-miR-770-3p MIMAT0003891 Mus musculus miR-770-3p
+11646 22 0
+0 mmu-miR-762 MIMAT0003892 Mus musculus miR-762
+11668 22 0
+0 mmu-miR-3475 MIMAT0015219 Mus musculus miR-3475
+11690 21 0
+0 mmu-miR-344d-3-5p MIMAT0014807 Mus musculus miR-344d-3-5p
+11711 23 0
+0 mmu-miR-344d-3p MIMAT0014808 Mus musculus miR-344d-3p
+11734 22 0
+0 mmu-miR-802-5p MIMAT0004188 Mus musculus miR-802-5p
+11756 22 0
+0 mmu-miR-802-3p MIMAT0017240 Mus musculus miR-802-3p
+11778 22 0
+0 mmu-miR-672-5p MIMAT0003735 Mus musculus miR-672-5p
+11800 23 0
+0 mmu-miR-672-3p MIMAT0017241 Mus musculus miR-672-3p
+11823 21 0
+0 mmu-miR-670-5p MIMAT0003736 Mus musculus miR-670-5p
+11844 22 0
+0 mmu-miR-670-3p MIMAT0017242 Mus musculus miR-670-3p
+11866 25 0
+0 mmu-miR-1298-5p MIMAT0014809 Mus musculus miR-1298-5p
+11891 22 0
+0 mmu-miR-1298-3p MIMAT0014810 Mus musculus miR-1298-3p
+11913 22 0
+0 mmu-miR-761 MIMAT0003893 Mus musculus miR-761
+11935 22 0
+0 mmu-miR-764-5p MIMAT0003894 Mus musculus miR-764-5p
+11957 19 0
+0 mmu-miR-764-3p MIMAT0003895 Mus musculus miR-764-3p
+11976 22 0
+0 mmu-miR-3059-5p MIMAT0014811 Mus musculus miR-3059-5p
+11998 22 0
+0 mmu-miR-3059-3p MIMAT0014812 Mus musculus miR-3059-3p
+12020 22 0
+0 mmu-miR-3058-5p MIMAT0014813 Mus musculus miR-3058-5p
+12042 23 0
+0 mmu-miR-3058-3p MIMAT0014814 Mus musculus miR-3058-3p
+12065 21 0
+0 mmu-miR-3099-5p MIMAT0014815 Mus musculus miR-3099-5p
+12086 21 0
+0 mmu-miR-3099-3p MIMAT0014816 Mus musculus miR-3099-3p
+12107 22 0
+0 mmu-miR-3106-5p MIMAT0014817 Mus musculus miR-3106-5p
+12129 21 0
+0 mmu-miR-3106-3p MIMAT0014818 Mus musculus miR-3106-3p
+12150 22 0
+0 mmu-miR-763 MIMAT0003896 Mus musculus miR-763
+12172 22 0
+0 mmu-miR-669a-5p MIMAT0003477 Mus musculus miR-669a-5p
+12194 24 0
+0 mmu-miR-669a-3p MIMAT0017243 Mus musculus miR-669a-3p
+12218 23 0
+0 mmu-miR-344d-1-5p MIMAT0014819 Mus musculus miR-344d-1-5p
+12241 24 0
+0 mmu-miR-666-5p MIMAT0003737 Mus musculus miR-666-5p
+12265 22 0
+0 mmu-miR-666-3p MIMAT0004823 Mus musculus miR-666-3p
+12287 22 0
+0 mmu-miR-759 MIMAT0003897 Mus musculus miR-759
+12309 22 0
+0 mmu-miR-496-5p MIMAT0017244 Mus musculus miR-496-5p
+12331 21 0
+0 mmu-miR-496-3p MIMAT0003738 Mus musculus miR-496-3p
+12352 22 0
+0 mmu-miR-673-5p MIMAT0003739 Mus musculus miR-673-5p
+12374 22 0
+0 mmu-miR-673-3p MIMAT0004824 Mus musculus miR-673-3p
+12396 23 0
+0 mmu-miR-760-5p MIMAT0017245 Mus musculus miR-760-5p
+12419 23 0
+0 mmu-miR-760-3p MIMAT0003898 Mus musculus miR-760-3p
+12442 20 0
+0 mmu-miR-674-5p MIMAT0003740 Mus musculus miR-674-5p
+12462 22 0
+0 mmu-miR-674-3p MIMAT0003741 Mus musculus miR-674-3p
+12484 22 0
+0 mmu-miR-344d-2-5p MIMAT0014961 Mus musculus miR-344d-2-5p
+12506 24 0
+0 mmu-miR-488-5p MIMAT0003449 Mus musculus miR-488-5p
+12530 21 0
+0 mmu-miR-488-3p MIMAT0003450 Mus musculus miR-488-3p
+12551 21 0
+0 mmu-miR-677-5p MIMAT0003451 Mus musculus miR-677-5p
+12572 22 0
+0 mmu-miR-677-3p MIMAT0017246 Mus musculus miR-677-3p
+12594 26 0
+0 mmu-miR-678 MIMAT0003452 Mus musculus miR-678
+12620 22 0
+0 mmu-miR-497-5p MIMAT0003453 Mus musculus miR-497-5p
+12642 22 0
+0 mmu-miR-497-3p MIMAT0017247 Mus musculus miR-497-3p
+12664 21 0
+0 mmu-miR-423-5p MIMAT0004825 Mus musculus miR-423-5p
+12685 23 0
+0 mmu-miR-423-3p MIMAT0003454 Mus musculus miR-423-3p
+12708 23 0
+0 mmu-miR-679-5p MIMAT0003455 Mus musculus miR-679-5p
+12731 22 0
+0 mmu-miR-679-3p MIMAT0017248 Mus musculus miR-679-3p
+12753 22 0
+0 mmu-miR-495-5p MIMAT0017249 Mus musculus miR-495-5p
+12775 23 0
+0 mmu-miR-495-3p MIMAT0003456 Mus musculus miR-495-3p
+12798 22 0
+0 mmu-miR-680 MIMAT0003457 Mus musculus miR-680
+12820 21 0
+0 mmu-miR-681 MIMAT0003458 Mus musculus miR-681
+12841 21 0
+0 mmu-miR-682 MIMAT0003459 Mus musculus miR-682
+12862 21 0
+0 mmu-miR-449c-5p MIMAT0003460 Mus musculus miR-449c-5p
+12883 21 0
+0 mmu-miR-449c-3p MIMAT0022715 Mus musculus miR-449c-3p
+12904 22 0
+0 mmu-miR-683 MIMAT0003461 Mus musculus miR-683
+12926 21 0
+0 mmu-miR-684 MIMAT0003462 Mus musculus miR-684
+12947 19 0
+0 mmu-miR-686 MIMAT0003464 Mus musculus miR-686
+12966 22 0
+0 mmu-miR-719 MIMAT0003465 Mus musculus miR-719
+12988 22 0
+0 mmu-miR-687 MIMAT0003466 Mus musculus miR-687
+13010 22 0
+0 mmu-miR-688 MIMAT0003467 Mus musculus miR-688
+13032 20 0
+0 mmu-miR-690 MIMAT0003469 Mus musculus miR-690
+13052 22 0
+0 mmu-miR-691 MIMAT0003470 Mus musculus miR-691
+13074 22 0
+0 mmu-miR-692 MIMAT0003471 Mus musculus miR-692
+13096 21 0
+0 mmu-miR-693-5p MIMAT0003472 Mus musculus miR-693-5p
+13117 21 0
+0 mmu-miR-693-3p MIMAT0004189 Mus musculus miR-693-3p
+13138 23 0
+0 mmu-miR-694 MIMAT0003474 Mus musculus miR-694
+13161 19 0
+0 mmu-miR-146b-5p MIMAT0003475 Mus musculus miR-146b-5p
+13180 22 0
+0 mmu-miR-146b-3p MIMAT0004826 Mus musculus miR-146b-3p
+13202 22 0
+0 mmu-miR-669b-5p MIMAT0003476 Mus musculus miR-669b-5p
+13224 22 0
+0 mmu-miR-669b-3p MIMAT0017250 Mus musculus miR-669b-3p
+13246 23 0
+0 mmu-miR-669a-3-3p MIMAT0017251 Mus musculus miR-669a-3-3p
+13269 23 0
+0 mmu-miR-467b-5p MIMAT0005448 Mus musculus miR-467b-5p
+13292 21 0
+0 mmu-miR-467b-3p MIMAT0003478 Mus musculus miR-467b-3p
+13313 22 0
+0 mmu-miR-669c-5p MIMAT0003479 Mus musculus miR-669c-5p
+13335 22 0
+0 mmu-miR-669c-3p MIMAT0017253 Mus musculus miR-669c-3p
+13357 22 0
+0 mmu-miR-297b-5p MIMAT0003480 Mus musculus miR-297b-5p
+13379 22 0
+0 mmu-miR-297b-3p MIMAT0004827 Mus musculus miR-297b-3p
+13401 22 0
+0 mmu-miR-695 MIMAT0003481 Mus musculus miR-695
+13423 22 0
+0 mmu-miR-499-5p MIMAT0003482 Mus musculus miR-499-5p
+13445 21 0
+0 mmu-miR-499-3p MIMAT0017254 Mus musculus miR-499-3p
+13466 23 0
+0 mmu-miR-696 MIMAT0003483 Mus musculus miR-696
+13489 18 0
+0 mmu-miR-720 MIMAT0003484 Mus musculus miR-720
+13507 18 0
+0 mmu-miR-455-5p MIMAT0003485 Mus musculus miR-455-5p
+13525 22 0
+0 mmu-miR-455-3p MIMAT0003742 Mus musculus miR-455-3p
+13547 21 0
+0 mmu-miR-491-5p MIMAT0003486 Mus musculus miR-491-5p
+13568 22 0
+0 mmu-miR-491-3p MIMAT0017255 Mus musculus miR-491-3p
+13590 22 0
+0 mmu-miR-697 MIMAT0003487 Mus musculus miR-697
+13612 21 0
+0 mmu-miR-698 MIMAT0003488 Mus musculus miR-698
+13633 19 0
+0 mmu-miR-700-5p MIMAT0017256 Mus musculus miR-700-5p
+13652 22 0
+0 mmu-miR-700-3p MIMAT0003490 Mus musculus miR-700-3p
+13674 21 0
+0 mmu-miR-701-5p MIMAT0003491 Mus musculus miR-701-5p
+13695 21 0
+0 mmu-miR-701-3p MIMAT0017257 Mus musculus miR-701-3p
+13716 20 0
+0 mmu-miR-702 MIMAT0003492 Mus musculus miR-702
+13736 21 0
+0 mmu-miR-703 MIMAT0003493 Mus musculus miR-703
+13757 21 0
+0 mmu-miR-704 MIMAT0003494 Mus musculus miR-704
+13778 21 0
+0 mmu-miR-705 MIMAT0003495 Mus musculus miR-705
+13799 20 0
+0 mmu-miR-706 MIMAT0003496 Mus musculus miR-706
+13819 22 0
+0 mmu-miR-707 MIMAT0003497 Mus musculus miR-707
+13841 21 0
+0 mmu-miR-708-5p MIMAT0004828 Mus musculus miR-708-5p
+13862 23 0
+0 mmu-miR-708-3p MIMAT0003498 Mus musculus miR-708-3p
+13885 22 0
+0 mmu-miR-709 MIMAT0003499 Mus musculus miR-709
+13907 19 0
+0 mmu-miR-710 MIMAT0003500 Mus musculus miR-710
+13926 22 0
+0 mmu-miR-711 MIMAT0003501 Mus musculus miR-711
+13948 22 0
+0 mmu-miR-712-5p MIMAT0003502 Mus musculus miR-712-5p
+13970 21 0
+0 mmu-miR-712-3p MIMAT0003743 Mus musculus miR-712-3p
+13991 22 0
+0 mmu-miR-713 MIMAT0003504 Mus musculus miR-713
+14013 19 0
+0 mmu-miR-714 MIMAT0003505 Mus musculus miR-714
+14032 21 0
+0 mmu-miR-500-5p MIMAT0017258 Mus musculus miR-500-5p
+14053 25 0
+0 mmu-miR-500-3p MIMAT0003507 Mus musculus miR-500-3p
+14078 22 0
+0 mmu-miR-501-5p MIMAT0003508 Mus musculus miR-501-5p
+14100 22 0
+0 mmu-miR-501-3p MIMAT0003509 Mus musculus miR-501-3p
+14122 22 0
+0 mmu-miR-717 MIMAT0003510 Mus musculus miR-717
+14144 22 0
+0 mmu-miR-450b-5p MIMAT0003511 Mus musculus miR-450b-5p
+14166 22 0
+0 mmu-miR-450b-3p MIMAT0003512 Mus musculus miR-450b-3p
+14188 22 0
+0 mmu-miR-505-5p MIMAT0017259 Mus musculus miR-505-5p
+14210 23 0
+0 mmu-miR-505-3p MIMAT0003513 Mus musculus miR-505-3p
+14233 22 0
+0 mmu-miR-718 MIMAT0003514 Mus musculus miR-718
+14255 21 0
+0 mmu-miR-721 MIMAT0003515 Mus musculus miR-721
+14276 21 0
+0 mmu-miR-652-5p MIMAT0017260 Mus musculus miR-652-5p
+14297 24 0
+0 mmu-miR-652-3p MIMAT0003711 Mus musculus miR-652-3p
+14321 21 0
+0 mmu-miR-490-5p MIMAT0017261 Mus musculus miR-490-5p
+14342 20 0
+0 mmu-miR-490-3p MIMAT0003780 Mus musculus miR-490-3p
+14362 22 0
+0 mmu-miR-676-5p MIMAT0003781 Mus musculus miR-676-5p
+14384 22 0
+0 mmu-miR-676-3p MIMAT0003782 Mus musculus miR-676-3p
+14406 21 0
+0 mmu-miR-615-5p MIMAT0004837 Mus musculus miR-615-5p
+14427 22 0
+0 mmu-miR-615-3p MIMAT0003783 Mus musculus miR-615-3p
+14449 22 0
+0 mmu-miR-804 MIMAT0004210 Mus musculus miR-804
+14471 22 0
+0 mmu-miR-741-5p MIMAT0017262 Mus musculus miR-741-5p
+14493 23 0
+0 mmu-miR-741-3p MIMAT0004236 Mus musculus miR-741-3p
+14516 23 0
+0 mmu-miR-742-5p MIMAT0004838 Mus musculus miR-742-5p
+14539 21 0
+0 mmu-miR-742-3p MIMAT0004237 Mus musculus miR-742-3p
+14560 22 0
+0 mmu-miR-743a-5p MIMAT0017263 Mus musculus miR-743a-5p
+14582 22 0
+0 mmu-miR-743a-3p MIMAT0004238 Mus musculus miR-743a-3p
+14604 22 0
+0 mmu-miR-181d-5p MIMAT0004324 Mus musculus miR-181d-5p
+14626 23 0
+0 mmu-miR-181d-3p MIMAT0017264 Mus musculus miR-181d-3p
+14649 21 0
+0 mmu-miR-743b-5p MIMAT0004839 Mus musculus miR-743b-5p
+14670 21 0
+0 mmu-miR-743b-3p MIMAT0004840 Mus musculus miR-743b-3p
+14691 22 0
+0 mmu-miR-871-5p MIMAT0004841 Mus musculus miR-871-5p
+14713 23 0
+0 mmu-miR-871-3p MIMAT0017265 Mus musculus miR-871-3p
+14736 23 0
+0 mmu-miR-879-5p MIMAT0004842 Mus musculus miR-879-5p
+14759 21 0
+0 mmu-miR-879-3p MIMAT0004843 Mus musculus miR-879-3p
+14780 22 0
+0 mmu-miR-880-5p MIMAT0017266 Mus musculus miR-880-5p
+14802 21 0
+0 mmu-miR-880-3p MIMAT0004844 Mus musculus miR-880-3p
+14823 22 0
+0 mmu-miR-881-5p MIMAT0004845 Mus musculus miR-881-5p
+14845 22 0
+0 mmu-miR-881-3p MIMAT0004846 Mus musculus miR-881-3p
+14867 22 0
+0 mmu-miR-882 MIMAT0004847 Mus musculus miR-882
+14889 22 0
+0 mmu-miR-883a-5p MIMAT0004848 Mus musculus miR-883a-5p
+14911 22 0
+0 mmu-miR-883a-3p MIMAT0004849 Mus musculus miR-883a-3p
+14933 22 0
+0 mmu-miR-883b-5p MIMAT0004850 Mus musculus miR-883b-5p
+14955 22 0
+0 mmu-miR-883b-3p MIMAT0004851 Mus musculus miR-883b-3p
+14977 22 0
+0 mmu-miR-190b-5p MIMAT0004852 Mus musculus miR-190b-5p
+14999 21 0
+0 mmu-miR-190b-3p MIMAT0017267 Mus musculus miR-190b-3p
+15020 23 0
+0 mmu-miR-874-5p MIMAT0017268 Mus musculus miR-874-5p
+15043 22 0
+0 mmu-miR-874-3p MIMAT0004853 Mus musculus miR-874-3p
+15065 22 0
+0 mmu-miR-876-5p MIMAT0004854 Mus musculus miR-876-5p
+15087 22 0
+0 mmu-miR-876-3p MIMAT0004855 Mus musculus miR-876-3p
+15109 22 0
+0 mmu-miR-105 MIMAT0004856 Mus musculus miR-105
+15131 23 0
+0 mmu-miR-147-5p MIMAT0017269 Mus musculus miR-147-5p
+15154 24 0
+0 mmu-miR-147-3p MIMAT0004857 Mus musculus miR-147-3p
+15178 22 0
+0 mmu-miR-18b-5p MIMAT0004858 Mus musculus miR-18b-5p
+15200 23 0
+0 mmu-miR-18b-3p MIMAT0017270 Mus musculus miR-18b-3p
+15223 22 0
+0 mmu-miR-193b-5p MIMAT0017271 Mus musculus miR-193b-5p
+15245 22 0
+0 mmu-miR-193b-3p MIMAT0004859 Mus musculus miR-193b-3p
+15267 22 0
+0 mmu-miR-297a-3p MIMAT0004864 Mus musculus miR-297a-3p
+15289 22 0
+0 mmu-miR-297c-5p MIMAT0004865 Mus musculus miR-297c-5p
+15311 22 0
+0 mmu-miR-297c-3p MIMAT0004866 Mus musculus miR-297c-3p
+15333 22 0
+0 mmu-miR-327 MIMAT0004867 Mus musculus miR-327
+15355 19 0
+0 mmu-miR-343 MIMAT0004868 Mus musculus miR-343
+15374 20 0
+0 mmu-miR-421-5p MIMAT0017273 Mus musculus miR-421-5p
+15394 21 0
+0 mmu-miR-421-3p MIMAT0004869 Mus musculus miR-421-3p
+15415 23 0
+0 mmu-miR-453 MIMAT0004870 Mus musculus miR-453
+15438 24 0
+0 mmu-miR-465b-5p MIMAT0004871 Mus musculus miR-465b-5p
+15462 22 0
+0 mmu-miR-465b-3p MIMAT0004872 Mus musculus miR-465b-3p
+15484 22 0
+0 mmu-miR-465c-5p MIMAT0004873 Mus musculus miR-465c-5p
+15506 22 0
+0 mmu-miR-465c-3p MIMAT0004874 Mus musculus miR-465c-3p
+15528 22 0
+0 mmu-miR-466b-5p MIMAT0004875 Mus musculus miR-466b-5p
+15550 22 0
+0 mmu-miR-466b-3p MIMAT0004876 Mus musculus miR-466b-3p
+15572 22 0
+0 mmu-miR-466c-5p MIMAT0004877 Mus musculus miR-466c-5p
+15594 24 0
+0 mmu-miR-466c-3p MIMAT0004878 Mus musculus miR-466c-3p
+15618 22 0
+0 mmu-miR-466e-5p MIMAT0004879 Mus musculus miR-466e-5p
+15640 22 0
+0 mmu-miR-466e-3p MIMAT0004880 Mus musculus miR-466e-3p
+15662 23 0
+0 mmu-miR-466f-5p MIMAT0004881 Mus musculus miR-466f-5p
+15685 22 0
+0 mmu-miR-466f-3p MIMAT0004882 Mus musculus miR-466f-3p
+15707 21 0
+0 mmu-miR-466g MIMAT0004883 Mus musculus miR-466g
+15728 21 0
+0 mmu-miR-466h-5p MIMAT0004884 Mus musculus miR-466h-5p
+15749 22 0
+0 mmu-miR-466h-3p MIMAT0017274 Mus musculus miR-466h-3p
+15771 19 0
+0 mmu-miR-467c-5p MIMAT0004885 Mus musculus miR-467c-5p
+15790 22 0
+0 mmu-miR-467c-3p MIMAT0017275 Mus musculus miR-467c-3p
+15812 22 0
+0 mmu-miR-467d-5p MIMAT0004886 Mus musculus miR-467d-5p
+15834 22 0
+0 mmu-miR-467d-3p MIMAT0004887 Mus musculus miR-467d-3p
+15856 22 0
+0 mmu-miR-493-5p MIMAT0017276 Mus musculus miR-493-5p
+15878 19 0
+0 mmu-miR-493-3p MIMAT0004888 Mus musculus miR-493-3p
+15897 23 0
+0 mmu-miR-504-5p MIMAT0004889 Mus musculus miR-504-5p
+15920 22 0
+0 mmu-miR-504-3p MIMAT0017277 Mus musculus miR-504-3p
+15942 22 0
+0 mmu-miR-509-5p MIMAT0004890 Mus musculus miR-509-5p
+15964 22 0
+0 mmu-miR-509-3p MIMAT0004891 Mus musculus miR-509-3p
+15986 21 0
+0 mmu-miR-568 MIMAT0004892 Mus musculus miR-568
+16007 20 0
+0 mmu-miR-574-5p MIMAT0004893 Mus musculus miR-574-5p
+16027 23 0
+0 mmu-miR-574-3p MIMAT0004894 Mus musculus miR-574-3p
+16050 22 0
+0 mmu-miR-590-5p MIMAT0004895 Mus musculus miR-590-5p
+16072 22 0
+0 mmu-miR-590-3p MIMAT0004896 Mus musculus miR-590-3p
+16094 21 0
+0 mmu-miR-654-5p MIMAT0004897 Mus musculus miR-654-5p
+16115 22 0
+0 mmu-miR-654-3p MIMAT0004898 Mus musculus miR-654-3p
+16137 22 0
+0 mmu-miR-92b-5p MIMAT0017278 Mus musculus miR-92b-5p
+16159 24 0
+0 mmu-miR-92b-3p MIMAT0004899 Mus musculus miR-92b-3p
+16183 22 0
+0 mmu-miR-466d-5p MIMAT0004930 Mus musculus miR-466d-5p
+16205 22 0
+0 mmu-miR-466d-3p MIMAT0004931 Mus musculus miR-466d-3p
+16227 21 0
+0 mmu-miR-449b MIMAT0005447 Mus musculus miR-449b
+16248 20 0
+0 mmu-miR-878-5p MIMAT0004932 Mus musculus miR-878-5p
+16268 22 0
+0 mmu-miR-878-3p MIMAT0004933 Mus musculus miR-878-3p
+16290 22 0
+0 mmu-miR-872-5p MIMAT0004934 Mus musculus miR-872-5p
+16312 21 0
+0 mmu-miR-872-3p MIMAT0004935 Mus musculus miR-872-3p
+16333 22 0
+0 mmu-miR-873-5p MIMAT0004936 Mus musculus miR-873-5p
+16355 21 0
+0 mmu-miR-873-3p MIMAT0017279 Mus musculus miR-873-3p
+16376 21 0
+0 mmu-miR-875-5p MIMAT0004937 Mus musculus miR-875-5p
+16397 22 0
+0 mmu-miR-875-3p MIMAT0004938 Mus musculus miR-875-3p
+16419 21 0
+0 mmu-miR-208b-5p MIMAT0017280 Mus musculus miR-208b-5p
+16440 22 0
+0 mmu-miR-208b-3p MIMAT0004939 Mus musculus miR-208b-3p
+16462 22 0
+0 mmu-miR-877-5p MIMAT0004861 Mus musculus miR-877-5p
+16484 20 0
+0 mmu-miR-877-3p MIMAT0004862 Mus musculus miR-877-3p
+16504 22 0
+0 mmu-miR-511-5p MIMAT0004940 Mus musculus miR-511-5p
+16526 21 0
+0 mmu-miR-511-3p MIMAT0017281 Mus musculus miR-511-3p
+16547 22 0
+0 mmu-miR-544-5p MIMAT0017282 Mus musculus miR-544-5p
+16569 21 0
+0 mmu-miR-544-3p MIMAT0004941 Mus musculus miR-544-3p
+16590 22 0
+0 mmu-miR-598-5p MIMAT0017283 Mus musculus miR-598-5p
+16612 23 0
+0 mmu-miR-598-3p MIMAT0004942 Mus musculus miR-598-3p
+16635 22 0
+0 mmu-miR-653-5p MIMAT0004943 Mus musculus miR-653-5p
+16657 21 0
+0 mmu-miR-653-3p MIMAT0017284 Mus musculus miR-653-3p
+16678 21 0
+0 mmu-miR-582-5p MIMAT0005291 Mus musculus miR-582-5p
+16699 22 0
+0 mmu-miR-582-3p MIMAT0005292 Mus musculus miR-582-3p
+16721 21 0
+0 mmu-miR-467e-5p MIMAT0005293 Mus musculus miR-467e-5p
+16742 22 0
+0 mmu-miR-467e-3p MIMAT0005294 Mus musculus miR-467e-3p
+16764 22 0
+0 mmu-miR-466l-5p MIMAT0017322 Mus musculus miR-466l-5p
+16786 22 0
+0 mmu-miR-466l-3p MIMAT0005830 Mus musculus miR-466l-3p
+16808 22 0
+0 mmu-miR-669k-5p MIMAT0017323 Mus musculus miR-669k-5p
+16830 25 0
+0 mmu-miR-669k-3p MIMAT0005831 Mus musculus miR-669k-3p
+16855 21 0
+0 mmu-miR-669g MIMAT0005832 Mus musculus miR-669g
+16876 23 0
+0 mmu-miR-669d-5p MIMAT0005833 Mus musculus miR-669d-5p
+16899 22 0
+0 mmu-miR-669d-3p MIMAT0017324 Mus musculus miR-669d-3p
+16921 21 0
+0 mmu-miR-466i-5p MIMAT0017325 Mus musculus miR-466i-5p
+16942 20 0
+0 mmu-miR-466i-3p MIMAT0005834 Mus musculus miR-466i-3p
+16962 22 0
+0 mmu-miR-1b-5p MIMAT0005835 Mus musculus miR-1b-5p
+16984 21 0
+0 mmu-miR-1b-3p MIMAT0017326 Mus musculus miR-1b-3p
+17005 23 0
+0 mmu-miR-1186 MIMAT0005836 Mus musculus miR-1186
+17028 22 0
+0 mmu-miR-1187 MIMAT0005837 Mus musculus miR-1187
+17050 23 0
+0 mmu-miR-669j MIMAT0005838 Mus musculus miR-669j
+17073 22 0
+0 mmu-miR-669f-5p MIMAT0017327 Mus musculus miR-669f-5p
+17095 24 0
+0 mmu-miR-669f-3p MIMAT0005839 Mus musculus miR-669f-3p
+17119 23 0
+0 mmu-miR-669i MIMAT0005840 Mus musculus miR-669i
+17142 21 0
+0 mmu-miR-669h-5p MIMAT0005841 Mus musculus miR-669h-5p
+17163 24 0
+0 mmu-miR-669h-3p MIMAT0005842 Mus musculus miR-669h-3p
+17187 22 0
+0 mmu-miR-1188-5p MIMAT0005843 Mus musculus miR-1188-5p
+17209 21 0
+0 mmu-miR-1188-3p MIMAT0017328 Mus musculus miR-1188-3p
+17230 25 0
+0 mmu-miR-466f MIMAT0005844 Mus musculus miR-466f
+17255 22 0
+0 mmu-miR-466k MIMAT0005845 Mus musculus miR-466k
+17277 23 0
+0 mmu-miR-467f MIMAT0005846 Mus musculus miR-467f
+17300 21 0
+0 mmu-miR-1190 MIMAT0005847 Mus musculus miR-1190
+17321 22 0
+0 mmu-miR-466j MIMAT0005848 Mus musculus miR-466j
+17343 23 0
+0 mmu-miR-1191 MIMAT0005849 Mus musculus miR-1191
+17366 21 0
+0 mmu-miR-1192 MIMAT0005850 Mus musculus miR-1192
+17387 22 0
+0 mmu-miR-1193-5p MIMAT0017329 Mus musculus miR-1193-5p
+17409 20 0
+0 mmu-miR-1193-3p MIMAT0005851 Mus musculus miR-1193-3p
+17429 21 0
+0 mmu-miR-1194 MIMAT0005852 Mus musculus miR-1194
+17450 22 0
+0 mmu-miR-669e-5p MIMAT0005853 Mus musculus miR-669e-5p
+17472 22 0
+0 mmu-miR-669e-3p MIMAT0017330 Mus musculus miR-669e-3p
+17494 21 0
+0 mmu-miR-467g MIMAT0005854 Mus musculus miR-467g
+17515 21 0
+0 mmu-miR-467h MIMAT0005855 Mus musculus miR-467h
+17536 22 0
+0 mmu-miR-1195 MIMAT0005856 Mus musculus miR-1195
+17558 23 0
+0 mmu-miR-1196-5p MIMAT0005857 Mus musculus miR-1196-5p
+17581 20 0
+0 mmu-miR-1196-3p MIMAT0022718 Mus musculus miR-1196-3p
+17601 16 0
+0 mmu-miR-1197-5p MIMAT0017331 Mus musculus miR-1197-5p
+17617 21 0
+0 mmu-miR-1197-3p MIMAT0005858 Mus musculus miR-1197-3p
+17638 21 0
+0 mmu-miR-1198-5p MIMAT0005859 Mus musculus miR-1198-5p
+17659 22 0
+0 mmu-miR-1198-3p MIMAT0017332 Mus musculus miR-1198-3p
+17681 22 0
+0 mmu-miR-1199-5p MIMAT0005860 Mus musculus miR-1199-5p
+17703 20 0
+0 mmu-miR-1199-3p MIMAT0017333 Mus musculus miR-1199-3p
+17723 21 0
+0 mmu-miR-1902 MIMAT0007863 Mus musculus miR-1902
+17744 22 0
+0 mmu-miR-1897-5p MIMAT0007864 Mus musculus miR-1897-5p
+17766 22 0
+0 mmu-miR-1897-3p MIMAT0007865 Mus musculus miR-1897-3p
+17788 22 0
+0 mmu-miR-1905 MIMAT0007866 Mus musculus miR-1905
+17810 22 0
+0 mmu-miR-1895 MIMAT0007867 Mus musculus miR-1895
+17832 22 0
+0 mmu-miR-1903 MIMAT0007868 Mus musculus miR-1903
+17854 22 0
+0 mmu-miR-1899 MIMAT0007869 Mus musculus miR-1899
+17876 22 0
+0 mmu-miR-1900 MIMAT0007870 Mus musculus miR-1900
+17898 22 0
+0 mmu-miR-1892 MIMAT0007871 Mus musculus miR-1892
+17920 22 0
+0 mmu-miR-1906 MIMAT0007872 Mus musculus miR-1906
+17942 22 0
+0 mmu-miR-1896 MIMAT0007873 Mus musculus miR-1896
+17964 22 0
+0 mmu-miR-1904 MIMAT0007874 Mus musculus miR-1904
+17986 22 0
+0 mmu-miR-1898 MIMAT0007875 Mus musculus miR-1898
+18008 22 0
+0 mmu-miR-1907 MIMAT0007876 Mus musculus miR-1907
+18030 22 0
+0 mmu-miR-1894-5p MIMAT0007877 Mus musculus miR-1894-5p
+18052 22 0
+0 mmu-miR-1894-3p MIMAT0007878 Mus musculus miR-1894-3p
+18074 22 0
+0 mmu-miR-1893 MIMAT0007879 Mus musculus miR-1893
+18096 22 0
+0 mmu-miR-1901 MIMAT0007880 Mus musculus miR-1901
+18118 22 0
+0 mmu-miR-1927 MIMAT0009390 Mus musculus miR-1927
+18140 23 0
+0 mmu-miR-1928 MIMAT0009391 Mus musculus miR-1928
+18163 17 0
+0 mmu-miR-1929-5p MIMAT0009392 Mus musculus miR-1929-5p
+18180 23 0
+0 mmu-miR-1929-3p MIMAT0022729 Mus musculus miR-1929-3p
+18203 22 0
+0 mmu-miR-1930-5p MIMAT0009393 Mus musculus miR-1930-5p
+18225 22 0
+0 mmu-miR-1930-3p MIMAT0017340 Mus musculus miR-1930-3p
+18247 22 0
+0 mmu-miR-1931 MIMAT0009394 Mus musculus miR-1931
+18269 22 0
+0 mmu-miR-1932 MIMAT0009395 Mus musculus miR-1932
+18291 22 0
+0 mmu-miR-1933-5p MIMAT0009396 Mus musculus miR-1933-5p
+18313 24 0
+0 mmu-miR-1933-3p MIMAT0009397 Mus musculus miR-1933-3p
+18337 22 0
+0 mmu-miR-1934-5p MIMAT0009398 Mus musculus miR-1934-5p
+18359 23 0
+0 mmu-miR-1934-3p MIMAT0017341 Mus musculus miR-1934-3p
+18382 22 0
+0 mmu-miR-1935 MIMAT0009399 Mus musculus miR-1935
+18404 22 0
+0 mmu-miR-1936 MIMAT0009400 Mus musculus miR-1936
+18426 23 0
+0 mmu-miR-1938 MIMAT0009402 Mus musculus miR-1938
+18449 22 0
+0 mmu-miR-1940 MIMAT0009404 Mus musculus miR-1940
+18471 27 0
+0 mmu-miR-1941-5p MIMAT0009405 Mus musculus miR-1941-5p
+18498 24 0
+0 mmu-miR-1941-3p MIMAT0009406 Mus musculus miR-1941-3p
+18522 21 0
+0 mmu-miR-1942 MIMAT0009407 Mus musculus miR-1942
+18543 21 0
+0 mmu-miR-1943-5p MIMAT0009408 Mus musculus miR-1943-5p
+18564 23 0
+0 mmu-miR-1943-3p MIMAT0017342 Mus musculus miR-1943-3p
+18587 21 0
+0 mmu-miR-1945 MIMAT0009410 Mus musculus miR-1945
+18608 22 0
+0 mmu-miR-1306-5p MIMAT0019136 Mus musculus miR-1306-5p
+18630 23 0
+0 mmu-miR-1306-3p MIMAT0009411 Mus musculus miR-1306-3p
+18653 21 0
+0 mmu-miR-1946a MIMAT0009412 Mus musculus miR-1946a
+18674 27 0
+0 mmu-miR-1947-5p MIMAT0009413 Mus musculus miR-1947-5p
+18701 22 0
+0 mmu-miR-1947-3p MIMAT0017343 Mus musculus miR-1947-3p
+18723 22 0
+0 mmu-miR-1948-5p MIMAT0017344 Mus musculus miR-1948-5p
+18745 21 0
+0 mmu-miR-1948-3p MIMAT0009415 Mus musculus miR-1948-3p
+18766 22 0
+0 mmu-miR-1949 MIMAT0009416 Mus musculus miR-1949
+18788 24 0
+0 mmu-miR-1950 MIMAT0009417 Mus musculus miR-1950
+18812 22 0
+0 mmu-miR-669l-5p MIMAT0009418 Mus musculus miR-669l-5p
+18834 22 0
+0 mmu-miR-669l-3p MIMAT0017345 Mus musculus miR-669l-3p
+18856 22 0
+0 mmu-miR-669m-5p MIMAT0017346 Mus musculus miR-669m-5p
+18878 23 0
+0 mmu-miR-669m-3p MIMAT0009419 Mus musculus miR-669m-3p
+18901 22 0
+0 mmu-miR-669o-5p MIMAT0009421 Mus musculus miR-669o-5p
+18923 23 0
+0 mmu-miR-669o-3p MIMAT0017347 Mus musculus miR-669o-3p
+18946 23 0
+0 mmu-miR-1951 MIMAT0009422 Mus musculus miR-1951
+18969 22 0
+0 mmu-miR-1952 MIMAT0009423 Mus musculus miR-1952
+18991 17 0
+0 mmu-miR-1953 MIMAT0009424 Mus musculus miR-1953
+19008 22 0
+0 mmu-miR-1954 MIMAT0009425 Mus musculus miR-1954
+19030 21 0
+0 mmu-miR-1955-5p MIMAT0009426 Mus musculus miR-1955-5p
+19051 25 0
+0 mmu-miR-1955-3p MIMAT0017348 Mus musculus miR-1955-3p
+19076 21 0
+0 mmu-miR-669n MIMAT0009427 Mus musculus miR-669n
+19097 20 0
+0 mmu-miR-1956 MIMAT0009428 Mus musculus miR-1956
+19117 22 0
+0 mmu-miR-1957 MIMAT0009430 Mus musculus miR-1957
+19139 19 0
+0 mmu-miR-1958 MIMAT0009431 Mus musculus miR-1958
+19158 22 0
+0 mmu-miR-1960 MIMAT0009433 Mus musculus miR-1960
+19180 22 0
+0 mmu-miR-1961 MIMAT0009434 Mus musculus miR-1961
+19202 17 0
+0 mmu-miR-1962 MIMAT0009435 Mus musculus miR-1962
+19219 22 0
+0 mmu-miR-1963 MIMAT0009436 Mus musculus miR-1963
+19241 23 0
+0 mmu-miR-1964-5p MIMAT0017349 Mus musculus miR-1964-5p
+19264 22 0
+0 mmu-miR-1964-3p MIMAT0009437 Mus musculus miR-1964-3p
+19286 22 0
+0 mmu-miR-1965 MIMAT0009438 Mus musculus miR-1965
+19308 21 0
+0 mmu-miR-1966 MIMAT0009439 Mus musculus miR-1966
+19329 25 0
+0 mmu-miR-1967 MIMAT0009440 Mus musculus miR-1967
+19354 23 0
+0 mmu-miR-1968-5p MIMAT0009441 Mus musculus miR-1968-5p
+19377 24 0
+0 mmu-miR-1968-3p MIMAT0017350 Mus musculus miR-1968-3p
+19401 21 0
+0 mmu-miR-1969 MIMAT0009442 Mus musculus miR-1969
+19422 23 0
+0 mmu-miR-1946b MIMAT0009443 Mus musculus miR-1946b
+19445 26 0
+0 mmu-miR-1970 MIMAT0009444 Mus musculus miR-1970
+19471 23 0
+0 mmu-miR-1971 MIMAT0009446 Mus musculus miR-1971
+19494 18 0
+0 mmu-miR-1983 MIMAT0009455 Mus musculus miR-1983
+19512 21 0
+0 mmu-miR-1839-5p MIMAT0009456 Mus musculus miR-1839-5p
+19533 22 0
+0 mmu-miR-1839-3p MIMAT0009457 Mus musculus miR-1839-3p
+19555 23 0
+0 mmu-miR-1981-5p MIMAT0009458 Mus musculus miR-1981-5p
+19578 24 0
+0 mmu-miR-1981-3p MIMAT0017351 Mus musculus miR-1981-3p
+19602 21 0
+0 mmu-miR-1982-5p MIMAT0009459 Mus musculus miR-1982-5p
+19623 20 0
+0 mmu-miR-1982.1-3p MIMAT0009460 Mus musculus miR-1982.1-3p
+19643 23 0
+0 mmu-miR-1982.2-3p MIMAT0009461 Mus musculus miR-1982.2-3p
+19666 21 0
+0 mmu-miR-2136 MIMAT0011212 Mus musculus miR-2136
+19687 21 0
+0 mmu-miR-2137 MIMAT0011213 Mus musculus miR-2137
+19708 21 0
+0 mmu-miR-2139 MIMAT0011215 Mus musculus miR-2139
+19729 24 0
+0 mmu-miR-2182 MIMAT0011286 Mus musculus miR-2182
+19753 22 0
+0 mmu-miR-2183 MIMAT0011287 Mus musculus miR-2183
+19775 18 0
+0 mmu-miR-432 MIMAT0012771 Mus musculus miR-432
+19793 23 0
+0 mmu-miR-599 MIMAT0012772 Mus musculus miR-599
+19816 19 0
+0 mmu-miR-767 MIMAT0012773 Mus musculus miR-767
+19835 21 0
+0 mmu-miR-664-5p MIMAT0017353 Mus musculus miR-664-5p
+19856 21 0
+0 mmu-miR-664-3p MIMAT0012774 Mus musculus miR-664-3p
+19877 22 0
+0 mmu-miR-2861 MIMAT0013803 Mus musculus miR-2861
+19899 19 0
+0 mmu-miR-3057-5p MIMAT0014822 Mus musculus miR-3057-5p
+19918 24 0
+0 mmu-miR-3057-3p MIMAT0014823 Mus musculus miR-3057-3p
+19942 22 0
+0 mmu-miR-1251-5p MIMAT0014824 Mus musculus miR-1251-5p
+19964 21 0
+0 mmu-miR-1251-3p MIMAT0014825 Mus musculus miR-1251-3p
+19985 21 0
+0 mmu-miR-3060-5p MIMAT0014826 Mus musculus miR-3060-5p
+20006 20 0
+0 mmu-miR-3060-3p MIMAT0014827 Mus musculus miR-3060-3p
+20026 22 0
+0 mmu-miR-3061-5p MIMAT0014828 Mus musculus miR-3061-5p
+20048 22 0
+0 mmu-miR-3061-3p MIMAT0014829 Mus musculus miR-3061-3p
+20070 22 0
+0 mmu-miR-3062-5p MIMAT0014830 Mus musculus miR-3062-5p
+20092 22 0
+0 mmu-miR-3062-3p MIMAT0014831 Mus musculus miR-3062-3p
+20114 19 0
+0 mmu-miR-3063-5p MIMAT0014832 Mus musculus miR-3063-5p
+20133 21 0
+0 mmu-miR-3063-3p MIMAT0014833 Mus musculus miR-3063-3p
+20154 22 0
+0 mmu-miR-3064-5p MIMAT0014834 Mus musculus miR-3064-5p
+20176 22 0
+0 mmu-miR-3064-3p MIMAT0014835 Mus musculus miR-3064-3p
+20198 22 0
+0 mmu-miR-3065-5p MIMAT0014836 Mus musculus miR-3065-5p
+20220 22 0
+0 mmu-miR-3065-3p MIMAT0014837 Mus musculus miR-3065-3p
+20242 23 0
+0 mmu-miR-3066-5p MIMAT0014838 Mus musculus miR-3066-5p
+20265 22 0
+0 mmu-miR-3066-3p MIMAT0014839 Mus musculus miR-3066-3p
+20287 22 0
+0 mmu-miR-3067-5p MIMAT0014840 Mus musculus miR-3067-5p
+20309 23 0
+0 mmu-miR-3067-3p MIMAT0014841 Mus musculus miR-3067-3p
+20332 23 0
+0 mmu-miR-3068-5p MIMAT0014842 Mus musculus miR-3068-5p
+20355 24 0
+0 mmu-miR-3068-3p MIMAT0014843 Mus musculus miR-3068-3p
+20379 22 0
+0 mmu-miR-3069-5p MIMAT0014844 Mus musculus miR-3069-5p
+20401 24 0
+0 mmu-miR-3069-3p MIMAT0014845 Mus musculus miR-3069-3p
+20425 22 0
+0 mmu-miR-3070a-5p MIMAT0014846 Mus musculus miR-3070a-5p
+20447 23 0
+0 mmu-miR-3070a-3p MIMAT0014847 Mus musculus miR-3070a-3p
+20470 22 0
+0 mmu-miR-3070b-5p MIMAT0014848 Mus musculus miR-3070b-5p
+20492 23 0
+0 mmu-miR-3070b-3p MIMAT0014849 Mus musculus miR-3070b-3p
+20515 22 0
+0 mmu-miR-3071-5p MIMAT0014850 Mus musculus miR-3071-5p
+20537 22 0
+0 mmu-miR-3071-3p MIMAT0014851 Mus musculus miR-3071-3p
+20559 22 0
+0 mmu-miR-3072-5p MIMAT0014852 Mus musculus miR-3072-5p
+20581 22 0
+0 mmu-miR-3072-3p MIMAT0014853 Mus musculus miR-3072-3p
+20603 22 0
+0 mmu-miR-3073-5p MIMAT0014854 Mus musculus miR-3073-5p
+20625 22 0
+0 mmu-miR-3073-3p MIMAT0014855 Mus musculus miR-3073-3p
+20647 22 0
+0 mmu-miR-3074-5p MIMAT0014856 Mus musculus miR-3074-5p
+20669 22 0
+0 mmu-miR-3074-1-3p MIMAT0014857 Mus musculus miR-3074-1-3p
+20691 22 0
+0 mmu-miR-3075-5p MIMAT0014858 Mus musculus miR-3075-5p
+20713 21 0
+0 mmu-miR-3075-3p MIMAT0014859 Mus musculus miR-3075-3p
+20734 21 0
+0 mmu-miR-3076-5p MIMAT0014860 Mus musculus miR-3076-5p
+20755 24 0
+0 mmu-miR-3076-3p MIMAT0014861 Mus musculus miR-3076-3p
+20779 23 0
+0 mmu-miR-3077-5p MIMAT0014862 Mus musculus miR-3077-5p
+20802 25 0
+0 mmu-miR-3077-3p MIMAT0014863 Mus musculus miR-3077-3p
+20827 22 0
+0 mmu-miR-3078-5p MIMAT0014864 Mus musculus miR-3078-5p
+20849 23 0
+0 mmu-miR-3078-3p MIMAT0014865 Mus musculus miR-3078-3p
+20872 20 0
+0 mmu-miR-3079-5p MIMAT0014866 Mus musculus miR-3079-5p
+20892 23 0
+0 mmu-miR-3079-3p MIMAT0014867 Mus musculus miR-3079-3p
+20915 21 0
+0 mmu-miR-3080-5p MIMAT0014868 Mus musculus miR-3080-5p
+20936 20 0
+0 mmu-miR-3080-3p MIMAT0014869 Mus musculus miR-3080-3p
+20956 22 0
+0 mmu-miR-3081-5p MIMAT0014870 Mus musculus miR-3081-5p
+20978 23 0
+0 mmu-miR-3081-3p MIMAT0014871 Mus musculus miR-3081-3p
+21001 23 0
+0 mmu-miR-3082-5p MIMAT0014872 Mus musculus miR-3082-5p
+21024 22 0
+0 mmu-miR-3082-3p MIMAT0014873 Mus musculus miR-3082-3p
+21046 22 0
+0 mmu-miR-3083-5p MIMAT0014874 Mus musculus miR-3083-5p
+21068 22 0
+0 mmu-miR-3083-3p MIMAT0014875 Mus musculus miR-3083-3p
+21090 22 0
+0 mmu-miR-3084-5p MIMAT0014876 Mus musculus miR-3084-5p
+21112 22 0
+0 mmu-miR-3084-3p MIMAT0014877 Mus musculus miR-3084-3p
+21134 21 0
+0 mmu-miR-3085-5p MIMAT0014878 Mus musculus miR-3085-5p
+21155 25 0
+0 mmu-miR-3085-3p MIMAT0014879 Mus musculus miR-3085-3p
+21180 21 0
+0 mmu-miR-3086-5p MIMAT0014880 Mus musculus miR-3086-5p
+21201 20 0
+0 mmu-miR-3086-3p MIMAT0014881 Mus musculus miR-3086-3p
+21221 22 0
+0 mmu-miR-466m-5p MIMAT0014882 Mus musculus miR-466m-5p
+21243 23 0
+0 mmu-miR-466m-3p MIMAT0014883 Mus musculus miR-466m-3p
+21266 22 0
+0 mmu-miR-669d-2-3p MIMAT0014884 Mus musculus miR-669d-2-3p
+21288 22 0
+0 mmu-miR-466o-5p MIMAT0014885 Mus musculus miR-466o-5p
+21310 22 0
+0 mmu-miR-466o-3p MIMAT0014886 Mus musculus miR-466o-3p
+21332 22 0
+0 mmu-miR-669p-5p MIMAT0014889 Mus musculus miR-669p-5p
+21354 24 0
+0 mmu-miR-669p-3p MIMAT0014890 Mus musculus miR-669p-3p
+21378 24 0
+0 mmu-miR-466p-5p MIMAT0014891 Mus musculus miR-466p-5p
+21402 21 0
+0 mmu-miR-466p-3p MIMAT0014892 Mus musculus miR-466p-3p
+21423 22 0
+0 mmu-miR-466n-5p MIMAT0014893 Mus musculus miR-466n-5p
+21445 22 0
+0 mmu-miR-466n-3p MIMAT0014894 Mus musculus miR-466n-3p
+21467 22 0
+0 mmu-miR-3087-5p MIMAT0014895 Mus musculus miR-3087-5p
+21489 21 0
+0 mmu-miR-3087-3p MIMAT0014896 Mus musculus miR-3087-3p
+21510 21 0
+0 mmu-miR-3088-5p MIMAT0014897 Mus musculus miR-3088-5p
+21531 22 0
+0 mmu-miR-3088-3p MIMAT0014898 Mus musculus miR-3088-3p
+21553 23 0
+0 mmu-miR-3089-5p MIMAT0014899 Mus musculus miR-3089-5p
+21576 22 0
+0 mmu-miR-3089-3p MIMAT0014900 Mus musculus miR-3089-3p
+21598 23 0
+0 mmu-miR-3090-5p MIMAT0014901 Mus musculus miR-3090-5p
+21621 21 0
+0 mmu-miR-3090-3p MIMAT0014902 Mus musculus miR-3090-3p
+21642 22 0
+0 mmu-miR-3091-5p MIMAT0014903 Mus musculus miR-3091-5p
+21664 21 0
+0 mmu-miR-3091-3p MIMAT0014904 Mus musculus miR-3091-3p
+21685 22 0
+0 mmu-miR-3092-5p MIMAT0014905 Mus musculus miR-3092-5p
+21707 22 0
+0 mmu-miR-3092-3p MIMAT0014906 Mus musculus miR-3092-3p
+21729 21 0
+0 mmu-miR-3093-5p MIMAT0014907 Mus musculus miR-3093-5p
+21750 22 0
+0 mmu-miR-3093-3p MIMAT0014908 Mus musculus miR-3093-3p
+21772 22 0
+0 mmu-miR-3094-5p MIMAT0014909 Mus musculus miR-3094-5p
+21794 21 0
+0 mmu-miR-3094-3p MIMAT0014910 Mus musculus miR-3094-3p
+21815 21 0
+0 mmu-miR-3095-5p MIMAT0014911 Mus musculus miR-3095-5p
+21836 22 0
+0 mmu-miR-3095-3p MIMAT0014912 Mus musculus miR-3095-3p
+21858 23 0
+0 mmu-miR-3096-5p MIMAT0014913 Mus musculus miR-3096-5p
+21881 18 0
+0 mmu-miR-3096-3p MIMAT0014914 Mus musculus miR-3096-3p
+21899 26 0
+0 mmu-miR-3097-5p MIMAT0014915 Mus musculus miR-3097-5p
+21925 23 0
+0 mmu-miR-3097-3p MIMAT0014916 Mus musculus miR-3097-3p
+21948 22 0
+0 mmu-miR-3098-5p MIMAT0014917 Mus musculus miR-3098-5p
+21970 22 0
+0 mmu-miR-3098-3p MIMAT0014918 Mus musculus miR-3098-3p
+21992 21 0
+0 mmu-miR-3100-5p MIMAT0014919 Mus musculus miR-3100-5p
+22013 23 0
+0 mmu-miR-3100-3p MIMAT0014920 Mus musculus miR-3100-3p
+22036 21 0
+0 mmu-miR-3101-5p MIMAT0014921 Mus musculus miR-3101-5p
+22057 21 0
+0 mmu-miR-3101-3p MIMAT0014922 Mus musculus miR-3101-3p
+22078 21 0
+0 mmu-miR-344e-5p MIMAT0014923 Mus musculus miR-344e-5p
+22099 20 0
+0 mmu-miR-344e-3p MIMAT0014924 Mus musculus miR-344e-3p
+22119 22 0
+0 mmu-miR-344b-5p MIMAT0014925 Mus musculus miR-344b-5p
+22141 23 0
+0 mmu-miR-344b-3p MIMAT0014926 Mus musculus miR-344b-3p
+22164 22 0
+0 mmu-miR-344c-5p MIMAT0014927 Mus musculus miR-344c-5p
+22186 23 0
+0 mmu-miR-344c-3p MIMAT0014928 Mus musculus miR-344c-3p
+22209 23 0
+0 mmu-miR-344g-5p MIMAT0014929 Mus musculus miR-344g-5p
+22232 21 0
+0 mmu-miR-344g-3p MIMAT0014930 Mus musculus miR-344g-3p
+22253 22 0
+0 mmu-miR-344f-5p MIMAT0014931 Mus musculus miR-344f-5p
+22275 22 0
+0 mmu-miR-344f-3p MIMAT0014932 Mus musculus miR-344f-3p
+22297 21 0
+0 mmu-miR-3102-5p MIMAT0014933 Mus musculus miR-3102-5p
+22318 22 0
+0 mmu-miR-3102-5p.2-5p MIMAT0014934 Mus musculus miR-3102-5p.2-5p
+22340 21 0
+0 mmu-miR-3102-3p.2-3p MIMAT0014935 Mus musculus miR-3102-3p.2-3p
+22361 21 0
+0 mmu-miR-3102-3p MIMAT0014936 Mus musculus miR-3102-3p
+22382 23 0
+0 mmu-miR-3103-5p MIMAT0014937 Mus musculus miR-3103-5p
+22405 21 0
+0 mmu-miR-3103-3p MIMAT0014938 Mus musculus miR-3103-3p
+22426 22 0
+0 mmu-miR-3104-5p MIMAT0014939 Mus musculus miR-3104-5p
+22448 25 0
+0 mmu-miR-3104-3p MIMAT0014940 Mus musculus miR-3104-3p
+22473 23 0
+0 mmu-miR-3105-5p MIMAT0014941 Mus musculus miR-3105-5p
+22496 22 0
+0 mmu-miR-3105-3p MIMAT0014942 Mus musculus miR-3105-3p
+22518 22 0
+0 mmu-miR-3107-5p MIMAT0014943 Mus musculus miR-3107-5p
+22540 22 0
+0 mmu-miR-3107-3p MIMAT0014944 Mus musculus miR-3107-3p
+22562 20 0
+0 mmu-miR-3074-2-3p MIMAT0014946 Mus musculus miR-3074-2-3p
+22582 20 0
+0 mmu-miR-3108-5p MIMAT0014947 Mus musculus miR-3108-5p
+22602 23 0
+0 mmu-miR-3108-3p MIMAT0014948 Mus musculus miR-3108-3p
+22625 21 0
+0 mmu-miR-3109-5p MIMAT0014949 Mus musculus miR-3109-5p
+22646 24 0
+0 mmu-miR-3109-3p MIMAT0014950 Mus musculus miR-3109-3p
+22670 21 0
+0 mmu-miR-3110-5p MIMAT0014951 Mus musculus miR-3110-5p
+22691 21 0
+0 mmu-miR-3110-3p MIMAT0014952 Mus musculus miR-3110-3p
+22712 22 0
+0 mmu-miR-374c-5p MIMAT0014953 Mus musculus miR-374c-5p
+22734 20 0
+0 mmu-miR-374c-3p MIMAT0014954 Mus musculus miR-374c-3p
+22754 19 0
+0 mmu-miR-3112-5p MIMAT0014955 Mus musculus miR-3112-5p
+22773 21 0
+0 mmu-miR-3112-3p MIMAT0014956 Mus musculus miR-3112-3p
+22794 21 0
+0 mmu-miR-1912-5p MIMAT0014957 Mus musculus miR-1912-5p
+22815 22 0
+0 mmu-miR-1912-3p MIMAT0014958 Mus musculus miR-1912-3p
+22837 22 0
+0 mmu-miR-3113-5p MIMAT0014959 Mus musculus miR-3113-5p
+22859 22 0
+0 mmu-miR-3113-3p MIMAT0014960 Mus musculus miR-3113-3p
+22881 20 0
+0 mmu-miR-3470a MIMAT0015640 Mus musculus miR-3470a
+22901 21 0
+0 mmu-miR-3470b MIMAT0015641 Mus musculus miR-3470b
+22922 21 0
+0 mmu-miR-3471 MIMAT0015642 Mus musculus miR-3471
+22943 22 0
+0 mmu-miR-3472 MIMAT0015643 Mus musculus miR-3472
+22965 25 0
+0 mmu-miR-1186b MIMAT0015644 Mus musculus miR-1186b
+22990 22 0
+0 mmu-miR-3473 MIMAT0015645 Mus musculus miR-3473
+23012 18 0
+0 mmu-miR-3474 MIMAT0015646 Mus musculus miR-3474
+23030 22 0
+0 mmu-miR-3960 MIMAT0019336 Mus musculus miR-3960
+23052 20 0
+0 mmu-miR-3961 MIMAT0019338 Mus musculus miR-3961
+23072 19 0
+0 mmu-miR-28c MIMAT0019339 Mus musculus miR-28c
+23091 20 0
+0 mmu-miR-3962 MIMAT0019340 Mus musculus miR-3962
+23111 20 0
+0 mmu-miR-3963 MIMAT0019341 Mus musculus miR-3963
+23131 19 0
+0 mmu-miR-3096b-5p MIMAT0019342 Mus musculus miR-3096b-5p
+23150 21 0
+0 mmu-miR-3096b-3p MIMAT0019343 Mus musculus miR-3096b-3p
+23171 20 0
+0 mmu-miR-3964 MIMAT0019344 Mus musculus miR-3964
+23191 20 0
+0 mmu-miR-1843b-5p MIMAT0019345 Mus musculus miR-1843b-5p
+23211 21 0
+0 mmu-miR-1843b-3p MIMAT0019346 Mus musculus miR-1843b-3p
+23232 20 0
+0 mmu-miR-3965 MIMAT0019347 Mus musculus miR-3965
+23252 19 0
+0 mmu-miR-378b MIMAT0019348 Mus musculus miR-378b
+23271 20 0
+0 mmu-miR-101c MIMAT0019349 Mus musculus miR-101c
+23291 19 0
+0 mmu-miR-3966 MIMAT0019350 Mus musculus miR-3966
+23310 21 0
+0 mmu-miR-3967 MIMAT0019351 Mus musculus miR-3967
+23331 20 0
+0 mmu-miR-3968 MIMAT0019352 Mus musculus miR-3968
+23351 21 0
+0 mmu-miR-3969 MIMAT0019353 Mus musculus miR-3969
+23372 20 0
+0 mmu-miR-28b MIMAT0019354 Mus musculus miR-28b
+23392 21 0
+0 mmu-miR-3970 MIMAT0019355 Mus musculus miR-3970
+23413 20 0
+0 mmu-miR-3971 MIMAT0019356 Mus musculus miR-3971
+23433 22 0
+0 mmu-miR-3473b MIMAT0020367 Mus musculus miR-3473b
+23455 20 0
+0 mmu-miR-5046 MIMAT0020540 Mus musculus miR-5046
+23475 24 0
+0 mmu-miR-5097 MIMAT0020604 Mus musculus miR-5097
+23499 24 0
+0 mmu-miR-5098 MIMAT0020605 Mus musculus miR-5098
+23523 21 0
+0 mmu-miR-5099 MIMAT0020606 Mus musculus miR-5099
+23544 20 0
+0 mmu-miR-5100 MIMAT0020607 Mus musculus miR-5100
+23564 21 0
+0 mmu-miR-5101 MIMAT0020608 Mus musculus miR-5101
+23585 22 0
+0 mmu-miR-5102 MIMAT0020609 Mus musculus miR-5102
+23607 24 0
+0 mmu-miR-5103 MIMAT0020610 Mus musculus miR-5103
+23631 20 0
+0 mmu-miR-5104 MIMAT0020611 Mus musculus miR-5104
+23651 24 0
+0 mmu-miR-5105 MIMAT0020612 Mus musculus miR-5105
+23675 20 0
+0 mmu-miR-5106 MIMAT0020613 Mus musculus miR-5106
+23695 23 0
+0 mmu-miR-3473c MIMAT0020614 Mus musculus miR-3473c
+23718 22 0
+0 mmu-miR-5107 MIMAT0020615 Mus musculus miR-5107
+23740 21 0
+0 mmu-miR-5108 MIMAT0020616 Mus musculus miR-5108
+23761 19 0
+0 mmu-miR-5109 MIMAT0020617 Mus musculus miR-5109
+23780 23 0
+0 mmu-miR-5110 MIMAT0020618 Mus musculus miR-5110
+23803 25 0
+0 mmu-miR-5111-5p MIMAT0022743 Mus musculus miR-5111-5p
+23828 16 0
+0 mmu-miR-5111-3p MIMAT0020619 Mus musculus miR-5111-3p
+23844 19 0
+0 mmu-miR-5112 MIMAT0020620 Mus musculus miR-5112
+23863 19 0
+0 mmu-miR-5113 MIMAT0020621 Mus musculus miR-5113
+23882 23 0
+0 mmu-miR-5114 MIMAT0020622 Mus musculus miR-5114
+23905 22 0
+0 mmu-miR-5115 MIMAT0020623 Mus musculus miR-5115
+23927 19 0
+0 mmu-miR-5116 MIMAT0020624 Mus musculus miR-5116
+23946 21 0
+0 mmu-miR-5117-5p MIMAT0020625 Mus musculus miR-5117-5p
+23967 23 0
+0 mmu-miR-5117-3p MIMAT0022744 Mus musculus miR-5117-3p
+23990 19 0
+0 mmu-miR-5118 MIMAT0020626 Mus musculus miR-5118
+24009 19 0
+0 mmu-miR-5119 MIMAT0020627 Mus musculus miR-5119
+24028 19 0
+0 mmu-miR-5120 MIMAT0020628 Mus musculus miR-5120
+24047 23 0
+0 mmu-miR-5121 MIMAT0020629 Mus musculus miR-5121
+24070 21 0
+0 mmu-miR-5122 MIMAT0020630 Mus musculus miR-5122
+24091 20 0
+0 mmu-miR-466q MIMAT0020631 Mus musculus miR-466q
+24111 20 0
+0 mmu-miR-3473d MIMAT0020632 Mus musculus miR-3473d
+24131 24 0
+0 mmu-miR-5123 MIMAT0020633 Mus musculus miR-5123
+24155 24 0
+0 mmu-miR-5124 MIMAT0020634 Mus musculus miR-5124
+24179 20 0
+0 mmu-miR-5125 MIMAT0020635 Mus musculus miR-5125
+24199 20 0
+0 mmu-miR-3572 MIMAT0020636 Mus musculus miR-3572
+24219 23 0
+0 mmu-miR-5126 MIMAT0020637 Mus musculus miR-5126
+24242 22 0
+0 mmu-miR-5127 MIMAT0020638 Mus musculus miR-5127
+24264 19 0
+0 mmu-miR-5128 MIMAT0020639 Mus musculus miR-5128
+24283 23 0
+0 mmu-miR-5129 MIMAT0020640 Mus musculus miR-5129
+24306 22 0
+0 mmu-miR-5130 MIMAT0020641 Mus musculus miR-5130
+24328 24 0
+0 mmu-miR-5131 MIMAT0020642 Mus musculus miR-5131
+24352 23 0
+0 mmu-miR-5132 MIMAT0020643 Mus musculus miR-5132
+24375 21 0
+0 mmu-miR-5133 MIMAT0020644 Mus musculus miR-5133
+24396 21 0
+0 mmu-miR-5134 MIMAT0020645 Mus musculus miR-5134
+24417 21 0
+0 mmu-miR-5135 MIMAT0020646 Mus musculus miR-5135
+24438 24 0
+0 mmu-miR-5136 MIMAT0020647 Mus musculus miR-5136
+24462 20 0
+0 mmu-miR-3544-5p MIMAT0022353 Mus musculus miR-3544-5p
+24482 23 0
+0 mmu-miR-3544-3p MIMAT0022354 Mus musculus miR-3544-3p
+24505 22 0
+0 mmu-miR-299b-5p MIMAT0022836 Mus musculus miR-299b-5p
+24527 21 0
+0 mmu-miR-299b-3p MIMAT0022837 Mus musculus miR-299b-3p
+24548 18 0
+0 mmu-miR-5615-5p MIMAT0022355 Mus musculus miR-5615-5p
+24566 22 0
+0 mmu-miR-5615-3p MIMAT0022356 Mus musculus miR-5615-3p
+24588 22 0
+0 mmu-miR-1231-5p MIMAT0022357 Mus musculus miR-1231-5p
+24610 23 0
+0 mmu-miR-1231-3p MIMAT0022358 Mus musculus miR-1231-3p
+24633 23 0
+0 mmu-miR-5616-5p MIMAT0022359 Mus musculus miR-5616-5p
+24656 21 0
+0 mmu-miR-5616-3p MIMAT0022360 Mus musculus miR-5616-3p
+24677 22 0
+0 mmu-miR-5617-5p MIMAT0022361 Mus musculus miR-5617-5p
+24699 23 0
+0 mmu-miR-5617-3p MIMAT0022362 Mus musculus miR-5617-3p
+24722 21 0
+0 mmu-miR-5618-5p MIMAT0022363 Mus musculus miR-5618-5p
+24743 20 0
+0 mmu-miR-5618-3p MIMAT0022364 Mus musculus miR-5618-3p
+24763 18 0
+0 mmu-miR-5619-5p MIMAT0022365 Mus musculus miR-5619-5p
+24781 21 0
+0 mmu-miR-5619-3p MIMAT0022366 Mus musculus miR-5619-3p
+24802 22 0
+0 mmu-miR-5620-5p MIMAT0022367 Mus musculus miR-5620-5p
+24824 23 0
+0 mmu-miR-5620-3p MIMAT0022368 Mus musculus miR-5620-3p
+24847 21 0
+0 mmu-miR-5621-5p MIMAT0022369 Mus musculus miR-5621-5p
+24868 23 0
+0 mmu-miR-5621-3p MIMAT0022370 Mus musculus miR-5621-3p
+24891 21 0
+0 mmu-miR-5622-5p MIMAT0022371 Mus musculus miR-5622-5p
+24912 22 0
+0 mmu-miR-5622-3p MIMAT0022372 Mus musculus miR-5622-3p
+24934 22 0
+0 mmu-miR-5623-5p MIMAT0022373 Mus musculus miR-5623-5p
+24956 24 0
+0 mmu-miR-5623-3p MIMAT0022374 Mus musculus miR-5623-3p
+24980 22 0
+0 mmu-miR-3073b-5p MIMAT0022375 Mus musculus miR-3073b-5p
+25002 22 0
+0 mmu-miR-3073b-3p MIMAT0022376 Mus musculus miR-3073b-3p
+25024 22 0
+0 mmu-miR-5624-5p MIMAT0022377 Mus musculus miR-5624-5p
+25046 18 0
+0 mmu-miR-5624-3p MIMAT0022378 Mus musculus miR-5624-3p
+25064 22 0
+0 mmu-miR-5625-5p MIMAT0022379 Mus musculus miR-5625-5p
+25086 21 0
+0 mmu-miR-5625-3p MIMAT0022380 Mus musculus miR-5625-3p
+25107 25 0
+0 mmu-miR-5626-5p MIMAT0022381 Mus musculus miR-5626-5p
+25132 22 0
+0 mmu-miR-5626-3p MIMAT0022382 Mus musculus miR-5626-3p
+25154 22 0
+0 mmu-miR-344h-5p MIMAT0022383 Mus musculus miR-344h-5p
+25176 20 0
+0 mmu-miR-344h-3p MIMAT0022384 Mus musculus miR-344h-3p
+25196 22 0
+0 mmu-miR-5627-5p MIMAT0022385 Mus musculus miR-5627-5p
+25218 22 0
+0 mmu-miR-5627-3p MIMAT0022386 Mus musculus miR-5627-3p
+25240 24 0
+0 mmu-miR-344i MIMAT0022503 Mus musculus miR-344i
+25264 20 0
+0 mmu-miR-5709 MIMAT0022504 Mus musculus miR-5709
+25284 22 0
+0 mmu-miR-5710 MIMAT0022505 Mus musculus miR-5710
+25306 22 0

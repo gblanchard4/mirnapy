@@ -1,0 +1,899 @@
+41316 449 11
+0 rno-mir-322 MI0000589 Rattus norvegicus miR-322 stem-loop
+0 95 0
+0 rno-mir-323 MI0000591 Rattus norvegicus miR-323 stem-loop
+95 86 0
+0 rno-mir-301a MI0000593 Rattus norvegicus miR-301a stem-loop
+181 100 0
+0 rno-mir-324 MI0000594 Rattus norvegicus miR-324 stem-loop
+281 83 0
+0 rno-mir-325 MI0000596 Rattus norvegicus miR-325 stem-loop
+364 98 0
+0 rno-mir-326 MI0000599 Rattus norvegicus miR-326 stem-loop
+462 95 0
+0 rno-mir-327 MI0000600 Rattus norvegicus miR-327 stem-loop
+557 94 0
+0 rno-let-7d MI0000601 Rattus norvegicus let-7d stem-loop
+651 98 0
+0 rno-mir-328a MI0000602 Rattus norvegicus miR-328a stem-loop
+749 84 0
+0 rno-mir-329 MI0000604 Rattus norvegicus miR-329 stem-loop
+833 97 0
+0 rno-mir-330 MI0000606 Rattus norvegicus miR-330 stem-loop
+930 97 0
+0 rno-mir-331 MI0000608 Rattus norvegicus miR-331 stem-loop
+1027 96 0
+0 rno-mir-140 MI0000611 Rattus norvegicus miR-140 stem-loop
+1123 99 0
+0 rno-mir-335 MI0000612 Rattus norvegicus miR-335 stem-loop
+1222 98 0
+0 rno-mir-336 MI0000613 Rattus norvegicus miR-336 stem-loop
+1320 96 0
+0 rno-mir-337 MI0000614 Rattus norvegicus miR-337 stem-loop
+1416 97 0
+0 rno-mir-148b MI0000616 Rattus norvegicus miR-148b stem-loop
+1513 97 0
+0 rno-mir-338 MI0000618 Rattus norvegicus miR-338 stem-loop
+1610 66 0
+0 rno-mir-339 MI0000620 Rattus norvegicus miR-339 stem-loop
+1676 96 0
+0 rno-mir-340 MI0000622 Rattus norvegicus miR-340 stem-loop
+1772 98 0
+0 rno-mir-341 MI0000624 Rattus norvegicus miR-341 stem-loop
+1870 96 0
+0 rno-mir-342 MI0000626 Rattus norvegicus miR-342 stem-loop
+1966 99 0
+0 rno-mir-343 MI0000628 Rattus norvegicus miR-343 stem-loop
+2065 93 0
+0 rno-mir-344a-1 MI0000629 Rattus norvegicus miR-344a-1 stem-loop
+2158 98 0
+0 rno-mir-345 MI0000631 Rattus norvegicus miR-345 stem-loop
+2256 96 0
+0 rno-mir-346 MI0000633 Rattus norvegicus miR-346 stem-loop
+2352 98 0
+0 rno-mir-347 MI0000635 Rattus norvegicus miR-347 stem-loop
+2450 92 0
+0 rno-mir-349 MI0000636 Rattus norvegicus miR-349 stem-loop
+2542 97 0
+0 rno-mir-129-2 MI0000637 Rattus norvegicus miR-129-2 stem-loop
+2639 97 0
+0 rno-mir-20a MI0000638 Rattus norvegicus miR-20a stem-loop
+2736 85 0
+0 rno-mir-350 MI0000639 Rattus norvegicus miR-350 stem-loop
+2821 99 0
+0 rno-mir-7a-1 MI0000641 Rattus norvegicus miR-7a-1 stem-loop
+2920 97 0
+0 rno-mir-351 MI0000642 Rattus norvegicus miR-351 stem-loop
+3017 81 0
+0 rno-mir-352 MI0000644 Rattus norvegicus miR-352 stem-loop
+3098 96 0
+0 rno-mir-135b MI0000645 Rattus norvegicus miR-135b stem-loop
+3194 97 0
+0 rno-mir-151 MI0000647 Rattus norvegicus miR-151 stem-loop
+3291 97 0
+0 rno-mir-101b MI0000648 Rattus norvegicus miR-101b stem-loop
+3388 97 0
+0 rno-let-7a-1 MI0000827 Rattus norvegicus let-7a-1 stem-loop
+3485 94 0
+0 rno-let-7a-2 MI0000828 Rattus norvegicus let-7a-2 stem-loop
+3579 96 0
+0 rno-let-7b MI0000829 Rattus norvegicus let-7b stem-loop
+3675 85 0
+0 rno-let-7c-1 MI0000830 Rattus norvegicus let-7c-1 stem-loop
+3760 94 0
+0 rno-let-7c-2 MI0000831 Rattus norvegicus let-7c-2 stem-loop
+3854 95 0
+0 rno-let-7e MI0000832 Rattus norvegicus let-7e stem-loop
+3949 93 0
+0 rno-let-7f-1 MI0000833 Rattus norvegicus let-7f-1 stem-loop
+4042 89 0
+0 rno-let-7f-2 MI0000834 Rattus norvegicus let-7f-2 stem-loop
+4131 83 0
+0 rno-let-7i MI0000835 Rattus norvegicus let-7i stem-loop
+4214 85 0
+0 rno-mir-7a-2 MI0000836 Rattus norvegicus miR-7a-2 stem-loop
+4299 95 0
+0 rno-mir-7b MI0000837 Rattus norvegicus miR-7b stem-loop
+4394 110 0
+0 rno-mir-9a-1 MI0000838 Rattus norvegicus miR-9a-1 stem-loop
+4504 89 0
+0 rno-mir-9a-3 MI0000839 Rattus norvegicus miR-9a-3 stem-loop
+4593 90 0
+0 rno-mir-9a-2 MI0000840 Rattus norvegicus miR-9a-2 stem-loop
+4683 87 0
+0 rno-mir-10a MI0000841 Rattus norvegicus miR-10a stem-loop
+4770 110 0
+0 rno-mir-10b MI0000842 Rattus norvegicus miR-10b stem-loop
+4880 109 0
+0 rno-mir-15b MI0000843 Rattus norvegicus miR-15b stem-loop
+4989 98 0
+0 rno-mir-16 MI0000844 Rattus norvegicus miR-16 stem-loop
+5087 95 0
+0 rno-mir-17-1 MI0000845 Rattus norvegicus miR-17-1 stem-loop
+5182 84 0
+0 rno-mir-18a MI0000846 Rattus norvegicus miR-18a stem-loop
+5266 96 0
+0 rno-mir-19b-1 MI0000847 Rattus norvegicus miR-19b-1 stem-loop
+5362 87 0
+0 rno-mir-19b-2 MI0000848 Rattus norvegicus miR-19b-2 stem-loop
+5449 96 0
+0 rno-mir-19a MI0000849 Rattus norvegicus miR-19a stem-loop
+5545 82 0
+0 rno-mir-21 MI0000850 Rattus norvegicus miR-21 stem-loop
+5627 92 0
+0 rno-mir-22 MI0000851 Rattus norvegicus miR-22 stem-loop
+5719 95 0
+0 rno-mir-23a MI0000852 Rattus norvegicus miR-23a stem-loop
+5814 75 0
+0 rno-mir-23b MI0000853 Rattus norvegicus miR-23b stem-loop
+5889 97 0
+0 rno-mir-24-1 MI0000854 Rattus norvegicus miR-24-1 stem-loop
+5986 68 0
+0 rno-mir-24-2 MI0000855 Rattus norvegicus miR-24-2 stem-loop
+6054 108 0
+0 rno-mir-25 MI0000856 Rattus norvegicus miR-25 stem-loop
+6162 84 0
+0 rno-mir-26a MI0000857 Rattus norvegicus miR-26a stem-loop
+6246 90 0
+0 rno-mir-26b MI0000858 Rattus norvegicus miR-26b stem-loop
+6336 85 0
+0 rno-mir-27b MI0000859 Rattus norvegicus miR-27b stem-loop
+6421 97 0
+0 rno-mir-27a MI0000860 Rattus norvegicus miR-27a stem-loop
+6518 87 0
+0 rno-mir-28 MI0000861 Rattus norvegicus miR-28 stem-loop
+6605 86 0
+0 rno-mir-29b-2 MI0000862 Rattus norvegicus miR-29b-2 stem-loop
+6691 81 0
+0 rno-mir-29a MI0000863 Rattus norvegicus miR-29a stem-loop
+6772 88 0
+0 rno-mir-29b-1 MI0000864 Rattus norvegicus miR-29b-1 stem-loop
+6860 81 0
+0 rno-mir-29c MI0000865 Rattus norvegicus miR-29c stem-loop
+6941 88 0
+0 rno-mir-30c-1 MI0000866 Rattus norvegicus miR-30c-1 stem-loop
+7029 89 0
+0 rno-mir-30e MI0000867 Rattus norvegicus miR-30e stem-loop
+7118 92 0
+0 rno-mir-30b MI0000868 Rattus norvegicus miR-30b stem-loop
+7210 87 0
+0 rno-mir-30d MI0000869 Rattus norvegicus miR-30d stem-loop
+7297 82 0
+0 rno-mir-30a MI0000870 Rattus norvegicus miR-30a stem-loop
+7379 71 0
+0 rno-mir-30c-2 MI0000871 Rattus norvegicus miR-30c-2 stem-loop
+7450 84 0
+0 rno-mir-31a MI0000872 Rattus norvegicus miR-31a stem-loop
+7534 106 0
+0 rno-mir-32 MI0000873 Rattus norvegicus miR-32 stem-loop
+7640 70 0
+0 rno-mir-33 MI0000874 Rattus norvegicus miR-33 stem-loop
+7710 69 0
+0 rno-mir-34b MI0000875 Rattus norvegicus miR-34b stem-loop
+7779 84 0
+0 rno-mir-34c MI0000876 Rattus norvegicus miR-34c stem-loop
+7863 77 0
+0 rno-mir-34a MI0000877 Rattus norvegicus miR-34a stem-loop
+7940 102 0
+0 rno-mir-92a-1 MI0000878 Rattus norvegicus miR-92a-1 stem-loop
+8042 78 0
+0 rno-mir-92a-2 MI0000879 Rattus norvegicus miR-92a-2 stem-loop
+8120 92 0
+0 rno-mir-93 MI0000880 Rattus norvegicus miR-93 stem-loop
+8212 87 0
+0 rno-mir-96 MI0000881 Rattus norvegicus miR-96 stem-loop
+8299 106 0
+0 rno-mir-98 MI0000882 Rattus norvegicus miR-98 stem-loop
+8405 108 0
+0 rno-mir-99a MI0000883 Rattus norvegicus miR-99a stem-loop
+8513 81 0
+0 rno-mir-99b MI0000884 Rattus norvegicus miR-99b stem-loop
+8594 70 0
+0 rno-mir-100 MI0000885 Rattus norvegicus miR-100 stem-loop
+8664 80 0
+0 rno-mir-101a MI0000886 Rattus norvegicus miR-101a stem-loop
+8744 75 0
+0 rno-mir-103-2 MI0000887 Rattus norvegicus miR-103-2 stem-loop
+8819 86 0
+0 rno-mir-103-1 MI0000888 Rattus norvegicus miR-103-1 stem-loop
+8905 86 0
+0 rno-mir-106b MI0000889 Rattus norvegicus miR-106b stem-loop
+8991 82 0
+0 rno-mir-107 MI0000890 Rattus norvegicus miR-107 stem-loop
+9073 87 0
+0 rno-mir-122 MI0000891 Rattus norvegicus miR-122 stem-loop
+9160 85 0
+0 rno-mir-124-3 MI0000892 Rattus norvegicus miR-124-3 stem-loop
+9245 87 0
+0 rno-mir-124-1 MI0000893 Rattus norvegicus miR-124-1 stem-loop
+9332 85 0
+0 rno-mir-124-2 MI0000894 Rattus norvegicus miR-124-2 stem-loop
+9417 109 0
+0 rno-mir-125a MI0000895 Rattus norvegicus miR-125a stem-loop
+9526 85 0
+0 rno-mir-125b-1 MI0000896 Rattus norvegicus miR-125b-1 stem-loop
+9611 87 0
+0 rno-mir-125b-2 MI0000897 Rattus norvegicus miR-125b-2 stem-loop
+9698 88 0
+0 rno-mir-126a MI0000898 Rattus norvegicus miR-126a stem-loop
+9786 73 0
+0 rno-mir-127 MI0000899 Rattus norvegicus miR-127 stem-loop
+9859 97 0
+0 rno-mir-128-1 MI0000900 Rattus norvegicus miR-128-1 stem-loop
+9956 82 0
+0 rno-mir-128-2 MI0000901 Rattus norvegicus miR-128-2 stem-loop
+10038 84 0
+0 rno-mir-129-1 MI0000902 Rattus norvegicus miR-129-1 stem-loop
+10122 72 0
+0 rno-mir-130a MI0000903 Rattus norvegicus miR-130a stem-loop
+10194 88 0
+0 rno-mir-130b MI0000904 Rattus norvegicus miR-130b stem-loop
+10282 82 0
+0 rno-mir-132 MI0000905 Rattus norvegicus miR-132 stem-loop
+10364 101 0
+0 rno-mir-133a MI0000906 Rattus norvegicus miR-133a stem-loop
+10465 87 0
+0 rno-mir-134 MI0000907 Rattus norvegicus miR-134 stem-loop
+10552 73 0
+0 rno-mir-135a MI0000908 Rattus norvegicus miR-135a stem-loop
+10625 100 0
+0 rno-mir-136 MI0000909 Rattus norvegicus miR-136 stem-loop
+10725 82 0
+0 rno-mir-137 MI0000910 Rattus norvegicus miR-137 stem-loop
+10807 102 0
+0 rno-mir-138-2 MI0000911 Rattus norvegicus miR-138-2 stem-loop
+10909 82 0
+0 rno-mir-138-1 MI0000912 Rattus norvegicus miR-138-1 stem-loop
+10991 99 0
+0 rno-mir-139 MI0000913 Rattus norvegicus miR-139 stem-loop
+11090 68 0
+0 rno-mir-141 MI0000914 Rattus norvegicus miR-141 stem-loop
+11158 94 0
+0 rno-mir-142 MI0000915 Rattus norvegicus miR-142 stem-loop
+11252 87 0
+0 rno-mir-143 MI0000916 Rattus norvegicus miR-143 stem-loop
+11339 105 0
+0 rno-mir-144 MI0000917 Rattus norvegicus miR-144 stem-loop
+11444 83 0
+0 rno-mir-145 MI0000918 Rattus norvegicus miR-145 stem-loop
+11527 88 0
+0 rno-mir-146a MI0000919 Rattus norvegicus miR-146a stem-loop
+11615 95 0
+0 rno-mir-150 MI0000920 Rattus norvegicus miR-150 stem-loop
+11710 85 0
+0 rno-mir-152 MI0000921 Rattus norvegicus miR-152 stem-loop
+11795 85 0
+0 rno-mir-153 MI0000922 Rattus norvegicus miR-153 stem-loop
+11880 87 0
+0 rno-mir-154 MI0000923 Rattus norvegicus miR-154 stem-loop
+11967 84 0
+0 rno-mir-181c MI0000924 Rattus norvegicus miR-181c stem-loop
+12051 106 0
+0 rno-mir-181a-2 MI0000925 Rattus norvegicus miR-181a-2 stem-loop
+12157 117 0
+0 rno-mir-181b-1 MI0000926 Rattus norvegicus miR-181b-1 stem-loop
+12274 110 0
+0 rno-mir-181b-2 MI0000927 Rattus norvegicus miR-181b-2 stem-loop
+12384 88 0
+0 rno-mir-183 MI0000928 Rattus norvegicus miR-183 stem-loop
+12472 110 0
+0 rno-mir-184 MI0000929 Rattus norvegicus miR-184 stem-loop
+12582 77 0
+0 rno-mir-185 MI0000930 Rattus norvegicus miR-185 stem-loop
+12659 80 0
+0 rno-mir-186 MI0000931 Rattus norvegicus miR-186 stem-loop
+12739 86 0
+0 rno-mir-187 MI0000932 Rattus norvegicus miR-187 stem-loop
+12825 104 0
+0 rno-mir-190a MI0000933 Rattus norvegicus miR-190 stem-loop
+12929 85 0
+0 rno-mir-191a MI0000934 Rattus norvegicus miR-191a stem-loop
+13014 91 0
+0 rno-mir-192 MI0000935 Rattus norvegicus miR-192 stem-loop
+13105 110 0
+0 rno-mir-193 MI0000936 Rattus norvegicus miR-193 stem-loop
+13215 86 0
+0 rno-mir-194-1 MI0000937 Rattus norvegicus miR-194-1 stem-loop
+13301 83 0
+0 rno-mir-194-2 MI0000938 Rattus norvegicus miR-194-2 stem-loop
+13384 85 0
+0 rno-mir-195 MI0000939 Rattus norvegicus miR-195 stem-loop
+13469 87 0
+0 rno-mir-196a MI0000940 Rattus norvegicus miR-196a stem-loop
+13556 110 0
+0 rno-mir-199a MI0000941 Rattus norvegicus miR-199a stem-loop
+13666 110 0
+0 rno-mir-200c MI0000942 Rattus norvegicus miR-200c stem-loop
+13776 69 0
+0 rno-mir-200a MI0000943 Rattus norvegicus miR-200a stem-loop
+13845 89 0
+0 rno-mir-200b MI0000944 Rattus norvegicus miR-200b stem-loop
+13934 95 0
+0 rno-mir-203a MI0000945 Rattus norvegicus miR-203a stem-loop
+14029 97 0
+0 rno-mir-204 MI0000946 Rattus norvegicus miR-204 stem-loop
+14126 110 0
+0 rno-mir-205 MI0000947 Rattus norvegicus miR-205 stem-loop
+14236 108 0
+0 rno-mir-206 MI0000948 Rattus norvegicus miR-206 stem-loop
+14344 84 0
+0 rno-mir-208a MI0000949 Rattus norvegicus miR-208 stem-loop
+14428 83 0
+0 rno-mir-210 MI0000950 Rattus norvegicus miR-210 stem-loop
+14511 110 0
+0 rno-mir-211 MI0000951 Rattus norvegicus miR-211 stem-loop
+14621 106 0
+0 rno-mir-212 MI0000952 Rattus norvegicus miR-212 stem-loop
+14727 111 0
+0 rno-mir-181a-1 MI0000953 Rattus norvegicus miR-181a-1 stem-loop
+14838 100 0
+0 rno-mir-214 MI0000954 Rattus norvegicus miR-214 stem-loop
+14938 110 0
+0 rno-mir-216a MI0000955 Rattus norvegicus miR-216a stem-loop
+15048 106 0
+0 rno-mir-217 MI0000956 Rattus norvegicus miR-217 stem-loop
+15154 105 0
+0 rno-mir-218a-2 MI0000957 Rattus norvegicus miR-218a-2 stem-loop
+15259 110 0
+0 rno-mir-218a-1 MI0000958 Rattus norvegicus miR-218a-1 stem-loop
+15369 110 0
+0 rno-mir-219a-1 MI0000959 Rattus norvegicus miR-219a-1 stem-loop
+15479 110 0
+0 rno-mir-219a-2 MI0000960 Rattus norvegicus miR-219a-2 stem-loop
+15589 96 0
+0 rno-mir-221 MI0000961 Rattus norvegicus miR-221 stem-loop
+15685 109 0
+0 rno-mir-222 MI0000962 Rattus norvegicus miR-222 stem-loop
+15794 103 0
+0 rno-mir-223 MI0000963 Rattus norvegicus miR-223 stem-loop
+15897 110 0
+0 rno-mir-290 MI0000964 Rattus norvegicus miR-290 stem-loop
+16007 81 0
+0 rno-mir-291a MI0000965 Rattus norvegicus miR-291a stem-loop
+16088 82 0
+0 rno-mir-292 MI0000966 Rattus norvegicus miR-292 stem-loop
+16170 82 0
+0 rno-mir-296 MI0000967 Rattus norvegicus miR-296 stem-loop
+16252 78 0
+0 rno-mir-297 MI0000968 Rattus norvegicus miR-297 stem-loop
+16330 66 0
+0 rno-mir-298 MI0000969 Rattus norvegicus miR-298 stem-loop
+16396 82 0
+0 rno-mir-299a MI0000970 Rattus norvegicus miR-299 stem-loop
+16478 63 0
+0 rno-mir-300 MI0000971 Rattus norvegicus miR-300 stem-loop
+16541 79 0
+0 rno-mir-320 MI0000972 Rattus norvegicus miR-320 stem-loop
+16620 82 0
+0 rno-mir-196b MI0001152 Rattus norvegicus miR-196b stem-loop
+16702 85 0
+0 rno-mir-421 MI0001423 Rattus norvegicus miR-421 stem-loop
+16787 79 0
+0 rno-mir-448 MI0001639 Rattus norvegicus miR-448 stem-loop
+16866 112 0
+0 rno-mir-429 MI0001643 Rattus norvegicus miR-429 stem-loop
+16978 85 0
+0 rno-mir-449a MI0001650 Rattus norvegicus miR-449a stem-loop
+17063 91 0
+0 rno-mir-450a MI0001654 Rattus norvegicus miR-450a stem-loop
+17154 91 0
+0 rno-mir-365 MI0001656 Rattus norvegicus miR-365 stem-loop
+17245 86 0
+0 rno-mir-431 MI0001722 Rattus norvegicus miR-431 stem-loop
+17331 114 0
+0 rno-mir-433 MI0001724 Rattus norvegicus miR-433 stem-loop
+17445 93 0
+0 rno-mir-451 MI0001731 Rattus norvegicus miR-451 stem-loop
+17538 72 0
+0 rno-mir-489 MI0003477 Rattus norvegicus miR-489 stem-loop
+17610 106 0
+0 rno-mir-383 MI0003478 Rattus norvegicus miR-383 stem-loop
+17716 74 0
+0 rno-mir-207 MI0003479 Rattus norvegicus miR-207 stem-loop
+17790 78 0
+0 rno-mir-501 MI0003480 Rattus norvegicus miR-501 stem-loop
+17868 84 0
+0 rno-mir-361 MI0003481 Rattus norvegicus miR-361 stem-loop
+17952 70 0
+0 rno-mir-215 MI0003482 Rattus norvegicus miR-215 stem-loop
+18022 97 0
+0 rno-mir-224 MI0003483 Rattus norvegicus miR-224 stem-loop
+18119 82 0
+0 rno-mir-483 MI0003485 Rattus norvegicus miR-483 stem-loop
+18201 73 0
+0 rno-mir-370 MI0003486 Rattus norvegicus miR-370 stem-loop
+18274 79 0
+0 rno-mir-377 MI0003487 Rattus norvegicus miR-377 stem-loop
+18353 72 0
+0 rno-mir-412 MI0003488 Rattus norvegicus miR-412 stem-loop
+18425 70 0
+0 rno-mir-1 MI0003489 Rattus norvegicus miR-1 stem-loop
+18495 87 0
+0 rno-mir-133b MI0003490 Rattus norvegicus miR-133b stem-loop
+18582 84 0
+0 rno-mir-540 MI0003524 Rattus norvegicus miR-540 stem-loop
+18666 84 0
+0 rno-mir-543 MI0003525 Rattus norvegicus miR-543 stem-loop
+18750 80 0
+0 rno-mir-539 MI0003526 Rattus norvegicus miR-539 stem-loop
+18830 76 0
+0 rno-mir-541 MI0003527 Rattus norvegicus miR-541 stem-loop
+18906 90 0
+0 rno-mir-542 MI0003528 Rattus norvegicus miR-542 stem-loop
+18996 79 0
+0 rno-mir-493 MI0003540 Rattus norvegicus miR-493 stem-loop
+19075 84 0
+0 rno-mir-379 MI0003541 Rattus norvegicus miR-379 stem-loop
+19159 85 0
+0 rno-mir-494 MI0003542 Rattus norvegicus miR-494 stem-loop
+19244 83 0
+0 rno-mir-376c MI0003543 Rattus norvegicus miR-376c stem-loop
+19327 84 0
+0 rno-mir-376b MI0003544 Rattus norvegicus miR-376b stem-loop
+19411 86 0
+0 rno-mir-376a MI0003545 Rattus norvegicus miR-376a stem-loop
+19497 82 0
+0 rno-mir-381 MI0003546 Rattus norvegicus miR-381 stem-loop
+19579 61 0
+0 rno-mir-487b MI0003547 Rattus norvegicus miR-487b stem-loop
+19640 82 0
+0 rno-mir-382 MI0003548 Rattus norvegicus miR-382 stem-loop
+19722 80 0
+0 rno-mir-485 MI0003549 Rattus norvegicus miR-485 stem-loop
+19802 79 0
+0 rno-mir-409a MI0003550 Rattus norvegicus miR-409 stem-loop
+19881 77 0
+0 rno-mir-369 MI0003551 Rattus norvegicus miR-369 stem-loop
+19958 79 0
+0 rno-mir-374 MI0003552 Rattus norvegicus miR-374 stem-loop
+20037 68 0
+0 rno-mir-363 MI0003553 Rattus norvegicus miR-363 stem-loop
+20105 87 0
+0 rno-mir-20b MI0003554 Rattus norvegicus miR-20b stem-loop
+20192 72 0
+0 rno-mir-503 MI0003555 Rattus norvegicus miR-503 stem-loop
+20264 71 0
+0 rno-mir-378a MI0003719 Rattus norvegicus miR-378 stem-loop
+20335 65 0
+0 rno-mir-505 MI0003720 Rattus norvegicus miR-505 stem-loop
+20400 67 0
+0 rno-mir-499 MI0003721 Rattus norvegicus miR-499 stem-loop
+20467 65 0
+0 rno-mir-664-1 MI0003722 Rattus norvegicus miR-664-1 stem-loop
+20532 59 0
+0 rno-mir-664-2 MI0003723 Rattus norvegicus miR-664-2 stem-loop
+20591 59 0
+0 rno-mir-497 MI0003724 Rattus norvegicus miR-497 stem-loop
+20650 69 0
+0 rno-mir-466b-1 MI0006112 Rattus norvegicus miR-466b-1 stem-loop
+20719 86 0
+0 rno-mir-466b-2 MI0006113 Rattus norvegicus miR-466b-2 stem-loop
+20805 82 0
+0 rno-mir-466c MI0006114 Rattus norvegicus miR-466c stem-loop
+20887 79 0
+0 rno-mir-743b MI0006115 Rattus norvegicus miR-743b stem-loop
+20966 77 0
+0 rno-mir-871 MI0006116 Rattus norvegicus miR-871 stem-loop
+21043 77 0
+0 rno-mir-872 MI0006117 Rattus norvegicus miR-872 stem-loop
+21120 81 0
+0 rno-mir-874 MI0006118 Rattus norvegicus miR-874 stem-loop
+21201 76 0
+0 rno-mir-877 MI0006119 Rattus norvegicus miR-877 stem-loop
+21277 85 0
+0 rno-mir-878 MI0006120 Rattus norvegicus miR-878 stem-loop
+21362 77 0
+0 rno-mir-879 MI0006121 Rattus norvegicus miR-879 stem-loop
+21439 76 0
+0 rno-mir-880 MI0006122 Rattus norvegicus miR-880 stem-loop
+21515 78 0
+0 rno-mir-881 MI0006123 Rattus norvegicus miR-881 stem-loop
+21593 77 0
+0 rno-mir-883 MI0006126 Rattus norvegicus miR-883 stem-loop
+21670 77 0
+0 rno-mir-147 MI0006130 Rattus norvegicus miR-147 stem-loop
+21747 79 0
+0 rno-mir-17-2 MI0006131 Rattus norvegicus miR-17-2 stem-loop
+21826 78 0
+0 rno-mir-181d MI0006132 Rattus norvegicus miR-181d stem-loop
+21904 83 0
+0 rno-mir-182 MI0006133 Rattus norvegicus miR-182 stem-loop
+21987 62 0
+0 rno-mir-188 MI0006134 Rattus norvegicus miR-188 stem-loop
+22049 80 0
+0 rno-mir-190b MI0006135 Rattus norvegicus miR-190b stem-loop
+22129 78 0
+0 rno-mir-196c MI0006136 Rattus norvegicus miR-196c stem-loop
+22207 80 0
+0 rno-mir-301b MI0006137 Rattus norvegicus miR-301b stem-loop
+22287 78 0
+0 rno-mir-375 MI0006140 Rattus norvegicus miR-375 stem-loop
+22365 75 0
+0 rno-mir-380 MI0006141 Rattus norvegicus miR-380 stem-loop
+22440 77 0
+0 rno-mir-384 MI0006142 Rattus norvegicus miR-384 stem-loop
+22517 83 0
+0 rno-mir-410 MI0006143 Rattus norvegicus miR-410 stem-loop
+22600 76 0
+0 rno-mir-411 MI0006144 Rattus norvegicus miR-411 stem-loop
+22676 76 0
+0 rno-mir-423 MI0006145 Rattus norvegicus miR-423 stem-loop
+22752 79 0
+0 rno-mir-425 MI0006146 Rattus norvegicus miR-425 stem-loop
+22831 83 0
+0 rno-mir-434 MI0006147 Rattus norvegicus miR-434 stem-loop
+22914 81 0
+0 rno-mir-455 MI0006148 Rattus norvegicus miR-455 stem-loop
+22995 78 0
+0 rno-mir-463 MI0006149 Rattus norvegicus miR-463 stem-loop
+23073 78 0
+0 rno-mir-471 MI0006150 Rattus norvegicus miR-471 stem-loop
+23151 78 0
+0 rno-mir-484 MI0006151 Rattus norvegicus miR-484 stem-loop
+23229 77 0
+0 rno-mir-495 MI0006152 Rattus norvegicus miR-495 stem-loop
+23306 80 0
+0 rno-mir-500 MI0006153 Rattus norvegicus miR-500 stem-loop
+23386 80 0
+0 rno-mir-532 MI0006154 Rattus norvegicus miR-532 stem-loop
+23466 79 0
+0 rno-mir-598 MI0006155 Rattus norvegicus miR-598 stem-loop
+23545 79 0
+0 rno-mir-671 MI0006156 Rattus norvegicus miR-671 stem-loop
+23624 81 0
+0 rno-mir-672 MI0006157 Rattus norvegicus miR-672 stem-loop
+23705 80 0
+0 rno-mir-673 MI0006158 Rattus norvegicus miR-673 stem-loop
+23785 83 0
+0 rno-mir-674 MI0006159 Rattus norvegicus miR-674 stem-loop
+23868 77 0
+0 rno-mir-708 MI0006160 Rattus norvegicus miR-708 stem-loop
+23945 88 0
+0 rno-mir-742 MI0006161 Rattus norvegicus miR-742 stem-loop
+24033 77 0
+0 rno-mir-743a MI0006162 Rattus norvegicus miR-743a stem-loop
+24110 76 0
+0 rno-mir-758 MI0006163 Rattus norvegicus miR-758 stem-loop
+24186 78 0
+0 rno-mir-760 MI0006164 Rattus norvegicus miR-760 stem-loop
+24264 80 0
+0 rno-mir-770 MI0006165 Rattus norvegicus miR-770 stem-loop
+24344 76 0
+0 rno-mir-873 MI0006166 Rattus norvegicus miR-873 stem-loop
+24420 77 0
+0 rno-mir-92b MI0006167 Rattus norvegicus miR-92b stem-loop
+24497 83 0
+0 rno-mir-488 MI0006168 Rattus norvegicus miR-488 stem-loop
+24580 79 0
+0 rno-mir-652 MI0006169 Rattus norvegicus miR-652 stem-loop
+24659 81 0
+0 rno-mir-146b MI0006342 Rattus norvegicus miR-146b stem-loop
+24740 88 0
+0 rno-mir-551b MI0006343 Rattus norvegicus miR-551b stem-loop
+24828 98 0
+0 rno-mir-202 MI0012584 Rattus norvegicus miR-202 stem-loop
+24926 72 0
+0 rno-mir-490 MI0012585 Rattus norvegicus miR-490 stem-loop
+24998 84 0
+0 rno-mir-105 MI0012587 Rattus norvegicus miR-105 stem-loop
+25082 73 0
+0 rno-mir-1224 MI0012589 Rattus norvegicus miR-1224 stem-loop
+25155 85 0
+0 rno-mir-362 MI0012590 Rattus norvegicus miR-362 stem-loop
+25240 65 0
+0 rno-mir-511 MI0012591 Rattus norvegicus miR-511 stem-loop
+25305 79 0
+0 rno-mir-504 MI0012592 Rattus norvegicus miR-504 stem-loop
+25384 77 0
+0 rno-mir-544 MI0012593 Rattus norvegicus miR-544 stem-loop
+25461 78 0
+0 rno-mir-568 MI0012594 Rattus norvegicus miR-568 stem-loop
+25539 96 0
+0 rno-mir-582 MI0012595 Rattus norvegicus miR-582 stem-loop
+25635 81 0
+0 rno-mir-592 MI0012596 Rattus norvegicus miR-592 stem-loop
+25716 96 0
+0 rno-mir-615 MI0012597 Rattus norvegicus miR-615 stem-loop
+25812 92 0
+0 rno-mir-628 MI0012598 Rattus norvegicus miR-628 stem-loop
+25904 84 0
+0 rno-mir-632 MI0012599 Rattus norvegicus miR-632 stem-loop
+25988 78 0
+0 rno-mir-653 MI0012600 Rattus norvegicus miR-653 stem-loop
+26066 97 0
+0 rno-mir-668 MI0012601 Rattus norvegicus miR-668 stem-loop
+26163 68 0
+0 rno-mir-802 MI0012602 Rattus norvegicus miR-802 stem-loop
+26231 96 0
+0 rno-mir-675 MI0012603 Rattus norvegicus miR-675 stem-loop
+26327 84 0
+0 rno-mir-875 MI0012604 Rattus norvegicus miR-875 stem-loop
+26411 73 0
+0 rno-mir-876 MI0012605 Rattus norvegicus miR-876 stem-loop
+26484 79 0
+0 rno-mir-665 MI0012606 Rattus norvegicus miR-665 stem-loop
+26563 94 0
+0 rno-mir-935 MI0012607 Rattus norvegicus miR-935 stem-loop
+26657 91 0
+0 rno-mir-201 MI0012608 Rattus norvegicus miR-201 stem-loop
+26748 80 0
+0 rno-mir-293 MI0012609 Rattus norvegicus miR-293 stem-loop
+26828 72 0
+0 rno-mir-294 MI0012610 Rattus norvegicus miR-294 stem-loop
+26900 71 0
+0 rno-mir-295-1 MI0012611 Rattus norvegicus miR-295-1 stem-loop
+26971 81 0
+0 rno-mir-465 MI0012612 Rattus norvegicus miR-465 stem-loop
+27052 77 0
+0 rno-mir-547 MI0012613 Rattus norvegicus miR-547 stem-loop
+27129 81 0
+0 rno-mir-667 MI0012614 Rattus norvegicus miR-667 stem-loop
+27210 92 0
+0 rno-mir-761 MI0012615 Rattus norvegicus miR-761 stem-loop
+27302 76 0
+0 rno-mir-764 MI0012616 Rattus norvegicus miR-764 stem-loop
+27378 108 0
+0 rno-mir-666 MI0012617 Rattus norvegicus miR-666 stem-loop
+27486 99 0
+0 rno-mir-759 MI0012618 Rattus norvegicus miR-759 stem-loop
+27585 97 0
+0 rno-mir-678 MI0012619 Rattus norvegicus miR-678 stem-loop
+27682 83 0
+0 rno-mir-711 MI0012621 Rattus norvegicus miR-711 stem-loop
+27765 68 0
+0 rno-mir-496 MI0012622 Rattus norvegicus miR-496 stem-loop
+27833 79 0
+0 rno-mir-3541 MI0015395 Rattus norvegicus miR-3541 stem-loop
+27912 104 0
+0 rno-mir-3542 MI0015396 Rattus norvegicus miR-3542 stem-loop
+28016 117 0
+0 rno-mir-3543 MI0015397 Rattus norvegicus miR-3543 stem-loop
+28133 115 0
+0 rno-mir-3544 MI0015398 Rattus norvegicus miR-3544 stem-loop
+28248 88 0
+0 rno-mir-203b MI0015399 Rattus norvegicus miR-203b stem-loop
+28336 115 0
+0 rno-mir-3546 MI0015400 Rattus norvegicus miR-3546 stem-loop
+28451 116 0
+0 rno-mir-3547 MI0015401 Rattus norvegicus miR-3547 stem-loop
+28567 110 0
+0 rno-mir-449c MI0015402 Rattus norvegicus miR-449c stem-loop
+28677 99 0
+0 rno-mir-3085 MI0015403 Rattus norvegicus miR-3085 stem-loop
+28776 89 0
+0 rno-mir-3548 MI0015404 Rattus norvegicus miR-3548 stem-loop
+28865 120 0
+0 rno-mir-3549 MI0015405 Rattus norvegicus miR-3549 stem-loop
+28985 112 0
+0 rno-mir-3550 MI0015406 Rattus norvegicus miR-3550 stem-loop
+29097 114 0
+0 rno-mir-3551 MI0015407 Rattus norvegicus miR-3551 stem-loop
+29211 82 0
+0 rno-mir-344b-2 MI0015408 Rattus norvegicus miR-344b-2 stem-loop
+29293 71 0
+0 rno-mir-3552 MI0015409 Rattus norvegicus miR-3552 stem-loop
+29364 105 0
+0 rno-mir-3553 MI0015410 Rattus norvegicus miR-3553 stem-loop
+29469 106 0
+0 rno-mir-3074 MI0015411 Rattus norvegicus miR-3074 stem-loop
+29575 117 0
+0 rno-mir-31b MI0015412 Rattus norvegicus miR-31b stem-loop
+29692 118 0
+0 rno-mir-191b MI0015413 Rattus norvegicus miR-191b stem-loop
+29810 120 0
+0 rno-mir-3556b MI0015414 Rattus norvegicus miR-3556b stem-loop
+29930 107 0
+0 rno-mir-3557 MI0015415 Rattus norvegicus miR-3557 stem-loop
+30037 113 0
+0 rno-mir-3556a MI0015416 Rattus norvegicus miR-3556a stem-loop
+30150 118 0
+0 rno-mir-291b MI0015417 Rattus norvegicus miR-291b stem-loop
+30268 108 0
+0 rno-mir-3596d MI0015418 Rattus norvegicus miR-3596d stem-loop
+30376 97 0
+0 rno-mir-466d MI0015419 Rattus norvegicus miR-466d stem-loop
+30473 93 0
+0 rno-mir-3558 MI0015420 Rattus norvegicus miR-3558 stem-loop
+30566 114 0
+0 rno-mir-3559 MI0015421 Rattus norvegicus miR-3559 stem-loop
+30680 115 0
+0 rno-mir-3560 MI0015422 Rattus norvegicus miR-3560 stem-loop
+30795 112 0
+0 rno-mir-3561 MI0015423 Rattus norvegicus miR-3561 stem-loop
+30907 109 0
+0 rno-mir-3562 MI0015424 Rattus norvegicus miR-3562 stem-loop
+31016 112 0
+0 rno-mir-299b MI0015425 Rattus norvegicus miR-299b stem-loop
+31128 118 0
+0 rno-mir-9b-3 MI0015426 Rattus norvegicus miR-9b-3 stem-loop
+31246 115 0
+0 rno-mir-3564 MI0015427 Rattus norvegicus miR-3564 stem-loop
+31361 112 0
+0 rno-mir-218b MI0015428 Rattus norvegicus miR-218b stem-loop
+31473 114 0
+0 rno-mir-3065 MI0015429 Rattus norvegicus miR-3065 stem-loop
+31587 103 0
+0 rno-mir-9b-1 MI0015430 Rattus norvegicus miR-9b-1 stem-loop
+31690 108 0
+0 rno-mir-3566 MI0015431 Rattus norvegicus miR-3566 stem-loop
+31798 109 0
+0 rno-mir-344a-2 MI0015432 Rattus norvegicus miR-344a-2 stem-loop
+31907 107 0
+0 rno-mir-126b MI0015433 Rattus norvegicus miR-126b stem-loop
+32014 118 0
+0 rno-mir-208b MI0015434 Rattus norvegicus miR-208b stem-loop
+32132 112 0
+0 rno-mir-216b MI0015435 Rattus norvegicus miR-216b stem-loop
+32244 102 0
+0 rno-mir-3568 MI0015436 Rattus norvegicus miR-3568 stem-loop
+32346 101 0
+0 rno-mir-3569 MI0015437 Rattus norvegicus miR-3569 stem-loop
+32447 76 0
+0 rno-mir-3570 MI0015438 Rattus norvegicus miR-3570 stem-loop
+32523 117 0
+0 rno-mir-9b-2 MI0015439 Rattus norvegicus miR-9b-2 stem-loop
+32640 118 0
+0 rno-mir-3571 MI0015440 Rattus norvegicus miR-3571 stem-loop
+32758 111 0
+0 rno-mir-1949 MI0015441 Rattus norvegicus miR-1949 stem-loop
+32869 97 0
+0 rno-mir-3572 MI0015442 Rattus norvegicus miR-3572 stem-loop
+32966 108 0
+0 rno-mir-1188 MI0015443 Rattus norvegicus miR-1188 stem-loop
+33074 82 0
+0 rno-mir-3573 MI0015444 Rattus norvegicus miR-3573 stem-loop
+33156 72 0
+0 rno-mir-1193 MI0015445 Rattus norvegicus miR-1193 stem-loop
+33228 120 0
+0 rno-mir-3574 MI0015446 Rattus norvegicus miR-3574 stem-loop
+33348 118 0
+0 rno-mir-3575 MI0015447 Rattus norvegicus miR-3575 stem-loop
+33466 115 0
+0 rno-mir-3576 MI0015448 Rattus norvegicus miR-3576 stem-loop
+33581 115 0
+0 rno-mir-3577 MI0015449 Rattus norvegicus miR-3577 stem-loop
+33696 113 0
+0 rno-mir-1912 MI0015450 Rattus norvegicus miR-1912 stem-loop
+33809 88 0
+0 rno-mir-3578 MI0015451 Rattus norvegicus miR-3578 stem-loop
+33897 117 0
+0 rno-mir-3579 MI0015452 Rattus norvegicus miR-3579 stem-loop
+34014 113 0
+0 rno-mir-3580 MI0015453 Rattus norvegicus miR-3580 stem-loop
+34127 81 0
+0 rno-mir-409b MI0015454 Rattus norvegicus miR-409b stem-loop
+34208 80 0
+0 rno-mir-3596b MI0015455 Rattus norvegicus miR-3596b stem-loop
+34288 95 0
+0 rno-mir-133c MI0015456 Rattus norvegicus miR-133c stem-loop
+34383 118 0
+0 rno-mir-3583 MI0015457 Rattus norvegicus miR-3583 stem-loop
+34501 90 0
+0 rno-mir-3584 MI0015458 Rattus norvegicus miR-3584 stem-loop
+34591 81 0
+0 rno-mir-3596c MI0015459 Rattus norvegicus miR-3596c stem-loop
+34672 117 0
+0 rno-mir-3585 MI0015460 Rattus norvegicus miR-3585 stem-loop
+34789 118 0
+0 rno-mir-3586 MI0015461 Rattus norvegicus miR-3586 stem-loop
+34907 120 0
+0 rno-mir-219b MI0015462 Rattus norvegicus miR-219b stem-loop
+35027 100 0
+0 rno-mir-3587 MI0015463 Rattus norvegicus miR-3587 stem-loop
+35127 63 0
+0 rno-mir-702 MI0015464 Rattus norvegicus miR-702 stem-loop
+35190 107 0
+0 rno-mir-3596a MI0015465 Rattus norvegicus miR-3596a stem-loop
+35297 114 0
+0 rno-mir-3588 MI0015466 Rattus norvegicus miR-3588 stem-loop
+35411 106 0
+0 rno-mir-3589 MI0015467 Rattus norvegicus miR-3589 stem-loop
+35517 112 0
+0 rno-mir-3590 MI0015468 Rattus norvegicus miR-3590 stem-loop
+35629 74 0
+0 rno-mir-2985 MI0015469 Rattus norvegicus miR-2985 stem-loop
+35703 110 0
+0 rno-mir-1249 MI0015470 Rattus norvegicus miR-1249 stem-loop
+35813 120 0
+0 rno-mir-3591 MI0015471 Rattus norvegicus miR-3591 stem-loop
+35933 109 0
+0 rno-mir-344b-1 MI0015472 Rattus norvegicus miR-344b-1 stem-loop
+36042 98 0
+0 rno-mir-3592 MI0015473 Rattus norvegicus miR-3592 stem-loop
+36140 116 0
+0 rno-mir-3593 MI0015474 Rattus norvegicus miR-3593 stem-loop
+36256 91 0
+0 rno-mir-3594 MI0015475 Rattus norvegicus miR-3594 stem-loop
+36347 65 0
+0 rno-mir-3120 MI0015476 Rattus norvegicus miR-3120 stem-loop
+36412 117 0
+0 rno-mir-741 MI0015477 Rattus norvegicus miR-741 stem-loop
+36529 96 0
+0 rno-mir-3595 MI0015478 Rattus norvegicus miR-3595 stem-loop
+36625 120 0
+0 rno-mir-328b MI0015479 Rattus norvegicus miR-328b stem-loop
+36745 118 0
+0 rno-mir-295-2 MI0015968 Rattus norvegicus miR-295-2 stem-loop
+36863 81 0
+0 rno-mir-1199 MI0020343 Rattus norvegicus miR-1199 stem-loop
+36944 120 0
+0 rno-mir-1839 MI0021533 Rattus norvegicus miR-1839 stem-loop
+37064 64 0
+0 rno-mir-3068 MI0021534 Rattus norvegicus miR-3068 stem-loop
+37128 76 0
+0 rno-mir-1843 MI0021535 Rattus norvegicus miR-1843 stem-loop
+37204 90 0
+0 rno-mir-509 MI0021536 Rattus norvegicus miR-509 stem-loop
+37294 85 0
+0 rno-mir-1306 MI0021537 Rattus norvegicus miR-1306 stem-loop
+37379 73 0
+0 rno-mir-3473 MI0021538 Rattus norvegicus miR-3473 stem-loop
+37452 67 0
+0 rno-mir-6215 MI0021539 Rattus norvegicus miR-6215 stem-loop
+37519 67 0
+0 rno-mir-378b MI0021540 Rattus norvegicus miR-378b stem-loop
+37586 84 0
+0 rno-mir-6216 MI0021541 Rattus norvegicus miR-6216 stem-loop
+37670 78 0
+0 rno-mir-6314 MI0021832 Rattus norvegicus miR-6314 stem-loop
+37748 139 0
+0 rno-mir-3099 MI0021833 Rattus norvegicus miR-3099 stem-loop
+37887 129 0
+0 rno-mir-344i MI0021834 Rattus norvegicus miR-344i stem-loop
+38016 99 0
+0 rno-mir-6315 MI0021835 Rattus norvegicus miR-6315 stem-loop
+38115 101 0
+0 rno-mir-3102 MI0021836 Rattus norvegicus miR-3102 stem-loop
+38216 137 0
+0 rno-mir-344g MI0021837 Rattus norvegicus miR-344g stem-loop
+38353 79 0
+0 rno-mir-6316 MI0021838 Rattus norvegicus miR-6316 stem-loop
+38432 101 0
+0 rno-mir-6317 MI0021839 Rattus norvegicus miR-6317 stem-loop
+38533 127 0
+0 rno-mir-6318 MI0021840 Rattus norvegicus miR-6318 stem-loop
+38660 109 0
+0 rno-mir-6319 MI0021841 Rattus norvegicus miR-6319 stem-loop
+38769 127 0
+0 rno-mir-3075 MI0021842 Rattus norvegicus miR-3075 stem-loop
+38896 113 0
+0 rno-mir-6320 MI0021843 Rattus norvegicus miR-6320 stem-loop
+39009 121 0
+0 rno-mir-6321 MI0021844 Rattus norvegicus miR-6321 stem-loop
+39130 141 0
+0 rno-mir-1298 MI0021845 Rattus norvegicus miR-1298 stem-loop
+39271 139 0
+0 rno-mir-6322 MI0021846 Rattus norvegicus miR-6322 stem-loop
+39410 119 0
+0 rno-mir-6323 MI0021847 Rattus norvegicus miR-6323 stem-loop
+39529 105 0
+0 rno-mir-6324 MI0021848 Rattus norvegicus miR-6324 stem-loop
+39634 121 0
+0 rno-mir-6325 MI0021849 Rattus norvegicus miR-6325 stem-loop
+39755 141 0
+0 rno-mir-6326 MI0021850 Rattus norvegicus miR-6326 stem-loop
+39896 111 0
+0 rno-mir-6327 MI0021851 Rattus norvegicus miR-6327 stem-loop
+40007 133 0
+0 rno-mir-6328 MI0021852 Rattus norvegicus miR-6328 stem-loop
+40140 97 0
+0 rno-mir-6329 MI0021853 Rattus norvegicus miR-6329 stem-loop
+40237 91 0
+0 rno-mir-6330 MI0021854 Rattus norvegicus miR-6330 stem-loop
+40328 139 0
+0 rno-mir-6331 MI0021855 Rattus norvegicus miR-6331 stem-loop
+40467 123 0
+0 rno-mir-3072 MI0021856 Rattus norvegicus miR-3072 stem-loop
+40590 111 0
+0 rno-mir-679 MI0021857 Rattus norvegicus miR-679 stem-loop
+40701 137 0
+0 rno-mir-6332 MI0021858 Rattus norvegicus miR-6332 stem-loop
+40838 121 0
+0 rno-mir-6333 MI0021859 Rattus norvegicus miR-6333 stem-loop
+40959 111 0
+0 rno-mir-6334 MI0021860 Rattus norvegicus miR-6334 stem-loop
+41070 99 0
+0 rno-mir-7578 MI0024715 Rattus norvegicus miR-7578 stem-loop
+41169 82 0
+0 rno-mir-155 MI0025509 Rattus norvegicus miR-155 stem-loop
+41251 65 0

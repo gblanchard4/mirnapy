@@ -1,0 +1,1483 @@
+63254 741 11
+0 mmu-let-7g MI0000137 Mus musculus let-7g stem-loop
+0 88 0
+0 mmu-let-7i MI0000138 Mus musculus let-7i stem-loop
+88 85 0
+0 mmu-mir-1a-1 MI0000139 Mus musculus miR-1a-1 stem-loop
+173 77 0
+0 mmu-mir-15b MI0000140 Mus musculus miR-15b stem-loop
+250 64 0
+0 mmu-mir-23b MI0000141 Mus musculus miR-23b stem-loop
+314 74 0
+0 mmu-mir-27b MI0000142 Mus musculus miR-27b stem-loop
+388 73 0
+0 mmu-mir-29b-1 MI0000143 Mus musculus miR-29b-1 stem-loop
+461 71 0
+0 mmu-mir-30a MI0000144 Mus musculus miR-30a stem-loop
+532 71 0
+0 mmu-mir-30b MI0000145 Mus musculus miR-30b stem-loop
+603 96 0
+0 mmu-mir-99a MI0000146 Mus musculus miR-99a stem-loop
+699 65 0
+0 mmu-mir-99b MI0000147 Mus musculus miR-99b stem-loop
+764 70 0
+0 mmu-mir-101a MI0000148 Mus musculus miR-101a stem-loop
+834 83 0
+0 mmu-mir-124-3 MI0000150 Mus musculus miR-124-3 stem-loop
+917 68 0
+0 mmu-mir-125a MI0000151 Mus musculus miR-125a stem-loop
+985 68 0
+0 mmu-mir-125b-2 MI0000152 Mus musculus miR-125b-2 stem-loop
+1053 71 0
+0 mmu-mir-126 MI0000153 Mus musculus miR-126 stem-loop
+1124 73 0
+0 mmu-mir-127 MI0000154 Mus musculus miR-127 stem-loop
+1197 70 0
+0 mmu-mir-128-1 MI0000155 Mus musculus miR-128-1 stem-loop
+1267 70 0
+0 mmu-mir-130a MI0000156 Mus musculus miR-130a stem-loop
+1337 64 0
+0 mmu-mir-9-2 MI0000157 Mus musculus miR-9-2 stem-loop
+1401 72 0
+0 mmu-mir-132 MI0000158 Mus musculus miR-132 stem-loop
+1473 66 0
+0 mmu-mir-133a-1 MI0000159 Mus musculus miR-133a-1 stem-loop
+1539 68 0
+0 mmu-mir-134 MI0000160 Mus musculus miR-134 stem-loop
+1607 71 0
+0 mmu-mir-135a-1 MI0000161 Mus musculus miR-135a-1 stem-loop
+1678 90 0
+0 mmu-mir-136 MI0000162 Mus musculus miR-136 stem-loop
+1768 62 0
+0 mmu-mir-137 MI0000163 Mus musculus miR-137 stem-loop
+1830 73 0
+0 mmu-mir-138-2 MI0000164 Mus musculus miR-138-2 stem-loop
+1903 71 0
+0 mmu-mir-140 MI0000165 Mus musculus miR-140 stem-loop
+1974 70 0
+0 mmu-mir-141 MI0000166 Mus musculus miR-141 stem-loop
+2044 72 0
+0 mmu-mir-142 MI0000167 Mus musculus miR-142 stem-loop
+2116 64 0
+0 mmu-mir-144 MI0000168 Mus musculus miR-144 stem-loop
+2180 66 0
+0 mmu-mir-145 MI0000169 Mus musculus miR-145 stem-loop
+2246 70 0
+0 mmu-mir-146a MI0000170 Mus musculus miR-146a stem-loop
+2316 65 0
+0 mmu-mir-149 MI0000171 Mus musculus miR-149 stem-loop
+2381 66 0
+0 mmu-mir-150 MI0000172 Mus musculus miR-150 stem-loop
+2447 65 0
+0 mmu-mir-151 MI0000173 Mus musculus miR-151 stem-loop
+2512 68 0
+0 mmu-mir-152 MI0000174 Mus musculus miR-152 stem-loop
+2580 73 0
+0 mmu-mir-153 MI0000175 Mus musculus miR-153 stem-loop
+2653 69 0
+0 mmu-mir-154 MI0000176 Mus musculus miR-154 stem-loop
+2722 66 0
+0 mmu-mir-155 MI0000177 Mus musculus miR-155 stem-loop
+2788 65 0
+0 mmu-mir-10b MI0000221 Mus musculus miR-10b stem-loop
+2853 68 0
+0 mmu-mir-129-1 MI0000222 Mus musculus miR-129-1 stem-loop
+2921 73 0
+0 mmu-mir-181a-2 MI0000223 Mus musculus mir-181a-2 stem-loop
+2994 76 0
+0 mmu-mir-182 MI0000224 Mus musculus miR-182 stem-loop
+3070 75 0
+0 mmu-mir-183 MI0000225 Mus musculus miR-183 stem-loop
+3145 70 0
+0 mmu-mir-184 MI0000226 Mus musculus miR-184 stem-loop
+3215 69 0
+0 mmu-mir-185 MI0000227 Mus musculus miR-185 stem-loop
+3284 65 0
+0 mmu-mir-186 MI0000228 Mus musculus miR-186 stem-loop
+3349 71 0
+0 mmu-mir-187 MI0000229 Mus musculus miR-187 stem-loop
+3420 61 0
+0 mmu-mir-188 MI0000230 Mus musculus miR-188 stem-loop
+3481 68 0
+0 mmu-mir-24-1 MI0000231 Mus musculus miR-24-1 stem-loop
+3549 68 0
+0 mmu-mir-190 MI0000232 Mus musculus miR-190 stem-loop
+3617 67 0
+0 mmu-mir-191 MI0000233 Mus musculus miR-191 stem-loop
+3684 74 0
+0 mmu-mir-193 MI0000235 Mus musculus miR-193 stem-loop
+3758 66 0
+0 mmu-mir-194-1 MI0000236 Mus musculus miR-194-1 stem-loop
+3824 67 0
+0 mmu-mir-195 MI0000237 Mus musculus miR-195 stem-loop
+3891 94 0
+0 mmu-mir-199a-1 MI0000241 Mus musculus miR-199a-1 stem-loop
+3985 70 0
+0 mmu-mir-200b MI0000243 Mus musculus miR-200b stem-loop
+4055 70 0
+0 mmu-mir-201 MI0000244 Mus musculus miR-201 stem-loop
+4125 66 0
+0 mmu-mir-202 MI0000245 Mus musculus miR-202 stem-loop
+4191 72 0
+0 mmu-mir-203 MI0000246 Mus musculus miR-203 stem-loop
+4263 76 0
+0 mmu-mir-204 MI0000247 Mus musculus miR-204 stem-loop
+4339 68 0
+0 mmu-mir-205 MI0000248 Mus musculus miR-205 stem-loop
+4407 68 0
+0 mmu-mir-206 MI0000249 Mus musculus miR-206 stem-loop
+4475 73 0
+0 mmu-mir-207 MI0000250 Mus musculus miR-207 stem-loop
+4548 79 0
+0 mmu-mir-122 MI0000256 Mus musculus miR-122 stem-loop
+4627 66 0
+0 mmu-mir-143 MI0000257 Mus musculus miR-143 stem-loop
+4693 63 0
+0 mmu-mir-30e MI0000259 Mus musculus miR-30e stem-loop
+4756 92 0
+0 mmu-mir-290 MI0000388 Mus musculus miR-290 stem-loop
+4848 83 0
+0 mmu-mir-291a MI0000389 Mus musculus miR-291a stem-loop
+4931 82 0
+0 mmu-mir-292 MI0000390 Mus musculus miR-292 stem-loop
+5013 82 0
+0 mmu-mir-293 MI0000391 Mus musculus miR-293 stem-loop
+5095 80 0
+0 mmu-mir-294 MI0000392 Mus musculus miR-294 stem-loop
+5175 84 0
+0 mmu-mir-295 MI0000393 Mus musculus miR-295 stem-loop
+5259 69 0
+0 mmu-mir-296 MI0000394 Mus musculus miR-296 stem-loop
+5328 79 0
+0 mmu-mir-297a-1 MI0000395 Mus musculus miR-297a-1 stem-loop
+5407 76 0
+0 mmu-mir-297a-2 MI0000397 Mus musculus miR-297a-2 stem-loop
+5483 90 0
+0 mmu-mir-298 MI0000398 Mus musculus miR-298 stem-loop
+5573 82 0
+0 mmu-mir-299 MI0000399 Mus musculus miR-299 stem-loop
+5655 63 0
+0 mmu-mir-300 MI0000400 Mus musculus miR-300 stem-loop
+5718 79 0
+0 mmu-mir-301a MI0000401 Mus musculus miR-301a stem-loop
+5797 86 0
+0 mmu-mir-302a MI0000402 Mus musculus miR-302a stem-loop
+5883 69 0
+0 mmu-mir-34c MI0000403 Mus musculus miR-34c stem-loop
+5952 77 0
+0 mmu-mir-34b MI0000404 Mus musculus miR-34b stem-loop
+6029 84 0
+0 mmu-let-7d MI0000405 Mus musculus let-7d stem-loop
+6113 103 0
+0 mmu-mir-106a MI0000406 Mus musculus miR-106a stem-loop
+6216 65 0
+0 mmu-mir-106b MI0000407 Mus musculus miR-106b stem-loop
+6281 82 0
+0 mmu-mir-130b MI0000408 Mus musculus miR-130b stem-loop
+6363 82 0
+0 mmu-mir-19b-2 MI0000546 Mus musculus miR-19b-2 stem-loop
+6445 84 0
+0 mmu-mir-30c-1 MI0000547 Mus musculus miR-30c-1 stem-loop
+6529 89 0
+0 mmu-mir-30c-2 MI0000548 Mus musculus miR-30c-2 stem-loop
+6618 84 0
+0 mmu-mir-30d MI0000549 Mus musculus miR-30d stem-loop
+6702 82 0
+0 mmu-mir-148a MI0000550 Mus musculus miR-148a stem-loop
+6784 99 0
+0 mmu-mir-192 MI0000551 Mus musculus miR-192 stem-loop
+6883 89 0
+0 mmu-mir-196a-1 MI0000552 Mus musculus miR-196a-1 stem-loop
+6972 102 0
+0 mmu-mir-196a-2 MI0000553 Mus musculus miR-196a-2 stem-loop
+7074 85 0
+0 mmu-mir-200a MI0000554 Mus musculus miR-200a stem-loop
+7159 90 0
+0 mmu-mir-208a MI0000555 Mus musculus miR-208a stem-loop
+7249 83 0
+0 mmu-let-7a-1 MI0000556 Mus musculus let-7a-1 stem-loop
+7332 94 0
+0 mmu-let-7a-2 MI0000557 Mus musculus let-7a-2 stem-loop
+7426 96 0
+0 mmu-let-7b MI0000558 Mus musculus let-7b stem-loop
+7522 85 0
+0 mmu-let-7c-1 MI0000559 Mus musculus let-7c-1 stem-loop
+7607 94 0
+0 mmu-let-7c-2 MI0000560 Mus musculus let-7c-2 stem-loop
+7701 95 0
+0 mmu-let-7e MI0000561 Mus musculus let-7e stem-loop
+7796 93 0
+0 mmu-let-7f-1 MI0000562 Mus musculus let-7f-1 stem-loop
+7889 89 0
+0 mmu-let-7f-2 MI0000563 Mus musculus let-7f-2 stem-loop
+7978 83 0
+0 mmu-mir-15a MI0000564 Mus musculus miR-15a stem-loop
+8061 84 0
+0 mmu-mir-16-1 MI0000565 Mus musculus miR-16-1 stem-loop
+8145 93 0
+0 mmu-mir-16-2 MI0000566 Mus musculus miR-16-2 stem-loop
+8238 95 0
+0 mmu-mir-18a MI0000567 Mus musculus miR-18a stem-loop
+8333 96 0
+0 mmu-mir-20a MI0000568 Mus musculus miR-20a stem-loop
+8429 107 0
+0 mmu-mir-21 MI0000569 Mus musculus miR-21 stem-loop
+8536 92 0
+0 mmu-mir-22 MI0000570 Mus musculus miR-22 stem-loop
+8628 95 0
+0 mmu-mir-23a MI0000571 Mus musculus miR-23a stem-loop
+8723 75 0
+0 mmu-mir-24-2 MI0000572 Mus musculus miR-24-2 stem-loop
+8798 107 0
+0 mmu-mir-26a-1 MI0000573 Mus musculus miR-26a-1 stem-loop
+8905 90 0
+0 mmu-mir-26b MI0000575 Mus musculus miR-26b stem-loop
+8995 85 0
+0 mmu-mir-29a MI0000576 Mus musculus miR-29a stem-loop
+9080 88 0
+0 mmu-mir-29c MI0000577 Mus musculus miR-29c stem-loop
+9168 88 0
+0 mmu-mir-27a MI0000578 Mus musculus miR-27a stem-loop
+9256 87 0
+0 mmu-mir-31 MI0000579 Mus musculus miR-31 stem-loop
+9343 106 0
+0 mmu-mir-92a-2 MI0000580 Mus musculus miR-92a-2 stem-loop
+9449 91 0
+0 mmu-mir-93 MI0000581 Mus musculus miR-93 stem-loop
+9540 88 0
+0 mmu-mir-96 MI0000583 Mus musculus miR-96 stem-loop
+9628 106 0
+0 mmu-mir-34a MI0000584 Mus musculus miR-34a stem-loop
+9734 102 0
+0 mmu-mir-129-2 MI0000585 Mus musculus miR-129-2 stem-loop
+9836 90 0
+0 mmu-mir-98 MI0000586 Mus musculus miR-98 stem-loop
+9926 108 0
+0 mmu-mir-103-1 MI0000587 Mus musculus miR-103-1 stem-loop
+10034 86 0
+0 mmu-mir-103-2 MI0000588 Mus musculus miR-103-2 stem-loop
+10120 86 0
+0 mmu-mir-322 MI0000590 Mus musculus miR-322 stem-loop
+10206 95 0
+0 mmu-mir-323 MI0000592 Mus musculus miR-323 stem-loop
+10301 86 0
+0 mmu-mir-324 MI0000595 Mus musculus miR-324 stem-loop
+10387 89 0
+0 mmu-mir-325 MI0000597 Mus musculus miR-325 stem-loop
+10476 98 0
+0 mmu-mir-326 MI0000598 Mus musculus miR-326 stem-loop
+10574 95 0
+0 mmu-mir-328 MI0000603 Mus musculus miR-328 stem-loop
+10669 97 0
+0 mmu-mir-329 MI0000605 Mus musculus miR-329 stem-loop
+10766 97 0
+0 mmu-mir-330 MI0000607 Mus musculus miR-330 stem-loop
+10863 98 0
+0 mmu-mir-331 MI0000609 Mus musculus miR-331 stem-loop
+10961 96 0
+0 mmu-mir-337 MI0000615 Mus musculus miR-337 stem-loop
+11057 97 0
+0 mmu-mir-148b MI0000617 Mus musculus miR-148b stem-loop
+11154 97 0
+0 mmu-mir-338 MI0000619 Mus musculus miR-338 stem-loop
+11251 98 0
+0 mmu-mir-339 MI0000621 Mus musculus miR-339 stem-loop
+11349 96 0
+0 mmu-mir-340 MI0000623 Mus musculus miR-340 stem-loop
+11445 98 0
+0 mmu-mir-341 MI0000625 Mus musculus miR-341 stem-loop
+11543 96 0
+0 mmu-mir-342 MI0000627 Mus musculus miR-342 stem-loop
+11639 99 0
+0 mmu-mir-344-1 MI0000630 Mus musculus miR-344-1 stem-loop
+11738 95 0
+0 mmu-mir-345 MI0000632 Mus musculus miR-345 stem-loop
+11833 96 0
+0 mmu-mir-346 MI0000634 Mus musculus miR-346 stem-loop
+11929 98 0
+0 mmu-mir-350 MI0000640 Mus musculus miR-350 stem-loop
+12027 99 0
+0 mmu-mir-351 MI0000643 Mus musculus miR-351 stem-loop
+12126 99 0
+0 mmu-mir-135b MI0000646 Mus musculus miR-135b stem-loop
+12225 97 0
+0 mmu-mir-101b MI0000649 Mus musculus miR-101b stem-loop
+12322 97 0
+0 mmu-mir-1a-2 MI0000652 Mus musculus miR-1a-2 stem-loop
+12419 72 0
+0 mmu-mir-107 MI0000684 Mus musculus miR-107 stem-loop
+12491 87 0
+0 mmu-mir-10a MI0000685 Mus musculus miR-10a stem-loop
+12578 110 0
+0 mmu-mir-17 MI0000687 Mus musculus miR-17 stem-loop
+12688 84 0
+0 mmu-mir-19a MI0000688 Mus musculus miR-19a stem-loop
+12772 82 0
+0 mmu-mir-25 MI0000689 Mus musculus miR-25 stem-loop
+12854 84 0
+0 mmu-mir-28 MI0000690 Mus musculus miR-28 stem-loop
+12938 86 0
+0 mmu-mir-32 MI0000691 Mus musculus miR-32 stem-loop
+13024 70 0
+0 mmu-mir-100 MI0000692 Mus musculus miR-100 stem-loop
+13094 80 0
+0 mmu-mir-139 MI0000693 Mus musculus miR-139 stem-loop
+13174 68 0
+0 mmu-mir-200c MI0000694 Mus musculus miR-200c stem-loop
+13242 69 0
+0 mmu-mir-210 MI0000695 Mus musculus miR-210 stem-loop
+13311 110 0
+0 mmu-mir-212 MI0000696 Mus musculus miR-212 stem-loop
+13421 91 0
+0 mmu-mir-181a-1 MI0000697 Mus musculus miR-181a-1 stem-loop
+13512 87 0
+0 mmu-mir-214 MI0000698 Mus musculus miR-214 stem-loop
+13599 110 0
+0 mmu-mir-216a MI0000699 Mus musculus miR-216a stem-loop
+13709 72 0
+0 mmu-mir-218-1 MI0000700 Mus musculus miR-218-1 stem-loop
+13781 110 0
+0 mmu-mir-218-2 MI0000701 Mus musculus miR-218-2 stem-loop
+13891 110 0
+0 mmu-mir-219-1 MI0000702 Mus musculus miR-219-1 stem-loop
+14001 110 0
+0 mmu-mir-223 MI0000703 Mus musculus miR-223 stem-loop
+14111 110 0
+0 mmu-mir-320 MI0000704 Mus musculus miR-320 stem-loop
+14221 82 0
+0 mmu-mir-26a-2 MI0000706 Mus musculus miR-26a-2 stem-loop
+14303 84 0
+0 mmu-mir-33 MI0000707 Mus musculus miR-33 stem-loop
+14387 69 0
+0 mmu-mir-211 MI0000708 Mus musculus miR-211 stem-loop
+14456 106 0
+0 mmu-mir-221 MI0000709 Mus musculus miR-221 stem-loop
+14562 95 0
+0 mmu-mir-222 MI0000710 Mus musculus miR-222 stem-loop
+14657 79 0
+0 mmu-mir-224 MI0000711 Mus musculus miR-224 stem-loop
+14736 82 0
+0 mmu-mir-29b-2 MI0000712 Mus musculus miR-29b-2 stem-loop
+14818 81 0
+0 mmu-mir-199a-2 MI0000713 Mus musculus miR-199a-2 stem-loop
+14899 110 0
+0 mmu-mir-199b MI0000714 Mus musculus miR-199b stem-loop
+15009 110 0
+0 mmu-mir-135a-2 MI0000715 Mus musculus miR-135a-2 stem-loop
+15119 100 0
+0 mmu-mir-124-1 MI0000716 Mus musculus miR-124-1 stem-loop
+15219 85 0
+0 mmu-mir-124-2 MI0000717 Mus musculus miR-124-2 stem-loop
+15304 109 0
+0 mmu-mir-19b-1 MI0000718 Mus musculus miR-19b-1 stem-loop
+15413 87 0
+0 mmu-mir-92a-1 MI0000719 Mus musculus miR-92a-1 stem-loop
+15500 80 0
+0 mmu-mir-9-1 MI0000720 Mus musculus miR-9-1 stem-loop
+15580 89 0
+0 mmu-mir-9-3 MI0000721 Mus musculus miR-9-3 stem-loop
+15669 90 0
+0 mmu-mir-138-1 MI0000722 Mus musculus miR-138-1 stem-loop
+15759 99 0
+0 mmu-mir-181b-1 MI0000723 Mus musculus miR-181b-1 stem-loop
+15858 80 0
+0 mmu-mir-181c MI0000724 Mus musculus miR-181c stem-loop
+15938 89 0
+0 mmu-mir-125b-1 MI0000725 Mus musculus miR-125b-1 stem-loop
+16027 77 0
+0 mmu-mir-128-2 MI0000726 Mus musculus miR-128-2 stem-loop
+16104 76 0
+0 mmu-mir-7a-1 MI0000728 Mus musculus miR-7a-1 stem-loop
+16180 108 0
+0 mmu-mir-7a-2 MI0000729 Mus musculus miR-7a-2 stem-loop
+16288 97 0
+0 mmu-mir-7b MI0000730 Mus musculus miR-7b stem-loop
+16385 111 0
+0 mmu-mir-217 MI0000731 Mus musculus miR-217 stem-loop
+16496 108 0
+0 mmu-mir-194-2 MI0000733 Mus musculus miR-194-2 stem-loop
+16604 86 0
+0 mmu-mir-219-2 MI0000741 Mus musculus miR-219-2 stem-loop
+16690 97 0
+0 mmu-mir-361 MI0000761 Mus musculus miR-361 stem-loop
+16787 70 0
+0 mmu-mir-362 MI0000763 Mus musculus miR-362 stem-loop
+16857 65 0
+0 mmu-mir-363 MI0000765 Mus musculus miR-363 stem-loop
+16922 75 0
+0 mmu-mir-365-1 MI0000768 Mus musculus miR-365-1 stem-loop
+16997 87 0
+0 mmu-mir-375 MI0000792 Mus musculus miR-375 stem-loop
+17084 64 0
+0 mmu-mir-376a MI0000793 Mus musculus miR-376a stem-loop
+17148 68 0
+0 mmu-mir-377 MI0000794 Mus musculus miR-377 stem-loop
+17216 68 0
+0 mmu-mir-378 MI0000795 Mus musculus miR-378 stem-loop
+17284 66 0
+0 mmu-mir-379 MI0000796 Mus musculus miR-379 stem-loop
+17350 66 0
+0 mmu-mir-380 MI0000797 Mus musculus miR-380 stem-loop
+17416 61 0
+0 mmu-mir-381 MI0000798 Mus musculus miR-381 stem-loop
+17477 75 0
+0 mmu-mir-382 MI0000799 Mus musculus miR-382 stem-loop
+17552 76 0
+0 mmu-mir-383 MI0000800 Mus musculus miR-383 stem-loop
+17628 70 0
+0 mmu-mir-335 MI0000817 Mus musculus miR-335 stem-loop
+17698 98 0
+0 mmu-mir-133a-2 MI0000820 Mus musculus miR-133a-2 stem-loop
+17796 104 0
+0 mmu-mir-133b MI0000821 Mus musculus miR-133b stem-loop
+17900 119 0
+0 mmu-mir-181b-2 MI0000823 Mus musculus miR-181b-2 stem-loop
+18019 89 0
+0 mmu-mir-215 MI0000974 Mus musculus miR-215 stem-loop
+18108 112 0
+0 mmu-mir-384 MI0001146 Mus musculus miR-384 stem-loop
+18220 88 0
+0 mmu-mir-196b MI0001151 Mus musculus miR-196b stem-loop
+18308 85 0
+0 mmu-mir-409 MI0001160 Mus musculus miR-409 stem-loop
+18393 79 0
+0 mmu-mir-410 MI0001161 Mus musculus miR-410 stem-loop
+18472 81 0
+0 mmu-mir-376b MI0001162 Mus musculus miR-376b stem-loop
+18553 82 0
+0 mmu-mir-411 MI0001163 Mus musculus miR-411 stem-loop
+18635 82 0
+0 mmu-mir-412 MI0001164 Mus musculus miR-412 stem-loop
+18717 80 0
+0 mmu-mir-370 MI0001165 Mus musculus miR-370 stem-loop
+18797 79 0
+0 mmu-mir-425 MI0001447 Mus musculus miR-425 stem-loop
+18876 85 0
+0 mmu-mir-431 MI0001524 Mus musculus miR-431 stem-loop
+18961 91 0
+0 mmu-mir-433 MI0001525 Mus musculus miR-433 stem-loop
+19052 124 0
+0 mmu-mir-434 MI0001526 Mus musculus miR-434 stem-loop
+19176 94 0
+0 mmu-mir-448 MI0001638 Mus musculus miR-448 stem-loop
+19270 112 0
+0 mmu-mir-429 MI0001642 Mus musculus miR-429 stem-loop
+19382 83 0
+0 mmu-mir-365-2 MI0001645 Mus musculus miR-365-2 stem-loop
+19465 112 0
+0 mmu-mir-449a MI0001649 Mus musculus miR-449a stem-loop
+19577 91 0
+0 mmu-mir-450a-1 MI0001653 Mus musculus miR-450a-1 stem-loop
+19668 91 0
+0 mmu-mir-451 MI0001730 Mus musculus miR-451 stem-loop
+19759 72 0
+0 mmu-mir-452 MI0001734 Mus musculus miR-452 stem-loop
+19831 85 0
+0 mmu-mir-463 MI0002398 Mus musculus miR-463 stem-loop
+19916 75 0
+0 mmu-mir-465a MI0002400 Mus musculus miR-465a stem-loop
+19991 74 0
+0 mmu-mir-466a MI0002401 Mus musculus miR-466a stem-loop
+20065 73 0
+0 mmu-mir-467a-1 MI0002402 Mus musculus miR-467a-1 stem-loop
+20138 73 0
+0 mmu-mir-468 MI0002403 Mus musculus miR-468 stem-loop
+20211 78 0
+0 mmu-mir-470 MI0002405 Mus musculus miR-470 stem-loop
+20289 75 0
+0 mmu-mir-471 MI0002406 Mus musculus miR-471 stem-loop
+20364 67 0
+0 mmu-mir-532 MI0003206 Mus musculus miR-532 stem-loop
+20431 96 0
+0 mmu-mir-489 MI0003476 Mus musculus miR-489 stem-loop
+20527 107 0
+0 mmu-mir-483 MI0003484 Mus musculus miR-483 stem-loop
+20634 73 0
+0 mmu-mir-484 MI0003491 Mus musculus miR-484 stem-loop
+20707 67 0
+0 mmu-mir-485 MI0003492 Mus musculus miR-485 stem-loop
+20774 73 0
+0 mmu-mir-486 MI0003493 Mus musculus miR-486 stem-loop
+20847 128 0
+0 mmu-mir-546 MI0003517 Mus musculus miR-546 stem-loop
+20975 121 0
+0 mmu-mir-540 MI0003518 Mus musculus miR-540 stem-loop
+21096 67 0
+0 mmu-mir-543 MI0003519 Mus musculus miR-543 stem-loop
+21163 76 0
+0 mmu-mir-539 MI0003520 Mus musculus miR-539 stem-loop
+21239 74 0
+0 mmu-mir-541 MI0003521 Mus musculus miR-541 stem-loop
+21313 90 0
+0 mmu-mir-542 MI0003522 Mus musculus miR-542 stem-loop
+21403 85 0
+0 mmu-mir-547 MI0003523 Mus musculus miR-547 stem-loop
+21488 78 0
+0 mmu-mir-367 MI0003531 Mus musculus miR-367 stem-loop
+21566 75 0
+0 mmu-mir-494 MI0003532 Mus musculus miR-494 stem-loop
+21641 85 0
+0 mmu-mir-376c MI0003533 Mus musculus miR-376c stem-loop
+21726 86 0
+0 mmu-mir-487b MI0003534 Mus musculus miR-487b stem-loop
+21812 82 0
+0 mmu-mir-369 MI0003535 Mus musculus miR-369 stem-loop
+21894 79 0
+0 mmu-mir-20b MI0003536 Mus musculus miR-20b stem-loop
+21973 80 0
+0 mmu-mir-450a-2 MI0003537 Mus musculus miR-450a-2 stem-loop
+22053 69 0
+0 mmu-mir-503 MI0003538 Mus musculus miR-503 stem-loop
+22122 71 0
+0 mmu-mir-291b MI0003539 Mus musculus miR-291b stem-loop
+22193 79 0
+0 mmu-mir-302b MI0003716 Mus musculus miR-302b stem-loop
+22272 74 0
+0 mmu-mir-302c MI0003717 Mus musculus miR-302c stem-loop
+22346 68 0
+0 mmu-mir-302d MI0003718 Mus musculus miR-302d stem-loop
+22414 66 0
+0 mmu-mir-1224 MI0004118 Mus musculus mir-1224 stem-loop
+22480 85 0
+0 mmu-mir-1247 MI0004120 Mus musculus miR-1247 stem-loop
+22565 82 0
+0 mmu-mir-301b MI0004122 Mus musculus mir-301b stem-loop
+22647 97 0
+0 mmu-mir-675 MI0004123 Mus musculus mir-675 stem-loop
+22744 84 0
+0 mmu-mir-744 MI0004124 Mus musculus mir-744 stem-loop
+22828 100 0
+0 mmu-mir-374 MI0004125 Mus musculus mir-374 stem-loop
+22928 95 0
+0 mmu-mir-216b MI0004126 Mus musculus mir-216b stem-loop
+23023 86 0
+0 mmu-mir-592 MI0004127 Mus musculus mir-592 stem-loop
+23109 96 0
+0 mmu-mir-758 MI0004129 Mus musculus miR-758 stem-loop
+23205 81 0
+0 mmu-mir-1264 MI0004130 Mus musculus miR-1264 stem-loop
+23286 86 0
+0 mmu-mir-551b MI0004131 Mus musculus mir-551b stem-loop
+23372 98 0
+0 mmu-mir-1249 MI0004132 Mus musculus mir-1249 stem-loop
+23470 98 0
+0 mmu-mir-671 MI0004133 Mus musculus mir-671 stem-loop
+23568 98 0
+0 mmu-mir-668 MI0004134 Mus musculus mir-668 stem-loop
+23666 66 0
+0 mmu-mir-1843 MI0004155 Mus musculus miR-1843 stem-loop
+23732 65 0
+0 mmu-mir-665 MI0004171 Mus musculus mir-665 stem-loop
+23797 94 0
+0 mmu-mir-667 MI0004196 Mus musculus mir-667 stem-loop
+23891 92 0
+0 mmu-mir-770 MI0004203 Mus musculus miR-770 stem-loop
+23983 94 0
+0 mmu-mir-762 MI0004215 Mus musculus miR-762 stem-loop
+24077 76 0
+0 mmu-mir-3475 MI0004220 Mus musculus miR-3475 stem-loop
+24153 65 0
+0 mmu-mir-344d-3 MI0004227 Mus musculus miR-344d-3 stem-loop
+24218 80 0
+0 mmu-mir-802 MI0004249 Mus musculus mir-802 stem-loop
+24298 97 0
+0 mmu-mir-672 MI0004258 Mus musculus mir-672 stem-loop
+24395 100 0
+0 mmu-mir-670 MI0004295 Mus musculus mir-670 stem-loop
+24495 100 0
+0 mmu-mir-1298 MI0004300 Mus musculus miR-1298 stem-loop
+24595 98 0
+0 mmu-mir-761 MI0004306 Mus musculus miR-761 stem-loop
+24693 76 0
+0 mmu-mir-764 MI0004310 Mus musculus miR-764 stem-loop
+24769 108 0
+0 mmu-mir-3059 MI0004412 Mus musculus miR-3059 stem-loop
+24877 81 0
+0 mmu-mir-3058 MI0004418 Mus musculus miR-3058 stem-loop
+24958 91 0
+0 mmu-mir-3099 MI0004485 Mus musculus miR-3099 stem-loop
+25049 84 0
+0 mmu-mir-3106 MI0004486 Mus musculus miR-3106 stem-loop
+25133 82 0
+0 mmu-mir-763 MI0004516 Mus musculus miR-763 stem-loop
+25215 120 0
+0 mmu-mir-669a-1 MI0004523 Mus musculus mir-669a-1 stem-loop
+25335 97 0
+0 mmu-mir-344d-1 MI0004524 Mus musculus miR-344d-1 stem-loop
+25432 69 0
+0 mmu-mir-666 MI0004553 Mus musculus mir-666 stem-loop
+25501 99 0
+0 mmu-mir-759 MI0004554 Mus musculus miR-759 stem-loop
+25600 98 0
+0 mmu-mir-496 MI0004589 Mus musculus mir-496 stem-loop
+25698 79 0
+0 mmu-mir-673 MI0004601 Mus musculus mir-673 stem-loop
+25777 91 0
+0 mmu-mir-760 MI0004605 Mus musculus miR-760 stem-loop
+25868 119 0
+0 mmu-mir-674 MI0004611 Mus musculus mir-674 stem-loop
+25987 100 0
+0 mmu-mir-344d-2 MI0004619 Mus musculus miR-344d-2 stem-loop
+26087 80 0
+0 mmu-mir-488 MI0004633 Mus musculus miR-488 stem-loop
+26167 109 0
+0 mmu-mir-677 MI0004634 Mus musculus miR-677 stem-loop
+26276 78 0
+0 mmu-mir-678 MI0004635 Mus musculus miR-678 stem-loop
+26354 84 0
+0 mmu-mir-497 MI0004636 Mus musculus miR-497 stem-loop
+26438 84 0
+0 mmu-mir-423 MI0004637 Mus musculus miR-423 stem-loop
+26522 109 0
+0 mmu-mir-679 MI0004638 Mus musculus miR-679 stem-loop
+26631 74 0
+0 mmu-mir-495 MI0004639 Mus musculus miR-495 stem-loop
+26705 63 0
+0 mmu-mir-680-1 MI0004640 Mus musculus miR-680-1 stem-loop
+26768 109 0
+0 mmu-mir-680-2 MI0004641 Mus musculus miR-680-2 stem-loop
+26877 110 0
+0 mmu-mir-680-3 MI0004642 Mus musculus miR-680-3 stem-loop
+26987 87 0
+0 mmu-mir-681 MI0004643 Mus musculus miR-681 stem-loop
+27074 110 0
+0 mmu-mir-682 MI0004644 Mus musculus miR-682 stem-loop
+27184 96 0
+0 mmu-mir-449c MI0004645 Mus musculus miR-449c stem-loop
+27280 109 0
+0 mmu-mir-683-1 MI0004646 Mus musculus miR-683-1 stem-loop
+27389 109 0
+0 mmu-mir-684-1 MI0004647 Mus musculus miR-684-1 stem-loop
+27498 86 0
+0 mmu-mir-684-2 MI0004648 Mus musculus miR-684-2 stem-loop
+27584 86 0
+0 mmu-mir-686 MI0004650 Mus musculus miR-686 stem-loop
+27670 109 0
+0 mmu-mir-719 MI0004651 Mus musculus miR-719 stem-loop
+27779 110 0
+0 mmu-mir-687 MI0004652 Mus musculus miR-687 stem-loop
+27889 89 0
+0 mmu-mir-688 MI0004653 Mus musculus miR-688 stem-loop
+27978 75 0
+0 mmu-mir-690 MI0004658 Mus musculus miR-690 stem-loop
+28053 109 0
+0 mmu-mir-691 MI0004659 Mus musculus miR-691 stem-loop
+28162 78 0
+0 mmu-mir-692-1 MI0004660 Mus musculus miR-692-1 stem-loop
+28240 109 0
+0 mmu-mir-692-2 MI0004661 Mus musculus miR-692-2 stem-loop
+28349 109 0
+0 mmu-mir-693 MI0004662 Mus musculus miR-693 stem-loop
+28458 89 0
+0 mmu-mir-694 MI0004664 Mus musculus miR-694 stem-loop
+28547 70 0
+0 mmu-mir-146b MI0004665 Mus musculus miR-146b stem-loop
+28617 109 0
+0 mmu-mir-669b MI0004666 Mus musculus miR-669b stem-loop
+28726 97 0
+0 mmu-mir-669a-2 MI0004667 Mus musculus miR-669a-2 stem-loop
+28823 97 0
+0 mmu-mir-669a-3 MI0004668 Mus musculus miR-669a-3 stem-loop
+28920 109 0
+0 mmu-mir-467b MI0004671 Mus musculus miR-467b stem-loop
+29029 73 0
+0 mmu-mir-669c MI0004673 Mus musculus miR-669c stem-loop
+29102 109 0
+0 mmu-mir-297b MI0004674 Mus musculus miR-297b stem-loop
+29211 109 0
+0 mmu-mir-695 MI0004675 Mus musculus miR-695 stem-loop
+29320 109 0
+0 mmu-mir-499 MI0004676 Mus musculus miR-499 stem-loop
+29429 79 0
+0 mmu-mir-696 MI0004677 Mus musculus miR-696 stem-loop
+29508 88 0
+0 mmu-mir-720 MI0004678 Mus musculus miR-720 stem-loop
+29596 64 0
+0 mmu-mir-455 MI0004679 Mus musculus miR-455 stem-loop
+29660 82 0
+0 mmu-mir-491 MI0004680 Mus musculus miR-491 stem-loop
+29742 86 0
+0 mmu-mir-697 MI0004681 Mus musculus miR-697 stem-loop
+29828 109 0
+0 mmu-mir-698 MI0004682 Mus musculus miR-698 stem-loop
+29937 109 0
+0 mmu-mir-700 MI0004684 Mus musculus miR-700 stem-loop
+30046 79 0
+0 mmu-mir-701 MI0004685 Mus musculus miR-701 stem-loop
+30125 109 0
+0 mmu-mir-702 MI0004686 Mus musculus miR-702 stem-loop
+30234 109 0
+0 mmu-mir-703 MI0004687 Mus musculus miR-703 stem-loop
+30343 109 0
+0 mmu-mir-704 MI0004688 Mus musculus miR-704 stem-loop
+30452 77 0
+0 mmu-mir-705 MI0004689 Mus musculus miR-705 stem-loop
+30529 82 0
+0 mmu-mir-706 MI0004690 Mus musculus miR-706 stem-loop
+30611 84 0
+0 mmu-mir-707 MI0004691 Mus musculus miR-707 stem-loop
+30695 73 0
+0 mmu-mir-708 MI0004692 Mus musculus miR-708 stem-loop
+30768 109 0
+0 mmu-mir-709 MI0004693 Mus musculus miR-709 stem-loop
+30877 88 0
+0 mmu-mir-710 MI0004694 Mus musculus miR-710 stem-loop
+30965 110 0
+0 mmu-mir-711 MI0004695 Mus musculus miR-711 stem-loop
+31075 82 0
+0 mmu-mir-712 MI0004696 Mus musculus miR-712 stem-loop
+31157 109 0
+0 mmu-mir-713 MI0004698 Mus musculus miR-713 stem-loop
+31266 108 0
+0 mmu-mir-714 MI0004699 Mus musculus miR-714 stem-loop
+31374 110 0
+0 mmu-mir-500 MI0004702 Mus musculus miR-500 stem-loop
+31484 92 0
+0 mmu-mir-501 MI0004703 Mus musculus miR-501 stem-loop
+31576 109 0
+0 mmu-mir-717 MI0004704 Mus musculus miR-717 stem-loop
+31685 109 0
+0 mmu-mir-450b MI0004705 Mus musculus miR-450b stem-loop
+31794 82 0
+0 mmu-mir-505 MI0004706 Mus musculus miR-505 stem-loop
+31876 90 0
+0 mmu-mir-718 MI0004707 Mus musculus miR-718 stem-loop
+31966 88 0
+0 mmu-mir-721 MI0004708 Mus musculus miR-721 stem-loop
+32054 88 0
+0 mmu-mir-652 MI0004965 Mus musculus miR-652 stem-loop
+32142 98 0
+0 mmu-mir-490 MI0005002 Mus musculus miR-490 stem-loop
+32240 84 0
+0 mmu-mir-676 MI0005003 Mus musculus miR-676 stem-loop
+32324 89 0
+0 mmu-mir-615 MI0005004 Mus musculus miR-615 stem-loop
+32413 92 0
+0 mmu-mir-804 MI0005203 Mus musculus miR-804 stem-loop
+32505 95 0
+0 mmu-mir-741 MI0005205 Mus musculus miR-741 stem-loop
+32600 71 0
+0 mmu-mir-742 MI0005206 Mus musculus miR-742 stem-loop
+32671 65 0
+0 mmu-mir-743a MI0005207 Mus musculus miR-743a stem-loop
+32736 62 0
+0 mmu-mir-181d MI0005450 Mus musculus miR-181d stem-loop
+32798 72 0
+0 mmu-mir-743b MI0005470 Mus musculus miR-743b stem-loop
+32870 77 0
+0 mmu-mir-871 MI0005471 Mus musculus miR-871 stem-loop
+32947 77 0
+0 mmu-mir-879 MI0005472 Mus musculus miR-879 stem-loop
+33024 76 0
+0 mmu-mir-880 MI0005473 Mus musculus miR-880 stem-loop
+33100 78 0
+0 mmu-mir-881 MI0005474 Mus musculus miR-881 stem-loop
+33178 78 0
+0 mmu-mir-882 MI0005475 Mus musculus miR-882 stem-loop
+33256 77 0
+0 mmu-mir-883a MI0005476 Mus musculus miR-883a stem-loop
+33333 76 0
+0 mmu-mir-883b MI0005477 Mus musculus miR-883b stem-loop
+33409 78 0
+0 mmu-mir-190b MI0005478 Mus musculus miR-190b stem-loop
+33487 80 0
+0 mmu-mir-874 MI0005479 Mus musculus miR-874 stem-loop
+33567 76 0
+0 mmu-mir-876 MI0005480 Mus musculus miR-876 stem-loop
+33643 81 0
+0 mmu-mir-105 MI0005481 Mus musculus miR-105 stem-loop
+33724 80 0
+0 mmu-mir-147 MI0005482 Mus musculus miR-147 stem-loop
+33804 79 0
+0 mmu-mir-18b MI0005483 Mus musculus miR-18b stem-loop
+33883 83 0
+0 mmu-mir-193b MI0005484 Mus musculus miR-193b stem-loop
+33966 79 0
+0 mmu-mir-297a-3 MI0005488 Mus musculus miR-297a-3 stem-loop
+34045 102 0
+0 mmu-mir-297a-4 MI0005489 Mus musculus miR-297a-4 stem-loop
+34147 98 0
+0 mmu-mir-297c MI0005492 Mus musculus miR-297c stem-loop
+34245 98 0
+0 mmu-mir-327 MI0005493 Mus musculus miR-327 stem-loop
+34343 69 0
+0 mmu-mir-343 MI0005494 Mus musculus miR-343 stem-loop
+34412 75 0
+0 mmu-mir-344-2 MI0005495 Mus musculus miR-344-2 stem-loop
+34487 80 0
+0 mmu-mir-421 MI0005496 Mus musculus miR-421 stem-loop
+34567 76 0
+0 mmu-mir-453 MI0005497 Mus musculus miR-453 stem-loop
+34643 82 0
+0 mmu-mir-465b-1 MI0005498 Mus musculus miR-465b-1 stem-loop
+34725 79 0
+0 mmu-mir-465b-2 MI0005499 Mus musculus miR-465b-2 stem-loop
+34804 79 0
+0 mmu-mir-465c-1 MI0005500 Mus musculus miR-465c-1 stem-loop
+34883 81 0
+0 mmu-mir-465c-2 MI0005501 Mus musculus miR-465c-2 stem-loop
+34964 81 0
+0 mmu-mir-466b-1 MI0005502 Mus musculus miR-466b-1 stem-loop
+35045 82 0
+0 mmu-mir-466b-2 MI0005503 Mus musculus miR-466b-2 stem-loop
+35127 82 0
+0 mmu-mir-466b-3 MI0005504 Mus musculus miR-466b-3 stem-loop
+35209 81 0
+0 mmu-mir-466c-1 MI0005505 Mus musculus miR-466c-1 stem-loop
+35290 84 0
+0 mmu-mir-466e MI0005506 Mus musculus miR-466e stem-loop
+35374 84 0
+0 mmu-mir-466f-1 MI0005507 Mus musculus miR-466f-1 stem-loop
+35458 94 0
+0 mmu-mir-466f-2 MI0005508 Mus musculus miR-466f-2 stem-loop
+35552 94 0
+0 mmu-mir-466f-3 MI0005509 Mus musculus miR-466f-3 stem-loop
+35646 94 0
+0 mmu-mir-466g MI0005510 Mus musculus miR-466g stem-loop
+35740 80 0
+0 mmu-mir-466h MI0005511 Mus musculus miR-466h stem-loop
+35820 81 0
+0 mmu-mir-467c MI0005512 Mus musculus miR-467c stem-loop
+35901 97 0
+0 mmu-mir-467d MI0005513 Mus musculus miR-467d stem-loop
+35998 85 0
+0 mmu-mir-493 MI0005514 Mus musculus miR-493 stem-loop
+36083 83 0
+0 mmu-mir-504 MI0005515 Mus musculus miR-504 stem-loop
+36166 79 0
+0 mmu-mir-509 MI0005516 Mus musculus miR-509 stem-loop
+36245 75 0
+0 mmu-mir-568 MI0005517 Mus musculus miR-568 stem-loop
+36320 83 0
+0 mmu-mir-574 MI0005518 Mus musculus miR-574 stem-loop
+36403 78 0
+0 mmu-mir-590 MI0005519 Mus musculus miR-590 stem-loop
+36481 81 0
+0 mmu-mir-654 MI0005520 Mus musculus miR-654 stem-loop
+36562 84 0
+0 mmu-mir-92b MI0005521 Mus musculus miR-92b stem-loop
+36646 83 0
+0 mmu-mir-466d MI0005546 Mus musculus miR-466d stem-loop
+36729 96 0
+0 mmu-mir-449b MI0005547 Mus musculus miR-449b stem-loop
+36825 80 0
+0 mmu-mir-878 MI0005548 Mus musculus miR-878 stem-loop
+36905 78 0
+0 mmu-mir-872 MI0005549 Mus musculus miR-872 stem-loop
+36983 81 0
+0 mmu-mir-873 MI0005550 Mus musculus miR-873 stem-loop
+37064 77 0
+0 mmu-mir-875 MI0005551 Mus musculus miR-875 stem-loop
+37141 78 0
+0 mmu-mir-208b MI0005552 Mus musculus miR-208b stem-loop
+37219 77 0
+0 mmu-mir-877 MI0005553 Mus musculus miR-877 stem-loop
+37296 85 0
+0 mmu-mir-511 MI0005554 Mus musculus miR-511 stem-loop
+37381 79 0
+0 mmu-mir-544 MI0005555 Mus musculus miR-544 stem-loop
+37460 78 0
+0 mmu-mir-598 MI0005556 Mus musculus miR-598 stem-loop
+37538 79 0
+0 mmu-mir-653 MI0005557 Mus musculus miR-653 stem-loop
+37617 85 0
+0 mmu-mir-582 MI0006127 Mus musculus miR-582 stem-loop
+37702 81 0
+0 mmu-mir-467e MI0006128 Mus musculus miR-467e stem-loop
+37783 87 0
+0 mmu-mir-466l MI0006278 Mus musculus miR-466l stem-loop
+37870 121 0
+0 mmu-mir-669k MI0006279 Mus musculus miR-669k stem-loop
+37991 127 0
+0 mmu-mir-669g MI0006280 Mus musculus miR-669g stem-loop
+38118 123 0
+0 mmu-mir-669d MI0006281 Mus musculus miR-669d stem-loop
+38241 121 0
+0 mmu-mir-466i MI0006282 Mus musculus miR-466i stem-loop
+38362 121 0
+0 mmu-mir-1b MI0006283 Mus musculus miR-1b stem-loop
+38483 122 0
+0 mmu-mir-1186 MI0006284 Mus musculus miR-1186 stem-loop
+38605 122 0
+0 mmu-mir-1187 MI0006285 Mus musculus miR-1187 stem-loop
+38727 122 0
+0 mmu-mir-669j MI0006286 Mus musculus miR-669j stem-loop
+38849 121 0
+0 mmu-mir-669f MI0006287 Mus musculus miR-669f stem-loop
+38970 121 0
+0 mmu-mir-669i MI0006288 Mus musculus miR-669i stem-loop
+39091 127 0
+0 mmu-mir-669h MI0006289 Mus musculus miR-669h stem-loop
+39218 125 0
+0 mmu-mir-1188 MI0006290 Mus musculus miR-1188 stem-loop
+39343 120 0
+0 mmu-mir-466f-4 MI0006291 Mus musculus miR-466f-4 stem-loop
+39463 121 0
+0 mmu-mir-466k MI0006292 Mus musculus miR-466k stem-loop
+39584 122 0
+0 mmu-mir-467f MI0006293 Mus musculus miR-467f stem-loop
+39706 120 0
+0 mmu-mir-1190 MI0006294 Mus musculus miR-1190 stem-loop
+39826 121 0
+0 mmu-mir-466j MI0006295 Mus musculus miR-466j stem-loop
+39947 122 0
+0 mmu-mir-1191 MI0006296 Mus musculus miR-1191 stem-loop
+40069 120 0
+0 mmu-mir-1192 MI0006297 Mus musculus miR-1192 stem-loop
+40189 121 0
+0 mmu-mir-1193 MI0006298 Mus musculus miR-1193 stem-loop
+40310 121 0
+0 mmu-mir-1194 MI0006299 Mus musculus miR-1194 stem-loop
+40431 121 0
+0 mmu-mir-669e MI0006300 Mus musculus miR-669e stem-loop
+40552 119 0
+0 mmu-mir-467g MI0006301 Mus musculus miR-467g stem-loop
+40671 120 0
+0 mmu-mir-467h MI0006302 Mus musculus miR-467h stem-loop
+40791 121 0
+0 mmu-mir-1195 MI0006303 Mus musculus miR-1195 stem-loop
+40912 98 0
+0 mmu-mir-1196 MI0006304 Mus musculus miR-1196 stem-loop
+41010 119 0
+0 mmu-mir-1197 MI0006305 Mus musculus miR-1197 stem-loop
+41129 120 0
+0 mmu-mir-1198 MI0006306 Mus musculus miR-1198 stem-loop
+41249 121 0
+0 mmu-mir-1199 MI0006307 Mus musculus miR-1199 stem-loop
+41370 119 0
+0 mmu-mir-1902 MI0008313 Mus musculus miR-1902 stem-loop
+41489 80 0
+0 mmu-mir-1897 MI0008314 Mus musculus miR-1897 stem-loop
+41569 79 0
+0 mmu-mir-1905 MI0008315 Mus musculus miR-1905 stem-loop
+41648 82 0
+0 mmu-mir-1895 MI0008316 Mus musculus miR-1895 stem-loop
+41730 79 0
+0 mmu-mir-1903 MI0008317 Mus musculus miR-1903 stem-loop
+41809 80 0
+0 mmu-mir-1899 MI0008318 Mus musculus miR-1899 stem-loop
+41889 96 0
+0 mmu-mir-1900 MI0008319 Mus musculus miR-1900 stem-loop
+41985 78 0
+0 mmu-mir-1892 MI0008320 Mus musculus miR-1892 stem-loop
+42063 80 0
+0 mmu-mir-1906-1 MI0008321 Mus musculus miR-1906-1 stem-loop
+42143 80 0
+0 mmu-mir-1896 MI0008322 Mus musculus miR-1896 stem-loop
+42223 81 0
+0 mmu-mir-1904 MI0008323 Mus musculus miR-1904 stem-loop
+42304 80 0
+0 mmu-mir-1898 MI0008324 Mus musculus miR-1898 stem-loop
+42384 83 0
+0 mmu-mir-1907 MI0008325 Mus musculus miR-1907 stem-loop
+42467 90 0
+0 mmu-mir-1894 MI0008326 Mus musculus miR-1894 stem-loop
+42557 81 0
+0 mmu-mir-1893 MI0008327 Mus musculus miR-1893 stem-loop
+42638 83 0
+0 mmu-mir-1901 MI0008328 Mus musculus miR-1901 stem-loop
+42721 78 0
+0 mmu-mir-1927 MI0009914 Mus musculus miR-1927 stem-loop
+42799 109 0
+0 mmu-mir-1928 MI0009917 Mus musculus miR-1928 stem-loop
+42908 67 0
+0 mmu-mir-1929 MI0009918 Mus musculus miR-1929 stem-loop
+42975 93 0
+0 mmu-mir-1930 MI0009919 Mus musculus miR-1930 stem-loop
+43068 84 0
+0 mmu-mir-1931 MI0009920 Mus musculus miR-1931 stem-loop
+43152 119 0
+0 mmu-mir-1932 MI0009921 Mus musculus miR-1932 stem-loop
+43271 90 0
+0 mmu-mir-1933 MI0009922 Mus musculus miR-1933 stem-loop
+43361 88 0
+0 mmu-mir-1934 MI0009923 Mus musculus miR-1934 stem-loop
+43449 83 0
+0 mmu-mir-1935 MI0009924 Mus musculus miR-1935 stem-loop
+43532 60 0
+0 mmu-mir-1936 MI0009925 Mus musculus miR-1936 stem-loop
+43592 93 0
+0 mmu-mir-1938 MI0009927 Mus musculus miR-1938 stem-loop
+43685 100 0
+0 mmu-mir-1940 MI0009929 Mus musculus miR-1940 stem-loop
+43785 104 0
+0 mmu-mir-1941 MI0009930 Mus musculus miR-1941 stem-loop
+43889 83 0
+0 mmu-mir-1942 MI0009931 Mus musculus miR-1942 stem-loop
+43972 63 0
+0 mmu-mir-1943 MI0009932 Mus musculus miR-1943 stem-loop
+44035 73 0
+0 mmu-mir-1945 MI0009934 Mus musculus miR-1945 stem-loop
+44108 78 0
+0 mmu-mir-1306 MI0009935 Mus musculus miR-1306 stem-loop
+44186 79 0
+0 mmu-mir-1946a MI0009936 Mus musculus miR-1946a stem-loop
+44265 134 0
+0 mmu-mir-1947 MI0009937 Mus musculus miR-1947 stem-loop
+44399 85 0
+0 mmu-mir-1948 MI0009939 Mus musculus miR-1948 stem-loop
+44484 85 0
+0 mmu-mir-1949 MI0009940 Mus musculus miR-1949 stem-loop
+44569 70 0
+0 mmu-mir-1950 MI0009941 Mus musculus miR-1950 stem-loop
+44639 74 0
+0 mmu-mir-669l MI0009942 Mus musculus miR-669l stem-loop
+44713 98 0
+0 mmu-mir-669m-1 MI0009943 Mus musculus miR-669m stem-loop
+44811 98 0
+0 mmu-mir-669m-2 MI0009944 Mus musculus miR-669n stem-loop
+44909 98 0
+0 mmu-mir-669o MI0009945 Mus musculus miR-669o stem-loop
+45007 96 0
+0 mmu-mir-1951 MI0009946 Mus musculus miR-1951 stem-loop
+45103 89 0
+0 mmu-mir-1952 MI0009947 Mus musculus miR-1952 stem-loop
+45192 79 0
+0 mmu-mir-1953 MI0009948 Mus musculus miR-1953 stem-loop
+45271 89 0
+0 mmu-mir-1954 MI0009949 Mus musculus miR-1954 stem-loop
+45360 86 0
+0 mmu-mir-1955 MI0009950 Mus musculus miR-1955 stem-loop
+45446 98 0
+0 mmu-mir-669n MI0009951 Mus musculus miR-669n stem-loop
+45544 54 0
+0 mmu-mir-1956 MI0009952 Mus musculus miR-1956 stem-loop
+45598 65 0
+0 mmu-mir-1957 MI0009954 Mus musculus miR-1957 stem-loop
+45663 66 0
+0 mmu-mir-1958 MI0009955 Mus musculus miR-1958 stem-loop
+45729 97 0
+0 mmu-mir-1960 MI0009957 Mus musculus miR-1960 stem-loop
+45826 78 0
+0 mmu-mir-1961 MI0009958 Mus musculus miR-1961 stem-loop
+45904 112 0
+0 mmu-mir-1962 MI0009959 Mus musculus miR-1962 stem-loop
+46016 121 0
+0 mmu-mir-1963 MI0009960 Mus musculus miR-1963 stem-loop
+46137 59 0
+0 mmu-mir-1964 MI0009961 Mus musculus miR-1964 stem-loop
+46196 83 0
+0 mmu-mir-1965 MI0009962 Mus musculus miR-1965 stem-loop
+46279 126 0
+0 mmu-mir-1966 MI0009963 Mus musculus miR-1966 stem-loop
+46405 108 0
+0 mmu-mir-1967 MI0009964 Mus musculus miR-1967 stem-loop
+46513 82 0
+0 mmu-mir-1968 MI0009965 Mus musculus miR-1968 stem-loop
+46595 68 0
+0 mmu-mir-1969 MI0009966 Mus musculus miR-1969 stem-loop
+46663 94 0
+0 mmu-mir-1946b MI0009967 Mus musculus miR-1946b stem-loop
+46757 133 0
+0 mmu-mir-1970 MI0009968 Mus musculus miR-1970 stem-loop
+46890 104 0
+0 mmu-mir-1971 MI0009970 Mus musculus miR-1971 stem-loop
+46994 106 0
+0 mmu-mir-1983 MI0009990 Mus musculus miR-1983 stem-loop
+47100 132 0
+0 mmu-mir-1839 MI0009991 Mus musculus miR-1839 stem-loop
+47232 73 0
+0 mmu-mir-1981 MI0009992 Mus musculus miR-1981 stem-loop
+47305 82 0
+0 mmu-mir-1982 MI0009993 Mus musculus miR-1982 stem-loop
+47387 74 0
+0 mmu-mir-683-2 MI0010690 Mus musculus miR-683-2 stem-loop
+47461 109 0
+0 mmu-mir-2136 MI0010749 Mus musculus miR-2136 stem-loop
+47570 75 0
+0 mmu-mir-2137 MI0010750 Mus musculus miR-2137 stem-loop
+47645 66 0
+0 mmu-mir-2139 MI0010752 Mus musculus miR-2139 stem-loop
+47711 95 0
+0 mmu-mir-2182 MI0010832 Mus musculus miR-2182 stem-loop
+47806 116 0
+0 mmu-mir-2183 MI0010833 Mus musculus miR-2183 stem-loop
+47922 60 0
+0 mmu-mir-432 MI0012528 Mus musculus miR-432 stem-loop
+47982 75 0
+0 mmu-mir-599 MI0012529 Mus musculus miR-599 stem-loop
+48057 88 0
+0 mmu-mir-767 MI0012530 Mus musculus miR-767 stem-loop
+48145 107 0
+0 mmu-mir-664 MI0012531 Mus musculus miR-664 stem-loop
+48252 69 0
+0 mmu-mir-2861 MI0013007 Mus musculus miR-2861 stem-loop
+48321 82 0
+0 mmu-mir-3057 MI0014020 Mus musculus miR-3057 stem-loop
+48403 91 0
+0 mmu-mir-1251 MI0014021 Mus musculus miR-1251 stem-loop
+48494 84 0
+0 mmu-mir-3060 MI0014022 Mus musculus miR-3060 stem-loop
+48578 83 0
+0 mmu-mir-3061 MI0014023 Mus musculus miR-3061 stem-loop
+48661 91 0
+0 mmu-mir-3062 MI0014024 Mus musculus miR-3062 stem-loop
+48752 105 0
+0 mmu-mir-3063 MI0014025 Mus musculus miR-3063 stem-loop
+48857 92 0
+0 mmu-mir-3064 MI0014026 Mus musculus miR-3064 stem-loop
+48949 67 0
+0 mmu-mir-3065 MI0014027 Mus musculus miR-3065 stem-loop
+49016 87 0
+0 mmu-mir-3066 MI0014028 Mus musculus miR-3066 stem-loop
+49103 83 0
+0 mmu-mir-3067 MI0014029 Mus musculus miR-3067 stem-loop
+49186 84 0
+0 mmu-mir-3068 MI0014030 Mus musculus miR-3068 stem-loop
+49270 79 0
+0 mmu-mir-3069 MI0014031 Mus musculus miR-3069 stem-loop
+49349 65 0
+0 mmu-mir-3070a MI0014032 Mus musculus miR-3070a stem-loop
+49414 89 0
+0 mmu-mir-3070b MI0014033 Mus musculus miR-3070b stem-loop
+49503 89 0
+0 mmu-mir-3071 MI0014034 Mus musculus miR-3071 stem-loop
+49592 80 0
+0 mmu-mir-3072 MI0014035 Mus musculus miR-3072 stem-loop
+49672 83 0
+0 mmu-mir-3073 MI0014036 Mus musculus miR-3073 stem-loop
+49755 85 0
+0 mmu-mir-3074-1 MI0014037 Mus musculus miR-3074-1 stem-loop
+49840 85 0
+0 mmu-mir-3075 MI0014038 Mus musculus miR-3075 stem-loop
+49925 85 0
+0 mmu-mir-3076 MI0014039 Mus musculus miR-3076 stem-loop
+50010 60 0
+0 mmu-mir-3077 MI0014040 Mus musculus miR-3077 stem-loop
+50070 64 0
+0 mmu-mir-3078 MI0014041 Mus musculus miR-3078 stem-loop
+50134 87 0
+0 mmu-mir-3079 MI0014042 Mus musculus miR-3079 stem-loop
+50221 90 0
+0 mmu-mir-3080 MI0014043 Mus musculus miR-3080 stem-loop
+50311 79 0
+0 mmu-mir-3081 MI0014044 Mus musculus miR-3081 stem-loop
+50390 84 0
+0 mmu-mir-3082 MI0014045 Mus musculus miR-3082 stem-loop
+50474 64 0
+0 mmu-mir-3083 MI0014046 Mus musculus miR-3083 stem-loop
+50538 64 0
+0 mmu-mir-3084 MI0014047 Mus musculus miR-3084 stem-loop
+50602 69 0
+0 mmu-mir-3085 MI0014048 Mus musculus miR-3085 stem-loop
+50671 89 0
+0 mmu-mir-3086 MI0014049 Mus musculus miR-3086 stem-loop
+50760 87 0
+0 mmu-mir-466m MI0014050 Mus musculus miR-466m stem-loop
+50847 84 0
+0 mmu-mir-669d-2 MI0014051 Mus musculus miR-669d-2 stem-loop
+50931 86 0
+0 mmu-mir-466o MI0014052 Mus musculus miR-466o stem-loop
+51017 84 0
+0 mmu-mir-467a-2 MI0014053 Mus musculus miR-467a-2 stem-loop
+51101 83 0
+0 mmu-mir-669a-4 MI0014054 Mus musculus miR-669a-4 stem-loop
+51184 87 0
+0 mmu-mir-669a-5 MI0014055 Mus musculus miR-669a-5 stem-loop
+51271 87 0
+0 mmu-mir-467a-3 MI0014056 Mus musculus miR-467a-3 stem-loop
+51358 83 0
+0 mmu-mir-466c-2 MI0014057 Mus musculus miR-466c-2 stem-loop
+51441 90 0
+0 mmu-mir-669a-6 MI0014058 Mus musculus miR-669a-6 stem-loop
+51531 87 0
+0 mmu-mir-467a-4 MI0014059 Mus musculus miR-467a-4 stem-loop
+51618 83 0
+0 mmu-mir-466b-4 MI0014060 Mus musculus miR-466b-4 stem-loop
+51701 90 0
+0 mmu-mir-669a-7 MI0014061 Mus musculus miR-669a-7 stem-loop
+51791 87 0
+0 mmu-mir-467a-5 MI0014062 Mus musculus miR-467a-5 stem-loop
+51878 83 0
+0 mmu-mir-466b-5 MI0014063 Mus musculus miR-466b-5 stem-loop
+51961 88 0
+0 mmu-mir-669p-1 MI0014064 Mus musculus miR-669p-1 stem-loop
+52049 87 0
+0 mmu-mir-467a-6 MI0014065 Mus musculus miR-467a-6 stem-loop
+52136 83 0
+0 mmu-mir-669a-8 MI0014066 Mus musculus miR-669a-8 stem-loop
+52219 87 0
+0 mmu-mir-466b-6 MI0014067 Mus musculus miR-466b-6 stem-loop
+52306 90 0
+0 mmu-mir-669a-9 MI0014068 Mus musculus miR-669a-9 stem-loop
+52396 87 0
+0 mmu-mir-467a-7 MI0014069 Mus musculus miR-467a-7 stem-loop
+52483 83 0
+0 mmu-mir-466b-7 MI0014070 Mus musculus miR-466b-7 stem-loop
+52566 88 0
+0 mmu-mir-669p-2 MI0014071 Mus musculus miR-669p-2 stem-loop
+52654 87 0
+0 mmu-mir-467a-8 MI0014072 Mus musculus miR-467a-8 stem-loop
+52741 83 0
+0 mmu-mir-669a-10 MI0014073 Mus musculus miR-669a-10 stem-loop
+52824 87 0
+0 mmu-mir-467a-9 MI0014074 Mus musculus miR-467a-9 stem-loop
+52911 83 0
+0 mmu-mir-669a-11 MI0014075 Mus musculus miR-669a-11 stem-loop
+52994 87 0
+0 mmu-mir-467a-10 MI0014076 Mus musculus miR-467a-10 stem-loop
+53081 83 0
+0 mmu-mir-669a-12 MI0014077 Mus musculus miR-669a-12 stem-loop
+53164 87 0
+0 mmu-mir-466p MI0014078 Mus musculus miR-466p stem-loop
+53251 89 0
+0 mmu-mir-466n MI0014079 Mus musculus miR-466n stem-loop
+53340 94 0
+0 mmu-mir-3087 MI0014080 Mus musculus miR-3087 stem-loop
+53434 56 0
+0 mmu-mir-3088 MI0014081 Mus musculus miR-3088 stem-loop
+53490 74 0
+0 mmu-mir-3089 MI0014082 Mus musculus miR-3089 stem-loop
+53564 84 0
+0 mmu-mir-3090 MI0014083 Mus musculus miR-3090 stem-loop
+53648 87 0
+0 mmu-mir-3091 MI0014084 Mus musculus miR-3091 stem-loop
+53735 76 0
+0 mmu-mir-3092 MI0014085 Mus musculus miR-3092 stem-loop
+53811 96 0
+0 mmu-mir-3093 MI0014086 Mus musculus miR-3093 stem-loop
+53907 87 0
+0 mmu-mir-3094 MI0014087 Mus musculus miR-3094 stem-loop
+53994 64 0
+0 mmu-mir-3095 MI0014088 Mus musculus miR-3095 stem-loop
+54058 87 0
+0 mmu-mir-3096 MI0014089 Mus musculus miR-3096 stem-loop
+54145 101 0
+0 mmu-mir-3097 MI0014090 Mus musculus miR-3097 stem-loop
+54246 67 0
+0 mmu-mir-3098 MI0014091 Mus musculus miR-3098 stem-loop
+54313 87 0
+0 mmu-mir-3100 MI0014092 Mus musculus miR-3100 stem-loop
+54400 65 0
+0 mmu-mir-3101 MI0014093 Mus musculus miR-3101 stem-loop
+54465 88 0
+0 mmu-mir-344e MI0014094 Mus musculus miR-344e stem-loop
+54553 66 0
+0 mmu-mir-344b MI0014095 Mus musculus miR-344b stem-loop
+54619 63 0
+0 mmu-mir-344c MI0014096 Mus musculus miR-344c stem-loop
+54682 92 0
+0 mmu-mir-344g MI0014097 Mus musculus miR-344g stem-loop
+54774 71 0
+0 mmu-mir-344f MI0014098 Mus musculus miR-344f stem-loop
+54845 68 0
+0 mmu-mir-3102 MI0014099 Mus musculus miR-3102 stem-loop
+54913 104 0
+0 mmu-mir-3103 MI0014100 Mus musculus miR-3103 stem-loop
+55017 67 0
+0 mmu-mir-3104 MI0014101 Mus musculus miR-3104 stem-loop
+55084 63 0
+0 mmu-mir-3105 MI0014102 Mus musculus miR-3105 stem-loop
+55147 85 0
+0 mmu-mir-3107 MI0014103 Mus musculus miR-3107 stem-loop
+55232 90 0
+0 mmu-mir-3074-2 MI0014104 Mus musculus miR-3074-2 stem-loop
+55322 83 0
+0 mmu-mir-3108 MI0014105 Mus musculus miR-3108 stem-loop
+55405 79 0
+0 mmu-mir-3109 MI0014106 Mus musculus miR-3109 stem-loop
+55484 88 0
+0 mmu-mir-3110 MI0014107 Mus musculus miR-3110 stem-loop
+55572 80 0
+0 mmu-mir-374c MI0014108 Mus musculus miR-374c stem-loop
+55652 49 0
+0 mmu-mir-3112 MI0014109 Mus musculus miR-3112 stem-loop
+55701 82 0
+0 mmu-mir-1912 MI0014110 Mus musculus miR-1912 stem-loop
+55783 87 0
+0 mmu-mir-3113 MI0014111 Mus musculus miR-3113 stem-loop
+55870 76 0
+0 mmu-mir-466b-8 MI0014112 Mus musculus miR-466b-8 stem-loop
+55946 86 0
+0 mmu-mir-3470a MI0014696 Mus musculus miR-3470a stem-loop
+56032 77 0
+0 mmu-mir-3470b MI0014697 Mus musculus miR-3470b stem-loop
+56109 126 0
+0 mmu-mir-3471-1 MI0014699 Mus musculus miR-3471-1 stem-loop
+56235 131 0
+0 mmu-mir-3471-2 MI0014701 Mus musculus miR-3471-2 stem-loop
+56366 102 0
+0 mmu-mir-3472 MI0014704 Mus musculus miR-3472 stem-loop
+56468 71 0
+0 mmu-mir-1186b MI0014705 Mus musculus miR-1186b stem-loop
+56539 64 0
+0 mmu-mir-3473 MI0014706 Mus musculus miR-3473 stem-loop
+56603 78 0
+0 mmu-mir-3474 MI0014707 Mus musculus miR-3474 stem-loop
+56681 58 0
+0 mmu-mir-1906-2 MI0015984 Mus musculus miR-1906-2 stem-loop
+56739 80 0
+0 mmu-mir-3960 MI0016963 Mus musculus miR-3960 stem-loop
+56819 73 0
+0 mmu-mir-3961 MI0016965 Mus musculus miR-3961 stem-loop
+56892 59 0
+0 mmu-mir-28c MI0016966 Mus musculus miR-28c stem-loop
+56951 75 0
+0 mmu-mir-3962 MI0016967 Mus musculus miR-3962 stem-loop
+57026 64 0
+0 mmu-mir-3963 MI0016968 Mus musculus miR-3963 stem-loop
+57090 71 0
+0 mmu-mir-3096b MI0016969 Mus musculus miR-3096b stem-loop
+57161 91 0
+0 mmu-mir-3964 MI0016970 Mus musculus miR-3964 stem-loop
+57252 74 0
+0 mmu-mir-1843b MI0016971 Mus musculus miR-1843b stem-loop
+57326 66 0
+0 mmu-mir-3965 MI0016972 Mus musculus miR-3965 stem-loop
+57392 69 0
+0 mmu-mir-378b MI0016973 Mus musculus miR-378b stem-loop
+57461 92 0
+0 mmu-mir-101c MI0016974 Mus musculus miR-101c stem-loop
+57553 75 0
+0 mmu-mir-3966 MI0016975 Mus musculus miR-3966 stem-loop
+57628 85 0
+0 mmu-mir-3967 MI0016976 Mus musculus miR-3967 stem-loop
+57713 68 0
+0 mmu-mir-3968 MI0016977 Mus musculus miR-3968 stem-loop
+57781 100 0
+0 mmu-mir-3969 MI0016978 Mus musculus miR-3969 stem-loop
+57881 92 0
+0 mmu-mir-28b MI0016979 Mus musculus miR-28b stem-loop
+57973 80 0
+0 mmu-mir-3970 MI0016980 Mus musculus miR-3970 stem-loop
+58053 90 0
+0 mmu-mir-3971 MI0016981 Mus musculus miR-3971 stem-loop
+58143 83 0
+0 mmu-mir-3473b MI0016997 Mus musculus miR-3473b stem-loop
+58226 55 0
+0 mmu-mir-5046 MI0017931 Mus musculus miR-5046 stem-loop
+58281 59 0
+0 mmu-mir-5097 MI0018005 Mus musculus miR-5097 stem-loop
+58340 83 0
+0 mmu-mir-5098 MI0018006 Mus musculus miR-5098 stem-loop
+58423 82 0
+0 mmu-mir-5099 MI0018007 Mus musculus miR-5099 stem-loop
+58505 74 0
+0 mmu-mir-5100 MI0018008 Mus musculus miR-5100 stem-loop
+58579 64 0
+0 mmu-mir-5101 MI0018009 Mus musculus miR-5101 stem-loop
+58643 83 0
+0 mmu-mir-5102 MI0018010 Mus musculus miR-5102 stem-loop
+58726 87 0
+0 mmu-mir-5103 MI0018011 Mus musculus miR-5103 stem-loop
+58813 79 0
+0 mmu-mir-5104 MI0018012 Mus musculus miR-5104 stem-loop
+58892 94 0
+0 mmu-mir-5105 MI0018013 Mus musculus miR-5105 stem-loop
+58986 82 0
+0 mmu-mir-5106 MI0018014 Mus musculus miR-5106 stem-loop
+59068 73 0
+0 mmu-mir-3473c MI0018015 Mus musculus miR-3473c stem-loop
+59141 81 0
+0 mmu-mir-5107 MI0018016 Mus musculus miR-5107 stem-loop
+59222 88 0
+0 mmu-mir-5108 MI0018017 Mus musculus miR-5108 stem-loop
+59310 85 0
+0 mmu-mir-5109 MI0018018 Mus musculus miR-5109 stem-loop
+59395 87 0
+0 mmu-mir-5110 MI0018019 Mus musculus miR-5110 stem-loop
+59482 87 0
+0 mmu-mir-5111 MI0018020 Mus musculus miR-5111 stem-loop
+59569 67 0
+0 mmu-mir-5112 MI0018021 Mus musculus miR-5112 stem-loop
+59636 60 0
+0 mmu-mir-5113 MI0018022 Mus musculus miR-5113 stem-loop
+59696 82 0
+0 mmu-mir-5114 MI0018023 Mus musculus miR-5114 stem-loop
+59778 61 0
+0 mmu-mir-5115 MI0018024 Mus musculus miR-5115 stem-loop
+59839 74 0
+0 mmu-mir-5116 MI0018025 Mus musculus miR-5116 stem-loop
+59913 63 0
+0 mmu-mir-5117 MI0018026 Mus musculus miR-5117 stem-loop
+59976 91 0
+0 mmu-mir-5118 MI0018027 Mus musculus miR-5118 stem-loop
+60067 67 0
+0 mmu-mir-5119 MI0018028 Mus musculus miR-5119 stem-loop
+60134 57 0
+0 mmu-mir-5120 MI0018029 Mus musculus miR-5120 stem-loop
+60191 78 0
+0 mmu-mir-5121 MI0018030 Mus musculus miR-5121 stem-loop
+60269 74 0
+0 mmu-mir-5122 MI0018031 Mus musculus miR-5122 stem-loop
+60343 89 0
+0 mmu-mir-466q MI0018032 Mus musculus miR-466q stem-loop
+60432 76 0
+0 mmu-mir-3473d MI0018033 Mus musculus miR-3473d stem-loop
+60508 81 0
+0 mmu-mir-5123 MI0018034 Mus musculus miR-5123 stem-loop
+60589 83 0
+0 mmu-mir-5124 MI0018035 Mus musculus miR-5124 stem-loop
+60672 72 0
+0 mmu-mir-5125 MI0018036 Mus musculus miR-5125 stem-loop
+60744 79 0
+0 mmu-mir-3572 MI0018037 Mus musculus miR-3572 stem-loop
+60823 86 0
+0 mmu-mir-5126 MI0018038 Mus musculus miR-5126 stem-loop
+60909 77 0
+0 mmu-mir-5127 MI0018039 Mus musculus miR-5127 stem-loop
+60986 71 0
+0 mmu-mir-5128 MI0018040 Mus musculus miR-5128 stem-loop
+61057 84 0
+0 mmu-mir-5129 MI0018041 Mus musculus miR-5129 stem-loop
+61141 78 0
+0 mmu-mir-5130 MI0018042 Mus musculus miR-5130 stem-loop
+61219 84 0
+0 mmu-mir-5131 MI0018043 Mus musculus miR-5131 stem-loop
+61303 93 0
+0 mmu-mir-5132 MI0018044 Mus musculus miR-5132 stem-loop
+61396 71 0
+0 mmu-mir-5133 MI0018045 Mus musculus miR-5133 stem-loop
+61467 77 0
+0 mmu-mir-5134 MI0018046 Mus musculus miR-5134 stem-loop
+61544 78 0
+0 mmu-mir-5135 MI0018047 Mus musculus miR-5135 stem-loop
+61622 79 0
+0 mmu-mir-5136 MI0018048 Mus musculus miR-5136 stem-loop
+61701 76 0
+0 mmu-mir-3544 MI0019179 Mus musculus miR-3544 stem-loop
+61777 61 0
+0 mmu-mir-299b MI0019180 Mus musculus miR-299b stem-loop
+61838 49 0
+0 mmu-mir-5615-1 MI0019181 Mus musculus miR-5615-1 stem-loop
+61887 60 0
+0 mmu-mir-5615-2 MI0019182 Mus musculus miR-5615-2 stem-loop
+61947 60 0
+0 mmu-mir-1231 MI0019183 Mus musculus miR-1231 stem-loop
+62007 81 0
+0 mmu-mir-5616 MI0019184 Mus musculus miR-5616 stem-loop
+62088 60 0
+0 mmu-mir-5617 MI0019185 Mus musculus miR-5617 stem-loop
+62148 57 0
+0 mmu-mir-5618 MI0019186 Mus musculus miR-5618 stem-loop
+62205 51 0
+0 mmu-mir-5619 MI0019187 Mus musculus miR-5619 stem-loop
+62256 61 0
+0 mmu-mir-5620 MI0019188 Mus musculus miR-5620 stem-loop
+62317 56 0
+0 mmu-mir-5621 MI0019189 Mus musculus miR-5621 stem-loop
+62373 63 0
+0 mmu-mir-5622 MI0019190 Mus musculus miR-5622 stem-loop
+62436 60 0
+0 mmu-mir-5623 MI0019191 Mus musculus miR-5623 stem-loop
+62496 70 0
+0 mmu-mir-3073b MI0019192 Mus musculus miR-3073b stem-loop
+62566 60 0
+0 mmu-mir-5624 MI0019193 Mus musculus miR-5624 stem-loop
+62626 61 0
+0 mmu-mir-5625 MI0019194 Mus musculus miR-5625 stem-loop
+62687 80 0
+0 mmu-mir-5626 MI0019195 Mus musculus miR-5626 stem-loop
+62767 60 0
+0 mmu-mir-344h-1 MI0019196 Mus musculus miR-344h-1 stem-loop
+62827 60 0
+0 mmu-mir-344h-2 MI0019197 Mus musculus miR-344h-2 stem-loop
+62887 60 0
+0 mmu-mir-5627 MI0019198 Mus musculus miR-5627 stem-loop
+62947 61 0
+0 mmu-mir-344i MI0019317 Mus musculus miR-344i stem-loop
+63008 88 0
+0 mmu-mir-5709 MI0019318 Mus musculus miR-5709 stem-loop
+63096 89 0
+0 mmu-mir-5710 MI0019319 Mus musculus miR-5710 stem-loop
+63185 69 0

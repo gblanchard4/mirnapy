@@ -1,0 +1,603 @@
+22939 301 11
+0 ebv-mir-BHRF1-1 MI0001064 Epstein Barr virus miR-BHRF1-1 stem-loop
+0 66 0
+0 ebv-mir-BHRF1-2 MI0001065 Epstein Barr virus miR-BHRF1-2 stem-loop
+66 65 0
+0 ebv-mir-BHRF1-3 MI0001066 Epstein Barr virus miR-BHRF1-3 stem-loop
+131 65 0
+0 ebv-mir-BART1 MI0001067 Epstein Barr virus miR-BART1 stem-loop
+196 70 0
+0 ebv-mir-BART2 MI0001068 Epstein Barr virus miR-BART2 stem-loop
+266 62 0
+0 mghv-mir-M1-1 MI0001669 Mouse gammaherpesvirus 68 miR-M1-1 stem-loop
+328 65 0
+0 mghv-mir-M1-2 MI0001670 Mouse gammaherpesvirus 68 miR-M1-2 stem-loop
+393 66 0
+0 mghv-mir-M1-3 MI0001671 Mouse gammaherpesvirus 68 miR-M1-3 stem-loop
+459 61 0
+0 mghv-mir-M1-4 MI0001672 Mouse gammaherpesvirus 68 miR-M1-4 stem-loop
+520 94 0
+0 mghv-mir-M1-5 MI0001673 Mouse gammaherpesvirus 68 miR-M1-5 stem-loop
+614 60 0
+0 mghv-mir-M1-6 MI0001674 Mouse gammaherpesvirus 68 miR-M1-6 stem-loop
+674 63 0
+0 mghv-mir-M1-7 MI0001675 Mouse gammaherpesvirus 68 miR-M1-7 stem-loop
+737 60 0
+0 mghv-mir-M1-8 MI0001676 Mouse gammaherpesvirus 68 miR-M1-8 stem-loop
+797 71 0
+0 mghv-mir-M1-9 MI0001677 Mouse gammaherpesvirus 68 miR-M1-9 stem-loop
+868 60 0
+0 hcmv-mir-UL22A MI0001678 Human cytomegalovirus miR-UL22A stem-loop
+928 68 0
+0 hcmv-mir-UL36 MI0001679 Human cytomegalovirus miR-UL36 stem-loop
+996 75 0
+0 hcmv-mir-UL112 MI0001680 Human cytomegalovirus miR-UL112 stem-loop
+1071 67 0
+0 hcmv-mir-UL148D MI0001681 Human cytomegalovirus miR-UL148D stem-loop
+1138 72 0
+0 hcmv-mir-US5-1 MI0001682 Human cytomegalovirus miR-US5-1 stem-loop
+1210 66 0
+0 hcmv-mir-US5-2 MI0001683 Human cytomegalovirus miR-US5-2 stem-loop
+1276 65 0
+0 hcmv-mir-US25-1 MI0001684 Human cytomegalovirus miR-US25-1 stem-loop
+1341 70 0
+0 hcmv-mir-US25-2 MI0001685 Human cytomegalovirus miR-US25-2 stem-loop
+1411 90 0
+0 hcmv-mir-US33 MI0001686 Human cytomegalovirus miR-US33 stem-loop
+1501 70 0
+0 kshv-mir-K12-10a MI0002472 Kaposi sarcoma-associated herpesvirus miR-K12-10a stem-loop
+1571 70 0
+0 kshv-mir-K12-10b MI0002473 Kaposi sarcoma-associated herpesvirus miR-K12-10b stem-loop
+1641 70 0
+0 kshv-mir-K12-11 MI0002474 Kaposi sarcoma-associated herpesvirus miR-K12-11 stem-loop
+1711 71 0
+0 kshv-mir-K12-1 MI0002475 Kaposi sarcoma-associated herpesvirus miR-K12-1 stem-loop
+1782 67 0
+0 kshv-miR-K12-2 MI0002476 Kaposi sarcoma-associated herpesvirus miR-K12-2 stem-loop
+1849 91 0
+0 kshv-mir-K12-9 MI0002477 Kaposi sarcoma-associated herpesvirus miR-K12-9 stem-loop
+1940 66 0
+0 kshv-mir-K12-8 MI0002478 Kaposi sarcoma-associated herpesvirus miR-K12-8 stem-loop
+2006 70 0
+0 kshv-mir-K12-7 MI0002479 Kaposi sarcoma-associated herpesvirus miR-K12-7 stem-loop
+2076 72 0
+0 kshv-mir-K12-6 MI0002480 Kaposi sarcoma-associated herpesvirus miR-K12-6 stem-loop
+2148 62 0
+0 kshv-mir-K12-5 MI0002481 Kaposi sarcoma-associated herpesvirus miR-K12-5 stem-loop
+2210 70 0
+0 kshv-mir-K12-4 MI0002482 Kaposi sarcoma-associated herpesvirus miR-K12-4 stem-loop
+2280 70 0
+0 kshv-mir-K12-3 MI0002483 Kaposi sarcoma-associated herpesvirus miR-K12-3 stem-loop
+2350 70 0
+0 hcmv-mir-US4 MI0003687 Human cytomegalovirus miR-US4 stem-loop
+2420 84 0
+0 hcmv-mir-UL70 MI0003688 Human cytomegalovirus miR-UL70 stem-loop
+2504 66 0
+0 sv40-mir-S1 MI0003689 Simian virus 40 miR-S1 stem-loop
+2570 88 0
+0 ebv-mir-BART3 MI0003725 Epstein Barr virus miR-BART3 stem-loop
+2658 79 0
+0 ebv-mir-BART4 MI0003726 Epstein Barr virus miR-BART4 stem-loop
+2737 76 0
+0 ebv-mir-BART5 MI0003727 Epstein Barr virus miR-BART5 stem-loop
+2813 89 0
+0 ebv-mir-BART6 MI0003728 Epstein Barr virus miR-BART6 stem-loop
+2902 92 0
+0 ebv-mir-BART7 MI0003729 Epstein Barr virus miR-BART7 stem-loop
+2994 86 0
+0 ebv-mir-BART8 MI0003730 Epstein Barr virus miR-BART8 stem-loop
+3080 82 0
+0 ebv-mir-BART9 MI0003731 Epstein Barr virus miR-BART9 stem-loop
+3162 87 0
+0 ebv-mir-BART10 MI0003732 Epstein Barr virus miR-BART10 stem-loop
+3249 90 0
+0 ebv-mir-BART11 MI0003733 Epstein Barr virus miR-BART11 stem-loop
+3339 86 0
+0 ebv-mir-BART12 MI0003734 Epstein Barr virus miR-BART12 stem-loop
+3425 83 0
+0 ebv-mir-BART13 MI0003735 Epstein Barr virus miR-BART13 stem-loop
+3508 86 0
+0 ebv-mir-BART14 MI0003736 Epstein Barr virus miR-BART14 stem-loop
+3594 85 0
+0 rlcv-mir-rL1-1 MI0003737 Rhesus lymphocryptovirus miR-rL1-1 stem-loop
+3679 85 0
+0 rlcv-mir-rL1-2 MI0003738 Rhesus lymphocryptovirus miR-rL1-2 stem-loop
+3764 79 0
+0 rlcv-mir-rL1-3 MI0003739 Rhesus lymphocryptovirus miR-rL1-3 stem-loop
+3843 91 0
+0 rlcv-mir-rL1-4 MI0003740 Rhesus lymphocryptovirus miR-rL1-4 stem-loop
+3934 98 0
+0 rlcv-mir-rL1-5 MI0003741 Rhesus lymphocryptovirus miR-rL1-5 stem-loop
+4032 77 0
+0 rlcv-mir-rL1-6 MI0003742 Rhesus lymphocryptovirus miR-rL1-6 stem-loop
+4109 78 0
+0 rlcv-mir-rL1-7 MI0003743 Rhesus lymphocryptovirus miR-rL1-7 stem-loop
+4187 85 0
+0 rlcv-mir-rL1-8 MI0003744 Rhesus lymphocryptovirus miR-rL1-8 stem-loop
+4272 89 0
+0 rlcv-mir-rL1-9 MI0003745 Rhesus lymphocryptovirus miR-rL1-9 stem-loop
+4361 87 0
+0 rlcv-mir-rL1-10 MI0003746 Rhesus lymphocryptovirus miR-rL1-10 stem-loop
+4448 84 0
+0 rlcv-mir-rL1-11 MI0003747 Rhesus lymphocryptovirus miR-rL1-11 stem-loop
+4532 80 0
+0 rlcv-mir-rL1-12 MI0003748 Rhesus lymphocryptovirus miR-rL1-12 stem-loop
+4612 85 0
+0 rlcv-mir-rL1-13 MI0003749 Rhesus lymphocryptovirus miR-rL1-13 stem-loop
+4697 82 0
+0 rlcv-mir-rL1-14-1 MI0003750 Rhesus lymphocryptovirus miR-rL1-14-1 stem-loop
+4779 86 0
+0 rlcv-mir-rL1-15 MI0003751 Rhesus lymphocryptovirus miR-rL1-15 stem-loop
+4865 96 0
+0 rlcv-mir-rL1-16 MI0003752 Rhesus lymphocryptovirus miR-rL1-16 stem-loop
+4961 81 0
+0 hsv1-mir-H1 MI0004730 Herpes Simplex Virus 1 miR-H1 stem-loop
+5042 86 0
+0 kshv-mir-K12-12 MI0004987 Kaposi sarcoma-associated herpesvirus miR-K12-12 stem-loop
+5128 98 0
+0 ebv-mir-BART15 MI0004988 Epstein Barr virus miR-BART15 stem-loop
+5226 78 0
+0 ebv-mir-BART16 MI0004989 Epstein Barr virus miR-BART16 stem-loop
+5304 99 0
+0 ebv-mir-BART17 MI0004990 Epstein Barr virus miR-BART17 stem-loop
+5403 102 0
+0 ebv-mir-BART18 MI0004991 Epstein Barr virus miR-BART18 stem-loop
+5505 119 0
+0 ebv-mir-BART19 MI0004992 Epstein Barr virus miR-BART19 stem-loop
+5624 93 0
+0 ebv-mir-BART20 MI0004993 Epstein Barr virus miR-BART20 stem-loop
+5717 99 0
+0 mdv1-mir-M1 MI0005093 Mareks disease virus miR-M1 stem-loop
+5816 76 0
+0 mdv1-mir-M2 MI0005094 Mareks disease virus miR-M2 stem-loop
+5892 74 0
+0 mdv1-mir-M3 MI0005095 Mareks disease virus miR-M3 stem-loop
+5966 70 0
+0 mdv1-mir-M4 MI0005096 Mareks disease virus miR-M4 stem-loop
+6036 66 0
+0 mdv1-mir-M5 MI0005097 Mareks disease virus miR-M5 stem-loop
+6102 75 0
+0 mdv1-mir-M6 MI0005098 Mareks disease virus miR-M6 stem-loop
+6177 120 0
+0 mdv1-mir-M7 MI0005099 Mareks disease virus miR-M7 stem-loop
+6297 120 0
+0 mdv1-mir-M8 MI0005100 Mareks disease virus miR-M8 stem-loop
+6417 120 0
+0 rrv-miR-rR1-1 MI0005718 Rhesus monkey rhadinovirus miR-rR1-1 stem-loop
+6537 78 0
+0 rrv-miR-rR1-2 MI0005719 Rhesus monkey rhadinovirus miR-rR1-2 stem-loop
+6615 83 0
+0 rrv-miR-rR1-3 MI0005720 Rhesus monkey rhadinovirus miR-rR1-3 stem-loop
+6698 104 0
+0 rrv-miR-rR1-4 MI0005721 Rhesus monkey rhadinovirus miR-rR1-4 stem-loop
+6802 96 0
+0 rrv-miR-rR1-5 MI0005722 Rhesus monkey rhadinovirus miR-rR1-5 stem-loop
+6898 84 0
+0 rrv-miR-rR1-6 MI0005723 Rhesus monkey rhadinovirus miR-rR1-6 stem-loop
+6982 72 0
+0 rrv-miR-rR1-7 MI0005724 Rhesus monkey rhadinovirus miR-rR1-7 stem-loop
+7054 78 0
+0 mdv2-mir-M14 MI0005882 Mareks disease virus type 2 miR-M14 stem-loop
+7132 65 0
+0 mdv2-mir-M15 MI0005883 Mareks disease virus type 2 miR-M15 stem-loop
+7197 69 0
+0 mdv2-mir-M16 MI0005884 Mareks disease virus type 2 miR-M16 stem-loop
+7266 75 0
+0 mdv2-mir-M17 MI0005885 Mareks disease virus type 2 miR-M17 stem-loop
+7341 75 0
+0 mdv2-mir-M18 MI0005886 Mareks disease virus type 2 miR-M18 stem-loop
+7416 72 0
+0 mdv2-mir-M19 MI0005887 Mareks disease virus type 2 miR-M19 stem-loop
+7488 71 0
+0 mdv2-mir-M20 MI0005888 Mareks disease virus type 2 miR-M20 stem-loop
+7559 66 0
+0 mdv2-mir-M21 MI0005889 Mareks disease virus type 2 miR-M21 stem-loop
+7625 75 0
+0 mdv2-mir-M22 MI0005890 Mareks disease virus type 2 miR-M22 stem-loop
+7700 69 0
+0 mdv2-mir-M23 MI0005891 Mareks disease virus type 2 miR-M23 stem-loop
+7769 65 0
+0 mdv2-mir-M24 MI0005892 Mareks disease virus type 2 miR-M24 stem-loop
+7834 65 0
+0 mdv2-mir-M25 MI0005893 Mareks disease virus type 2 miR-M25 stem-loop
+7899 68 0
+0 mdv2-mir-M26 MI0005894 Mareks disease virus type 2 miR-M26 stem-loop
+7967 62 0
+0 mdv2-mir-M27 MI0005895 Mareks disease virus type 2 miR-M27 stem-loop
+8029 72 0
+0 mdv2-mir-M28 MI0005896 Mareks disease virus type 2 miR-M28 stem-loop
+8101 69 0
+0 mdv2-mir-M29 MI0005897 Mareks disease virus type 2 miR-M29 stem-loop
+8170 61 0
+0 mdv2-mir-M30 MI0005898 Mareks disease virus type 2 miR-M30 stem-loop
+8231 70 0
+0 hiv1-mir-N367 MI0006104 Human immunodeficiency virus 1 miR-N367 stem-loop
+8301 70 0
+0 hiv1-mir-H1 MI0006106 Human immunodeficiency virus 1 miR-H1 stem-loop
+8371 81 0
+0 mcmv-mir-m01-1 MI0006246 Mouse cytomegalovirus miR-m01-1 stem-loop
+8452 63 0
+0 mcmv-mir-m01-2 MI0006247 Mouse cytomegalovirus miR-m01-2 stem-loop
+8515 71 0
+0 mcmv-mir-m01-3 MI0006248 Mouse cytomegalovirus miR-m01-3 stem-loop
+8586 65 0
+0 mcmv-mir-m01-4 MI0006249 Mouse cytomegalovirus miR-m01-4 stem-loop
+8651 66 0
+0 mcmv-mir-m21-1 MI0006250 Mouse cytomegalovirus miR-m21-1 stem-loop
+8717 74 0
+0 mcmv-mir-m22-1 MI0006251 Mouse cytomegalovirus miR-m22-1 stem-loop
+8791 68 0
+0 mcmv-mir-M23-1 MI0006252 Mouse cytomegalovirus miR-M23-1 stem-loop
+8859 66 0
+0 mcmv-mir-M23-2 MI0006253 Mouse cytomegalovirus miR-M23-2 stem-loop
+8925 73 0
+0 mcmv-mir-M44-1 MI0006254 Mouse cytomegalovirus miR-M44-1 stem-loop
+8998 66 0
+0 mcmv-mir-M55-1 MI0006255 Mouse cytomegalovirus miR-M55-1 stem-loop
+9064 67 0
+0 mcmv-mir-m59-1 MI0006256 Mouse cytomegalovirus miR-m59-1 stem-loop
+9131 65 0
+0 mcmv-mir-m59-2 MI0006257 Mouse cytomegalovirus miR-m59-2 stem-loop
+9196 62 0
+0 mcmv-mir-M87-1 MI0006258 Mouse cytomegalovirus miR-M87-1 stem-loop
+9258 64 0
+0 mcmv-mir-m88-1 MI0006259 Mouse cytomegalovirus miR-m88-1 stem-loop
+9322 71 0
+0 mcmv-mir-M95-1 MI0006260 Mouse cytomegalovirus miR-M95-1 stem-loop
+9393 64 0
+0 mcmv-mir-m107-1 MI0006261 Mouse cytomegalovirus miR-m107-1 stem-loop
+9457 65 0
+0 mcmv-mir-m108-1 MI0006262 Mouse cytomegalovirus miR-m108-1 stem-loop
+9522 105 0
+0 mcmv-mir-m108-2 MI0006263 Mouse cytomegalovirus miR-m108-2 stem-loop
+9627 86 0
+0 mdv1-mir-M9 MI0006987 Mareks disease virus miR-M9 stem-loop
+9713 70 0
+0 mdv1-mir-M10 MI0006988 Mareks disease virus miR-M10 stem-loop
+9783 69 0
+0 mdv1-mir-M11 MI0006989 Mareks disease virus miR-M11 stem-loop
+9852 65 0
+0 mdv1-mir-M12 MI0006990 Mareks disease virus miR-M12 stem-loop
+9917 62 0
+0 mdv1-mir-M13 MI0006991 Mareks disease virus miR-M13 stem-loop
+9979 61 0
+0 hiv1-mir-TAR MI0007073 Human immunodeficiency virus 1 miR-TAR stem-loop
+10040 61 0
+0 mdv1-mir-M31 MI0008337 Mareks disease virus miR-M31 stem-loop
+10101 69 0
+0 hsv1-mir-H2 MI0008937 Herpes Simplex Virus 1 miR-H2 stem-loop
+10170 75 0
+0 hsv1-mir-H3 MI0008938 Herpes Simplex Virus 1 miR-H3 stem-loop
+10245 81 0
+0 hsv1-mir-H4 MI0008939 Herpes Simplex Virus 1 miR-H4 stem-loop
+10326 81 0
+0 hsv1-mir-H5 MI0008940 Herpes Simplex Virus 1 miR-H5 stem-loop
+10407 80 0
+0 hsv1-mir-H6 MI0008941 Herpes Simplex Virus 1 miR-H6 stem-loop
+10487 86 0
+0 jcv-mir-J1 MI0009980 JC polyomavirus miR-J1 stem-loop
+10573 91 0
+0 bkv-mir-B1 MI0009981 BK polyomavirus miR-B1 stem-loop
+10664 102 0
+0 ebv-mir-BART21 MI0010627 Epstein Barr virus miR-BART21 stem-loop
+10766 76 0
+0 ebv-mir-BART22 MI0010628 Epstein Barr virus miR-BART22 stem-loop
+10842 71 0
+0 mcv-mir-M1 MI0010647 Merkel cell polyomavirus miR-M1 stem-loop
+10913 84 0
+0 hsv2-mir-H3 MI0010692 Herpes Simplex Virus 2 miR-H3 stem-loop
+10997 102 0
+0 hsv2-mir-H4 MI0010693 Herpes Simplex Virus 2 miR-H4 stem-loop
+11099 76 0
+0 hsv2-mir-H2 MI0010694 Herpes Simplex Virus 2 miR-H2 stem-loop
+11175 69 0
+0 hbv-mir-B2RC MI0011555 Herpes B virus miR-B2RC stem-loop
+11244 69 0
+0 hbv-mir-B4 MI0011556 Herpes B virus miR-B4 stem-loop
+11313 79 0
+0 hbv-mir-B20 MI0011557 Herpes B virus miR-B20 stem-loop
+11392 89 0
+0 hsv1-mir-H7 MI0012167 Herpes Simplex Virus 1 miR-H7 stem-loop
+11481 83 0
+0 hsv1-mir-H8 MI0012168 Herpes Simplex Virus 1 miR-H8 stem-loop
+11564 75 0
+0 hvt-mir-H1 MI0012473 Herpesvirus of turkeys miR-H1 stem-loop
+11639 70 0
+0 hvt-mir-H2 MI0012474 Herpesvirus of turkeys miR-H2 stem-loop
+11709 70 0
+0 hvt-mir-H3 MI0012475 Herpesvirus of turkeys miR-H3 stem-loop
+11779 74 0
+0 hvt-mir-H4 MI0012476 Herpesvirus of turkeys miR-H4 stem-loop
+11853 76 0
+0 hvt-mir-H5 MI0012477 Herpesvirus of turkeys miR-H5 stem-loop
+11929 77 0
+0 hvt-mir-H7 MI0012478 Herpesvirus of turkeys miR-H7 stem-loop
+12006 74 0
+0 hvt-mir-H8 MI0012479 Herpesvirus of turkeys miR-H8 stem-loop
+12080 76 0
+0 hvt-mir-H9 MI0012480 Herpesvirus of turkeys miR-H9 stem-loop
+12156 70 0
+0 iltv-mir-I1 MI0012481 Infectious laryngotracheitis virus miR-I1 stem-loop
+12226 70 0
+0 iltv-mir-I2 MI0012482 Infectious laryngotracheitis virus miR-I2 stem-loop
+12296 70 0
+0 iltv-mir-I3 MI0012483 Infectious laryngotracheitis virus miR-I3 stem-loop
+12366 70 0
+0 iltv-mir-I4 MI0012484 Infectious laryngotracheitis virus miR-I4 stem-loop
+12436 70 0
+0 iltv-mir-I5 MI0012485 Infectious laryngotracheitis virus miR-I5 stem-loop
+12506 70 0
+0 iltv-mir-I6 MI0012486 Infectious laryngotracheitis virus miR-I6 stem-loop
+12576 70 0
+0 mdv2-mir-M32 MI0012487 Mareks disease virus type 2 miR-M32 stem-loop
+12646 65 0
+0 iltv-mir-I7 MI0012623 Infectious laryngotracheitis virus miR-I7 stem-loop
+12711 82 0
+0 hvt-mir-H10 MI0012624 Herpesvirus of turkeys miR-H10 stem-loop
+12793 63 0
+0 hvt-mir-H12 MI0012625 Herpesvirus of turkeys miR-H12 stem-loop
+12856 64 0
+0 hvt-mir-H13 MI0012626 Herpesvirus of turkeys miR-H13 stem-loop
+12920 70 0
+0 hvt-mir-H14 MI0012627 Herpesvirus of turkeys miR-H14 stem-loop
+12990 67 0
+0 hvt-mir-H15 MI0012628 Herpesvirus of turkeys miR-H15 stem-loop
+13057 64 0
+0 hvt-mir-H16 MI0012629 Herpesvirus of turkeys miR-H16 stem-loop
+13121 64 0
+0 hvt-mir-H17 MI0012630 Herpesvirus of turkeys miR-H17 stem-loop
+13185 64 0
+0 hvt-mir-H18 MI0012631 Herpesvirus of turkeys miR-H18 stem-loop
+13249 69 0
+0 hvt-mir-H11 MI0012632 Herpesvirus of turkeys miR-H11 stem-loop
+13318 77 0
+0 bhv1-mir-B1 MI0013173 Bovine herpesvirus 1 miR-B1 stem-loop
+13395 109 0
+0 bhv1-mir-B2 MI0013174 Bovine herpesvirus 1 miR-B2 stem-loop
+13504 89 0
+0 bhv1-mir-B3 MI0013175 Bovine herpesvirus 1 miR-B3 stem-loop
+13593 68 0
+0 bhv1-mir-B4 MI0013176 Bovine herpesvirus 1 miR-B4 stem-loop
+13661 75 0
+0 bhv1-mir-B5 MI0013177 Bovine herpesvirus 1 miR-B5 stem-loop
+13736 79 0
+0 bhv1-mir-B6 MI0013178 Bovine herpesvirus 1 miR-B6 stem-loop
+13815 83 0
+0 bhv1-mir-B7 MI0013179 Bovine herpesvirus 1 miR-B7 stem-loop
+13898 83 0
+0 bhv1-mir-B8 MI0013180 Bovine herpesvirus 1 miR-B8 stem-loop
+13981 67 0
+0 bhv1-mir-B9 MI0013181 Bovine herpesvirus 1 miR-B9 stem-loop
+14048 72 0
+0 rlcv-mir-rL1-14-2 MI0013275 Rhesus lymphocryptovirus miR-rL1-14-2 stem-loop
+14120 96 0
+0 rlcv-mir-rL1-17 MI0013276 Rhesus lymphocryptovirus miR-rL1-17 stem-loop
+14216 92 0
+0 rlcv-mir-rL1-18 MI0013277 Rhesus lymphocryptovirus miR-rL1-18 stem-loop
+14308 85 0
+0 rlcv-mir-rL1-19 MI0013278 Rhesus lymphocryptovirus miR-rL1-19 stem-loop
+14393 86 0
+0 rlcv-mir-rL1-20 MI0013279 Rhesus lymphocryptovirus miR-rL1-20 stem-loop
+14479 99 0
+0 rlcv-mir-rL1-21 MI0013280 Rhesus lymphocryptovirus miR-rL1-21 stem-loop
+14578 96 0
+0 rlcv-mir-rL1-22 MI0013281 Rhesus lymphocryptovirus miR-rL1-22 stem-loop
+14674 100 0
+0 rlcv-mir-rL1-23 MI0013282 Rhesus lymphocryptovirus miR-rL1-23 stem-loop
+14774 94 0
+0 rlcv-mir-rL1-24 MI0013283 Rhesus lymphocryptovirus miR-rL1-24 stem-loop
+14868 89 0
+0 rlcv-mir-rL1-25 MI0013284 Rhesus lymphocryptovirus miR-rL1-25 stem-loop
+14957 99 0
+0 rlcv-mir-rL1-26 MI0013285 Rhesus lymphocryptovirus miR-rL1-26 stem-loop
+15056 72 0
+0 rlcv-mir-rL1-27 MI0013286 Rhesus lymphocryptovirus miR-rL1-27 stem-loop
+15128 80 0
+0 rlcv-mir-rL1-28 MI0013287 Rhesus lymphocryptovirus miR-rL1-28 stem-loop
+15208 91 0
+0 rlcv-mir-rL1-29 MI0013288 Rhesus lymphocryptovirus miR-rL1-29 stem-loop
+15299 97 0
+0 rlcv-mir-rL1-30 MI0013289 Rhesus lymphocryptovirus miR-rL1-30 stem-loop
+15396 99 0
+0 rlcv-mir-rL1-31 MI0013290 Rhesus lymphocryptovirus miR-rL1-31 stem-loop
+15495 89 0
+0 rlcv-mir-rL1-32 MI0013291 Rhesus lymphocryptovirus miR-rL1-32 stem-loop
+15584 78 0
+0 rlcv-mir-rL1-33 MI0013292 Rhesus lymphocryptovirus miR-rL1-33 stem-loop
+15662 86 0
+0 hsv2-mir-H7 MI0013558 Herpes Simplex Virus 2 miR-H7 stem-loop
+15748 65 0
+0 hsv2-mir-H9 MI0013559 Herpes Simplex Virus 2 miR-H9 stem-loop
+15813 64 0
+0 hsv2-miR-H10 MI0013560 Herpes Simplex Virus 2 miR-H10 stem-loop
+15877 66 0
+0 hsv1-mir-H11 MI0013885 Herpes Simplex Virus 1 miR-H11 stem-loop
+15943 130 0
+0 hsv1-mir-H12 MI0013886 Herpes Simplex Virus 1 miR-H12 stem-loop
+16073 88 0
+0 hsv1-mir-H13 MI0013887 Herpes Simplex Virus 1 miR-H13 stem-loop
+16161 64 0
+0 hsv1-mir-H14 MI0013888 Herpes Simplex Virus 1 miR-H14 stem-loop
+16225 89 0
+0 hsv1-mir-H15 MI0013889 Herpes Simplex Virus 1 miR-H15 stem-loop
+16314 102 0
+0 hsv1-mir-H16 MI0013890 Herpes Simplex Virus 1 miR-H16 stem-loop
+16416 100 0
+0 hsv1-mir-H17 MI0013891 Herpes Simplex Virus 1 miR-H17 stem-loop
+16516 95 0
+0 hsv1-mir-H18 MI0013892 Herpes Simplex Virus 1 miR-H18 stem-loop
+16611 95 0
+0 hsv2-mir-H11 MI0013898 Herpes Simplex Virus 2 miR-H11 stem-loop
+16706 145 0
+0 hsv2-mir-H12 MI0013899 Herpes Simplex Virus 2 miR-H12 stem-loop
+16851 71 0
+0 hsv2-mir-H13 MI0013900 Herpes Simplex Virus 2 miR-H13 stem-loop
+16922 65 0
+0 hsv2-mir-H19 MI0013901 Herpes Simplex Virus 2 miR-H19 stem-loop
+16987 78 0
+0 hsv2-mir-H20 MI0013902 Herpes Simplex Virus 2 miR-H20 stem-loop
+17065 80 0
+0 hsv2-mir-H21 MI0013903 Herpes Simplex Virus 2 miR-H21 stem-loop
+17145 64 0
+0 hsv2-mir-H22 MI0013904 Herpes Simplex Virus 2 miR-H22 stem-loop
+17209 77 0
+0 hsv2-mir-H23 MI0013905 Herpes Simplex Virus 2 miR-H23 stem-loop
+17286 87 0
+0 hsv2-mir-H24 MI0013906 Herpes Simplex Virus 2 miR-H24 stem-loop
+17373 69 0
+0 hsv2-mir-H25 MI0013907 Herpes Simplex Virus 2 miR-H25 stem-loop
+17442 69 0
+0 bhv1-mir-B10 MI0014712 Bovine herpesvirus 1 miR-B10 stem-loop
+17511 70 0
+0 hsv2-mir-H5 MI0014713 Herpes Simplex Virus 2 miR-H5 stem-loop
+17581 87 0
+0 hsv2-mir-H6 MI0014714 Herpes Simplex Virus 2 miR-H6 stem-loop
+17668 112 0
+0 rlcv-mir-rL1-34 MI0015355 Rhesus lymphocryptovirus miR-rL1-34 stem-loop
+17780 95 0
+0 rlcv-mir-rL1-35 MI0015356 Rhesus lymphocryptovirus miR-rL1-35 stem-loop
+17875 82 0
+0 mghv-mir-M1-10 MI0016250 Mouse gammaherpesvirus 68 miR-M1-10 stem-loop
+17957 61 0
+0 mghv-mir-M1-11 MI0016251 Mouse gammaherpesvirus 68 miR-M1-11 stem-loop
+18018 53 0
+0 mghv-mir-M1-12 MI0016252 Mouse gammaherpesvirus 68 miR-M1-12 stem-loop
+18071 70 0
+0 mghv-mir-M1-13 MI0016253 Mouse gammaherpesvirus 68 miR-M1-13 stem-loop
+18141 60 0
+0 mghv-mir-M1-14 MI0016254 Mouse gammaherpesvirus 68 miR-M1-14 stem-loop
+18201 60 0
+0 mghv-mir-M1-15 MI0016255 Mouse gammaherpesvirus 68 miR-M1-15 stem-loop
+18261 54 0
+0 bpcv1-mir-B1 MI0018178 Bandicoot papillomatosis carcinomatosis virus type 1 miR-B1 stem-loop
+18315 71 0
+0 bpcv2-mir-B1 MI0018179 Bandicoot papillomatosis carcinomatosis virus type 2 miR-B1 stem-loop
+18386 74 0
+0 hvsa-miR-HSUR5 MI0019125 Herpesvirus saimiri strain A11 miR-HSUR5 stem-loop
+18460 57 0
+0 hvsa-miR-HSUR4 MI0019126 Herpesvirus saimiri strain A11 miR-HSUR4 stem-loop
+18517 57 0
+0 hvsa-miR-HSUR2 MI0019127 Herpesvirus saimiri strain A11 miR-HSUR2 stem-loop
+18574 58 0
+0 hhv6b-mir-Ro6-1 MI0020179 Human herpesvirus 6B miR-Ro6-1 stem-loop
+18632 67 0
+0 hhv6b-mir-Ro6-2 MI0020180 Human herpesvirus 6B miR-Ro6-2 stem-loop
+18699 81 0
+0 hhv6b-mir-Ro6-3 MI0020181 Human herpesvirus 6B miR-Ro6-3 stem-loop
+18780 72 0
+0 hhv6b-mir-Ro6-4 MI0020182 Human herpesvirus 6B miR-Ro6-4 stem-loop
+18852 72 0
+0 hsv1-mir-H26 MI0021816 Herpes Simplex Virus 1 miR-H26 stem-loop
+18924 63 0
+0 prv-mir-LLT1 MI0022072 Pseudorabies virus miR-LLT1 stem-loop
+18987 82 0
+0 prv-mir-LLT2 MI0022073 Pseudorabies virus miR-LLT2 stem-loop
+19069 80 0
+0 prv-mir-LLT3 MI0022074 Pseudorabies virus miR-LLT3 stem-loop
+19149 77 0
+0 prv-mir-LLT4 MI0022075 Pseudorabies virus miR-LLT4 stem-loop
+19226 79 0
+0 prv-mir-LLT5 MI0022076 Pseudorabies virus miR-LLT5 stem-loop
+19305 80 0
+0 prv-mir-LLT6 MI0022077 Pseudorabies virus miR-LLT6 stem-loop
+19385 85 0
+0 prv-mir-LLT7 MI0022078 Pseudorabies virus miR-LLT7 stem-loop
+19470 107 0
+0 prv-mir-LLT8 MI0022079 Pseudorabies virus miR-LLT8 stem-loop
+19577 87 0
+0 prv-mir-LLT9 MI0022080 Pseudorabies virus miR-LLT9 stem-loop
+19664 80 0
+0 prv-mir-LLT10a MI0022081 Pseudorabies virus miR-LLT10a stem-loop
+19744 82 0
+0 prv-mir-LLT10b MI0022082 Pseudorabies virus miR-LLT10b stem-loop
+19826 82 0
+0 prv-mir-LLT11a MI0022083 Pseudorabies virus miR-LLT11a stem-loop
+19908 89 0
+0 prv-mir-LLT11b MI0022084 Pseudorabies virus miR-LLT11b stem-loop
+19997 89 0
+0 blv-mir-B1 MI0022561 Bovine leukemia virus miR-B1 stem-loop
+20086 56 0
+0 blv-mir-B2 MI0022562 Bovine leukemia virus miR-B2 stem-loop
+20142 55 0
+0 blv-mir-B3 MI0022563 Bovine leukemia virus miR-B3 stem-loop
+20197 57 0
+0 blv-mir-B4 MI0022564 Bovine leukemia virus miR-B4 stem-loop
+20254 61 0
+0 blv-mir-B5 MI0022565 Bovine leukemia virus miR-B5 stem-loop
+20315 53 0
+0 hcmv-mir-US22 MI0023578 Human cytomegalovirus miR-US22 stem-loop
+20368 72 0
+0 hcmv-mir-US29 MI0023579 Human cytomegalovirus miR-US29 stem-loop
+20440 72 0
+0 dev-mir-D1 MI0023580 Duck enteritis virus miR-D1 stem-loop
+20512 68 0
+0 dev-mir-D2 MI0023581 Duck enteritis virus miR-D2 stem-loop
+20580 54 0
+0 dev-mir-D3 MI0023582 Duck enteritis virus miR-D3 stem-loop
+20634 56 0
+0 dev-mir-D4 MI0023583 Duck enteritis virus miR-D4 stem-loop
+20690 75 0
+0 dev-mir-D5 MI0023584 Duck enteritis virus miR-D5 stem-loop
+20765 67 0
+0 dev-mir-D6 MI0023585 Duck enteritis virus miR-D6 stem-loop
+20832 66 0
+0 dev-mir-D7 MI0023586 Duck enteritis virus miR-D7 stem-loop
+20898 79 0
+0 dev-mir-D8 MI0023587 Duck enteritis virus miR-D8 stem-loop
+20977 69 0
+0 dev-mir-D9 MI0023588 Duck enteritis virus miR-D9 stem-loop
+21046 69 0
+0 dev-mir-D10 MI0023589 Duck enteritis virus miR-D10 stem-loop
+21115 68 0
+0 dev-mir-D11 MI0023590 Duck enteritis virus miR-D11 stem-loop
+21183 68 0
+0 dev-mir-D12 MI0023591 Duck enteritis virus miR-D12 stem-loop
+21251 66 0
+0 dev-mir-D13 MI0023592 Duck enteritis virus miR-D13 stem-loop
+21317 70 0
+0 dev-mir-D14 MI0023593 Duck enteritis virus miR-D14 stem-loop
+21387 79 0
+0 dev-mir-D15 MI0023594 Duck enteritis virus miR-D15 stem-loop
+21466 65 0
+0 dev-mir-D16 MI0023595 Duck enteritis virus miR-D16 stem-loop
+21531 67 0
+0 dev-mir-D17 MI0023596 Duck enteritis virus miR-D17 stem-loop
+21598 62 0
+0 dev-mir-D18 MI0023597 Duck enteritis virus miR-D18 stem-loop
+21660 63 0
+0 dev-mir-D19 MI0023598 Duck enteritis virus miR-D19 stem-loop
+21723 51 0
+0 dev-mir-D20 MI0023599 Duck enteritis virus miR-D20 stem-loop
+21774 65 0
+0 dev-mir-D21 MI0023600 Duck enteritis virus miR-D21 stem-loop
+21839 70 0
+0 dev-mir-D22 MI0023601 Duck enteritis virus miR-D22 stem-loop
+21909 66 0
+0 dev-mir-D23 MI0023602 Duck enteritis virus miR-D23 stem-loop
+21975 70 0
+0 dev-mir-D24 MI0023603 Duck enteritis virus miR-D24 stem-loop
+22045 67 0
+0 hcmv-mir-UL59 MI0024164 Human cytomegalovirus miR-UL59 stem-loop
+22112 66 0
+0 hcmv-mir-UL69 MI0024165 Human cytomegalovirus miR-UL69 stem-loop
+22178 67 0
+0 hsv1-mir-H27 MI0024977 Herpes Simplex Virus 1 miR-H27 stem-loop
+22245 83 0
+0 hbv-mir-B2 MI0026319 Herpes B virus miR-B2 stem-loop
+22328 66 0
+0 hbv-mir-B3RC MI0026320 Herpes B virus miR-B3RC stem-loop
+22394 72 0
+0 hbv-mir-B7 MI0026321 Herpes B virus miR-B7 stem-loop
+22466 68 0
+0 hbv-mir-B8 MI0026322 Herpes B virus miR-B8 stem-loop
+22534 69 0
+0 hbv-mir-B19 MI0026323 Herpes B virus miR-B19 stem-loop
+22603 64 0
+0 hbv-mir-B21RC MI0026324 Herpes B virus miR-B21RC stem-loop
+22667 67 0
+0 hbv-mir-B26 MI0026325 Herpes B virus miR-B26 stem-loop
+22734 58 0
+0 hbv-mir-B14RC MI0026326 Herpes B virus miR-B14RC stem-loop
+22792 73 0
+0 hbv-mir-B22 MI0026327 Herpes B virus miR-B22 stem-loop
+22865 74 0

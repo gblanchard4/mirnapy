@@ -1,0 +1,813 @@
+8951 406 11
+0 ebv-miR-BHRF1-1 MIMAT0000995 Epstein Barr miR-BHRF1-1
+0 22 0
+0 ebv-miR-BHRF1-2* MIMAT0000996 Epstein Barr miR-BHRF1-2*
+22 22 0
+0 ebv-miR-BHRF1-2 MIMAT0000997 Epstein Barr miR-BHRF1-2
+44 22 0
+0 ebv-miR-BHRF1-3 MIMAT0000998 Epstein Barr miR-BHRF1-3
+66 22 0
+0 ebv-miR-BART1-5p MIMAT0000999 Epstein Barr miR-BART1-5p
+88 24 0
+0 ebv-miR-BART1-3p MIMAT0003390 Epstein Barr miR-BART1-3p
+112 22 0
+0 ebv-miR-BART2-5p MIMAT0001000 Epstein Barr miR-BART2-5p
+134 22 0
+0 ebv-miR-BART2-3p MIMAT0004744 Epstein Barr miR-BART2-3p
+156 24 0
+0 mghv-miR-M1-1* MIMAT0017185 Mouse gammaherpesvirus miR-M1-1*
+180 18 0
+0 mghv-miR-M1-1 MIMAT0001564 Mouse gammaherpesvirus miR-M1-1
+198 22 0
+0 mghv-miR-M1-2-5p MIMAT0017186 Mouse gammaherpesvirus miR-M1-2-5p
+220 22 0
+0 mghv-miR-M1-2-3p MIMAT0001565 Mouse gammaherpesvirus miR-M1-2-3p
+242 22 0
+0 mghv-miR-M1-3* MIMAT0017187 Mouse gammaherpesvirus miR-M1-3*
+264 22 0
+0 mghv-miR-M1-3 MIMAT0001566 Mouse gammaherpesvirus miR-M1-3
+286 22 0
+0 mghv-miR-M1-4 MIMAT0001567 Mouse gammaherpesvirus miR-M1-4
+308 22 0
+0 mghv-miR-M1-4* MIMAT0017188 Mouse gammaherpesvirus miR-M1-4*
+330 23 0
+0 mghv-miR-M1-5 MIMAT0001568 Mouse gammaherpesvirus miR-M1-5
+353 22 0
+0 mghv-miR-M1-5* MIMAT0017189 Mouse gammaherpesvirus miR-M1-5*
+375 22 0
+0 mghv-miR-M1-6* MIMAT0017190 Mouse gammaherpesvirus miR-M1-6*
+397 21 0
+0 mghv-miR-M1-6 MIMAT0001569 Mouse gammaherpesvirus miR-M1-6
+418 22 0
+0 mghv-miR-M1-7-5p MIMAT0001570 Mouse gammaherpesvirus miR-M1-7-5p
+440 22 0
+0 mghv-miR-M1-7-3p MIMAT0001571 Mouse gammaherpesvirus miR-M1-7-3p
+462 21 0
+0 mghv-miR-M1-8 MIMAT0001572 Mouse gammaherpesvirus miR-M1-8
+483 22 0
+0 mghv-miR-M1-8* MIMAT0017191 Mouse gammaherpesvirus miR-M1-8*
+505 22 0
+0 mghv-miR-M1-9 MIMAT0001573 Mouse gammaherpesvirus miR-M1-9
+527 22 0
+0 hcmv-miR-UL22A MIMAT0001574 Human cytomegalovirus miR-UL22A
+549 20 0
+0 hcmv-miR-UL22A* MIMAT0001575 Human cytomegalovirus miR-UL22A*
+569 22 0
+0 hcmv-miR-UL36 MIMAT0001576 Human cytomegalovirus miR-UL36
+591 22 0
+0 hcmv-miR-UL36* MIMAT0004754 Human cytomegalovirus miR-UL36*
+613 22 0
+0 hcmv-miR-UL112 MIMAT0001577 Human cytomegalovirus miR-UL112
+635 22 0
+0 hcmv-miR-UL148D MIMAT0001578 Human cytomegalovirus miR-UL148D
+657 21 0
+0 hcmv-miR-US5-1 MIMAT0001579 Human cytomegalovirus miR-US5-1
+678 21 0
+0 hcmv-miR-US5-2 MIMAT0001580 Human cytomegalovirus miR-US5-2
+699 22 0
+0 hcmv-miR-US25-1 MIMAT0001581 Human cytomegalovirus miR-US25-1
+721 21 0
+0 hcmv-miR-US25-1* MIMAT0004755 Human cytomegalovirus miR-US25-1*
+742 22 0
+0 hcmv-miR-US25-2-5p MIMAT0001582 Human cytomegalovirus miR-US25-2-5p
+764 22 0
+0 hcmv-miR-US25-2-3p MIMAT0001583 Human cytomegalovirus miR-US25-2-3p
+786 23 0
+0 hcmv-miR-US33-5p MIMAT0001584 Human cytomegalovirus miR-US33-5p
+809 22 0
+0 hcmv-miR-US33-3p MIMAT0004756 Human cytomegalovirus miR-US33-3p
+831 20 0
+0 kshv-miR-K12-10a* MIMAT0015212 Kaposi sarcoma-associated miR-K12-10a*
+851 22 0
+0 kshv-miR-K12-10a MIMAT0002179 Kaposi sarcoma-associated miR-K12-10a
+873 22 0
+0 kshv-miR-K12-10b MIMAT0002180 Kaposi sarcoma-associated miR-K12-10b
+895 22 0
+0 kshv-miR-K12-11* MIMAT0015213 Kaposi sarcoma-associated miR-K12-11*
+917 24 0
+0 kshv-miR-K12-11 MIMAT0002181 Kaposi sarcoma-associated miR-K12-11
+941 22 0
+0 kshv-miR-K12-1 MIMAT0002182 Kaposi sarcoma-associated miR-K12-1
+963 23 0
+0 kshv-miR-K12-1* MIMAT0015214 Kaposi sarcoma-associated miR-K12-1*
+986 22 0
+0 kshv-miR-K12-2 MIMAT0002183 Kaposi sarcoma-associated miR-K12-2
+1008 22 0
+0 kshv-miR-K12-2* MIMAT0015215 Kaposi sarcoma-associated miR-K12-2*
+1030 21 0
+0 kshv-miR-K12-9* MIMAT0002184 Kaposi sarcoma-associated miR-K12-9*
+1051 22 0
+0 kshv-miR-K12-9 MIMAT0002185 Kaposi sarcoma-associated miR-K12-9
+1073 22 0
+0 kshv-miR-K12-8* MIMAT0015216 Kaposi sarcoma-associated miR-K12-8*
+1095 22 0
+0 kshv-miR-K12-8 MIMAT0002186 Kaposi sarcoma-associated miR-K12-8
+1117 21 0
+0 kshv-miR-K12-7* MIMAT0015217 Kaposi sarcoma-associated miR-K12-7*
+1138 24 0
+0 kshv-miR-K12-7 MIMAT0002187 Kaposi sarcoma-associated miR-K12-7
+1162 20 0
+0 kshv-miR-K12-6-5p MIMAT0002188 Kaposi sarcoma-associated miR-K12-6-5p
+1182 22 0
+0 kshv-miR-K12-6-3p MIMAT0002189 Kaposi sarcoma-associated miR-K12-6-3p
+1204 22 0
+0 kshv-miR-K12-5* MIMAT0015218 Kaposi sarcoma-associated miR-K12-5*
+1226 23 0
+0 kshv-miR-K12-5 MIMAT0002190 Kaposi sarcoma-associated miR-K12-5
+1249 23 0
+0 kshv-miR-K12-4-5p MIMAT0002191 Kaposi sarcoma-associated miR-K12-4-5p
+1272 22 0
+0 kshv-miR-K12-4-3p MIMAT0002192 Kaposi sarcoma-associated miR-K12-4-3p
+1294 22 0
+0 kshv-miR-K12-3 MIMAT0002193 Kaposi sarcoma-associated miR-K12-3
+1316 23 0
+0 kshv-miR-K12-3* MIMAT0002194 Kaposi sarcoma-associated miR-K12-3*
+1339 21 0
+0 hcmv-miR-US4 MIMAT0003341 Human cytomegalovirus miR-US4
+1360 22 0
+0 hcmv-miR-UL70-5p MIMAT0003342 Human cytomegalovirus miR-UL70-5p
+1382 21 0
+0 hcmv-miR-UL70-3p MIMAT0003343 Human cytomegalovirus miR-UL70-3p
+1403 20 0
+0 sv40-miR-S1-5p MIMAT0003344 Simian virus miR-S1-5p
+1423 22 0
+0 sv40-miR-S1-3p MIMAT0003345 Simian virus miR-S1-3p
+1445 20 0
+0 ebv-miR-BART3* MIMAT0003410 Epstein Barr miR-BART3*
+1465 21 0
+0 ebv-miR-BART3 MIMAT0003411 Epstein Barr miR-BART3
+1486 22 0
+0 ebv-miR-BART4 MIMAT0003412 Epstein Barr miR-BART4
+1508 22 0
+0 ebv-miR-BART4* MIMAT0009204 Epstein Barr miR-BART4*
+1530 23 0
+0 ebv-miR-BART5 MIMAT0003413 Epstein Barr miR-BART5
+1553 24 0
+0 ebv-miR-BART5* MIMAT0009205 Epstein Barr miR-BART5*
+1577 18 0
+0 ebv-miR-BART6-5p MIMAT0003414 Epstein Barr miR-BART6-5p
+1595 22 0
+0 ebv-miR-BART6-3p MIMAT0003415 Epstein Barr miR-BART6-3p
+1617 22 0
+0 ebv-miR-BART7* MIMAT0004815 Epstein Barr miR-BART7*
+1639 22 0
+0 ebv-miR-BART7 MIMAT0003416 Epstein Barr miR-BART7
+1661 22 0
+0 ebv-miR-BART8 MIMAT0003417 Epstein Barr miR-BART8
+1683 22 0
+0 ebv-miR-BART8* MIMAT0003418 Epstein Barr miR-BART8*
+1705 23 0
+0 ebv-miR-BART9* MIMAT0004816 Epstein Barr miR-BART9*
+1728 22 0
+0 ebv-miR-BART9 MIMAT0003419 Epstein Barr miR-BART9
+1750 23 0
+0 ebv-miR-BART10* MIMAT0004817 Epstein Barr miR-BART10*
+1773 22 0
+0 ebv-miR-BART10 MIMAT0003420 Epstein Barr miR-BART10
+1795 23 0
+0 ebv-miR-BART11-5p MIMAT0003421 Epstein Barr miR-BART11-5p
+1818 24 0
+0 ebv-miR-BART11-3p MIMAT0003422 Epstein Barr miR-BART11-3p
+1842 21 0
+0 ebv-miR-BART12 MIMAT0003423 Epstein Barr miR-BART12
+1863 22 0
+0 ebv-miR-BART13* MIMAT0004818 Epstein Barr miR-BART13*
+1885 22 0
+0 ebv-miR-BART13 MIMAT0003424 Epstein Barr miR-BART13
+1907 23 0
+0 ebv-miR-BART14* MIMAT0003425 Epstein Barr miR-BART14*
+1930 22 0
+0 ebv-miR-BART14 MIMAT0003426 Epstein Barr miR-BART14
+1952 22 0
+0 rlcv-miR-rL1-1-5p MIMAT0003427 Rhesus lymphocryptovirus miR-rL1-1-5p
+1974 22 0
+0 rlcv-miR-rL1-1-3p MIMAT0019084 Rhesus lymphocryptovirus miR-rL1-1-3p
+1996 22 0
+0 rlcv-miR-rL1-2-5p MIMAT0019085 Rhesus lymphocryptovirus miR-rL1-2-5p
+2018 22 0
+0 rlcv-miR-rL1-2-3p MIMAT0003428 Rhesus lymphocryptovirus miR-rL1-2-3p
+2040 23 0
+0 rlcv-miR-rL1-3 MIMAT0003429 Rhesus lymphocryptovirus miR-rL1-3
+2063 24 0
+0 rlcv-miR-rL1-4-5p MIMAT0003430 Rhesus lymphocryptovirus miR-rL1-4-5p
+2087 21 0
+0 rlcv-miR-rL1-4-3p MIMAT0003431 Rhesus lymphocryptovirus miR-rL1-4-3p
+2108 22 0
+0 rlcv-miR-rL1-5-5p MIMAT0003432 Rhesus lymphocryptovirus miR-rL1-5-5p
+2130 22 0
+0 rlcv-miR-rL1-5-3p MIMAT0003433 Rhesus lymphocryptovirus miR-rL1-5-3p
+2152 22 0
+0 rlcv-miR-rL1-6-5p MIMAT0003434 Rhesus lymphocryptovirus miR-rL1-6-5p
+2174 23 0
+0 rlcv-miR-rL1-6-3p MIMAT0003435 Rhesus lymphocryptovirus miR-rL1-6-3p
+2197 22 0
+0 rlcv-miR-rL1-7-5p MIMAT0003436 Rhesus lymphocryptovirus miR-rL1-7-5p
+2219 21 0
+0 rlcv-miR-rL1-7-3p MIMAT0019086 Rhesus lymphocryptovirus miR-rL1-7-3p
+2240 21 0
+0 rlcv-miR-rL1-8-5p MIMAT0003437 Rhesus lymphocryptovirus miR-rL1-8-5p
+2261 24 0
+0 rlcv-miR-rL1-8-3p MIMAT0019087 Rhesus lymphocryptovirus miR-rL1-8-3p
+2285 22 0
+0 rlcv-miR-rL1-9 MIMAT0003438 Rhesus lymphocryptovirus miR-rL1-9
+2307 23 0
+0 rlcv-miR-rL1-10-5p MIMAT0019088 Rhesus lymphocryptovirus miR-rL1-10-5p
+2330 23 0
+0 rlcv-miR-rL1-10-3p MIMAT0003439 Rhesus lymphocryptovirus miR-rL1-10-3p
+2353 22 0
+0 rlcv-miR-rL1-11-5p MIMAT0019089 Rhesus lymphocryptovirus miR-rL1-11-5p
+2375 22 0
+0 rlcv-miR-rL1-11-3p MIMAT0003440 Rhesus lymphocryptovirus miR-rL1-11-3p
+2397 22 0
+0 rlcv-miR-rL1-12-5p MIMAT0003441 Rhesus lymphocryptovirus miR-rL1-12-5p
+2419 22 0
+0 rlcv-miR-rL1-12-3p MIMAT0003442 Rhesus lymphocryptovirus miR-rL1-12-3p
+2441 22 0
+0 rlcv-miR-rL1-13-5p MIMAT0019090 Rhesus lymphocryptovirus miR-rL1-13-5p
+2463 20 0
+0 rlcv-miR-rL1-13-3p MIMAT0003443 Rhesus lymphocryptovirus miR-rL1-13-3p
+2483 22 0
+0 rlcv-miR-rL1-14-5p MIMAT0003444 Rhesus lymphocryptovirus miR-rL1-14-5p
+2505 23 0
+0 rlcv-miR-rL1-14-3p MIMAT0003445 Rhesus lymphocryptovirus miR-rL1-14-3p
+2528 21 0
+0 rlcv-miR-rL1-15-5p MIMAT0019091 Rhesus lymphocryptovirus miR-rL1-15-5p
+2549 22 0
+0 rlcv-miR-rL1-15-3p MIMAT0003446 Rhesus lymphocryptovirus miR-rL1-15-3p
+2571 24 0
+0 rlcv-miR-rL1-16-5p MIMAT0003447 Rhesus lymphocryptovirus miR-rL1-16-5p
+2595 21 0
+0 rlcv-miR-rL1-16-3p MIMAT0003448 Rhesus lymphocryptovirus miR-rL1-16-3p
+2616 22 0
+0 hsv1-miR-H1 MIMAT0003744 Herpes Simplex miR-H1
+2638 21 0
+0 hsv1-miR-H1* MIMAT0015220 Herpes Simplex miR-H1*
+2659 23 0
+0 kshv-miR-K12-12* MIMAT0003712 Kaposi sarcoma-associated miR-K12-12*
+2682 23 0
+0 kshv-miR-K12-12 MIMAT0015238 Kaposi sarcoma-associated miR-K12-12
+2705 22 0
+0 ebv-miR-BART15 MIMAT0003713 Epstein Barr miR-BART15
+2727 22 0
+0 ebv-miR-BART16 MIMAT0003714 Epstein Barr miR-BART16
+2749 24 0
+0 ebv-miR-BART17-5p MIMAT0003715 Epstein Barr miR-BART17-5p
+2773 22 0
+0 ebv-miR-BART17-3p MIMAT0003716 Epstein Barr miR-BART17-3p
+2795 23 0
+0 ebv-miR-BART18-5p MIMAT0003717 Epstein Barr miR-BART18-5p
+2818 22 0
+0 ebv-miR-BART18-3p MIMAT0004835 Epstein Barr miR-BART18-3p
+2840 22 0
+0 ebv-miR-BART19-5p MIMAT0004836 Epstein Barr miR-BART19-5p
+2862 23 0
+0 ebv-miR-BART19-3p MIMAT0003718 Epstein Barr miR-BART19-3p
+2885 21 0
+0 ebv-miR-BART20-5p MIMAT0003719 Epstein Barr miR-BART20-5p
+2906 21 0
+0 ebv-miR-BART20-3p MIMAT0003720 Epstein Barr miR-BART20-3p
+2927 22 0
+0 mdv1-miR-M1 MIMAT0003920 Mareks disease miR-M1
+2949 20 0
+0 mdv1-miR-M1* MIMAT0005801 Mareks disease miR-M1*
+2969 20 0
+0 mdv1-miR-M2-5p MIMAT0003921 Mareks disease miR-M2-5p
+2989 23 0
+0 mdv1-miR-M2-3p MIMAT0003922 Mareks disease miR-M2-3p
+3012 21 0
+0 mdv1-miR-M3 MIMAT0003923 Mareks disease miR-M3
+3033 24 0
+0 mdv1-miR-M3* MIMAT0009207 Mareks disease miR-M3*
+3057 22 0
+0 mdv1-miR-M4 MIMAT0003924 Mareks disease miR-M4
+3079 23 0
+0 mdv1-miR-M4* MIMAT0003925 Mareks disease miR-M4*
+3102 21 0
+0 mdv1-miR-M5* MIMAT0005802 Mareks disease miR-M5*
+3123 22 0
+0 mdv1-miR-M5 MIMAT0003926 Mareks disease miR-M5
+3145 23 0
+0 mdv1-miR-M6-5p MIMAT0005803 Mareks disease miR-M6-5p
+3168 22 0
+0 mdv1-miR-M6-3p MIMAT0003927 Mareks disease miR-M6-3p
+3190 22 0
+0 mdv1-miR-M7* MIMAT0005804 Mareks disease miR-M7*
+3212 23 0
+0 mdv1-miR-M7 MIMAT0003928 Mareks disease miR-M7
+3235 23 0
+0 mdv1-miR-M8-5p MIMAT0005805 Mareks disease miR-M8-5p
+3258 22 0
+0 mdv1-miR-M8-3p MIMAT0003929 Mareks disease miR-M8-3p
+3280 22 0
+0 rrv-miR-rR1-1 MIMAT0004406 Rhesus monkey miR-rR1-1
+3302 23 0
+0 rrv-miR-rR1-1* MIMAT0004407 Rhesus monkey miR-rR1-1*
+3325 19 0
+0 rrv-miR-rR1-2 MIMAT0004408 Rhesus monkey miR-rR1-2
+3344 21 0
+0 rrv-miR-rR1-3 MIMAT0004409 Rhesus monkey miR-rR1-3
+3365 19 0
+0 rrv-miR-rR1-4 MIMAT0004410 Rhesus monkey miR-rR1-4
+3384 22 0
+0 rrv-miR-rR1-4* MIMAT0004411 Rhesus monkey miR-rR1-4*
+3406 22 0
+0 rrv-miR-rR1-5 MIMAT0004412 Rhesus monkey miR-rR1-5
+3428 24 0
+0 rrv-miR-rR1-6 MIMAT0004413 Rhesus monkey miR-rR1-6
+3452 23 0
+0 rrv-miR-rR1-6* MIMAT0004414 Rhesus monkey miR-rR1-6*
+3475 21 0
+0 rrv-miR-rR1-7-5p MIMAT0004415 Rhesus monkey miR-rR1-7-5p
+3496 23 0
+0 rrv-miR-rR1-7-3p MIMAT0004416 Rhesus monkey miR-rR1-7-3p
+3519 21 0
+0 mdv2-miR-M14-5p MIMAT0004451 Mareks disease miR-M14-5p
+3540 22 0
+0 mdv2-miR-M14-3p MIMAT0004452 Mareks disease miR-M14-3p
+3562 21 0
+0 mdv2-miR-M15* MIMAT0004453 Mareks disease miR-M15*
+3583 21 0
+0 mdv2-miR-M15 MIMAT0004454 Mareks disease miR-M15
+3604 21 0
+0 mdv2-miR-M16 MIMAT0004455 Mareks disease miR-M16
+3625 23 0
+0 mdv2-miR-M16* MIMAT0012540 Mareks disease miR-M16*
+3648 21 0
+0 mdv2-miR-M17* MIMAT0004456 Mareks disease miR-M17*
+3669 22 0
+0 mdv2-miR-M17 MIMAT0004457 Mareks disease miR-M17
+3691 22 0
+0 mdv2-miR-M18-5p MIMAT0004458 Mareks disease miR-M18-5p
+3713 23 0
+0 mdv2-miR-M18-3p MIMAT0004459 Mareks disease miR-M18-3p
+3736 21 0
+0 mdv2-miR-M19-5p MIMAT0012541 Mareks disease miR-M19-5p
+3757 20 0
+0 mdv2-miR-M19-3p MIMAT0004460 Mareks disease miR-M19-3p
+3777 22 0
+0 mdv2-miR-M20* MIMAT0004461 Mareks disease miR-M20*
+3799 21 0
+0 mdv2-miR-M20 MIMAT0004462 Mareks disease miR-M20
+3820 23 0
+0 mdv2-miR-M21* MIMAT0004463 Mareks disease miR-M21*
+3843 22 0
+0 mdv2-miR-M21 MIMAT0004464 Mareks disease miR-M21
+3865 24 0
+0 mdv2-miR-M22 MIMAT0004465 Mareks disease miR-M22
+3889 23 0
+0 mdv2-miR-M22* MIMAT0004466 Mareks disease miR-M22*
+3912 21 0
+0 mdv2-miR-M23 MIMAT0004467 Mareks disease miR-M23
+3933 22 0
+0 mdv2-miR-M23* MIMAT0012542 Mareks disease miR-M23*
+3955 22 0
+0 mdv2-miR-M24* MIMAT0012543 Mareks disease miR-M24*
+3977 23 0
+0 mdv2-miR-M24 MIMAT0004468 Mareks disease miR-M24
+4000 22 0
+0 mdv2-miR-M25-5p MIMAT0004469 Mareks disease miR-M25-5p
+4022 23 0
+0 mdv2-miR-M25-3p MIMAT0004470 Mareks disease miR-M25-3p
+4045 22 0
+0 mdv2-miR-M26 MIMAT0004471 Mareks disease miR-M26
+4067 21 0
+0 mdv2-miR-M26* MIMAT0012544 Mareks disease miR-M26*
+4088 22 0
+0 mdv2-miR-M27-5p MIMAT0004472 Mareks disease miR-M27-5p
+4110 21 0
+0 mdv2-miR-M27-3p MIMAT0004473 Mareks disease miR-M27-3p
+4131 23 0
+0 mdv2-miR-M28 MIMAT0004474 Mareks disease miR-M28
+4154 22 0
+0 mdv2-miR-M28* MIMAT0004475 Mareks disease miR-M28*
+4176 23 0
+0 mdv2-miR-M29-5p MIMAT0004476 Mareks disease miR-M29-5p
+4199 22 0
+0 mdv2-miR-M29-3p MIMAT0012545 Mareks disease miR-M29-3p
+4221 20 0
+0 mdv2-miR-M30 MIMAT0004477 Mareks disease miR-M30
+4241 22 0
+0 mdv2-miR-M30* MIMAT0012546 Mareks disease miR-M30*
+4263 21 0
+0 hiv1-miR-N367 MIMAT0004478 Human immunodeficiency miR-N367
+4284 24 0
+0 hiv1-miR-H1 MIMAT0004480 Human immunodeficiency miR-H1
+4308 20 0
+0 mcmv-miR-m01-1 MIMAT0005533 Mouse cytomegalovirus miR-m01-1
+4328 22 0
+0 mcmv-miR-m01-2 MIMAT0005534 Mouse cytomegalovirus miR-m01-2
+4350 23 0
+0 mcmv-miR-m01-2* MIMAT0005535 Mouse cytomegalovirus miR-m01-2*
+4373 22 0
+0 mcmv-miR-m01-3 MIMAT0005536 Mouse cytomegalovirus miR-m01-3
+4395 23 0
+0 mcmv-miR-m01-3* MIMAT0005537 Mouse cytomegalovirus miR-m01-3*
+4418 22 0
+0 mcmv-miR-m01-4 MIMAT0005538 Mouse cytomegalovirus miR-m01-4
+4440 23 0
+0 mcmv-miR-m01-4* MIMAT0005539 Mouse cytomegalovirus miR-m01-4*
+4463 22 0
+0 mcmv-miR-m21-1 MIMAT0005540 Mouse cytomegalovirus miR-m21-1
+4485 21 0
+0 mcmv-miR-m22-1 MIMAT0005541 Mouse cytomegalovirus miR-m22-1
+4506 22 0
+0 mcmv-miR-M23-1-5p MIMAT0005542 Mouse cytomegalovirus miR-M23-1-5p
+4528 22 0
+0 mcmv-miR-M23-1-3p MIMAT0005543 Mouse cytomegalovirus miR-M23-1-3p
+4550 21 0
+0 mcmv-miR-M23-2* MIMAT0005544 Mouse cytomegalovirus miR-M23-2*
+4571 22 0
+0 mcmv-miR-M23-2 MIMAT0005545 Mouse cytomegalovirus miR-M23-2
+4593 21 0
+0 mcmv-miR-M44-1 MIMAT0005546 Mouse cytomegalovirus miR-M44-1
+4614 22 0
+0 mcmv-miR-M55-1 MIMAT0005547 Mouse cytomegalovirus miR-M55-1
+4636 22 0
+0 mcmv-miR-m59-1 MIMAT0005548 Mouse cytomegalovirus miR-m59-1
+4658 22 0
+0 mcmv-miR-m59-2 MIMAT0005549 Mouse cytomegalovirus miR-m59-2
+4680 22 0
+0 mcmv-miR-M87-1 MIMAT0005550 Mouse cytomegalovirus miR-M87-1
+4702 23 0
+0 mcmv-miR-m88-1* MIMAT0005551 Mouse cytomegalovirus miR-m88-1*
+4725 22 0
+0 mcmv-miR-m88-1 MIMAT0005552 Mouse cytomegalovirus miR-m88-1
+4747 21 0
+0 mcmv-miR-M95-1-5p MIMAT0005553 Mouse cytomegalovirus miR-M95-1-5p
+4768 22 0
+0 mcmv-miR-M95-1-3p MIMAT0005554 Mouse cytomegalovirus miR-M95-1-3p
+4790 22 0
+0 mcmv-miR-m107-1-5p MIMAT0005555 Mouse cytomegalovirus miR-m107-1-5p
+4812 22 0
+0 mcmv-miR-m107-1-3p MIMAT0005556 Mouse cytomegalovirus miR-m107-1-3p
+4834 22 0
+0 mcmv-miR-m108-1* MIMAT0005557 Mouse cytomegalovirus miR-m108-1*
+4856 22 0
+0 mcmv-miR-m108-1 MIMAT0005558 Mouse cytomegalovirus miR-m108-1
+4878 22 0
+0 mcmv-miR-m108-2-5p.2 MIMAT0005559 Mouse cytomegalovirus miR-m108-2-5p.2
+4900 21 0
+0 mcmv-miR-m108-2-5p.1 MIMAT0005560 Mouse cytomegalovirus miR-m108-2-5p.1
+4921 23 0
+0 mcmv-miR-m108-2-3p MIMAT0005561 Mouse cytomegalovirus miR-m108-2-3p
+4944 23 0
+0 mdv1-miR-M9-5p MIMAT0005979 Mareks disease miR-M9-5p
+4967 22 0
+0 mdv1-miR-M9-3p MIMAT0005980 Mareks disease miR-M9-3p
+4989 22 0
+0 mdv1-miR-M10-5p MIMAT0007294 Mareks disease miR-M10-5p
+5011 22 0
+0 mdv1-miR-M10-3p MIMAT0005981 Mareks disease miR-M10-3p
+5033 22 0
+0 mdv1-miR-M11-5p MIMAT0005982 Mareks disease miR-M11-5p
+5055 23 0
+0 mdv1-miR-M11-3p MIMAT0005983 Mareks disease miR-M11-3p
+5078 22 0
+0 mdv1-miR-M12* MIMAT0009209 Mareks disease miR-M12*
+5100 24 0
+0 mdv1-miR-M12 MIMAT0005984 Mareks disease miR-M12
+5124 20 0
+0 mdv1-miR-M13 MIMAT0005985 Mareks disease miR-M13
+5144 21 0
+0 hiv1-miR-TAR-5p MIMAT0006016 Human immunodeficiency miR-TAR-5p
+5165 24 0
+0 hiv1-miR-TAR-3p MIMAT0006017 Human immunodeficiency miR-TAR-3p
+5189 23 0
+0 mdv1-miR-M31 MIMAT0007893 Mareks disease miR-M31
+5212 23 0
+0 hsv1-miR-H2* MIMAT0008398 Herpes Simplex miR-H2*
+5235 22 0
+0 hsv1-miR-H2 MIMAT0008399 Herpes Simplex miR-H2
+5257 24 0
+0 hsv1-miR-H3* MIMAT0015279 Herpes Simplex miR-H3*
+5281 22 0
+0 hsv1-miR-H3 MIMAT0008400 Herpes Simplex miR-H3
+5303 21 0
+0 hsv1-miR-H4-5p MIMAT0008401 Herpes Simplex miR-H4-5p
+5324 22 0
+0 hsv1-miR-H4-3p MIMAT0008402 Herpes Simplex miR-H4-3p
+5346 22 0
+0 hsv1-miR-H5-5p MIMAT0015280 Herpes Simplex miR-H5-5p
+5368 22 0
+0 hsv1-miR-H5-3p MIMAT0008403 Herpes Simplex miR-H5-3p
+5390 22 0
+0 hsv1-miR-H6-5p MIMAT0015281 Herpes Simplex miR-H6-5p
+5412 21 0
+0 hsv1-miR-H6-3p MIMAT0008404 Herpes Simplex miR-H6-3p
+5433 21 0
+0 jcv-miR-J1-5p MIMAT0009147 JC polyomavirus miR-J1-5p
+5454 22 0
+0 jcv-miR-J1-3p MIMAT0009148 JC polyomavirus miR-J1-3p
+5476 22 0
+0 bkv-miR-B1-5p MIMAT0009149 BK polyomavirus miR-B1-5p
+5498 22 0
+0 bkv-miR-B1-3p MIMAT0009150 BK polyomavirus miR-B1-3p
+5520 22 0
+0 ebv-miR-BART21-5p MIMAT0010130 Epstein Barr miR-BART21-5p
+5542 21 0
+0 ebv-miR-BART21-3p MIMAT0010131 Epstein Barr miR-BART21-3p
+5563 22 0
+0 ebv-miR-BART22 MIMAT0010132 Epstein Barr miR-BART22
+5585 23 0
+0 mcv-miR-M1-5p MIMAT0010150 Merkel cell miR-M1-5p
+5608 22 0
+0 mcv-miR-M1-3p MIMAT0010151 Merkel cell miR-M1-3p
+5630 22 0
+0 hsv2-miR-H3 MIMAT0010202 Herpes Simplex miR-H3
+5652 22 0
+0 hsv2-miR-H4-5p MIMAT0010203 Herpes Simplex miR-H4-5p
+5674 21 0
+0 hsv2-miR-H4-3p MIMAT0010204 Herpes Simplex miR-H4-3p
+5695 21 0
+0 hsv2-miR-H2 MIMAT0010205 Herpes Simplex miR-H2
+5716 22 0
+0 hbv-miR-B2RC MIMAT0012170 Herpes B miR-B2RC
+5738 21 0
+0 hbv-miR-B4 MIMAT0012171 Herpes B miR-B4
+5759 21 0
+0 hbv-miR-B20 MIMAT0012172 Herpes B miR-B20
+5780 21 0
+0 hsv1-miR-H7 MIMAT0012595 Herpes Simplex miR-H7
+5801 21 0
+0 hsv1-miR-H7* MIMAT0012596 Herpes Simplex miR-H7*
+5822 21 0
+0 hsv1-miR-H8 MIMAT0012597 Herpes Simplex miR-H8
+5843 20 0
+0 hsv1-miR-H8* MIMAT0012598 Herpes Simplex miR-H8*
+5863 20 0
+0 hvt-miR-H1 MIMAT0012710 Herpesvirus of miR-H1
+5883 22 0
+0 hvt-miR-H2 MIMAT0012711 Herpesvirus of miR-H2
+5905 21 0
+0 hvt-miR-H3-5p MIMAT0012712 Herpesvirus of miR-H3-5p
+5926 22 0
+0 hvt-miR-H3-3p MIMAT0012713 Herpesvirus of miR-H3-3p
+5948 18 0
+0 hvt-miR-H4 MIMAT0012714 Herpesvirus of miR-H4
+5966 21 0
+0 hvt-miR-H4* MIMAT0012715 Herpesvirus of miR-H4*
+5987 26 0
+0 hvt-miR-H5 MIMAT0012716 Herpesvirus of miR-H5
+6013 23 0
+0 hvt-miR-H5* MIMAT0012717 Herpesvirus of miR-H5*
+6036 23 0
+0 hvt-miR-H7-5p MIMAT0012718 Herpesvirus of miR-H7-5p
+6059 25 0
+0 hvt-miR-H7-3p MIMAT0012719 Herpesvirus of miR-H7-3p
+6084 25 0
+0 hvt-miR-H8 MIMAT0012720 Herpesvirus of miR-H8
+6109 24 0
+0 hvt-miR-H9-5p MIMAT0012721 Herpesvirus of miR-H9-5p
+6133 25 0
+0 hvt-miR-H9-3p MIMAT0012722 Herpesvirus of miR-H9-3p
+6158 25 0
+0 iltv-miR-I1 MIMAT0012723 Infectious laryngotracheitis miR-I1
+6183 22 0
+0 iltv-miR-I1* MIMAT0012724 Infectious laryngotracheitis miR-I1*
+6205 24 0
+0 iltv-miR-I2 MIMAT0012725 Infectious laryngotracheitis miR-I2
+6229 24 0
+0 iltv-miR-I3 MIMAT0012726 Infectious laryngotracheitis miR-I3
+6253 23 0
+0 iltv-miR-I4 MIMAT0012727 Infectious laryngotracheitis miR-I4
+6276 24 0
+0 iltv-miR-I5* MIMAT0012728 Infectious laryngotracheitis miR-I5*
+6300 24 0
+0 iltv-miR-I5 MIMAT0012729 Infectious laryngotracheitis miR-I5
+6324 25 0
+0 iltv-miR-I6* MIMAT0012730 Infectious laryngotracheitis miR-I6*
+6349 22 0
+0 iltv-miR-I6 MIMAT0012731 Infectious laryngotracheitis miR-I6
+6371 23 0
+0 mdv2-miR-M32* MIMAT0012732 Mareks disease miR-M32*
+6394 23 0
+0 mdv2-miR-M32 MIMAT0012733 Mareks disease miR-M32
+6417 22 0
+0 iltv-miR-I7 MIMAT0012861 Infectious laryngotracheitis miR-I7
+6439 22 0
+0 hvt-miR-H10 MIMAT0012862 Herpesvirus of miR-H10
+6461 25 0
+0 hvt-miR-H12-5p MIMAT0012863 Herpesvirus of miR-H12-5p
+6486 26 0
+0 hvt-miR-H12-3p MIMAT0012864 Herpesvirus of miR-H12-3p
+6512 25 0
+0 hvt-miR-H13 MIMAT0012865 Herpesvirus of miR-H13
+6537 24 0
+0 hvt-miR-H14 MIMAT0012866 Herpesvirus of miR-H14
+6561 25 0
+0 hvt-miR-H14* MIMAT0012867 Herpesvirus of miR-H14*
+6586 23 0
+0 hvt-miR-H15* MIMAT0012868 Herpesvirus of miR-H15*
+6609 22 0
+0 hvt-miR-H15 MIMAT0012869 Herpesvirus of miR-H15
+6631 23 0
+0 hvt-miR-H16-5p MIMAT0012870 Herpesvirus of miR-H16-5p
+6654 21 0
+0 hvt-miR-H16-3p MIMAT0012871 Herpesvirus of miR-H16-3p
+6675 21 0
+0 hvt-miR-H17* MIMAT0012872 Herpesvirus of miR-H17*
+6696 21 0
+0 hvt-miR-H17 MIMAT0012873 Herpesvirus of miR-H17
+6717 23 0
+0 hvt-miR-H18-5p MIMAT0012874 Herpesvirus of miR-H18-5p
+6740 23 0
+0 hvt-miR-H18-3p MIMAT0012875 Herpesvirus of miR-H18-3p
+6763 24 0
+0 hvt-miR-H11 MIMAT0012876 Herpesvirus of miR-H11
+6787 22 0
+0 bhv1-miR-B1 MIMAT0013962 Bovine herpesvirus miR-B1
+6809 21 0
+0 bhv1-miR-B2 MIMAT0013963 Bovine herpesvirus miR-B2
+6830 20 0
+0 bhv1-miR-B3 MIMAT0013964 Bovine herpesvirus miR-B3
+6850 20 0
+0 bhv1-miR-B4 MIMAT0013965 Bovine herpesvirus miR-B4
+6870 21 0
+0 bhv1-miR-B5 MIMAT0013966 Bovine herpesvirus miR-B5
+6891 24 0
+0 bhv1-miR-B6 MIMAT0013967 Bovine herpesvirus miR-B6
+6915 23 0
+0 bhv1-miR-B6* MIMAT0013968 Bovine herpesvirus miR-B6*
+6938 23 0
+0 bhv1-miR-B7 MIMAT0013969 Bovine herpesvirus miR-B7
+6961 23 0
+0 bhv1-miR-B8-5p MIMAT0013970 Bovine herpesvirus miR-B8-5p
+6984 22 0
+0 bhv1-miR-B8-3p MIMAT0013971 Bovine herpesvirus miR-B8-3p
+7006 23 0
+0 bhv1-miR-B9 MIMAT0013972 Bovine herpesvirus miR-B9
+7029 21 0
+0 rlcv-miR-rL1-17-5p MIMAT0019185 Rhesus lymphocryptovirus miR-rL1-17-5p
+7050 24 0
+0 rlcv-miR-rL1-17-3p MIMAT0014064 Rhesus lymphocryptovirus miR-rL1-17-3p
+7074 22 0
+0 rlcv-miR-rL1-18-5p MIMAT0019186 Rhesus lymphocryptovirus miR-rL1-18-5p
+7096 22 0
+0 rlcv-miR-rL1-18-3p MIMAT0016941 Rhesus lymphocryptovirus miR-rL1-18-3p
+7118 22 0
+0 rlcv-miR-rL1-19-5p MIMAT0016942 Rhesus lymphocryptovirus miR-rL1-19-5p
+7140 22 0
+0 rlcv-miR-rL1-19-3p MIMAT0019187 Rhesus lymphocryptovirus miR-rL1-19-3p
+7162 21 0
+0 rlcv-miR-rL1-20-5p MIMAT0014065 Rhesus lymphocryptovirus miR-rL1-20-5p
+7183 23 0
+0 rlcv-miR-rL1-20-3p MIMAT0014066 Rhesus lymphocryptovirus miR-rL1-20-3p
+7206 22 0
+0 rlcv-miR-rL1-21-5p MIMAT0019188 Rhesus lymphocryptovirus miR-rL1-21-5p
+7228 22 0
+0 rlcv-miR-rL1-21-3p MIMAT0016943 Rhesus lymphocryptovirus miR-rL1-21-3p
+7250 22 0
+0 rlcv-miR-rL1-22-5p MIMAT0019189 Rhesus lymphocryptovirus miR-rL1-22-5p
+7272 19 0
+0 rlcv-miR-rL1-22-3p MIMAT0016944 Rhesus lymphocryptovirus miR-rL1-22-3p
+7291 22 0
+0 rlcv-miR-rL1-23-5p MIMAT0016945 Rhesus lymphocryptovirus miR-rL1-23-5p
+7313 22 0
+0 rlcv-miR-rL1-23-3p MIMAT0016946 Rhesus lymphocryptovirus miR-rL1-23-3p
+7335 22 0
+0 rlcv-miR-rL1-24-5p MIMAT0016947 Rhesus lymphocryptovirus miR-rL1-24-5p
+7357 23 0
+0 rlcv-miR-rL1-24-3p MIMAT0016948 Rhesus lymphocryptovirus miR-rL1-24-3p
+7380 22 0
+0 rlcv-miR-rL1-25-5p MIMAT0019190 Rhesus lymphocryptovirus miR-rL1-25-5p
+7402 22 0
+0 rlcv-miR-rL1-25-3p MIMAT0016949 Rhesus lymphocryptovirus miR-rL1-25-3p
+7424 22 0
+0 rlcv-miR-rL1-26-5p MIMAT0019191 Rhesus lymphocryptovirus miR-rL1-26-5p
+7446 21 0
+0 rlcv-miR-rL1-26-3p MIMAT0016950 Rhesus lymphocryptovirus miR-rL1-26-3p
+7467 22 0
+0 rlcv-miR-rL1-27-5p MIMAT0019192 Rhesus lymphocryptovirus miR-rL1-27-5p
+7489 22 0
+0 rlcv-miR-rL1-27-3p MIMAT0016951 Rhesus lymphocryptovirus miR-rL1-27-3p
+7511 22 0
+0 rlcv-miR-rL1-28-5p MIMAT0019193 Rhesus lymphocryptovirus miR-rL1-28-5p
+7533 22 0
+0 rlcv-miR-rL1-28-3p MIMAT0016952 Rhesus lymphocryptovirus miR-rL1-28-3p
+7555 22 0
+0 rlcv-miR-rL1-29-5p MIMAT0019194 Rhesus lymphocryptovirus miR-rL1-29-5p
+7577 21 0
+0 rlcv-miR-rL1-29-3p MIMAT0016953 Rhesus lymphocryptovirus miR-rL1-29-3p
+7598 22 0
+0 rlcv-miR-rL1-30-5p MIMAT0019195 Rhesus lymphocryptovirus miR-rL1-30-5p
+7620 24 0
+0 rlcv-miR-rL1-30-3p MIMAT0016954 Rhesus lymphocryptovirus miR-rL1-30-3p
+7644 22 0
+0 rlcv-miR-rL1-31-5p MIMAT0016955 Rhesus lymphocryptovirus miR-rL1-31-5p
+7666 22 0
+0 rlcv-miR-rL1-31-3p MIMAT0016956 Rhesus lymphocryptovirus miR-rL1-31-3p
+7688 22 0
+0 rlcv-miR-rL1-32-5p MIMAT0016957 Rhesus lymphocryptovirus miR-rL1-32-5p
+7710 23 0
+0 rlcv-miR-rL1-32-3p MIMAT0016958 Rhesus lymphocryptovirus miR-rL1-32-3p
+7733 22 0
+0 rlcv-miR-rL1-33-5p MIMAT0016959 Rhesus lymphocryptovirus miR-rL1-33-5p
+7755 22 0
+0 rlcv-miR-rL1-33-3p MIMAT0019196 Rhesus lymphocryptovirus miR-rL1-33-3p
+7777 22 0
+0 hsv2-miR-H7-5p MIMAT0014351 Herpes Simplex miR-H7-5p
+7799 21 0
+0 hsv2-miR-H7-3p MIMAT0015375 Herpes Simplex miR-H7-3p
+7820 21 0
+0 hsv2-miR-H9-5p MIMAT0015376 Herpes Simplex miR-H9-5p
+7841 20 0
+0 hsv2-miR-H9-3p MIMAT0014352 Herpes Simplex miR-H9-3p
+7861 22 0
+0 hsv2-miR-H10 MIMAT0014353 Herpes Simplex miR-H10
+7883 18 0
+0 hsv1-miR-H11 MIMAT0014688 Herpes Simplex miR-H11
+7901 20 0
+0 hsv1-miR-H12 MIMAT0014689 Herpes Simplex miR-H12
+7921 22 0
+0 hsv1-miR-H13 MIMAT0014690 Herpes Simplex miR-H13
+7943 23 0
+0 hsv1-miR-H14-5p MIMAT0014691 Herpes Simplex miR-H14-5p
+7966 24 0
+0 hsv1-miR-H14-3p MIMAT0014692 Herpes Simplex miR-H14-3p
+7990 21 0
+0 hsv1-miR-H15 MIMAT0014693 Herpes Simplex miR-H15
+8011 22 0
+0 hsv1-miR-H16 MIMAT0014694 Herpes Simplex miR-H16
+8033 22 0
+0 hsv1-miR-H17 MIMAT0014695 Herpes Simplex miR-H17
+8055 21 0
+0 hsv1-miR-H18 MIMAT0014696 Herpes Simplex miR-H18
+8076 23 0
+0 hsv2-miR-H11* MIMAT0014697 Herpes Simplex miR-H11*
+8099 21 0
+0 hsv2-miR-H11 MIMAT0014698 Herpes Simplex miR-H11
+8120 22 0
+0 hsv2-miR-H12 MIMAT0014699 Herpes Simplex miR-H12
+8142 22 0
+0 hsv2-miR-H13 MIMAT0014700 Herpes Simplex miR-H13
+8164 22 0
+0 hsv2-miR-H19 MIMAT0014701 Herpes Simplex miR-H19
+8186 22 0
+0 hsv2-miR-H20 MIMAT0014702 Herpes Simplex miR-H20
+8208 21 0
+0 hsv2-miR-H21 MIMAT0014703 Herpes Simplex miR-H21
+8229 21 0
+0 hsv2-miR-H22 MIMAT0014704 Herpes Simplex miR-H22
+8250 22 0
+0 hsv2-miR-H23 MIMAT0014705 Herpes Simplex miR-H23
+8272 20 0
+0 hsv2-miR-H23* MIMAT0014706 Herpes Simplex miR-H23*
+8292 21 0
+0 hsv2-miR-H24 MIMAT0014707 Herpes Simplex miR-H24
+8313 23 0
+0 hsv2-miR-H25 MIMAT0014708 Herpes Simplex miR-H25
+8336 21 0
+0 bhv1-miR-B10 MIMAT0015649 Bovine herpesvirus miR-B10
+8357 22 0
+0 hsv2-miR-H5 MIMAT0015650 Herpes Simplex miR-H5
+8379 23 0
+0 hsv2-miR-H6 MIMAT0015651 Herpes Simplex miR-H6
+8402 20 0
+0 hsv2-miR-H6* MIMAT0015652 Herpes Simplex miR-H6*
+8422 23 0
+0 rlcv-miR-rL1-34-5p MIMAT0016960 Rhesus lymphocryptovirus miR-rL1-34-5p
+8445 22 0
+0 rlcv-miR-rL1-34-3p MIMAT0016961 Rhesus lymphocryptovirus miR-rL1-34-3p
+8467 22 0
+0 rlcv-miR-rL1-35-5p MIMAT0016962 Rhesus lymphocryptovirus miR-rL1-35-5p
+8489 22 0
+0 rlcv-miR-rL1-35-3p MIMAT0016963 Rhesus lymphocryptovirus miR-rL1-35-3p
+8511 24 0
+0 mghv-miR-M1-10* MIMAT0018166 Mouse gammaherpesvirus miR-M1-10*
+8535 21 0
+0 mghv-miR-M1-10 MIMAT0018167 Mouse gammaherpesvirus miR-M1-10
+8556 22 0
+0 mghv-miR-M1-11-5p MIMAT0018168 Mouse gammaherpesvirus miR-M1-11-5p
+8578 19 0
+0 mghv-miR-M1-11-3p MIMAT0018169 Mouse gammaherpesvirus miR-M1-11-3p
+8597 20 0
+0 mghv-miR-M1-12* MIMAT0018170 Mouse gammaherpesvirus miR-M1-12*
+8617 23 0
+0 mghv-miR-M1-12 MIMAT0018171 Mouse gammaherpesvirus miR-M1-12
+8640 25 0
+0 mghv-miR-M1-13-5p MIMAT0018172 Mouse gammaherpesvirus miR-M1-13-5p
+8665 22 0
+0 mghv-miR-M1-13-3p MIMAT0018173 Mouse gammaherpesvirus miR-M1-13-3p
+8687 22 0
+0 mghv-miR-M1-14-5p MIMAT0018174 Mouse gammaherpesvirus miR-M1-14-5p
+8709 22 0
+0 mghv-miR-M1-14-3p MIMAT0018175 Mouse gammaherpesvirus miR-M1-14-3p
+8731 22 0
+0 mghv-miR-M1-15 MIMAT0018176 Mouse gammaherpesvirus miR-M1-15
+8753 25 0
+0 bpcv1-miR-B1 MIMAT0020276 Bandicoot papillomatosis miR-B1
+8778 22 0
+0 bpcv2-miR-B1 MIMAT0020277 Bandicoot papillomatosis miR-B1
+8800 22 0
+0 hvsa-miR-HSUR5-5p MIMAT0022682 Herpesvirus saimiri miR-HSUR5-5p
+8822 21 0
+0 hvsa-miR-HSUR5-3p MIMAT0022683 Herpesvirus saimiri miR-HSUR5-3p
+8843 22 0
+0 hvsa-miR-HSUR4-5p MIMAT0022684 Herpesvirus saimiri miR-HSUR4-5p
+8865 21 0
+0 hvsa-miR-HSUR4-3p MIMAT0022685 Herpesvirus saimiri miR-HSUR4-3p
+8886 22 0
+0 hvsa-miR-HSUR2-5p MIMAT0022686 Herpesvirus saimiri miR-HSUR2-5p
+8908 22 0
+0 hvsa-miR-HSUR2-3p MIMAT0022687 Herpesvirus saimiri miR-HSUR2-3p
+8930 21 0

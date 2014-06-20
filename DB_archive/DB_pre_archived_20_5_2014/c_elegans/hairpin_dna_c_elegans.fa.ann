@@ -1,0 +1,447 @@
+19933 223 11
+0 cel-let-7 MI0000001 Caenorhabditis elegans let-7 stem-loop
+0 99 0
+0 cel-lin-4 MI0000002 Caenorhabditis elegans lin-4 stem-loop
+99 94 0
+0 cel-mir-1 MI0000003 Caenorhabditis elegans miR-1 stem-loop
+193 96 0
+0 cel-mir-2 MI0000004 Caenorhabditis elegans miR-2 stem-loop
+289 98 0
+0 cel-mir-34 MI0000005 Caenorhabditis elegans miR-34 stem-loop
+387 97 0
+0 cel-mir-35 MI0000006 Caenorhabditis elegans miR-35 stem-loop
+484 97 0
+0 cel-mir-36 MI0000007 Caenorhabditis elegans miR-36 stem-loop
+581 97 0
+0 cel-mir-37 MI0000008 Caenorhabditis elegans miR-37 stem-loop
+678 98 0
+0 cel-mir-38 MI0000009 Caenorhabditis elegans miR-38 stem-loop
+776 98 0
+0 cel-mir-39 MI0000010 Caenorhabditis elegans miR-39 stem-loop
+874 87 0
+0 cel-mir-40 MI0000011 Caenorhabditis elegans miR-40 stem-loop
+961 92 0
+0 cel-mir-41 MI0000012 Caenorhabditis elegans miR-41 stem-loop
+1053 97 0
+0 cel-mir-42 MI0000013 Caenorhabditis elegans miR-42 stem-loop
+1150 95 0
+0 cel-mir-43 MI0000014 Caenorhabditis elegans miR-43 stem-loop
+1245 98 0
+0 cel-mir-44 MI0000015 Caenorhabditis elegans miR-44 stem-loop
+1343 96 0
+0 cel-mir-45 MI0000016 Caenorhabditis elegans miR-45 stem-loop
+1439 96 0
+0 cel-mir-46 MI0000017 Caenorhabditis elegans miR-46 stem-loop
+1535 97 0
+0 cel-mir-47 MI0000018 Caenorhabditis elegans miR-47 stem-loop
+1632 97 0
+0 cel-mir-48 MI0000019 Caenorhabditis elegans miR-48 stem-loop
+1729 98 0
+0 cel-mir-49 MI0000020 Caenorhabditis elegans miR-49 stem-loop
+1827 97 0
+0 cel-mir-50 MI0000021 Caenorhabditis elegans miR-50 stem-loop
+1924 99 0
+0 cel-mir-51 MI0000022 Caenorhabditis elegans miR-51 stem-loop
+2023 100 0
+0 cel-mir-52 MI0000023 Caenorhabditis elegans miR-52 stem-loop
+2123 100 0
+0 cel-mir-53 MI0000024 Caenorhabditis elegans miR-53 stem-loop
+2223 99 0
+0 cel-mir-54 MI0000025 Caenorhabditis elegans miR-54 stem-loop
+2322 99 0
+0 cel-mir-55 MI0000026 Caenorhabditis elegans miR-55 stem-loop
+2421 98 0
+0 cel-mir-56 MI0000027 Caenorhabditis elegans miR-56 stem-loop
+2519 97 0
+0 cel-mir-57 MI0000028 Caenorhabditis elegans miR-57 stem-loop
+2616 99 0
+0 cel-mir-58 MI0000029 Caenorhabditis elegans miR-58 stem-loop
+2715 97 0
+0 cel-mir-59 MI0000030 Caenorhabditis elegans miR-59 stem-loop
+2812 100 0
+0 cel-mir-60 MI0000031 Caenorhabditis elegans miR-60 stem-loop
+2912 98 0
+0 cel-mir-61 MI0000032 Caenorhabditis elegans miR-61 stem-loop
+3010 97 0
+0 cel-mir-62 MI0000033 Caenorhabditis elegans miR-62 stem-loop
+3107 58 0
+0 cel-mir-63 MI0000034 Caenorhabditis elegans miR-63 stem-loop
+3165 104 0
+0 cel-mir-64 MI0000035 Caenorhabditis elegans miR-64 stem-loop
+3269 110 0
+0 cel-mir-65 MI0000036 Caenorhabditis elegans miR-65 stem-loop
+3379 100 0
+0 cel-mir-66 MI0000037 Caenorhabditis elegans miR-66 stem-loop
+3479 99 0
+0 cel-mir-67 MI0000038 Caenorhabditis elegans miR-67 stem-loop
+3578 99 0
+0 cel-mir-70 MI0000041 Caenorhabditis elegans miR-70 stem-loop
+3677 100 0
+0 cel-mir-71 MI0000042 Caenorhabditis elegans miR-71 stem-loop
+3777 94 0
+0 cel-mir-72 MI0000043 Caenorhabditis elegans miR-72 stem-loop
+3871 99 0
+0 cel-mir-73 MI0000044 Caenorhabditis elegans miR-73 stem-loop
+3970 99 0
+0 cel-mir-74 MI0000045 Caenorhabditis elegans miR-74 stem-loop
+4069 97 0
+0 cel-mir-75 MI0000046 Caenorhabditis elegans miR-75 stem-loop
+4166 97 0
+0 cel-mir-76 MI0000047 Caenorhabditis elegans miR-76 stem-loop
+4263 97 0
+0 cel-mir-77 MI0000048 Caenorhabditis elegans miR-77 stem-loop
+4360 100 0
+0 cel-mir-78 MI0000049 Caenorhabditis elegans miR-78 stem-loop
+4460 96 0
+0 cel-mir-79 MI0000050 Caenorhabditis elegans miR-79 stem-loop
+4556 98 0
+0 cel-mir-80 MI0000051 Caenorhabditis elegans miR-80/miR-227 stem-loop
+4654 98 0
+0 cel-mir-81 MI0000052 Caenorhabditis elegans miR-81 stem-loop
+4752 108 0
+0 cel-mir-82 MI0000053 Caenorhabditis elegans miR-82 stem-loop
+4860 97 0
+0 cel-mir-83 MI0000054 Caenorhabditis elegans miR-83 stem-loop
+4957 98 0
+0 cel-mir-84 MI0000055 Caenorhabditis elegans miR-84 stem-loop
+5055 75 0
+0 cel-mir-85 MI0000056 Caenorhabditis elegans miR-85 stem-loop
+5130 106 0
+0 cel-mir-86 MI0000057 Caenorhabditis elegans miR-86 stem-loop
+5236 98 0
+0 cel-mir-87 MI0000058 Caenorhabditis elegans miR-87 stem-loop
+5334 94 0
+0 cel-mir-90 MI0000059 Caenorhabditis elegans miR-90 stem-loop
+5428 98 0
+0 cel-mir-124 MI0000302 Caenorhabditis elegans miR-124 stem-loop
+5526 96 0
+0 cel-mir-228 MI0000303 Caenorhabditis elegans miR-228 stem-loop
+5622 98 0
+0 cel-mir-229 MI0000304 Caenorhabditis elegans miR-229 stem-loop
+5720 115 0
+0 cel-mir-230 MI0000305 Caenorhabditis elegans miR-230 stem-loop
+5835 98 0
+0 cel-mir-231 MI0000306 Caenorhabditis elegans miR-231 stem-loop
+5933 99 0
+0 cel-mir-232 MI0000307 Caenorhabditis elegans miR-232 stem-loop
+6032 98 0
+0 cel-mir-233 MI0000308 Caenorhabditis elegans miR-233 stem-loop
+6130 98 0
+0 cel-mir-234 MI0000309 Caenorhabditis elegans miR-234 stem-loop
+6228 96 0
+0 cel-mir-235 MI0000310 Caenorhabditis elegans miR-235 stem-loop
+6324 97 0
+0 cel-mir-236 MI0000311 Caenorhabditis elegans miR-236 stem-loop
+6421 98 0
+0 cel-mir-237 MI0000312 Caenorhabditis elegans miR-237 stem-loop
+6519 99 0
+0 cel-mir-238 MI0000313 Caenorhabditis elegans miR-238 stem-loop
+6618 98 0
+0 cel-mir-239a MI0000314 Caenorhabditis elegans miR-239a stem-loop
+6716 98 0
+0 cel-mir-239b MI0000315 Caenorhabditis elegans miR-239b stem-loop
+6814 98 0
+0 cel-mir-240 MI0000316 Caenorhabditis elegans miR-240 stem-loop
+6912 97 0
+0 cel-mir-241 MI0000317 Caenorhabditis elegans miR-241 stem-loop
+7009 96 0
+0 cel-mir-242 MI0000318 Caenorhabditis elegans miR-242 stem-loop
+7105 96 0
+0 cel-mir-243 MI0000319 Caenorhabditis elegans miR-243 stem-loop
+7201 98 0
+0 cel-mir-244 MI0000320 Caenorhabditis elegans miR-244 stem-loop
+7299 99 0
+0 cel-mir-245 MI0000321 Caenorhabditis elegans miR-245 stem-loop
+7398 97 0
+0 cel-mir-246 MI0000322 Caenorhabditis elegans miR-246 stem-loop
+7495 97 0
+0 cel-mir-247 MI0000323 Caenorhabditis elegans miR-247 stem-loop
+7592 98 0
+0 cel-mir-248 MI0000324 Caenorhabditis elegans miR-248 stem-loop
+7690 98 0
+0 cel-mir-249 MI0000325 Caenorhabditis elegans miR-249 stem-loop
+7788 97 0
+0 cel-mir-250 MI0000326 Caenorhabditis elegans miR-250 stem-loop
+7885 99 0
+0 cel-mir-251 MI0000327 Caenorhabditis elegans miR-251 stem-loop
+7984 97 0
+0 cel-mir-252 MI0000328 Caenorhabditis elegans miR-252 stem-loop
+8081 98 0
+0 cel-mir-253 MI0000329 Caenorhabditis elegans miR-253 stem-loop
+8179 107 0
+0 cel-mir-254 MI0000330 Caenorhabditis elegans miR-254 stem-loop
+8286 100 0
+0 cel-mir-255 MI0000331 Caenorhabditis elegans miR-255 stem-loop
+8386 110 0
+0 cel-mir-256 MI0000333 Caenorhabditis elegans miR-256 stem-loop
+8496 101 0
+0 cel-mir-257 MI0000334 Caenorhabditis elegans miR-257 stem-loop
+8597 102 0
+0 cel-mir-258-1 MI0000335 Caenorhabditis elegans miR-258-1 stem-loop
+8699 96 0
+0 cel-mir-259 MI0000336 Caenorhabditis elegans miR-259 stem-loop
+8795 101 0
+0 cel-mir-260 MI0000337 Caenorhabditis elegans miR-260 stem-loop
+8896 103 0
+0 cel-mir-261 MI0000338 Caenorhabditis elegans miR-261 stem-loop
+8999 99 0
+0 cel-mir-262 MI0000339 Caenorhabditis elegans miR-262 stem-loop
+9098 108 0
+0 cel-mir-264 MI0000344 Caenorhabditis elegans miR-264 stem-loop
+9206 93 0
+0 cel-mir-265 MI0000345 Caenorhabditis elegans miR-265 stem-loop
+9299 86 0
+0 cel-mir-266 MI0000346 Caenorhabditis elegans miR-266 stem-loop
+9385 94 0
+0 cel-mir-267 MI0000347 Caenorhabditis elegans miR-267 stem-loop
+9479 93 0
+0 cel-mir-268 MI0000348 Caenorhabditis elegans miR-268 stem-loop
+9572 95 0
+0 cel-mir-269 MI0000349 Caenorhabditis elegans miR-269 stem-loop
+9667 94 0
+0 cel-mir-270 MI0000350 Caenorhabditis elegans miR-270 stem-loop
+9761 95 0
+0 cel-mir-271 MI0000351 Caenorhabditis elegans miR-271 stem-loop
+9856 95 0
+0 cel-mir-272 MI0000352 Caenorhabditis elegans miR-272 stem-loop
+9951 95 0
+0 cel-mir-273 MI0000353 Caenorhabditis elegans miR-273 stem-loop
+10046 94 0
+0 cel-mir-353 MI0000752 Caenorhabditis elegans miR-353 stem-loop
+10140 110 0
+0 cel-mir-354 MI0000753 Caenorhabditis elegans miR-354 stem-loop
+10250 110 0
+0 cel-mir-355 MI0000754 Caenorhabditis elegans miR-355 stem-loop
+10360 110 0
+0 cel-mir-356 MI0000755 Caenorhabditis elegans miR-356 stem-loop
+10470 110 0
+0 cel-mir-357 MI0000756 Caenorhabditis elegans miR-357 stem-loop
+10580 110 0
+0 cel-mir-358 MI0000757 Caenorhabditis elegans miR-358 stem-loop
+10690 110 0
+0 cel-mir-359 MI0000758 Caenorhabditis elegans miR-359 stem-loop
+10800 110 0
+0 cel-mir-360 MI0000759 Caenorhabditis elegans miR-360 stem-loop
+10910 110 0
+0 cel-lsy-6 MI0000801 Caenorhabditis elegans lsy-6 stem-loop
+11020 73 0
+0 cel-mir-392 MI0000819 Caenorhabditis elegans miR-392 stem-loop
+11093 110 0
+0 cel-mir-784 MI0005184 Caenorhabditis elegans miR-784 stem-loop
+11203 88 0
+0 cel-mir-785 MI0005185 Caenorhabditis elegans miR-785 stem-loop
+11291 94 0
+0 cel-mir-786 MI0005186 Caenorhabditis elegans miR-786 stem-loop
+11385 90 0
+0 cel-mir-787 MI0005187 Caenorhabditis elegans miR-787 stem-loop
+11475 90 0
+0 cel-mir-788 MI0005188 Caenorhabditis elegans miR-788 stem-loop
+11565 78 0
+0 cel-mir-789-1 MI0005189 Caenorhabditis elegans miR-789-1 stem-loop
+11643 97 0
+0 cel-mir-789-2 MI0005190 Caenorhabditis elegans miR-789-2 stem-loop
+11740 97 0
+0 cel-mir-790 MI0005191 Caenorhabditis elegans miR-790 stem-loop
+11837 70 0
+0 cel-mir-791 MI0005192 Caenorhabditis elegans miR-791 stem-loop
+11907 85 0
+0 cel-mir-792 MI0005193 Caenorhabditis elegans miR-792 stem-loop
+11992 90 0
+0 cel-mir-793 MI0005194 Caenorhabditis elegans miR-793 stem-loop
+12082 92 0
+0 cel-mir-794 MI0005195 Caenorhabditis elegans miR-794 stem-loop
+12174 84 0
+0 cel-mir-795 MI0005196 Caenorhabditis elegans miR-795 stem-loop
+12258 89 0
+0 cel-mir-796 MI0005197 Caenorhabditis elegans miR-796 stem-loop
+12347 89 0
+0 cel-mir-797 MI0005198 Caenorhabditis elegans miR-797 stem-loop
+12436 89 0
+0 cel-mir-798 MI0005199 Caenorhabditis elegans miR-798 stem-loop
+12525 76 0
+0 cel-mir-799 MI0005200 Caenorhabditis elegans miR-799 stem-loop
+12601 93 0
+0 cel-mir-800 MI0005201 Caenorhabditis elegans miR-800 stem-loop
+12694 73 0
+0 cel-mir-1018 MI0005879 Caenorhabditis elegans miR-1018 stem-loop
+12767 56 0
+0 cel-mir-1019 MI0005880 Caenorhabditis elegans miR-1019 stem-loop
+12823 69 0
+0 cel-mir-1020 MI0005881 Caenorhabditis elegans miR-1020 stem-loop
+12892 70 0
+0 cel-mir-1021 MI0005899 Caenorhabditis elegans miR-1021 stem-loop
+12962 97 0
+0 cel-mir-1022 MI0005900 Caenorhabditis elegans miR-1022 stem-loop
+13059 88 0
+0 cel-mir-1817 MI0007979 Caenorhabditis elegans miR-1817 stem-loop
+13147 105 0
+0 cel-mir-1818 MI0007980 Caenorhabditis elegans miR-1818 stem-loop
+13252 97 0
+0 cel-mir-1819 MI0007981 Caenorhabditis elegans miR-1819 stem-loop
+13349 81 0
+0 cel-mir-1820 MI0007982 Caenorhabditis elegans miR-1820 stem-loop
+13430 107 0
+0 cel-mir-1821 MI0007983 Caenorhabditis elegans miR-1821 stem-loop
+13537 104 0
+0 cel-mir-1822 MI0007984 Caenorhabditis elegans miR-1822 stem-loop
+13641 94 0
+0 cel-mir-1823 MI0007985 Caenorhabditis elegans miR-1823 stem-loop
+13735 90 0
+0 cel-mir-1824 MI0007986 Caenorhabditis elegans miR-1824 stem-loop
+13825 93 0
+0 cel-mir-1828 MI0008196 Caenorhabditis elegans miR-1828 stem-loop
+13918 63 0
+0 cel-mir-1829a MI0008197 Caenorhabditis elegans miR-1829a stem-loop
+13981 60 0
+0 cel-mir-1829b MI0008198 Caenorhabditis elegans miR-1829b stem-loop
+14041 60 0
+0 cel-mir-1829c MI0008199 Caenorhabditis elegans miR-1829c stem-loop
+14101 62 0
+0 cel-mir-1830 MI0008200 Caenorhabditis elegans miR-1830 stem-loop
+14163 70 0
+0 cel-mir-1832 MI0008202 Caenorhabditis elegans miR-1832 stem-loop
+14233 64 0
+0 cel-mir-1833 MI0008203 Caenorhabditis elegans miR-1833 stem-loop
+14297 73 0
+0 cel-mir-1834 MI0008204 Caenorhabditis elegans miR-1834 stem-loop
+14370 59 0
+0 cel-mir-258-2 MI0010691 Caenorhabditis elegans miR-258-2 stem-loop
+14429 96 0
+0 cel-mir-2207 MI0010955 Caenorhabditis elegans miR-2207 stem-loop
+14525 84 0
+0 cel-mir-2208a MI0010956 Caenorhabditis elegans miR-2208a stem-loop
+14609 61 0
+0 cel-mir-2208b MI0010957 Caenorhabditis elegans miR-2208b stem-loop
+14670 61 0
+0 cel-mir-2209a MI0010958 Caenorhabditis elegans miR-2209a stem-loop
+14731 64 0
+0 cel-mir-2209c MI0010959 Caenorhabditis elegans miR-2209c stem-loop
+14795 64 0
+0 cel-mir-2210 MI0010960 Caenorhabditis elegans miR-2210 stem-loop
+14859 61 0
+0 cel-mir-2211 MI0010961 Caenorhabditis elegans miR-2211 stem-loop
+14920 60 0
+0 cel-mir-2212 MI0010962 Caenorhabditis elegans miR-2212 stem-loop
+14980 60 0
+0 cel-mir-2213 MI0010963 Caenorhabditis elegans miR-2213 stem-loop
+15040 55 0
+0 cel-mir-2214 MI0010964 Caenorhabditis elegans miR-2214 stem-loop
+15095 64 0
+0 cel-mir-2215 MI0010965 Caenorhabditis elegans miR-2215 stem-loop
+15159 65 0
+0 cel-mir-2216 MI0010966 Caenorhabditis elegans miR-2216 stem-loop
+15224 57 0
+0 cel-mir-1832b MI0010967 Caenorhabditis elegans miR-1832b stem-loop
+15281 67 0
+0 cel-mir-2217 MI0010968 Caenorhabditis elegans miR-2217 stem-loop
+15348 62 0
+0 cel-mir-2209b MI0010969 Caenorhabditis elegans miR-2209b stem-loop
+15410 63 0
+0 cel-mir-2218a MI0010970 Caenorhabditis elegans miR-2218a stem-loop
+15473 60 0
+0 cel-mir-2218b MI0010971 Caenorhabditis elegans miR-2218b stem-loop
+15533 66 0
+0 cel-mir-2219 MI0010972 Caenorhabditis elegans miR-2219 stem-loop
+15599 76 0
+0 cel-mir-2220 MI0010973 Caenorhabditis elegans miR-2220 stem-loop
+15675 58 0
+0 cel-mir-2221 MI0010974 Caenorhabditis elegans miR-2221 stem-loop
+15733 118 0
+0 cel-mir-2953 MI0013633 Caenorhabditis elegans miR-2953 stem-loop
+15851 61 0
+0 cel-mir-4805 MI0017535 Caenorhabditis elegans miR-4805 stem-loop
+15912 94 0
+0 cel-mir-4806 MI0017536 Caenorhabditis elegans miR-4806 stem-loop
+16006 83 0
+0 cel-mir-4807 MI0017537 Caenorhabditis elegans miR-4807 stem-loop
+16089 61 0
+0 cel-mir-4808 MI0017538 Caenorhabditis elegans miR-4808 stem-loop
+16150 57 0
+0 cel-mir-4809 MI0017539 Caenorhabditis elegans miR-4809 stem-loop
+16207 59 0
+0 cel-mir-4810 MI0017540 Caenorhabditis elegans miR-4810 stem-loop
+16266 57 0
+0 cel-mir-4811 MI0017541 Caenorhabditis elegans miR-4811 stem-loop
+16323 83 0
+0 cel-mir-4812 MI0017542 Caenorhabditis elegans miR-4812 stem-loop
+16406 76 0
+0 cel-mir-4813 MI0017543 Caenorhabditis elegans miR-4813 stem-loop
+16482 77 0
+0 cel-mir-4814 MI0017544 Caenorhabditis elegans miR-4814 stem-loop
+16559 100 0
+0 cel-mir-4815 MI0017545 Caenorhabditis elegans miR-4815 stem-loop
+16659 99 0
+0 cel-mir-4816 MI0017546 Caenorhabditis elegans miR-4816 stem-loop
+16758 65 0
+0 cel-mir-4920 MI0017705 Caenorhabditis elegans miR-4920 stem-loop
+16823 56 0
+0 cel-mir-4921 MI0017706 Caenorhabditis elegans miR-4921 stem-loop
+16879 60 0
+0 cel-mir-4922-1 MI0017707 Caenorhabditis elegans miR-4922-1 stem-loop
+16939 65 0
+0 cel-mir-4922-2 MI0017708 Caenorhabditis elegans miR-4922-2 stem-loop
+17004 58 0
+0 cel-mir-4923a MI0017709 Caenorhabditis elegans miR-4923a stem-loop
+17062 61 0
+0 cel-mir-4924 MI0017710 Caenorhabditis elegans miR-4924 stem-loop
+17123 54 0
+0 cel-mir-4923b MI0017711 Caenorhabditis elegans miR-4923b stem-loop
+17177 59 0
+0 cel-mir-4925 MI0017712 Caenorhabditis elegans miR-4925 stem-loop
+17236 59 0
+0 cel-mir-4926 MI0017713 Caenorhabditis elegans miR-4926 stem-loop
+17295 52 0
+0 cel-mir-4927 MI0017714 Caenorhabditis elegans miR-4927 stem-loop
+17347 56 0
+0 cel-mir-4929 MI0017715 Caenorhabditis elegans miR-4929 stem-loop
+17403 110 0
+0 cel-mir-4930 MI0017716 Caenorhabditis elegans miR-4930 stem-loop
+17513 110 0
+0 cel-mir-4931 MI0017717 Caenorhabditis elegans miR-4931 stem-loop
+17623 105 0
+0 cel-mir-4932 MI0017718 Caenorhabditis elegans miR-4932 stem-loop
+17728 110 0
+0 cel-mir-4933 MI0017719 Caenorhabditis elegans miR-4933 stem-loop
+17838 110 0
+0 cel-mir-4934 MI0017720 Caenorhabditis elegans miR-4934 stem-loop
+17948 110 0
+0 cel-mir-4935 MI0017721 Caenorhabditis elegans miR-4935 stem-loop
+18058 110 0
+0 cel-mir-4936 MI0017722 Caenorhabditis elegans miR-4936 stem-loop
+18168 110 0
+0 cel-mir-4937 MI0017723 Caenorhabditis elegans miR-4937 stem-loop
+18278 110 0
+0 cel-mir-4938 MI0017724 Caenorhabditis elegans miR-4938 stem-loop
+18388 110 0
+0 cel-mir-5545 MI0019066 Caenorhabditis elegans miR-5545 stem-loop
+18498 110 0
+0 cel-mir-5546 MI0019067 Caenorhabditis elegans miR-5546 stem-loop
+18608 110 0
+0 cel-mir-5547 MI0019068 Caenorhabditis elegans miR-5547 stem-loop
+18718 110 0
+0 cel-mir-5548 MI0019069 Caenorhabditis elegans miR-5548 stem-loop
+18828 110 0
+0 cel-mir-5549 MI0019070 Caenorhabditis elegans miR-5549 stem-loop
+18938 110 0
+0 cel-mir-5550 MI0019071 Caenorhabditis elegans miR-5550 stem-loop
+19048 111 0
+0 cel-mir-5551 MI0019072 Caenorhabditis elegans miR-5551 stem-loop
+19159 109 0
+0 cel-mir-5552 MI0019073 Caenorhabditis elegans miR-5552 stem-loop
+19268 110 0
+0 cel-mir-5553 MI0019074 Caenorhabditis elegans miR-5553 stem-loop
+19378 110 0
+0 cel-mir-5592-1 MI0019153 Caenorhabditis elegans miR-5592-1 stem-loop
+19488 64 0
+0 cel-mir-5592-2 MI0019154 Caenorhabditis elegans miR-5592-2 stem-loop
+19552 64 0
+0 cel-mir-5593-1 MI0019155 Caenorhabditis elegans miR-5593-1 stem-loop
+19616 63 0
+0 cel-mir-5593-2 MI0019156 Caenorhabditis elegans miR-5593-2 stem-loop
+19679 63 0
+0 cel-mir-5594 MI0019157 Caenorhabditis elegans miR-5594 stem-loop
+19742 58 0
+0 cel-mir-356b MI0019158 Caenorhabditis elegans miR-356b stem-loop
+19800 68 0
+0 cel-mir-5595 MI0019159 Caenorhabditis elegans miR-5595 stem-loop
+19868 65 0

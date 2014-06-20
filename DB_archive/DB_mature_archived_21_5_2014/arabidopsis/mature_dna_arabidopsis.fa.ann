@@ -1,0 +1,675 @@
+7107 337 11
+0 ath-miR156a MIMAT0000166 Arabidopsis thaliana miR156a
+0 20 0
+0 ath-miR156b MIMAT0000167 Arabidopsis thaliana miR156b
+20 20 0
+0 ath-miR156c MIMAT0000168 Arabidopsis thaliana miR156c
+40 20 0
+0 ath-miR156d MIMAT0000169 Arabidopsis thaliana miR156d
+60 20 0
+0 ath-miR156e MIMAT0000170 Arabidopsis thaliana miR156e
+80 20 0
+0 ath-miR156f MIMAT0000171 Arabidopsis thaliana miR156f
+100 20 0
+0 ath-miR157a MIMAT0000172 Arabidopsis thaliana miR157a
+120 21 0
+0 ath-miR157b MIMAT0000173 Arabidopsis thaliana miR157b
+141 21 0
+0 ath-miR157c MIMAT0000174 Arabidopsis thaliana miR157c
+162 21 0
+0 ath-miR157d MIMAT0000175 Arabidopsis thaliana miR157d
+183 20 0
+0 ath-miR158a MIMAT0000176 Arabidopsis thaliana miR158a
+203 20 0
+0 ath-miR159a MIMAT0000177 Arabidopsis thaliana miR159a
+223 21 0
+0 ath-miR160a MIMAT0000178 Arabidopsis thaliana miR160a
+244 21 0
+0 ath-miR160b MIMAT0000179 Arabidopsis thaliana miR160b
+265 21 0
+0 ath-miR160c MIMAT0000180 Arabidopsis thaliana miR160c
+286 21 0
+0 ath-miR161.2 MIMAT0006779 Arabidopsis thaliana miR161.2
+307 21 0
+0 ath-miR161.1 MIMAT0000181 Arabidopsis thaliana miR161.1
+328 21 0
+0 ath-miR162a MIMAT0000182 Arabidopsis thaliana miR162a
+349 21 0
+0 ath-miR162b MIMAT0000183 Arabidopsis thaliana miR162b
+370 21 0
+0 ath-miR163 MIMAT0000184 Arabidopsis thaliana miR163
+391 24 0
+0 ath-miR164a MIMAT0000185 Arabidopsis thaliana miR164a
+415 21 0
+0 ath-miR164b MIMAT0000186 Arabidopsis thaliana miR164b
+436 21 0
+0 ath-miR165a MIMAT0000187 Arabidopsis thaliana miR165a
+457 21 0
+0 ath-miR165b MIMAT0000188 Arabidopsis thaliana miR165b
+478 21 0
+0 ath-miR166a MIMAT0000189 Arabidopsis thaliana miR166a
+499 21 0
+0 ath-miR166b MIMAT0000190 Arabidopsis thaliana miR166b
+520 21 0
+0 ath-miR166c MIMAT0000191 Arabidopsis thaliana miR166c
+541 21 0
+0 ath-miR166d MIMAT0000192 Arabidopsis thaliana miR166d
+562 21 0
+0 ath-miR166e MIMAT0000193 Arabidopsis thaliana miR166e
+583 21 0
+0 ath-miR166f MIMAT0000194 Arabidopsis thaliana miR166f
+604 21 0
+0 ath-miR166g MIMAT0000195 Arabidopsis thaliana miR166g
+625 21 0
+0 ath-miR167a MIMAT0000196 Arabidopsis thaliana miR167a
+646 21 0
+0 ath-miR167b MIMAT0000197 Arabidopsis thaliana miR167b
+667 21 0
+0 ath-miR168a MIMAT0000198 Arabidopsis thaliana miR168a
+688 21 0
+0 ath-miR168b MIMAT0000199 Arabidopsis thaliana miR168b
+709 21 0
+0 ath-miR169a MIMAT0000200 Arabidopsis thaliana miR169a
+730 21 0
+0 ath-miR170 MIMAT0000201 Arabidopsis thaliana miR170
+751 21 0
+0 ath-miR171a MIMAT0000202 Arabidopsis thaliana miR171a
+772 21 0
+0 ath-miR172a MIMAT0000203 Arabidopsis thaliana miR172a
+793 21 0
+0 ath-miR172b-5p MIMAT0000204 Arabidopsis thaliana miR172b-5p
+814 20 0
+0 ath-miR172b-3p MIMAT0000205 Arabidopsis thaliana miR172b-3p
+834 21 0
+0 ath-miR173-5p MIMAT0000206 Arabidopsis thaliana miR173-5p
+855 22 0
+0 ath-miR173-3p MIMAT0022843 Arabidopsis thaliana miR173-3p
+877 21 0
+0 ath-miR159b MIMAT0000207 Arabidopsis thaliana miR159b
+898 21 0
+0 ath-miR319a MIMAT0000511 Arabidopsis thaliana miR319a
+919 21 0
+0 ath-miR319b MIMAT0000512 Arabidopsis thaliana miR319b
+940 21 0
+0 ath-miR167d MIMAT0000905 Arabidopsis thaliana miR167d
+961 22 0
+0 ath-miR169b MIMAT0000906 Arabidopsis thaliana miR169b
+983 21 0
+0 ath-miR169c MIMAT0000907 Arabidopsis thaliana miR169c
+1004 21 0
+0 ath-miR169d MIMAT0000908 Arabidopsis thaliana miR169d
+1025 21 0
+0 ath-miR169e MIMAT0000909 Arabidopsis thaliana miR169e
+1046 21 0
+0 ath-miR169f MIMAT0000910 Arabidopsis thaliana miR169f
+1067 21 0
+0 ath-miR169g-5p MIMAT0000911 Arabidopsis thaliana miR169g-5p
+1088 21 0
+0 ath-miR169g-3p MIMAT0000912 Arabidopsis thaliana miR169g-3p
+1109 21 0
+0 ath-miR169h MIMAT0000913 Arabidopsis thaliana miR169h
+1130 21 0
+0 ath-miR169i MIMAT0000914 Arabidopsis thaliana miR169i
+1151 21 0
+0 ath-miR169j MIMAT0000915 Arabidopsis thaliana miR169j
+1172 21 0
+0 ath-miR169k MIMAT0000916 Arabidopsis thaliana miR169k
+1193 21 0
+0 ath-miR169l MIMAT0000917 Arabidopsis thaliana miR169l
+1214 21 0
+0 ath-miR169m MIMAT0000918 Arabidopsis thaliana miR169m
+1235 21 0
+0 ath-miR169n MIMAT0000919 Arabidopsis thaliana miR169n
+1256 21 0
+0 ath-miR171b MIMAT0000920 Arabidopsis thaliana miR171b
+1277 21 0
+0 ath-miR171c MIMAT0000921 Arabidopsis thaliana miR171c
+1298 21 0
+0 ath-miR172c MIMAT0000922 Arabidopsis thaliana miR172c
+1319 21 0
+0 ath-miR172d MIMAT0000923 Arabidopsis thaliana miR172d
+1340 21 0
+0 ath-miR390a MIMAT0000931 Arabidopsis thaliana miR390a
+1361 21 0
+0 ath-miR390b MIMAT0000932 Arabidopsis thaliana miR390b
+1382 21 0
+0 ath-miR391 MIMAT0000933 Arabidopsis thaliana miR391
+1403 21 0
+0 ath-miR393a MIMAT0000934 Arabidopsis thaliana miR393a
+1424 22 0
+0 ath-miR393b MIMAT0000935 Arabidopsis thaliana miR393b
+1446 22 0
+0 ath-miR394a MIMAT0000936 Arabidopsis thaliana miR394a
+1468 20 0
+0 ath-miR394b MIMAT0000937 Arabidopsis thaliana miR394b
+1488 20 0
+0 ath-miR395a MIMAT0000938 Arabidopsis thaliana miR395a
+1508 21 0
+0 ath-miR395b MIMAT0000939 Arabidopsis thaliana miR395b
+1529 21 0
+0 ath-miR395c MIMAT0000940 Arabidopsis thaliana miR395c
+1550 21 0
+0 ath-miR395d MIMAT0000941 Arabidopsis thaliana miR395d
+1571 21 0
+0 ath-miR395e MIMAT0000942 Arabidopsis thaliana miR395e
+1592 21 0
+0 ath-miR395f MIMAT0000943 Arabidopsis thaliana miR395f
+1613 21 0
+0 ath-miR396a MIMAT0000944 Arabidopsis thaliana miR396a
+1634 21 0
+0 ath-miR396b MIMAT0000945 Arabidopsis thaliana miR396b
+1655 21 0
+0 ath-miR397a MIMAT0000946 Arabidopsis thaliana miR397a
+1676 21 0
+0 ath-miR397b MIMAT0000947 Arabidopsis thaliana miR397b
+1697 21 0
+0 ath-miR398a MIMAT0000948 Arabidopsis thaliana miR398a
+1718 21 0
+0 ath-miR398b MIMAT0000949 Arabidopsis thaliana miR398b
+1739 21 0
+0 ath-miR398c MIMAT0000950 Arabidopsis thaliana miR398c
+1760 21 0
+0 ath-miR399a MIMAT0000951 Arabidopsis thaliana miR399a
+1781 21 0
+0 ath-miR399b MIMAT0000952 Arabidopsis thaliana miR399b
+1802 21 0
+0 ath-miR399c MIMAT0000953 Arabidopsis thaliana miR399c
+1823 21 0
+0 ath-miR399d MIMAT0000954 Arabidopsis thaliana miR399d
+1844 21 0
+0 ath-miR399e MIMAT0000955 Arabidopsis thaliana miR399e
+1865 21 0
+0 ath-miR399f MIMAT0000956 Arabidopsis thaliana miR399f
+1886 21 0
+0 ath-miR400 MIMAT0001001 Arabidopsis thaliana miR400
+1907 21 0
+0 ath-miR401 MIMAT0001002 Arabidopsis thaliana miR401
+1928 21 0
+0 ath-miR402 MIMAT0001003 Arabidopsis thaliana miR402
+1949 22 0
+0 ath-miR403 MIMAT0001004 Arabidopsis thaliana miR403
+1971 21 0
+0 ath-miR404 MIMAT0001005 Arabidopsis thaliana miR404
+1992 24 0
+0 ath-miR405a MIMAT0001006 Arabidopsis thaliana miR405a
+2016 24 0
+0 ath-miR405b MIMAT0001007 Arabidopsis thaliana miR405b
+2040 24 0
+0 ath-miR405d MIMAT0001008 Arabidopsis thaliana miR405d
+2064 24 0
+0 ath-miR406 MIMAT0001009 Arabidopsis thaliana miR406
+2088 21 0
+0 ath-miR407 MIMAT0001010 Arabidopsis thaliana miR407
+2109 21 0
+0 ath-miR408 MIMAT0001011 Arabidopsis thaliana miR408
+2130 21 0
+0 ath-miR156g MIMAT0001012 Arabidopsis thaliana miR156g
+2151 20 0
+0 ath-miR156h MIMAT0001013 Arabidopsis thaliana miR156h
+2171 20 0
+0 ath-miR158b MIMAT0001014 Arabidopsis thaliana miR158b
+2191 20 0
+0 ath-miR159c MIMAT0001015 Arabidopsis thaliana miR159c
+2211 21 0
+0 ath-miR319c MIMAT0001016 Arabidopsis thaliana miR319c
+2232 21 0
+0 ath-miR164c MIMAT0001017 Arabidopsis thaliana miR164c
+2253 21 0
+0 ath-miR167c MIMAT0001018 Arabidopsis thaliana miR167c
+2274 21 0
+0 ath-miR172e MIMAT0001019 Arabidopsis thaliana miR172e
+2295 21 0
+0 ath-miR413 MIMAT0001321 Arabidopsis thaliana miR413
+2316 21 0
+0 ath-miR414 MIMAT0001322 Arabidopsis thaliana miR414
+2337 21 0
+0 ath-miR415 MIMAT0001323 Arabidopsis thaliana miR415
+2358 21 0
+0 ath-miR416 MIMAT0001324 Arabidopsis thaliana miR416
+2379 21 0
+0 ath-miR417 MIMAT0001325 Arabidopsis thaliana miR417
+2400 21 0
+0 ath-miR418 MIMAT0001326 Arabidopsis thaliana miR418
+2421 21 0
+0 ath-miR419 MIMAT0001327 Arabidopsis thaliana miR419
+2442 21 0
+0 ath-miR420 MIMAT0001328 Arabidopsis thaliana miR420
+2463 21 0
+0 ath-miR426 MIMAT0001337 Arabidopsis thaliana miR426
+2484 21 0
+0 ath-miR447a-3p MIMAT0002113 Arabidopsis thaliana miR447a-3p
+2505 22 0
+0 ath-miR447a.2-3p MIMAT0020345 Arabidopsis thaliana miR447a.2-3p
+2527 21 0
+0 ath-miR447b MIMAT0002114 Arabidopsis thaliana miR447b
+2548 22 0
+0 ath-miR447c-5p MIMAT0020346 Arabidopsis thaliana miR447c-5p
+2570 21 0
+0 ath-miR447c-3p MIMAT0002115 Arabidopsis thaliana miR447c-3p
+2591 22 0
+0 ath-miR771 MIMAT0003930 Arabidopsis thaliana miR771
+2613 22 0
+0 ath-miR472 MIMAT0003931 Arabidopsis thaliana miR472
+2635 22 0
+0 ath-miR773a MIMAT0003932 Arabidopsis thaliana miR773a
+2657 21 0
+0 ath-miR774a MIMAT0003933 Arabidopsis thaliana miR774a
+2678 21 0
+0 ath-miR775 MIMAT0003934 Arabidopsis thaliana miR775
+2699 20 0
+0 ath-miR776 MIMAT0003935 Arabidopsis thaliana miR776
+2719 21 0
+0 ath-miR777 MIMAT0003936 Arabidopsis thaliana miR777
+2740 22 0
+0 ath-miR778 MIMAT0003937 Arabidopsis thaliana miR778
+2762 21 0
+0 ath-miR779.2 MIMAT0004329 Arabidopsis thaliana miR779.2
+2783 21 0
+0 ath-miR779.1 MIMAT0003938 Arabidopsis thaliana miR779.1
+2804 21 0
+0 ath-miR780.1 MIMAT0004218 Arabidopsis thaliana miR780.1
+2825 21 0
+0 ath-miR780.2 MIMAT0003939 Arabidopsis thaliana miR780.2
+2846 21 0
+0 ath-miR781a MIMAT0003940 Arabidopsis thaliana miR781a
+2867 21 0
+0 ath-miR782 MIMAT0003941 Arabidopsis thaliana miR782
+2888 21 0
+0 ath-miR822 MIMAT0004239 Arabidopsis thaliana miR822
+2909 21 0
+0 ath-miR823 MIMAT0004240 Arabidopsis thaliana miR823
+2930 21 0
+0 ath-miR825 MIMAT0004241 Arabidopsis thaliana miR825
+2951 21 0
+0 ath-miR826 MIMAT0004242 Arabidopsis thaliana miR826
+2972 21 0
+0 ath-miR827 MIMAT0004243 Arabidopsis thaliana miR827
+2993 21 0
+0 ath-miR828 MIMAT0004244 Arabidopsis thaliana miR828
+3014 22 0
+0 ath-miR829.1 MIMAT0004245 Arabidopsis thaliana miR829.1
+3036 24 0
+0 ath-miR829.2 MIMAT0004246 Arabidopsis thaliana miR829.2
+3060 21 0
+0 ath-miR830-5p MIMAT0004247 Arabidopsis thaliana miR830-5p
+3081 22 0
+0 ath-miR830-3p MIMAT0004248 Arabidopsis thaliana miR830-3p
+3103 21 0
+0 ath-miR831 MIMAT0004249 Arabidopsis thaliana miR831
+3124 22 0
+0 ath-miR832-5p MIMAT0004250 Arabidopsis thaliana miR832-5p
+3146 21 0
+0 ath-miR832-3p MIMAT0004251 Arabidopsis thaliana miR832-3p
+3167 21 0
+0 ath-miR833a-5p MIMAT0004252 Arabidopsis thaliana miR833a-5p
+3188 22 0
+0 ath-miR833a-3p MIMAT0004253 Arabidopsis thaliana miR833a-3p
+3210 22 0
+0 ath-miR834 MIMAT0004254 Arabidopsis thaliana miR834
+3232 21 0
+0 ath-miR835-5p MIMAT0004255 Arabidopsis thaliana miR835-5p
+3253 21 0
+0 ath-miR835-3p MIMAT0004256 Arabidopsis thaliana miR835-3p
+3274 21 0
+0 ath-miR836 MIMAT0004257 Arabidopsis thaliana miR836
+3295 24 0
+0 ath-miR837-5p MIMAT0004258 Arabidopsis thaliana miR837-5p
+3319 21 0
+0 ath-miR837-3p MIMAT0004259 Arabidopsis thaliana miR837-3p
+3340 21 0
+0 ath-miR838 MIMAT0004260 Arabidopsis thaliana miR838
+3361 21 0
+0 ath-miR839 MIMAT0004261 Arabidopsis thaliana miR839
+3382 21 0
+0 ath-miR840 MIMAT0004262 Arabidopsis thaliana miR840
+3403 22 0
+0 ath-miR841a MIMAT0004263 Arabidopsis thaliana miR841a
+3425 21 0
+0 ath-miR842 MIMAT0004264 Arabidopsis thaliana miR842
+3446 21 0
+0 ath-miR843 MIMAT0004265 Arabidopsis thaliana miR843
+3467 21 0
+0 ath-miR844-5p MIMAT0004266 Arabidopsis thaliana miR844-5p
+3488 21 0
+0 ath-miR844-3p MIMAT0004267 Arabidopsis thaliana miR844-3p
+3509 21 0
+0 ath-miR845a MIMAT0004268 Arabidopsis thaliana miR845a
+3530 21 0
+0 ath-miR846 MIMAT0004269 Arabidopsis thaliana miR846
+3551 21 0
+0 ath-miR848 MIMAT0004270 Arabidopsis thaliana miR848
+3572 22 0
+0 ath-miR849 MIMAT0004271 Arabidopsis thaliana miR849
+3594 21 0
+0 ath-miR850 MIMAT0004272 Arabidopsis thaliana miR850
+3615 22 0
+0 ath-miR851-5p MIMAT0004273 Arabidopsis thaliana miR851-5p
+3637 21 0
+0 ath-miR851-3p MIMAT0004274 Arabidopsis thaliana miR851-3p
+3658 21 0
+0 ath-miR852 MIMAT0004275 Arabidopsis thaliana miR852
+3679 21 0
+0 ath-miR853 MIMAT0004276 Arabidopsis thaliana miR853
+3700 22 0
+0 ath-miR824 MIMAT0004277 Arabidopsis thaliana miR824
+3722 21 0
+0 ath-miR847 MIMAT0004278 Arabidopsis thaliana miR847
+3743 21 0
+0 ath-miR855 MIMAT0004279 Arabidopsis thaliana miR855
+3764 22 0
+0 ath-miR854a MIMAT0004280 Arabidopsis thaliana miR854a
+3786 21 0
+0 ath-miR854b MIMAT0004281 Arabidopsis thaliana miR854b
+3807 21 0
+0 ath-miR854c MIMAT0004282 Arabidopsis thaliana miR854c
+3828 21 0
+0 ath-miR854d MIMAT0004283 Arabidopsis thaliana miR854d
+3849 21 0
+0 ath-miR856 MIMAT0004300 Arabidopsis thaliana miR856
+3870 22 0
+0 ath-miR857 MIMAT0004301 Arabidopsis thaliana miR857
+3892 21 0
+0 ath-miR858a MIMAT0004302 Arabidopsis thaliana miR858a
+3913 21 0
+0 ath-miR859 MIMAT0004303 Arabidopsis thaliana miR859
+3934 21 0
+0 ath-miR860 MIMAT0004304 Arabidopsis thaliana miR860
+3955 21 0
+0 ath-miR861-5p MIMAT0004305 Arabidopsis thaliana miR861-5p
+3976 21 0
+0 ath-miR861-3p MIMAT0004306 Arabidopsis thaliana miR861-3p
+3997 21 0
+0 ath-miR862-5p MIMAT0004307 Arabidopsis thaliana miR862-5p
+4018 21 0
+0 ath-miR862-3p MIMAT0004308 Arabidopsis thaliana miR862-3p
+4039 21 0
+0 ath-miR863-5p MIMAT0004309 Arabidopsis thaliana miR863-5p
+4060 21 0
+0 ath-miR863-3p MIMAT0004310 Arabidopsis thaliana miR863-3p
+4081 21 0
+0 ath-miR864-5p MIMAT0004311 Arabidopsis thaliana miR864-5p
+4102 21 0
+0 ath-miR864-3p MIMAT0004312 Arabidopsis thaliana miR864-3p
+4123 22 0
+0 ath-miR865-5p MIMAT0004313 Arabidopsis thaliana miR865-5p
+4145 21 0
+0 ath-miR865-3p MIMAT0004314 Arabidopsis thaliana miR865-3p
+4166 21 0
+0 ath-miR866-5p MIMAT0004315 Arabidopsis thaliana miR866-5p
+4187 21 0
+0 ath-miR866-3p MIMAT0004316 Arabidopsis thaliana miR866-3p
+4208 20 0
+0 ath-miR845b MIMAT0004317 Arabidopsis thaliana miR845b
+4228 22 0
+0 ath-miR867 MIMAT0004318 Arabidopsis thaliana miR867
+4250 21 0
+0 ath-miR868-5p MIMAT0020355 Arabidopsis thaliana miR868-5p
+4271 21 0
+0 ath-miR868-3p MIMAT0004319 Arabidopsis thaliana miR868-3p
+4292 21 0
+0 ath-miR869.1 MIMAT0004320 Arabidopsis thaliana miR869.1
+4313 21 0
+0 ath-miR869.2 MIMAT0004321 Arabidopsis thaliana miR869.2
+4334 21 0
+0 ath-miR870 MIMAT0004322 Arabidopsis thaliana miR870
+4355 21 0
+0 ath-miR1886.1 MIMAT0007853 Arabidopsis thaliana miR1886.1
+4376 21 0
+0 ath-miR1886.2 MIMAT0012129 Arabidopsis thaliana miR1886.2
+4397 21 0
+0 ath-miR1886.3 MIMAT0013773 Arabidopsis thaliana miR1886.3
+4418 21 0
+0 ath-miR1887 MIMAT0007854 Arabidopsis thaliana miR1887
+4439 21 0
+0 ath-miR1888a MIMAT0007855 Arabidopsis thaliana miR1888a
+4460 21 0
+0 ath-miR2111a-5p MIMAT0011150 Arabidopsis thaliana miR2111a-5p
+4481 21 0
+0 ath-miR2111a-3p MIMAT0011151 Arabidopsis thaliana miR2111a-3p
+4502 21 0
+0 ath-miR2111b-5p MIMAT0011152 Arabidopsis thaliana miR2111b-5p
+4523 21 0
+0 ath-miR2111b-3p MIMAT0011153 Arabidopsis thaliana miR2111b-3p
+4544 21 0
+0 ath-miR2112-5p MIMAT0011154 Arabidopsis thaliana miR2112-5p
+4565 21 0
+0 ath-miR2112-3p MIMAT0011155 Arabidopsis thaliana miR2112-3p
+4586 21 0
+0 ath-miR2933a MIMAT0014136 Arabidopsis thaliana miR2933a
+4607 22 0
+0 ath-miR2933b MIMAT0014137 Arabidopsis thaliana miR2933b
+4629 22 0
+0 ath-miR2934-5p MIMAT0014138 Arabidopsis thaliana miR2934-5p
+4651 21 0
+0 ath-miR2934-3p MIMAT0020364 Arabidopsis thaliana miR2934-3p
+4672 21 0
+0 ath-miR2936 MIMAT0014140 Arabidopsis thaliana miR2936
+4693 22 0
+0 ath-miR2937 MIMAT0014141 Arabidopsis thaliana miR2937
+4715 21 0
+0 ath-miR2938 MIMAT0014142 Arabidopsis thaliana miR2938
+4736 21 0
+0 ath-miR2939 MIMAT0014143 Arabidopsis thaliana miR2939
+4757 21 0
+0 ath-miR773b-5p MIMAT0017735 Arabidopsis thaliana miR773b-5p
+4778 20 0
+0 ath-miR773b-3p MIMAT0017736 Arabidopsis thaliana miR773b-3p
+4798 21 0
+0 ath-miR3434-5p MIMAT0017737 Arabidopsis thaliana miR3434-5p
+4819 20 0
+0 ath-miR3434-3p MIMAT0017738 Arabidopsis thaliana miR3434-3p
+4839 20 0
+0 ath-miR774b-5p MIMAT0017739 Arabidopsis thaliana miR774b-5p
+4859 21 0
+0 ath-miR774b-3p MIMAT0017740 Arabidopsis thaliana miR774b-3p
+4880 21 0
+0 ath-miR841b-5p MIMAT0017741 Arabidopsis thaliana miR841b-5p
+4901 21 0
+0 ath-miR841b-3p MIMAT0017742 Arabidopsis thaliana miR841b-3p
+4922 21 0
+0 ath-miR4221 MIMAT0017942 Arabidopsis thaliana miR4221
+4943 22 0
+0 ath-miR4227 MIMAT0017943 Arabidopsis thaliana miR4227
+4965 21 0
+0 ath-miR4228 MIMAT0017944 Arabidopsis thaliana miR4228
+4986 21 0
+0 ath-miR3440b-5p MIMAT0017945 Arabidopsis thaliana miR3440b-5p
+5007 21 0
+0 ath-miR3440b-3p MIMAT0017946 Arabidopsis thaliana miR3440b-3p
+5028 21 0
+0 ath-miR4239 MIMAT0017947 Arabidopsis thaliana miR4239
+5049 21 0
+0 ath-miR4240 MIMAT0017948 Arabidopsis thaliana miR4240
+5070 21 0
+0 ath-miR4243 MIMAT0017949 Arabidopsis thaliana miR4243
+5091 21 0
+0 ath-miR854e MIMAT0018504 Arabidopsis thaliana miR854e
+5112 21 0
+0 ath-miR3932a MIMAT0018346 Arabidopsis thaliana miR3932a
+5133 21 0
+0 ath-miR3932b MIMAT0018347 Arabidopsis thaliana miR3932b
+5154 21 0
+0 ath-miR3933 MIMAT0018348 Arabidopsis thaliana miR3933
+5175 21 0
+0 ath-miR5012 MIMAT0020516 Arabidopsis thaliana miR5012
+5196 21 0
+0 ath-miR5013 MIMAT0020517 Arabidopsis thaliana miR5013
+5217 21 0
+0 ath-miR5014a-5p MIMAT0021047 Arabidopsis thaliana miR5014a-5p
+5238 21 0
+0 ath-miR5014a-3p MIMAT0020518 Arabidopsis thaliana miR5014a-3p
+5259 21 0
+0 ath-miR5015 MIMAT0020519 Arabidopsis thaliana miR5015
+5280 21 0
+0 ath-miR5016 MIMAT0020520 Arabidopsis thaliana miR5016
+5301 21 0
+0 ath-miR5017 MIMAT0020521 Arabidopsis thaliana miR5017
+5322 21 0
+0 ath-miR5018 MIMAT0020522 Arabidopsis thaliana miR5018
+5343 24 0
+0 ath-miR5019 MIMAT0020523 Arabidopsis thaliana miR5019
+5367 21 0
+0 ath-miR5020a MIMAT0020524 Arabidopsis thaliana miR5020a
+5388 21 0
+0 ath-miR5021 MIMAT0020525 Arabidopsis thaliana miR5021
+5409 20 0
+0 ath-miR5022 MIMAT0020527 Arabidopsis thaliana miR5022
+5429 21 0
+0 ath-miR5023 MIMAT0020528 Arabidopsis thaliana miR5023
+5450 21 0
+0 ath-miR5020b MIMAT0020529 Arabidopsis thaliana miR5020b
+5471 21 0
+0 ath-miR5024-5p MIMAT0020530 Arabidopsis thaliana miR5024-5p
+5492 22 0
+0 ath-miR5024-3p MIMAT0021048 Arabidopsis thaliana miR5024-3p
+5514 21 0
+0 ath-miR5025 MIMAT0020531 Arabidopsis thaliana miR5025
+5535 21 0
+0 ath-miR5026 MIMAT0020532 Arabidopsis thaliana miR5026
+5556 21 0
+0 ath-miR5027 MIMAT0020533 Arabidopsis thaliana miR5027
+5577 21 0
+0 ath-miR5028 MIMAT0020534 Arabidopsis thaliana miR5028
+5598 21 0
+0 ath-miR5029 MIMAT0020535 Arabidopsis thaliana miR5029
+5619 21 0
+0 ath-miR5628 MIMAT0022387 Arabidopsis thaliana miR5628
+5640 21 0
+0 ath-miR5629 MIMAT0022388 Arabidopsis thaliana miR5629
+5661 22 0
+0 ath-miR5630a MIMAT0022389 Arabidopsis thaliana miR5630a
+5683 21 0
+0 ath-miR5631 MIMAT0022390 Arabidopsis thaliana miR5631
+5704 21 0
+0 ath-miR5020c MIMAT0022391 Arabidopsis thaliana miR5020c
+5725 21 0
+0 ath-miR5632 MIMAT0022392 Arabidopsis thaliana miR5632
+5746 21 0
+0 ath-miR5633 MIMAT0022393 Arabidopsis thaliana miR5633
+5767 21 0
+0 ath-miR5634 MIMAT0022394 Arabidopsis thaliana miR5634
+5788 21 0
+0 ath-miR5635a MIMAT0022395 Arabidopsis thaliana miR5635a
+5809 21 0
+0 ath-miR5636 MIMAT0022396 Arabidopsis thaliana miR5636
+5830 21 0
+0 ath-miR5637 MIMAT0022397 Arabidopsis thaliana miR5637
+5851 21 0
+0 ath-miR5638a MIMAT0022398 Arabidopsis thaliana miR5638a
+5872 21 0
+0 ath-miR5630b MIMAT0022399 Arabidopsis thaliana miR5630b
+5893 21 0
+0 ath-miR5639 MIMAT0022400 Arabidopsis thaliana miR5639
+5914 21 0
+0 ath-miR5640 MIMAT0022401 Arabidopsis thaliana miR5640
+5935 21 0
+0 ath-miR5641 MIMAT0022402 Arabidopsis thaliana miR5641
+5956 21 0
+0 ath-miR5642a MIMAT0022403 Arabidopsis thaliana miR5642a
+5977 20 0
+0 ath-miR5643a MIMAT0022404 Arabidopsis thaliana miR5643a
+5997 21 0
+0 ath-miR5635d MIMAT0022405 Arabidopsis thaliana miR5635d
+6018 21 0
+0 ath-miR5644 MIMAT0022406 Arabidopsis thaliana miR5644
+6039 20 0
+0 ath-miR5638b MIMAT0022407 Arabidopsis thaliana miR5638b
+6059 21 0
+0 ath-miR5645a MIMAT0022408 Arabidopsis thaliana miR5645a
+6080 20 0
+0 ath-miR5645b MIMAT0022409 Arabidopsis thaliana miR5645b
+6100 20 0
+0 ath-miR5646 MIMAT0022410 Arabidopsis thaliana miR5646
+6120 20 0
+0 ath-miR5647 MIMAT0022411 Arabidopsis thaliana miR5647
+6140 21 0
+0 ath-miR5648-5p MIMAT0022412 Arabidopsis thaliana miR5648-5p
+6161 22 0
+0 ath-miR5648-3p MIMAT0022413 Arabidopsis thaliana miR5648-3p
+6183 21 0
+0 ath-miR5645c MIMAT0022414 Arabidopsis thaliana miR5645c
+6204 21 0
+0 ath-miR5649a MIMAT0022415 Arabidopsis thaliana miR5649a
+6225 21 0
+0 ath-miR5650 MIMAT0022416 Arabidopsis thaliana miR5650
+6246 21 0
+0 ath-miR858b MIMAT0022417 Arabidopsis thaliana miR858b
+6267 21 0
+0 ath-miR5635b MIMAT0022418 Arabidopsis thaliana miR5635b
+6288 21 0
+0 ath-miR833b MIMAT0022419 Arabidopsis thaliana miR833b
+6309 21 0
+0 ath-miR781b MIMAT0022420 Arabidopsis thaliana miR781b
+6330 21 0
+0 ath-miR156i MIMAT0022421 Arabidopsis thaliana miR156i
+6351 20 0
+0 ath-miR5651 MIMAT0022422 Arabidopsis thaliana miR5651
+6371 21 0
+0 ath-miR156j MIMAT0022423 Arabidopsis thaliana miR156j
+6392 20 0
+0 ath-miR5652 MIMAT0022424 Arabidopsis thaliana miR5652
+6412 21 0
+0 ath-miR5653 MIMAT0022425 Arabidopsis thaliana miR5653
+6433 24 0
+0 ath-miR5654-5p MIMAT0022426 Arabidopsis thaliana miR5654-5p
+6457 20 0
+0 ath-miR5654-3p MIMAT0023005 Arabidopsis thaliana miR5654-3p
+6477 23 0
+0 ath-miR5655 MIMAT0022427 Arabidopsis thaliana miR5655
+6500 21 0
+0 ath-miR5635c MIMAT0022428 Arabidopsis thaliana miR5635c
+6521 21 0
+0 ath-miR5656 MIMAT0022429 Arabidopsis thaliana miR5656
+6542 21 0
+0 ath-miR5657 MIMAT0022430 Arabidopsis thaliana miR5657
+6563 21 0
+0 ath-miR5658 MIMAT0022431 Arabidopsis thaliana miR5658
+6584 21 0
+0 ath-miR5659 MIMAT0022432 Arabidopsis thaliana miR5659
+6605 23 0
+0 ath-miR5645d MIMAT0022433 Arabidopsis thaliana miR5645d
+6628 20 0
+0 ath-miR5660 MIMAT0022434 Arabidopsis thaliana miR5660
+6648 21 0
+0 ath-miR5642b MIMAT0022435 Arabidopsis thaliana miR5642b
+6669 20 0
+0 ath-miR1888b MIMAT0022436 Arabidopsis thaliana miR1888b
+6689 21 0
+0 ath-miR5649b MIMAT0022437 Arabidopsis thaliana miR5649b
+6710 21 0
+0 ath-miR5661 MIMAT0022438 Arabidopsis thaliana miR5661
+6731 21 0
+0 ath-miR5662 MIMAT0022439 Arabidopsis thaliana miR5662
+6752 20 0
+0 ath-miR5663 MIMAT0022440 Arabidopsis thaliana miR5663
+6772 21 0
+0 ath-miR5645f MIMAT0022441 Arabidopsis thaliana miR5645f
+6793 20 0
+0 ath-miR5664 MIMAT0022442 Arabidopsis thaliana miR5664
+6813 21 0
+0 ath-miR5665 MIMAT0022443 Arabidopsis thaliana miR5665
+6834 21 0
+0 ath-miR5666 MIMAT0022444 Arabidopsis thaliana miR5666
+6855 21 0
+0 ath-miR5643b MIMAT0022445 Arabidopsis thaliana miR5643b
+6876 21 0
+0 ath-miR5645e MIMAT0022446 Arabidopsis thaliana miR5645e
+6897 20 0
+0 ath-miR5595a MIMAT0023517 Arabidopsis thaliana miR5595a
+6917 21 0
+0 ath-miR5995b MIMAT0023518 Arabidopsis thaliana miR5995b
+6938 21 0
+0 ath-miR5996 MIMAT0023519 Arabidopsis thaliana miR5996
+6959 22 0
+0 ath-miR5997 MIMAT0023520 Arabidopsis thaliana miR5997
+6981 21 0
+0 ath-miR5998a MIMAT0023521 Arabidopsis thaliana miR5998a
+7002 21 0
+0 ath-miR5998b MIMAT0023522 Arabidopsis thaliana miR5998b
+7023 21 0
+0 ath-miR4245 MIMAT0023523 Arabidopsis thaliana miR4245
+7044 21 0
+0 ath-miR5014b MIMAT0023524 Arabidopsis thaliana miR5014b
+7065 21 0
+0 ath-miR5999 MIMAT0023525 Arabidopsis thaliana miR5999
+7086 21 0
