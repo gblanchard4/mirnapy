@@ -9,6 +9,7 @@ import commands
 import subprocess
 import sys
 import distutils.spawn
+import platform
 
 __author__ = "Gene Blanchard"
 __email__ = "me@geneblanchard.com"
@@ -43,15 +44,56 @@ A3.fastq - adaptor clipping and alignment to mature_dna_mouse.fa
 '''
 
 def main():
-	
-	bin_dir = os.path.dirname(sys.argv[0])+'/'
+	bin_dir = os.path.realpath(__file__).rstrip('mirna_pipe.py')
+
+	database =  bin_dir+'DB_mature/mouse/mature_dna_mouse.fa'
+
+	# Find out what OS we are running to set the proper SEQEM binary
+	if platform.system() == 'Darwin':
+		seqem_binary = '%s/SEQEM_MAC' % bin_dir
+	else:
+		seqem_binary = '%s/SEQEM' % bin_dir
+
+
+	usage_text = """
+
+Gene Blanchard
+me@geneblanchard.com
+
+mirna_pipe.py
+
+This script is a python wrapper for the miRNAkey software.
+Roy Ronen; Ido Gan; Shira Modai;Alona Sukacheov; Gideon Dror; Eran Halperin; Noam Shomron. miRNAkey: a software for microRNA Deep Sequencing analysis. Bioinformatics 2010; doi: 10.1093/bioinformatics/btq493
+
+This script requires the fastx_toolkit and bwa to be installed on your machine. 
+
+If using ubuntu you can install with 'sudo apt-get install bwa fastx-toolkit', you may also need to install libgtextutils. 
+
+If using a mac I recomend recomend to intall homebrew from 'http://brew.sh/'. Next install the homebrew-science repo with 'brew tap homebrew/science'. 
+Install the fastx-toolkit and bwa with 'brew install bwa fastx_toolkit'
+
+An example usage would be:
+mirna_pipe.py -i A1.fastq,B1.fastq,A2.fastq,B2.fastq -o A1_B1_A2_B2_output
+
+This would create the A1_B1_A2_B2_output folder in your current working directory.
+That folder contains the folowing:
+commands.txt: 		A file that lists all commands run
+clipped_files: 		The output of the fastx clipping 
+alignment_files: 	The output of the BWA alignment
+SEQEM: 			The results of the SEQEM command
+counts:			Raw counts from the SEQEM command
+RSEM:			Groomed tab-seperated files that are ready to input into RSEM
+
+This script uses some default parameters that can be seen in the options help below. 
+
+"""
 
 	#~~~~~~~~~~~~~~~~~~~~~~
 	# Parameters
 	#~~~~~~~~~~~~~~~~~~~~~~
 
 	#Create the argument parser
-	parser = OptionParser(usage="Usage: ")
+	parser = OptionParser(usage=usage_text)
 
 	# input file
 	# -i --input
@@ -59,7 +101,7 @@ def main():
 
 	# adapter sequence
 	# -a --adapter
-	parser.add_option("-a", "--adapter", action="store", type="string", dest="adapter", default="TGGAATTCTCGGGTGCCAAGG" , help="The adapter sequence")
+	parser.add_option("-a", "--adapter", action="store", type="string", dest="adapter", default="TGGAATTCTCGGGTGCCAAGG" , help="The adapter sequence, DEFAULT=TGGAATTCTCGGGTGCCAAGG")
 
 	# output file
 	# -o --output
@@ -67,11 +109,11 @@ def main():
 
 	# SEQEM iterations 
 	# -s --seqem
-	parser.add_option("-s", "--seqem", action="store", type="string", dest="seqem", default="1000" , help="Seqem iterations")
+	parser.add_option("-s", "--seqem", action="store", type="string", dest="seqem", default="1000" , help="Seqem iterations, DEFAULT=1000")
 
 	# Alignment Fasta
 	# -d --db
-	#parser.add_option("-d", "--db", action="store", type="string", dest="db", help="The .fa to align to")
+	parser.add_option("-d", "--db", action="store", type="string", dest="db", help="The .fa to align to, DEFAULT=mature_dna_mouse.fa")
 
 	# Grab command line args
 	(options, args) = parser.parse_args()
@@ -81,9 +123,8 @@ def main():
 	adapter = str.upper(options.adapter)
 	output = options.output
 	seqem = options.seqem
-	#db = options.db
+	db = options.db
 
-	database =  bin_dir+'DB_mature/mouse/mature_dna_mouse.fa'
 
 	#~~~~~~~~~~~~~~~~~~~~~~
 	# Error checking
@@ -107,6 +148,9 @@ def main():
 		print "Your adapter sequence contains invalid bases"
 	 	ERROR = True
 
+	if db == None:
+		db = database
+
 	# Check if the output directory exists
 	if not output == None:
 		if not os.path.exists(output):
@@ -126,7 +170,7 @@ def main():
 		master_command_list.append("mkdir -p %s%s" % (output, directory))
 
 	for fastq in path_list:
-		 master_command_list.extend(mirna_command_builder(bin_dir, output, adapter, fastq, seqem) )
+		 master_command_list.extend(mirna_command_builder(bin_dir, output, adapter, fastq, seqem, database, seqem_binary) )
 
 	shell_file =  output+'commands.txt'
 	with open(shell_file, 'wb') as shell:
@@ -136,9 +180,7 @@ def main():
 				proc = subprocess.Popen(command, shell=True)
 				proc.wait()
 			except OSError:
-				print 'BROKE'
-	#for command in master_command_list:
-	#	print command
+				print 'OH NOES SOMETHING BROKE'
 
 	parse_seqem_counts(output)
 
@@ -146,20 +188,20 @@ def main():
 
 
 
-def mirna_command_builder(bin_dir, output, adapter, fastq, seqem ):
+def mirna_command_builder(bin_dir, output, adapter, fastq, seqem, db, seqem_binary):
 	command_list = []
 	fastq_name = fastq.split('/')[-1] 
 
 	# fastx clipper
-	fastx_cmd = "fastx_clipper -a %s -n -v -l 16 -i %s -o %sclipped_files/%s_clipped_sequence.txt" % (adapter, fastq, output, fastq_name)
+	fastx_cmd = "fastx_clipper -a %s -n -v -l 5 -i %s -o %sclipped_files/%s_clipped_sequence.txt" % (adapter, fastq, output, fastq_name)
 	command_list.append(fastx_cmd)
 
 	# align
-	align_cmd = "bwa aln -n 2 %sDB_mature/mouse/mature_dna_mouse.fa %sclipped_files/%s_clipped_sequence.txt > %salignment_files/%s_aligned.sai" % (bin_dir, output, fastq_name, output, fastq_name)
+	align_cmd = "bwa aln -n 2 %s %sclipped_files/%s_clipped_sequence.txt > %salignment_files/%s_aligned.sai" % (db, output, fastq_name, output, fastq_name)
 	command_list.append(align_cmd)
 
 	# sam_gen_cmd
-	sam_gen_cmd = "bwa samse -n 100000 %sDB_mature/mouse/mature_dna_mouse.fa %salignment_files/%s_aligned.sai %sclipped_files/%s_clipped_sequence.txt > %salignment_files/%s_aligned.sam" % (bin_dir, output, fastq_name, output, fastq_name, output, fastq_name)
+	sam_gen_cmd = "bwa samse -n 100000 %s %salignment_files/%s_aligned.sai %sclipped_files/%s_clipped_sequence.txt > %salignment_files/%s_aligned.sam" % (db, output, fastq_name, output, fastq_name, output, fastq_name)
 	command_list.append(sam_gen_cmd)
 
 	# sam_stats
@@ -167,10 +209,10 @@ def mirna_command_builder(bin_dir, output, adapter, fastq, seqem ):
 	#command_list.append(sam_stats_cmd)
 	
 	# SEQEM
-	make_multi_cmd = "%smake_multi_input.pl %sDB_mature/mouse/mature_dna_mouse.fa %sclipped_files/%s_clipped_sequence.txt %salignment_files/%s_aligned.sam %sSEQEM/%s_clipped_sequence 1" % (bin_dir, bin_dir, output, fastq_name, output, fastq_name, output, fastq_name )
+	make_multi_cmd = "%smake_multi_input.pl %s %sclipped_files/%s_clipped_sequence.txt %salignment_files/%s_aligned.sam %sSEQEM/%s_clipped_sequence 1" % (bin_dir, db, output, fastq_name, output, fastq_name, output, fastq_name )
 	command_list.append(make_multi_cmd)
 
-	seqem_cmd = "%sSEQEM %sSEQEM/%s_clipped_sequence_regions.txt %sSEQEM/%s_clipped_sequence_reads.txt %sSEQEM/%s_clipped_sequence_mappings.txt %s %scounts/%s_clipped_sequence_seqem_out.txt " % (bin_dir, output, fastq_name, output, fastq_name, output, fastq_name, seqem, output, fastq_name)
+	seqem_cmd = "%s %sSEQEM/%s_clipped_sequence_regions.txt %sSEQEM/%s_clipped_sequence_reads.txt %sSEQEM/%s_clipped_sequence_mappings.txt %s %scounts/%s_clipped_sequence_seqem_out.txt " % (seqem_binary, output, fastq_name, output, fastq_name, output, fastq_name, seqem, output, fastq_name)
 	command_list.append(seqem_cmd)
 
 	return command_list
