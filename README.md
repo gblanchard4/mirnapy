@@ -1,9 +1,6 @@
-mirnapy
-=======
-
-
-Gene Blanchard
-me@geneblanchard.com
+#  mirnapy  
+###  Gene Blanchard  
+### me@geneblanchard.com  
 
 mirna_pipe.py
 
