@@ -2,10 +2,8 @@
 ###  Gene Blanchard  
 ### me@geneblanchard.com  
 
-mirna_pipe.py
-
-This script is a python wrapper for the miRNAkey software.
-Roy Ronen; Ido Gan; Shira Modai;Alona Sukacheov; Gideon Dror; Eran Halperin; Noam Shomron. miRNAkey: a software for microRNA Deep Sequencing analysis. Bioinformatics 2010; doi: 10.1093/bioinformatics/btq493
+This script is a python wrapper for the miRNAkey software.  
+>  Roy Ronen; Ido Gan; Shira Modai;Alona Sukacheov; Gideon Dror; Eran Halperin; Noam Shomron. miRNAkey: a software for microRNA Deep Sequencing analysis. Bioinformatics 2010; doi: 10.1093/bioinformatics/btq493
 
 This script requires the fastx_toolkit and bwa to be installed on your machine. 
 
