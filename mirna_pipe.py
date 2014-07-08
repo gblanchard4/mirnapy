@@ -44,9 +44,12 @@ A3.fastq - adaptor clipping and alignment to mature_dna_mouse.fa
 '''
 
 def main():
+
+	# Build a path from the executed script, Argv[0], to the bin directory
 	bin_dir = os.path.realpath(__file__).rstrip('mirna_pipe.py')
 
-	database =  bin_dir+'DB_mature/mouse/mature_dna_mouse.fa'
+	# Default mouse mature database
+	#database =  bin_dir+'DB_mature/mouse/mature_dna_mouse.fa'
 
 	# Find out what OS we are running to set the proper SEQEM binary
 	if platform.system() == 'Darwin':
@@ -54,7 +57,7 @@ def main():
 	else:
 		seqem_binary = '%s/SEQEM' % bin_dir
 
-
+	# Usage string for the help text 
 	usage_text = """
 
 Gene Blanchard
@@ -131,6 +134,7 @@ This script uses some default parameters that can be seen in the options help be
 	#~~~~~~~~~~~~~~~~~~~~~~
 	ERROR = False
 
+	# Make sure the input name is valid
 	if input_name == None:
 		print 'ERROR: You need to enter an input file or files\n'
 		ERROR = True
@@ -148,8 +152,11 @@ This script uses some default parameters that can be seen in the options help be
 		print "Your adapter sequence contains invalid bases"
 	 	ERROR = True
 
+	# Select the mouse mature database if no other option has been supplied
 	if db == None:
-		db = database
+		db = bin_dir+'DB_mature/mouse/mature_dna_mouse.fa'
+	else:
+		db = options.db
 
 	# Check if the output directory exists
 	if not output == None:
@@ -170,10 +177,16 @@ This script uses some default parameters that can be seen in the options help be
 		master_command_list.append("mkdir -p %s%s" % (output, directory))
 
 	for fastq in path_list:
-		 master_command_list.extend(mirna_command_builder(bin_dir, output, adapter, fastq, seqem, database, seqem_binary) )
+		 master_command_list.extend(mirna_command_builder(bin_dir, output, adapter, fastq, seqem, db, seqem_binary) )
 
 	shell_file =  output+'commands.txt'
 	with open(shell_file, 'wb') as shell:
+		# Write the options we used to the file
+		input_string =  'Input Files: %s\n' % (input_name)
+		adapter_string = 'Adapter: %s\n' % (adapter)
+		database_string =  'Database: %s\n' % (db)
+		output_string = 'Output %s\n' % (output)
+		shell.write(input_string+adapter_string+database_string+output_string)
 		for command in master_command_list:
 			try:	
 				shell.write(command+'\n')
