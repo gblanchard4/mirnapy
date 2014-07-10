@@ -2,9 +2,6 @@
 ###  Gene Blanchard  
 ### me@geneblanchard.com  
 
-This script is a python wrapper for the miRNAkey software.  
->  Roy Ronen; Ido Gan; Shira Modai;Alona Sukacheov; Gideon Dror; Eran Halperin; Noam Shomron. miRNAkey: a software for microRNA Deep Sequencing analysis. Bioinformatics 2010; doi: 10.1093/bioinformatics/btq493
-
 ## Requirements  
 *  fastx_toolkit  
 *  bwa   
