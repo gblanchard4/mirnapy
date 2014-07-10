@@ -206,7 +206,7 @@ def mirna_command_builder(bin_dir, output, adapter, fastq, seqem, db, seqem_bina
 	fastq_name = fastq.split('/')[-1] 
 
 	# fastx clipper
-	fastx_cmd = "fastx_clipper -a %s -n -v -l 5 -i %s -o %sclipped_files/%s_clipped_sequence.txt" % (adapter, fastq, output, fastq_name)
+	fastx_cmd = "fastx_clipper -a %s -n -v -l 16 -i %s -o %sclipped_files/%s_clipped_sequence.txt" % (adapter, fastq, output, fastq_name)
 	command_list.append(fastx_cmd)
 
 	# align
@@ -222,7 +222,7 @@ def mirna_command_builder(bin_dir, output, adapter, fastq, seqem, db, seqem_bina
 	#command_list.append(sam_stats_cmd)
 	
 	# SEQEM
-	make_multi_cmd = "%smake_multi_input.pl %s %sclipped_files/%s_clipped_sequence.txt %salignment_files/%s_aligned.sam %sSEQEM/%s_clipped_sequence 1" % (bin_dir, db, output, fastq_name, output, fastq_name, output, fastq_name )
+	make_multi_cmd = "%smake_multi_input.py -d %s -r %sclipped_files/%s_clipped_sequence.txt -b %salignment_files/%s_aligned.sam -o %sSEQEM/%s_clipped_sequence " % (bin_dir, db, output, fastq_name, output, fastq_name, output, fastq_name )
 	command_list.append(make_multi_cmd)
 
 	seqem_cmd = "%s %sSEQEM/%s_clipped_sequence_regions.txt %sSEQEM/%s_clipped_sequence_reads.txt %sSEQEM/%s_clipped_sequence_mappings.txt %s %scounts/%s_clipped_sequence_seqem_out.txt " % (seqem_binary, output, fastq_name, output, fastq_name, output, fastq_name, seqem, output, fastq_name)
