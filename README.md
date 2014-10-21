@@ -15,6 +15,7 @@ If using  *mac* I recomend recomend to install [homebrew](http://brew.sh/). Next
 This would create the `A1_B1_A2_B2_output` folder in your current working directory.  
 
 
+## Output 
 The output contains the folowing:
 *  *commands.txt*  
   *  A file that lists all commands run  
