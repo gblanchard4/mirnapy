@@ -132,7 +132,12 @@ def make_mappings_out(bwa, output, reads, regions):
 						outfile.write(outstring)
 
 						if number_of_optimal > 1 or not number_of_suboptimal == 0:
-							more_mappings_list_raw = cigar_finder('XA:Z:', line).rstrip('\n').split(';')
+							try:
+								more_mappings_list_raw = cigar_finder('XA:Z:', line).rstrip('\n').split(';')
+							except AttributeError:
+								print "No proper cigar string found for line: %s" % (line)
+								pass
+
 							more_mappings_list = filter(None, more_mappings_list_raw)
 							# Sanity check he included
 							if not (number_of_optimal + number_of_suboptimal -1) == len(more_mappings_list):
