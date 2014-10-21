@@ -3,7 +3,7 @@
 #~~~~~~~~~~~~~~~~~~~~~~
 # Imports
 #~~~~~~~~~~~~~~~~~~~~~~
-from optparse import OptionParser
+import argparse
 import os
 import commands
 import subprocess
@@ -96,37 +96,32 @@ This script uses some default parameters that can be seen in the options help be
 	#~~~~~~~~~~~~~~~~~~~~~~
 
 	#Create the argument parser
-	parser = OptionParser(usage=usage_text)
+	parser = argparse.ArgumentParser(description=usage_text)
 
 	# input file
 	# -i --input
-	parser.add_option("-i", "--input", action="store", type="string", dest="input", help="The input fasta, for multiple files seperate with a comma")
-
+	parser.add_argument("-i", "--input", dest="input", required=True, help="The input fasta, for multiple files seperate with a comma")
 	# adapter sequence
 	# -a --adapter
-	parser.add_option("-a", "--adapter", action="store", type="string", dest="adapter", default="TGGAATTCTCGGGTGCCAAGG" , help="The adapter sequence, DEFAULT=TGGAATTCTCGGGTGCCAAGG")
-
+	parser.add_argument("-a", "--adapter", dest="adapter", default="TGGAATTCTCGGGTGCCAAGG" , help="The adapter sequence, DEFAULT=TGGAATTCTCGGGTGCCAAGG")
 	# output file
 	# -o --output
-	parser.add_option("-o", "--output", action="store", type="string", dest="output", help="The root output directory")
-
+	parser.add_argument("-o", "--output", dest="output", required=True, help="The root output directory")
 	# SEQEM iterations 
 	# -s --seqem
-	parser.add_option("-s", "--seqem", action="store", type="string", dest="seqem", default="1000" , help="Seqem iterations, DEFAULT=1000")
-
+	parser.add_argument("-s", "--seqem", dest="seqem", default="1000" , help="Seqem iterations, DEFAULT=1000")
 	# Alignment Fasta
 	# -d --db
-	parser.add_option("-d", "--db", action="store", type="string", dest="db", help="The .fa to align to, DEFAULT=mature_dna_mouse.fa")
+	parser.add_argument("-d", "--db", dest="db", required=True, help="The .fa to align to, DEFAULT=mature_dna_mouse.fa")
 
 	# Grab command line args
-	(options, args) = parser.parse_args()
-
+	args = parser.parse_args()
 	# Set argument values
-	input_name = options.input
-	adapter = str.upper(options.adapter)
-	output = options.output
-	seqem = options.seqem
-	db = options.db
+	input_name = args.input
+	adapter = str.upper(args.adapter)
+	output = args.output
+	seqem = args.seqem
+	db = args.db
 
 
 	#~~~~~~~~~~~~~~~~~~~~~~
