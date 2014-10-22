@@ -1,6 +1,6 @@
 #  mirnapy  
-###  Gene Blanchard  
-### me@geneblanchard.com  
+### Author: Gene Blanchard  
+### Email: me@geneblanchard.com  
 
 ## Requirements  
 *  fastx_toolkit  
@@ -17,15 +17,15 @@ This would create the `A1_B1_A2_B2_output` folder in your current working direct
 
 ## Output 
 The output contains the folowing:
-*  *commands.txt*  
+*  **commands.txt**  
   *  A file that lists all commands run  
-*  *clipped_files*  
+*  **clipped_files/**  
   *  The output of the fastx clipping   
-*  *alignment_files*  
+*  **alignment_files/**  
   *  The output of the BWA alignment  
-*  *SEQEM*  
+*  **SEQEM/**  
   *  The results of the SEQEM command  
-*  *counts*  
+*  **counts/**  
   *  Raw counts from the SEQEM command  
-*  *RSEM*  
+*  **RSEM/**  
   *  Groomed tab-seperated files that are ready to input into RSEM  
