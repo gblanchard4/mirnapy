@@ -14,6 +14,8 @@ If using  *mac* I recomend recomend to install [homebrew](http://brew.sh/). Next
 `mirna_pipe.py -i A1.fastq,B1.fastq,A2.fastq,B2.fastq -o A1_B1_A2_B2_output`  
 This would create the `A1_B1_A2_B2_output` folder in your current working directory.  
 
+# Database
+The default database is located at `DB_mature/mouse/mature_dna_mouse.fa` change this with the `-d` option
 
 ## Output 
 The output contains the folowing:
@@ -29,3 +31,7 @@ The output contains the folowing:
   *  Raw counts from the SEQEM command  
 *  **RSEM/**  
   *  Groomed tab-seperated files that are ready to input into RSEM  
+
+
+# TODO
+Need to add sequence length filtering options
